@@ -1,0 +1,168 @@
+{
+ "category": "3d_pet",
+ "game": "bnb-mobile",
+ "items": [
+  {
+   "bytes": 16000,
+   "file": "040_pet/pet01.glb",
+   "id": "pet01",
+   "label": "토토",
+   "name": "pet01",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 12,
+    "bones": 6,
+    "textures": 2,
+    "triangles": 612,
+    "vertices": 532
+   },
+   "thumb": "040_pet/pet01.webp"
+  },
+  {
+   "bytes": 12816,
+   "file": "040_pet/pet02.glb",
+   "id": "pet02",
+   "label": "페페",
+   "name": "pet02",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 11,
+    "bones": 5,
+    "textures": 2,
+    "triangles": 314,
+    "vertices": 363
+   },
+   "thumb": "040_pet/pet02.webp"
+  },
+  {
+   "bytes": 14528,
+   "file": "040_pet/pet03.glb",
+   "id": "pet03",
+   "label": "부기",
+   "name": "pet03",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 11,
+    "bones": 6,
+    "textures": 2,
+    "triangles": 314,
+    "vertices": 324
+   },
+   "thumb": "040_pet/pet03.webp"
+  },
+  {
+   "bytes": 16372,
+   "file": "040_pet/pet04.glb",
+   "id": "pet04",
+   "label": "츄츄",
+   "name": "pet04",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 11,
+    "bones": 6,
+    "textures": 2,
+    "triangles": 636,
+    "vertices": 574
+   },
+   "thumb": "040_pet/pet04.webp"
+  },
+  {
+   "bytes": 16744,
+   "file": "040_pet/pet05.glb",
+   "id": "pet05",
+   "label": "치치",
+   "name": "pet05",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 12,
+    "bones": 6,
+    "textures": 2,
+    "triangles": 646,
+    "vertices": 575
+   },
+   "thumb": "040_pet/pet05.webp"
+  },
+  {
+   "bytes": 14132,
+   "file": "040_pet/pet06.glb",
+   "id": "pet06",
+   "label": "모모",
+   "name": "pet06",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 11,
+    "bones": 6,
+    "textures": 2,
+    "triangles": 332,
+    "vertices": 303
+   },
+   "thumb": "040_pet/pet06.webp"
+  },
+  {
+   "bytes": 12528,
+   "file": "040_pet/pet07.glb",
+   "id": "pet07",
+   "label": "란",
+   "name": "pet07",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 12,
+    "bones": 6,
+    "textures": 2,
+    "triangles": 312,
+    "vertices": 246
+   },
+   "thumb": "040_pet/pet07.webp"
+  },
+  {
+   "bytes": 17344,
+   "file": "040_pet/pet08.glb",
+   "id": "pet08",
+   "label": "레이",
+   "name": "pet08",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 12,
+    "bones": 6,
+    "textures": 2,
+    "triangles": 620,
+    "vertices": 581
+   },
+   "thumb": "040_pet/pet08.webp"
+  },
+  {
+   "bytes": 15436,
+   "file": "040_pet/pet09.glb",
+   "id": "pet09",
+   "label": "구리",
+   "name": "pet09",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 11,
+    "bones": 6,
+    "textures": 2,
+    "triangles": 586,
+    "vertices": 466
+   },
+   "thumb": "040_pet/pet09.webp"
+  },
+  {
+   "bytes": 12008,
+   "file": "040_pet/pet10.glb",
+   "id": "pet10",
+   "label": "별이",
+   "name": "pet10",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 11,
+    "bones": 5,
+    "textures": 2,
+    "triangles": 260,
+    "vertices": 234
+   },
+   "thumb": "040_pet/pet10.webp"
+  }
+ ],
+ "schema": "boomhill-open-assets/model-list/v1",
+ "title": "펫"
+}

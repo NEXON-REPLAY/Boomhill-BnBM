@@ -1,0 +1,7523 @@
+{
+ "assets": [
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__burst__water_block01",
+   "name": "Ingame/Map/cookie/burst/water_block01",
+   "sheet": {
+    "h": 80,
+    "w": 80
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__burst__water_block02",
+   "name": "Ingame/Map/cookie/burst/water_block02",
+   "sheet": {
+    "h": 80,
+    "w": 80
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__burst__water_block03",
+   "name": "Ingame/Map/cookie/burst/water_block03",
+   "sheet": {
+    "h": 80,
+    "w": 80
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__burst__water_block04",
+   "name": "Ingame/Map/cookie/burst/water_block04",
+   "sheet": {
+    "h": 80,
+    "w": 80
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__burst__water_block05",
+   "name": "Ingame/Map/cookie/burst/water_block05",
+   "sheet": {
+    "h": 80,
+    "w": 80
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__burst__water_block06",
+   "name": "Ingame/Map/cookie/burst/water_block06",
+   "sheet": {
+    "h": 80,
+    "w": 80
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__burst__water_block07",
+   "name": "Ingame/Map/cookie/burst/water_block07",
+   "sheet": {
+    "h": 80,
+    "w": 80
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__burst__water_block08",
+   "name": "Ingame/Map/cookie/burst/water_block08",
+   "sheet": {
+    "h": 80,
+    "w": 80
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__burst__water_block09",
+   "name": "Ingame/Map/cookie/burst/water_block09",
+   "sheet": {
+    "h": 80,
+    "w": 80
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__burst__water_block10",
+   "name": "Ingame/Map/cookie/burst/water_block10",
+   "sheet": {
+    "h": 80,
+    "w": 80
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__burst__water_center01",
+   "name": "Ingame/Map/cookie/burst/water_center01",
+   "sheet": {
+    "h": 80,
+    "w": 80
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__burst__water_center02",
+   "name": "Ingame/Map/cookie/burst/water_center02",
+   "sheet": {
+    "h": 80,
+    "w": 80
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__burst__water_center03",
+   "name": "Ingame/Map/cookie/burst/water_center03",
+   "sheet": {
+    "h": 80,
+    "w": 80
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__burst__water_center04",
+   "name": "Ingame/Map/cookie/burst/water_center04",
+   "sheet": {
+    "h": 80,
+    "w": 80
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__burst__water_center05",
+   "name": "Ingame/Map/cookie/burst/water_center05",
+   "sheet": {
+    "h": 80,
+    "w": 80
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__burst__water_center06",
+   "name": "Ingame/Map/cookie/burst/water_center06",
+   "sheet": {
+    "h": 80,
+    "w": 80
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__burst__water_center07",
+   "name": "Ingame/Map/cookie/burst/water_center07",
+   "sheet": {
+    "h": 80,
+    "w": 80
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__burst__water_center08",
+   "name": "Ingame/Map/cookie/burst/water_center08",
+   "sheet": {
+    "h": 80,
+    "w": 80
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__burst__water_center09",
+   "name": "Ingame/Map/cookie/burst/water_center09",
+   "sheet": {
+    "h": 80,
+    "w": 80
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__burst__water_center10",
+   "name": "Ingame/Map/cookie/burst/water_center10",
+   "sheet": {
+    "h": 80,
+    "w": 80
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__burst__water_last01",
+   "name": "Ingame/Map/cookie/burst/water_last01",
+   "sheet": {
+    "h": 80,
+    "w": 80
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__burst__water_last02",
+   "name": "Ingame/Map/cookie/burst/water_last02",
+   "sheet": {
+    "h": 80,
+    "w": 80
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__burst__water_last03",
+   "name": "Ingame/Map/cookie/burst/water_last03",
+   "sheet": {
+    "h": 80,
+    "w": 80
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__burst__water_last04",
+   "name": "Ingame/Map/cookie/burst/water_last04",
+   "sheet": {
+    "h": 80,
+    "w": 80
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__burst__water_last05",
+   "name": "Ingame/Map/cookie/burst/water_last05",
+   "sheet": {
+    "h": 80,
+    "w": 80
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__burst__water_last06",
+   "name": "Ingame/Map/cookie/burst/water_last06",
+   "sheet": {
+    "h": 80,
+    "w": 80
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__burst__water_last07",
+   "name": "Ingame/Map/cookie/burst/water_last07",
+   "sheet": {
+    "h": 80,
+    "w": 80
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__burst__water_last08",
+   "name": "Ingame/Map/cookie/burst/water_last08",
+   "sheet": {
+    "h": 80,
+    "w": 80
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__burst__water_last09",
+   "name": "Ingame/Map/cookie/burst/water_last09",
+   "sheet": {
+    "h": 80,
+    "w": 80
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__burst__water_last10",
+   "name": "Ingame/Map/cookie/burst/water_last10",
+   "sheet": {
+    "h": 80,
+    "w": 80
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__burst__water_middle01",
+   "name": "Ingame/Map/cookie/burst/water_middle01",
+   "sheet": {
+    "h": 80,
+    "w": 80
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__burst__water_middle02",
+   "name": "Ingame/Map/cookie/burst/water_middle02",
+   "sheet": {
+    "h": 80,
+    "w": 80
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__burst__water_middle03",
+   "name": "Ingame/Map/cookie/burst/water_middle03",
+   "sheet": {
+    "h": 80,
+    "w": 80
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__burst__water_middle04",
+   "name": "Ingame/Map/cookie/burst/water_middle04",
+   "sheet": {
+    "h": 80,
+    "w": 80
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__burst__water_middle05",
+   "name": "Ingame/Map/cookie/burst/water_middle05",
+   "sheet": {
+    "h": 80,
+    "w": 80
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__burst__water_middle06",
+   "name": "Ingame/Map/cookie/burst/water_middle06",
+   "sheet": {
+    "h": 80,
+    "w": 80
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__burst__water_middle07",
+   "name": "Ingame/Map/cookie/burst/water_middle07",
+   "sheet": {
+    "h": 80,
+    "w": 80
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__burst__water_middle08",
+   "name": "Ingame/Map/cookie/burst/water_middle08",
+   "sheet": {
+    "h": 80,
+    "w": 80
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__burst__water_middle09",
+   "name": "Ingame/Map/cookie/burst/water_middle09",
+   "sheet": {
+    "h": 80,
+    "w": 80
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__burst__water_middle10",
+   "name": "Ingame/Map/cookie/burst/water_middle10",
+   "sheet": {
+    "h": 80,
+    "w": 80
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__deco__vdeco_bl",
+   "name": "Ingame/Map/cookie/deco/vdeco_bl",
+   "sheet": {
+    "h": 272,
+    "w": 680
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__deco__vdeco_bm1",
+   "name": "Ingame/Map/cookie/deco/vdeco_bm1",
+   "sheet": {
+    "h": 272,
+    "w": 204
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__deco__vdeco_bm2",
+   "name": "Ingame/Map/cookie/deco/vdeco_bm2",
+   "sheet": {
+    "h": 272,
+    "w": 340
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__deco__vdeco_br",
+   "name": "Ingame/Map/cookie/deco/vdeco_br",
+   "sheet": {
+    "h": 272,
+    "w": 340
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__deco__vdeco_lb",
+   "name": "Ingame/Map/cookie/deco/vdeco_lb",
+   "sheet": {
+    "h": 680,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__deco__vdeco_lm",
+   "name": "Ingame/Map/cookie/deco/vdeco_lm",
+   "sheet": {
+    "h": 340,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__deco__vdeco_lm1",
+   "name": "Ingame/Map/cookie/deco/vdeco_lm1",
+   "sheet": {
+    "h": 136,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__deco__vdeco_lt",
+   "name": "Ingame/Map/cookie/deco/vdeco_lt",
+   "sheet": {
+    "h": 544,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__deco__vdeco_rb",
+   "name": "Ingame/Map/cookie/deco/vdeco_rb",
+   "sheet": {
+    "h": 680,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__deco__vdeco_rm",
+   "name": "Ingame/Map/cookie/deco/vdeco_rm",
+   "sheet": {
+    "h": 340,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__deco__vdeco_rm1",
+   "name": "Ingame/Map/cookie/deco/vdeco_rm1",
+   "sheet": {
+    "h": 136,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__deco__vdeco_rt",
+   "name": "Ingame/Map/cookie/deco/vdeco_rt",
+   "sheet": {
+    "h": 544,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__deco__vdeco_tl",
+   "name": "Ingame/Map/cookie/deco/vdeco_tl",
+   "sheet": {
+    "h": 340,
+    "w": 680
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__deco__vdeco_tm",
+   "name": "Ingame/Map/cookie/deco/vdeco_tm",
+   "sheet": {
+    "h": 340,
+    "w": 680
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__deco__vdeco_tm1",
+   "name": "Ingame/Map/cookie/deco/vdeco_tm1",
+   "sheet": {
+    "h": 340,
+    "w": 408
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__deco__vdeco_tr",
+   "name": "Ingame/Map/cookie/deco/vdeco_tr",
+   "sheet": {
+    "h": 340,
+    "w": 340
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__img__bbread",
+   "name": "Ingame/Map/cookie/img/bbread",
+   "sheet": {
+    "h": 87,
+    "w": 75
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__img__bcake",
+   "name": "Ingame/Map/cookie/img/bcake",
+   "sheet": {
+    "h": 94,
+    "w": 69
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__img__block_01",
+   "name": "Ingame/Map/cookie/img/block_01",
+   "sheet": {
+    "h": 92,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__img__block_02",
+   "name": "Ingame/Map/cookie/img/block_02",
+   "sheet": {
+    "h": 92,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__img__block_03",
+   "name": "Ingame/Map/cookie/img/block_03",
+   "sheet": {
+    "h": 93,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__img__block_04",
+   "name": "Ingame/Map/cookie/img/block_04",
+   "sheet": {
+    "h": 91,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__img__block_05",
+   "name": "Ingame/Map/cookie/img/block_05",
+   "sheet": {
+    "h": 84,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__img__block_06",
+   "name": "Ingame/Map/cookie/img/block_06",
+   "sheet": {
+    "h": 82,
+    "w": 69
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__img__block_07",
+   "name": "Ingame/Map/cookie/img/block_07",
+   "sheet": {
+    "h": 88,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__img__c_grass_bottom",
+   "name": "Ingame/Map/cookie/img/c_grass_bottom",
+   "sheet": {
+    "h": 64,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__img__c_grass_middle",
+   "name": "Ingame/Map/cookie/img/c_grass_middle",
+   "sheet": {
+    "h": 60,
+    "w": 56
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__img__c_grass_top",
+   "name": "Ingame/Map/cookie/img/c_grass_top",
+   "sheet": {
+    "h": 60,
+    "w": 44
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__img__cone",
+   "name": "Ingame/Map/cookie/img/cone",
+   "sheet": {
+    "h": 97,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__img__crash_block_1",
+   "name": "Ingame/Map/cookie/img/crash_block_1",
+   "sheet": {
+    "h": 83,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__img__crash_block_2",
+   "name": "Ingame/Map/cookie/img/crash_block_2",
+   "sheet": {
+    "h": 84,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__img__crash_block_3",
+   "name": "Ingame/Map/cookie/img/crash_block_3",
+   "sheet": {
+    "h": 83,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__img__cstatue",
+   "name": "Ingame/Map/cookie/img/cstatue",
+   "sheet": {
+    "h": 212,
+    "w": 132
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__img__cstatue_small",
+   "name": "Ingame/Map/cookie/img/cstatue_small",
+   "sheet": {
+    "h": 114,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__img__deco_01",
+   "name": "Ingame/Map/cookie/img/deco_01",
+   "sheet": {
+    "h": 157,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__img__deco_02",
+   "name": "Ingame/Map/cookie/img/deco_02",
+   "sheet": {
+    "h": 190,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__img__deco_03",
+   "name": "Ingame/Map/cookie/img/deco_03",
+   "sheet": {
+    "h": 185,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__img__deco_04",
+   "name": "Ingame/Map/cookie/img/deco_04",
+   "sheet": {
+    "h": 154,
+    "w": 69
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__img__deco_05",
+   "name": "Ingame/Map/cookie/img/deco_05",
+   "sheet": {
+    "h": 80,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__img__deco_06",
+   "name": "Ingame/Map/cookie/img/deco_06",
+   "sheet": {
+    "h": 80,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__img__deco_07",
+   "name": "Ingame/Map/cookie/img/deco_07",
+   "sheet": {
+    "h": 150,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__img__deco_08",
+   "name": "Ingame/Map/cookie/img/deco_08",
+   "sheet": {
+    "h": 110,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__img__deco_09",
+   "name": "Ingame/Map/cookie/img/deco_09",
+   "sheet": {
+    "h": 110,
+    "w": 74
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__img__deco_10",
+   "name": "Ingame/Map/cookie/img/deco_10",
+   "sheet": {
+    "h": 107,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__img__deco_11",
+   "name": "Ingame/Map/cookie/img/deco_11",
+   "sheet": {
+    "h": 107,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__img__deco_12",
+   "name": "Ingame/Map/cookie/img/deco_12",
+   "sheet": {
+    "h": 115,
+    "w": 75
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__img__deco_13",
+   "name": "Ingame/Map/cookie/img/deco_13",
+   "sheet": {
+    "h": 64,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__img__deco_14",
+   "name": "Ingame/Map/cookie/img/deco_14",
+   "sheet": {
+    "h": 105,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__img__deco_15",
+   "name": "Ingame/Map/cookie/img/deco_15",
+   "sheet": {
+    "h": 186,
+    "w": 144
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__img__deco_16",
+   "name": "Ingame/Map/cookie/img/deco_16",
+   "sheet": {
+    "h": 159,
+    "w": 154
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__img__deco_17",
+   "name": "Ingame/Map/cookie/img/deco_17",
+   "sheet": {
+    "h": 184,
+    "w": 124
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__img__deco_18",
+   "name": "Ingame/Map/cookie/img/deco_18",
+   "sheet": {
+    "h": 219,
+    "w": 197
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__img__effect__icon_dropspot",
+   "name": "Ingame/Map/cookie/img/effect/icon_dropspot",
+   "sheet": {
+    "h": 111,
+    "w": 89
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__img__effect__survive01",
+   "name": "Ingame/Map/cookie/img/effect/survive01",
+   "sheet": {
+    "h": 45,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__img__effect__survive03_01",
+   "name": "Ingame/Map/cookie/img/effect/survive03_01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__img__effect__survive03_02",
+   "name": "Ingame/Map/cookie/img/effect/survive03_02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__img__effect__survive03_03",
+   "name": "Ingame/Map/cookie/img/effect/survive03_03",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__img__effect__survive03_04",
+   "name": "Ingame/Map/cookie/img/effect/survive03_04",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__img__pang_bottom",
+   "name": "Ingame/Map/cookie/img/pang_bottom",
+   "sheet": {
+    "h": 111,
+    "w": 90
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__img__pang_top",
+   "name": "Ingame/Map/cookie/img/pang_top",
+   "sheet": {
+    "h": 82,
+    "w": 90
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__img__pang_top_gauge",
+   "name": "Ingame/Map/cookie/img/pang_top_gauge",
+   "sheet": {
+    "h": 32,
+    "w": 42
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__img__pipe_down",
+   "name": "Ingame/Map/cookie/img/pipe_down",
+   "sheet": {
+    "h": 71,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__img__pipe_left",
+   "name": "Ingame/Map/cookie/img/pipe_left",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__img__pipe_right",
+   "name": "Ingame/Map/cookie/img/pipe_right",
+   "sheet": {
+    "h": 71,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__img__pipe_up",
+   "name": "Ingame/Map/cookie/img/pipe_up",
+   "sheet": {
+    "h": 71,
+    "w": 69
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__img__scake",
+   "name": "Ingame/Map/cookie/img/scake",
+   "sheet": {
+    "h": 85,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__nonpacked_img__reddevil01",
+   "name": "Ingame/Map/cookie/item/nonpacked_img/reddevil01",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__nonpacked_img__ultrabubble01",
+   "name": "Ingame/Map/cookie/item/nonpacked_img/ultrabubble01",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__100",
+   "name": "Ingame/Map/cookie/item/sprites/100",
+   "sheet": {
+    "h": 108,
+    "w": 108
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__1001",
+   "name": "Ingame/Map/cookie/item/sprites/1001",
+   "sheet": {
+    "h": 108,
+    "w": 98
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__101",
+   "name": "Ingame/Map/cookie/item/sprites/101",
+   "sheet": {
+    "h": 108,
+    "w": 108
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__102",
+   "name": "Ingame/Map/cookie/item/sprites/102",
+   "sheet": {
+    "h": 108,
+    "w": 108
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__103",
+   "name": "Ingame/Map/cookie/item/sprites/103",
+   "sheet": {
+    "h": 108,
+    "w": 108
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__104",
+   "name": "Ingame/Map/cookie/item/sprites/104",
+   "sheet": {
+    "h": 108,
+    "w": 108
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__105",
+   "name": "Ingame/Map/cookie/item/sprites/105",
+   "sheet": {
+    "h": 108,
+    "w": 108
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__105_1",
+   "name": "Ingame/Map/cookie/item/sprites/105_1",
+   "sheet": {
+    "h": 108,
+    "w": 108
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__106",
+   "name": "Ingame/Map/cookie/item/sprites/106",
+   "sheet": {
+    "h": 108,
+    "w": 108
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__107",
+   "name": "Ingame/Map/cookie/item/sprites/107",
+   "sheet": {
+    "h": 108,
+    "w": 108
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__108",
+   "name": "Ingame/Map/cookie/item/sprites/108",
+   "sheet": {
+    "h": 108,
+    "w": 108
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__109",
+   "name": "Ingame/Map/cookie/item/sprites/109",
+   "sheet": {
+    "h": 108,
+    "w": 108
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__110",
+   "name": "Ingame/Map/cookie/item/sprites/110",
+   "sheet": {
+    "h": 108,
+    "w": 108
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__111",
+   "name": "Ingame/Map/cookie/item/sprites/111",
+   "sheet": {
+    "h": 108,
+    "w": 108
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__112",
+   "name": "Ingame/Map/cookie/item/sprites/112",
+   "sheet": {
+    "h": 108,
+    "w": 108
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__112_1",
+   "name": "Ingame/Map/cookie/item/sprites/112_1",
+   "sheet": {
+    "h": 108,
+    "w": 108
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__113",
+   "name": "Ingame/Map/cookie/item/sprites/113",
+   "sheet": {
+    "h": 108,
+    "w": 108
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__114",
+   "name": "Ingame/Map/cookie/item/sprites/114",
+   "sheet": {
+    "h": 108,
+    "w": 108
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__115",
+   "name": "Ingame/Map/cookie/item/sprites/115",
+   "sheet": {
+    "h": 108,
+    "w": 108
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__116",
+   "name": "Ingame/Map/cookie/item/sprites/116",
+   "sheet": {
+    "h": 108,
+    "w": 108
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__117",
+   "name": "Ingame/Map/cookie/item/sprites/117",
+   "sheet": {
+    "h": 108,
+    "w": 108
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__117_1",
+   "name": "Ingame/Map/cookie/item/sprites/117_1",
+   "sheet": {
+    "h": 108,
+    "w": 108
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__118",
+   "name": "Ingame/Map/cookie/item/sprites/118",
+   "sheet": {
+    "h": 108,
+    "w": 108
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__119",
+   "name": "Ingame/Map/cookie/item/sprites/119",
+   "sheet": {
+    "h": 108,
+    "w": 108
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__120",
+   "name": "Ingame/Map/cookie/item/sprites/120",
+   "sheet": {
+    "h": 108,
+    "w": 108
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__121",
+   "name": "Ingame/Map/cookie/item/sprites/121",
+   "sheet": {
+    "h": 108,
+    "w": 108
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__122",
+   "name": "Ingame/Map/cookie/item/sprites/122",
+   "sheet": {
+    "h": 108,
+    "w": 108
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__122_1",
+   "name": "Ingame/Map/cookie/item/sprites/122_1",
+   "sheet": {
+    "h": 108,
+    "w": 108
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__123",
+   "name": "Ingame/Map/cookie/item/sprites/123",
+   "sheet": {
+    "h": 108,
+    "w": 108
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__123_1",
+   "name": "Ingame/Map/cookie/item/sprites/123_1",
+   "sheet": {
+    "h": 108,
+    "w": 108
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__124",
+   "name": "Ingame/Map/cookie/item/sprites/124",
+   "sheet": {
+    "h": 108,
+    "w": 108
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__125",
+   "name": "Ingame/Map/cookie/item/sprites/125",
+   "sheet": {
+    "h": 108,
+    "w": 108
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__126",
+   "name": "Ingame/Map/cookie/item/sprites/126",
+   "sheet": {
+    "h": 108,
+    "w": 108
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__127",
+   "name": "Ingame/Map/cookie/item/sprites/127",
+   "sheet": {
+    "h": 108,
+    "w": 108
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__127_1",
+   "name": "Ingame/Map/cookie/item/sprites/127_1",
+   "sheet": {
+    "h": 108,
+    "w": 108
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__128",
+   "name": "Ingame/Map/cookie/item/sprites/128",
+   "sheet": {
+    "h": 108,
+    "w": 108
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__129",
+   "name": "Ingame/Map/cookie/item/sprites/129",
+   "sheet": {
+    "h": 108,
+    "w": 108
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__big_clover",
+   "name": "Ingame/Map/cookie/item/sprites/big_clover",
+   "sheet": {
+    "h": 114,
+    "w": 105
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__boom_energy_drink_b",
+   "name": "Ingame/Map/cookie/item/sprites/boom_energy_drink_b",
+   "sheet": {
+    "h": 108,
+    "w": 98
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__boom_energy_drink_s",
+   "name": "Ingame/Map/cookie/item/sprites/boom_energy_drink_s",
+   "sheet": {
+    "h": 108,
+    "w": 98
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__bubble_up",
+   "name": "Ingame/Map/cookie/item/sprites/bubble_up",
+   "sheet": {
+    "h": 108,
+    "w": 98
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__clover",
+   "name": "Ingame/Map/cookie/item/sprites/clover",
+   "sheet": {
+    "h": 114,
+    "w": 105
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__first",
+   "name": "Ingame/Map/cookie/item/sprites/first",
+   "sheet": {
+    "h": 108,
+    "w": 98
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__Fx_T_mandu02",
+   "name": "Ingame/Map/cookie/item/sprites/Fx_T_mandu02",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__grape",
+   "name": "Ingame/Map/cookie/item/sprites/grape",
+   "sheet": {
+    "h": 108,
+    "w": 98
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__halloween01",
+   "name": "Ingame/Map/cookie/item/sprites/halloween01",
+   "sheet": {
+    "h": 108,
+    "w": 98
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__halloween02",
+   "name": "Ingame/Map/cookie/item/sprites/halloween02",
+   "sheet": {
+    "h": 108,
+    "w": 98
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__halloween03",
+   "name": "Ingame/Map/cookie/item/sprites/halloween03",
+   "sheet": {
+    "h": 108,
+    "w": 98
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__huge_clover",
+   "name": "Ingame/Map/cookie/item/sprites/huge_clover",
+   "sheet": {
+    "h": 120,
+    "w": 110
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__kick",
+   "name": "Ingame/Map/cookie/item/sprites/kick",
+   "sheet": {
+    "h": 110,
+    "w": 110
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__lemon",
+   "name": "Ingame/Map/cookie/item/sprites/lemon",
+   "sheet": {
+    "h": 108,
+    "w": 98
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__luckybag",
+   "name": "Ingame/Map/cookie/item/sprites/luckybag",
+   "sheet": {
+    "h": 108,
+    "w": 98
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__owl",
+   "name": "Ingame/Map/cookie/item/sprites/owl",
+   "sheet": {
+    "h": 108,
+    "w": 98
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__power_up",
+   "name": "Ingame/Map/cookie/item/sprites/power_up",
+   "sheet": {
+    "h": 108,
+    "w": 98
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__reddevil",
+   "name": "Ingame/Map/cookie/item/sprites/reddevil",
+   "sheet": {
+    "h": 108,
+    "w": 98
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__shadow_00",
+   "name": "Ingame/Map/cookie/item/sprites/shadow_00",
+   "sheet": {
+    "h": 35,
+    "w": 74
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__shadow_01",
+   "name": "Ingame/Map/cookie/item/sprites/shadow_01",
+   "sheet": {
+    "h": 35,
+    "w": 74
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__speed_up",
+   "name": "Ingame/Map/cookie/item/sprites/speed_up",
+   "sheet": {
+    "h": 106,
+    "w": 98
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__strawberry",
+   "name": "Ingame/Map/cookie/item/sprites/strawberry",
+   "sheet": {
+    "h": 108,
+    "w": 98
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__superman",
+   "name": "Ingame/Map/cookie/item/sprites/superman",
+   "sheet": {
+    "h": 108,
+    "w": 98
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__superskill_box",
+   "name": "Ingame/Map/cookie/item/sprites/superskill_box",
+   "sheet": {
+    "h": 137,
+    "w": 124
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__throw",
+   "name": "Ingame/Map/cookie/item/sprites/throw",
+   "sheet": {
+    "h": 108,
+    "w": 98
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__time_drink_b",
+   "name": "Ingame/Map/cookie/item/sprites/time_drink_b",
+   "sheet": {
+    "h": 108,
+    "w": 98
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__time_drink_s",
+   "name": "Ingame/Map/cookie/item/sprites/time_drink_s",
+   "sheet": {
+    "h": 108,
+    "w": 98
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__transparentcape",
+   "name": "Ingame/Map/cookie/item/sprites/transparentcape",
+   "sheet": {
+    "h": 108,
+    "w": 98
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__turtle",
+   "name": "Ingame/Map/cookie/item/sprites/turtle",
+   "sheet": {
+    "h": 108,
+    "w": 98
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__ufo",
+   "name": "Ingame/Map/cookie/item/sprites/ufo",
+   "sheet": {
+    "h": 108,
+    "w": 98
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__ultrabubble",
+   "name": "Ingame/Map/cookie/item/sprites/ultrabubble",
+   "sheet": {
+    "h": 108,
+    "w": 98
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__vaccine",
+   "name": "Ingame/Map/cookie/item/sprites/vaccine",
+   "sheet": {
+    "h": 108,
+    "w": 98
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__xmas01",
+   "name": "Ingame/Map/cookie/item/sprites/xmas01",
+   "sheet": {
+    "h": 108,
+    "w": 98
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__xmas02",
+   "name": "Ingame/Map/cookie/item/sprites/xmas02",
+   "sheet": {
+    "h": 108,
+    "w": 98
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__item__sprites__xmas03",
+   "name": "Ingame/Map/cookie/item/sprites/xmas03",
+   "sheet": {
+    "h": 108,
+    "w": 98
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__tile__base__sprites__gr_0_0",
+   "name": "Ingame/Map/cookie/tile/base/sprites/gr_0_0",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__tile__base__sprites__gr_1_0",
+   "name": "Ingame/Map/cookie/tile/base/sprites/gr_1_0",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__tile__player_highlight",
+   "name": "Ingame/Map/cookie/tile/player_highlight",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__tile__warp",
+   "name": "Ingame/Map/cookie/tile/warp",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__tile__water__sprites__center",
+   "name": "Ingame/Map/cookie/tile/water/sprites/center",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__tile__water__sprites__circle",
+   "name": "Ingame/Map/cookie/tile/water/sprites/circle",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__tile__water__sprites__corner_b",
+   "name": "Ingame/Map/cookie/tile/water/sprites/corner_b",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__tile__water__sprites__corner_bl",
+   "name": "Ingame/Map/cookie/tile/water/sprites/corner_bl",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__tile__water__sprites__corner_br",
+   "name": "Ingame/Map/cookie/tile/water/sprites/corner_br",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__tile__water__sprites__corner_l",
+   "name": "Ingame/Map/cookie/tile/water/sprites/corner_l",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__tile__water__sprites__corner_r",
+   "name": "Ingame/Map/cookie/tile/water/sprites/corner_r",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__tile__water__sprites__corner_t",
+   "name": "Ingame/Map/cookie/tile/water/sprites/corner_t",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__tile__water__sprites__corner_tl",
+   "name": "Ingame/Map/cookie/tile/water/sprites/corner_tl",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__tile__water__sprites__corner_tr",
+   "name": "Ingame/Map/cookie/tile/water/sprites/corner_tr",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__tile__water__sprites__line_d",
+   "name": "Ingame/Map/cookie/tile/water/sprites/line_d",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__tile__water__sprites__line_h",
+   "name": "Ingame/Map/cookie/tile/water/sprites/line_h",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__tile__water__sprites__line_l",
+   "name": "Ingame/Map/cookie/tile/water/sprites/line_l",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__tile__water__sprites__line_r",
+   "name": "Ingame/Map/cookie/tile/water/sprites/line_r",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__tile__water__sprites__line_u",
+   "name": "Ingame/Map/cookie/tile/water/sprites/line_u",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__cookie__tile__water__sprites__line_v",
+   "name": "Ingame/Map/cookie/tile/water/sprites/line_v",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__deco__vdeco_bl",
+   "name": "Ingame/Map/desert/deco/vdeco_bl",
+   "sheet": {
+    "h": 272,
+    "w": 612
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__deco__vdeco_bm",
+   "name": "Ingame/Map/desert/deco/vdeco_bm",
+   "sheet": {
+    "h": 272,
+    "w": 136
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__deco__vdeco_bm1",
+   "name": "Ingame/Map/desert/deco/vdeco_bm1",
+   "sheet": {
+    "h": 272,
+    "w": 272
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__deco__vdeco_bm2",
+   "name": "Ingame/Map/desert/deco/vdeco_bm2",
+   "sheet": {
+    "h": 272,
+    "w": 816
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__deco__vdeco_br",
+   "name": "Ingame/Map/desert/deco/vdeco_br",
+   "sheet": {
+    "h": 272,
+    "w": 408
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__deco__vdeco_lb",
+   "name": "Ingame/Map/desert/deco/vdeco_lb",
+   "sheet": {
+    "h": 476,
+    "w": 477
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__deco__vdeco_lm",
+   "name": "Ingame/Map/desert/deco/vdeco_lm",
+   "sheet": {
+    "h": 272,
+    "w": 477
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__deco__vdeco_lm1",
+   "name": "Ingame/Map/desert/deco/vdeco_lm1",
+   "sheet": {
+    "h": 204,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__deco__vdeco_lm2",
+   "name": "Ingame/Map/desert/deco/vdeco_lm2",
+   "sheet": {
+    "h": 204,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__deco__vdeco_lm3",
+   "name": "Ingame/Map/desert/deco/vdeco_lm3",
+   "sheet": {
+    "h": 340,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__deco__vdeco_lt",
+   "name": "Ingame/Map/desert/deco/vdeco_lt",
+   "sheet": {
+    "h": 748,
+    "w": 477
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__deco__vdeco_rb",
+   "name": "Ingame/Map/desert/deco/vdeco_rb",
+   "sheet": {
+    "h": 476,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__deco__vdeco_rm",
+   "name": "Ingame/Map/desert/deco/vdeco_rm",
+   "sheet": {
+    "h": 272,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__deco__vdeco_rm1",
+   "name": "Ingame/Map/desert/deco/vdeco_rm1",
+   "sheet": {
+    "h": 204,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__deco__vdeco_rm2",
+   "name": "Ingame/Map/desert/deco/vdeco_rm2",
+   "sheet": {
+    "h": 340,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__deco__vdeco_rt",
+   "name": "Ingame/Map/desert/deco/vdeco_rt",
+   "sheet": {
+    "h": 748,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__deco__vdeco_tl",
+   "name": "Ingame/Map/desert/deco/vdeco_tl",
+   "sheet": {
+    "h": 340,
+    "w": 612
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__deco__vdeco_tm",
+   "name": "Ingame/Map/desert/deco/vdeco_tm",
+   "sheet": {
+    "h": 340,
+    "w": 136
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__deco__vdeco_tm1",
+   "name": "Ingame/Map/desert/deco/vdeco_tm1",
+   "sheet": {
+    "h": 340,
+    "w": 272
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__deco__vdeco_tm2",
+   "name": "Ingame/Map/desert/deco/vdeco_tm2",
+   "sheet": {
+    "h": 340,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__deco__vdeco_tr",
+   "name": "Ingame/Map/desert/deco/vdeco_tr",
+   "sheet": {
+    "h": 340,
+    "w": 408
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__aa",
+   "name": "Ingame/Map/desert/img/aa",
+   "sheet": {
+    "h": 102,
+    "w": 85
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__aa1",
+   "name": "Ingame/Map/desert/img/aa1",
+   "sheet": {
+    "h": 102,
+    "w": 85
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__anubis",
+   "name": "Ingame/Map/desert/img/anubis",
+   "sheet": {
+    "h": 221,
+    "w": 132
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__bchee",
+   "name": "Ingame/Map/desert/img/bchee",
+   "sheet": {
+    "h": 81,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__box1",
+   "name": "Ingame/Map/desert/img/box1",
+   "sheet": {
+    "h": 101,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__box2",
+   "name": "Ingame/Map/desert/img/box2",
+   "sheet": {
+    "h": 101,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__box_b",
+   "name": "Ingame/Map/desert/img/box_b",
+   "sheet": {
+    "h": 100,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__box_y",
+   "name": "Ingame/Map/desert/img/box_y",
+   "sheet": {
+    "h": 101,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__bstatue_small",
+   "name": "Ingame/Map/desert/img/bstatue_small",
+   "sheet": {
+    "h": 110,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__cac1",
+   "name": "Ingame/Map/desert/img/cac1",
+   "sheet": {
+    "h": 169,
+    "w": 119
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__cac2",
+   "name": "Ingame/Map/desert/img/cac2",
+   "sheet": {
+    "h": 170,
+    "w": 121
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__cac3",
+   "name": "Ingame/Map/desert/img/cac3",
+   "sheet": {
+    "h": 101,
+    "w": 75
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__cac4",
+   "name": "Ingame/Map/desert/img/cac4",
+   "sheet": {
+    "h": 96,
+    "w": 77
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__cac_block",
+   "name": "Ingame/Map/desert/img/cac_block",
+   "sheet": {
+    "h": 84,
+    "w": 77
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__chee1",
+   "name": "Ingame/Map/desert/img/chee1",
+   "sheet": {
+    "h": 81,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__chee2",
+   "name": "Ingame/Map/desert/img/chee2",
+   "sheet": {
+    "h": 82,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__chee3",
+   "name": "Ingame/Map/desert/img/chee3",
+   "sheet": {
+    "h": 81,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__chee4",
+   "name": "Ingame/Map/desert/img/chee4",
+   "sheet": {
+    "h": 82,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__chee_g",
+   "name": "Ingame/Map/desert/img/chee_g",
+   "sheet": {
+    "h": 81,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__cheebic",
+   "name": "Ingame/Map/desert/img/cheebic",
+   "sheet": {
+    "h": 82,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__crash_block_1",
+   "name": "Ingame/Map/desert/img/crash_block_1",
+   "sheet": {
+    "h": 99,
+    "w": 73
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__crash_block_2",
+   "name": "Ingame/Map/desert/img/crash_block_2",
+   "sheet": {
+    "h": 99,
+    "w": 74
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__crash_block_3",
+   "name": "Ingame/Map/desert/img/crash_block_3",
+   "sheet": {
+    "h": 98,
+    "w": 73
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__fence_a",
+   "name": "Ingame/Map/desert/img/fence_a",
+   "sheet": {
+    "h": 57,
+    "w": 75
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__fence_b",
+   "name": "Ingame/Map/desert/img/fence_b",
+   "sheet": {
+    "h": 63,
+    "w": 73
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__fence_c",
+   "name": "Ingame/Map/desert/img/fence_c",
+   "sheet": {
+    "h": 62,
+    "w": 82
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__fence_l",
+   "name": "Ingame/Map/desert/img/fence_l",
+   "sheet": {
+    "h": 88,
+    "w": 38
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__fence_r",
+   "name": "Ingame/Map/desert/img/fence_r",
+   "sheet": {
+    "h": 98,
+    "w": 37
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__gasi_g1",
+   "name": "Ingame/Map/desert/img/gasi_g1",
+   "sheet": {
+    "h": 78,
+    "w": 85
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__gasi_g2",
+   "name": "Ingame/Map/desert/img/gasi_g2",
+   "sheet": {
+    "h": 73,
+    "w": 74
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__gasi_y1",
+   "name": "Ingame/Map/desert/img/gasi_y1",
+   "sheet": {
+    "h": 78,
+    "w": 85
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__gasi_y2",
+   "name": "Ingame/Map/desert/img/gasi_y2",
+   "sheet": {
+    "h": 73,
+    "w": 74
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__gold_stone",
+   "name": "Ingame/Map/desert/img/gold_stone",
+   "sheet": {
+    "h": 81,
+    "w": 74
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__grass_a_bottom",
+   "name": "Ingame/Map/desert/img/grass_a_bottom",
+   "sheet": {
+    "h": 64,
+    "w": 77
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__grass_a_middle",
+   "name": "Ingame/Map/desert/img/grass_a_middle",
+   "sheet": {
+    "h": 59,
+    "w": 74
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__grass_a_top",
+   "name": "Ingame/Map/desert/img/grass_a_top",
+   "sheet": {
+    "h": 17,
+    "w": 35
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__grass_b_bottom",
+   "name": "Ingame/Map/desert/img/grass_b_bottom",
+   "sheet": {
+    "h": 64,
+    "w": 77
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__grass_b_middle",
+   "name": "Ingame/Map/desert/img/grass_b_middle",
+   "sheet": {
+    "h": 59,
+    "w": 74
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__grass_b_top",
+   "name": "Ingame/Map/desert/img/grass_b_top",
+   "sheet": {
+    "h": 17,
+    "w": 35
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__monu",
+   "name": "Ingame/Map/desert/img/monu",
+   "sheet": {
+    "h": 105,
+    "w": 76
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__pang_bottom",
+   "name": "Ingame/Map/desert/img/pang_bottom",
+   "sheet": {
+    "h": 111,
+    "w": 90
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__pang_top",
+   "name": "Ingame/Map/desert/img/pang_top",
+   "sheet": {
+    "h": 82,
+    "w": 90
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__pipe_down",
+   "name": "Ingame/Map/desert/img/pipe_down",
+   "sheet": {
+    "h": 71,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__pipe_left",
+   "name": "Ingame/Map/desert/img/pipe_left",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__pipe_right",
+   "name": "Ingame/Map/desert/img/pipe_right",
+   "sheet": {
+    "h": 71,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__pipe_up",
+   "name": "Ingame/Map/desert/img/pipe_up",
+   "sheet": {
+    "h": 71,
+    "w": 69
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__sblock_a",
+   "name": "Ingame/Map/desert/img/sblock_a",
+   "sheet": {
+    "h": 85,
+    "w": 73
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__sblock_b",
+   "name": "Ingame/Map/desert/img/sblock_b",
+   "sheet": {
+    "h": 86,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__sblock_c",
+   "name": "Ingame/Map/desert/img/sblock_c",
+   "sheet": {
+    "h": 86,
+    "w": 73
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__sig_l",
+   "name": "Ingame/Map/desert/img/sig_l",
+   "sheet": {
+    "h": 103,
+    "w": 67
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__sig_r",
+   "name": "Ingame/Map/desert/img/sig_r",
+   "sheet": {
+    "h": 103,
+    "w": 67
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__silver_stone",
+   "name": "Ingame/Map/desert/img/silver_stone",
+   "sheet": {
+    "h": 82,
+    "w": 73
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__sstatue",
+   "name": "Ingame/Map/desert/img/sstatue",
+   "sheet": {
+    "h": 201,
+    "w": 136
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__sstatue_small",
+   "name": "Ingame/Map/desert/img/sstatue_small",
+   "sheet": {
+    "h": 120,
+    "w": 77
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__tent_g",
+   "name": "Ingame/Map/desert/img/tent_g",
+   "sheet": {
+    "h": 118,
+    "w": 78
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__tent_r",
+   "name": "Ingame/Map/desert/img/tent_r",
+   "sheet": {
+    "h": 118,
+    "w": 79
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__tent_side_g",
+   "name": "Ingame/Map/desert/img/tent_side_g",
+   "sheet": {
+    "h": 80,
+    "w": 73
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__tent_side_r",
+   "name": "Ingame/Map/desert/img/tent_side_r",
+   "sheet": {
+    "h": 80,
+    "w": 73
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__tent_side_y",
+   "name": "Ingame/Map/desert/img/tent_side_y",
+   "sheet": {
+    "h": 80,
+    "w": 73
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__tent_y",
+   "name": "Ingame/Map/desert/img/tent_y",
+   "sheet": {
+    "h": 118,
+    "w": 77
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__img__treepam",
+   "name": "Ingame/Map/desert/img/treepam",
+   "sheet": {
+    "h": 161,
+    "w": 139
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__item__sprites__1001",
+   "name": "Ingame/Map/desert/item/sprites/1001",
+   "sheet": {
+    "h": 108,
+    "w": 98
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__tile__base__sprites__gr_0_0",
+   "name": "Ingame/Map/desert/tile/base/sprites/gr_0_0",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__tile__base__sprites__gr_0_1",
+   "name": "Ingame/Map/desert/tile/base/sprites/gr_0_1",
+   "sheet": {
+    "h": 69,
+    "w": 69
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__tile__base__sprites__gr_0_2",
+   "name": "Ingame/Map/desert/tile/base/sprites/gr_0_2",
+   "sheet": {
+    "h": 70,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__tile__base__sprites__gr_1_0",
+   "name": "Ingame/Map/desert/tile/base/sprites/gr_1_0",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__tile__base__sprites__gr_1_1",
+   "name": "Ingame/Map/desert/tile/base/sprites/gr_1_1",
+   "sheet": {
+    "h": 69,
+    "w": 69
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__tile__base__sprites__gr_1_2",
+   "name": "Ingame/Map/desert/tile/base/sprites/gr_1_2",
+   "sheet": {
+    "h": 70,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__tile__base__sprites__gr_1_3",
+   "name": "Ingame/Map/desert/tile/base/sprites/gr_1_3",
+   "sheet": {
+    "h": 70,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__tile__road__sprites__bot_l",
+   "name": "Ingame/Map/desert/tile/road/sprites/bot_l",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__tile__road__sprites__bot_r",
+   "name": "Ingame/Map/desert/tile/road/sprites/bot_r",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__tile__road__sprites__line_l",
+   "name": "Ingame/Map/desert/tile/road/sprites/line_l",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__tile__road__sprites__line_r",
+   "name": "Ingame/Map/desert/tile/road/sprites/line_r",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__tile__road__sprites__line_v_b",
+   "name": "Ingame/Map/desert/tile/road/sprites/line_v_b",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__tile__road__sprites__line_v_m",
+   "name": "Ingame/Map/desert/tile/road/sprites/line_v_m",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__tile__road__sprites__line_v_t",
+   "name": "Ingame/Map/desert/tile/road/sprites/line_v_t",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__tile__road__sprites__soil",
+   "name": "Ingame/Map/desert/tile/road/sprites/soil",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__tile__road__sprites__top_l",
+   "name": "Ingame/Map/desert/tile/road/sprites/top_l",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__tile__road__sprites__top_m",
+   "name": "Ingame/Map/desert/tile/road/sprites/top_m",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__tile__road__sprites__top_r",
+   "name": "Ingame/Map/desert/tile/road/sprites/top_r",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__tile__water__sprites__bottom_l",
+   "name": "Ingame/Map/desert/tile/water/sprites/bottom_l",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__tile__water__sprites__bottom_m",
+   "name": "Ingame/Map/desert/tile/water/sprites/bottom_m",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__tile__water__sprites__bottom_r",
+   "name": "Ingame/Map/desert/tile/water/sprites/bottom_r",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__tile__water__sprites__center",
+   "name": "Ingame/Map/desert/tile/water/sprites/center",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__tile__water__sprites__circle",
+   "name": "Ingame/Map/desert/tile/water/sprites/circle",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__tile__water__sprites__corner_bl",
+   "name": "Ingame/Map/desert/tile/water/sprites/corner_bl",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__tile__water__sprites__corner_br",
+   "name": "Ingame/Map/desert/tile/water/sprites/corner_br",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__tile__water__sprites__corner_tl",
+   "name": "Ingame/Map/desert/tile/water/sprites/corner_tl",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__tile__water__sprites__corner_tr",
+   "name": "Ingame/Map/desert/tile/water/sprites/corner_tr",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__tile__water__sprites__line_b",
+   "name": "Ingame/Map/desert/tile/water/sprites/line_b",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__tile__water__sprites__line_l",
+   "name": "Ingame/Map/desert/tile/water/sprites/line_l",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__tile__water__sprites__line_m",
+   "name": "Ingame/Map/desert/tile/water/sprites/line_m",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__tile__water__sprites__line_r",
+   "name": "Ingame/Map/desert/tile/water/sprites/line_r",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__tile__water__sprites__line_t",
+   "name": "Ingame/Map/desert/tile/water/sprites/line_t",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__tile__water__sprites__line_v",
+   "name": "Ingame/Map/desert/tile/water/sprites/line_v",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__tile__water__sprites__middle_l",
+   "name": "Ingame/Map/desert/tile/water/sprites/middle_l",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__tile__water__sprites__middle_r",
+   "name": "Ingame/Map/desert/tile/water/sprites/middle_r",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__tile__water__sprites__top_l",
+   "name": "Ingame/Map/desert/tile/water/sprites/top_l",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__tile__water__sprites__top_m",
+   "name": "Ingame/Map/desert/tile/water/sprites/top_m",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__desert__tile__water__sprites__top_r",
+   "name": "Ingame/Map/desert/tile/water/sprites/top_r",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__deco__vdeco_bl",
+   "name": "Ingame/Map/dumpling/deco/vdeco_bl",
+   "sheet": {
+    "h": 272,
+    "w": 680
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__deco__vdeco_bm0",
+   "name": "Ingame/Map/dumpling/deco/vdeco_bm0",
+   "sheet": {
+    "h": 272,
+    "w": 136
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__deco__vdeco_bm1",
+   "name": "Ingame/Map/dumpling/deco/vdeco_bm1",
+   "sheet": {
+    "h": 272,
+    "w": 136
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__deco__vdeco_bm2",
+   "name": "Ingame/Map/dumpling/deco/vdeco_bm2",
+   "sheet": {
+    "h": 272,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__deco__vdeco_br",
+   "name": "Ingame/Map/dumpling/deco/vdeco_br",
+   "sheet": {
+    "h": 272,
+    "w": 340
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__deco__vdeco_lb",
+   "name": "Ingame/Map/dumpling/deco/vdeco_lb",
+   "sheet": {
+    "h": 272,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__deco__vdeco_lm0",
+   "name": "Ingame/Map/dumpling/deco/vdeco_lm0",
+   "sheet": {
+    "h": 136,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__deco__vdeco_lm1",
+   "name": "Ingame/Map/dumpling/deco/vdeco_lm1",
+   "sheet": {
+    "h": 204,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__deco__vdeco_lt",
+   "name": "Ingame/Map/dumpling/deco/vdeco_lt",
+   "sheet": {
+    "h": 748,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__deco__vdeco_rb",
+   "name": "Ingame/Map/dumpling/deco/vdeco_rb",
+   "sheet": {
+    "h": 340,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__deco__vdeco_rm0",
+   "name": "Ingame/Map/dumpling/deco/vdeco_rm0",
+   "sheet": {
+    "h": 136,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__deco__vdeco_rm1",
+   "name": "Ingame/Map/dumpling/deco/vdeco_rm1",
+   "sheet": {
+    "h": 68,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__deco__vdeco_rt",
+   "name": "Ingame/Map/dumpling/deco/vdeco_rt",
+   "sheet": {
+    "h": 816,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__deco__vdeco_tl",
+   "name": "Ingame/Map/dumpling/deco/vdeco_tl",
+   "sheet": {
+    "h": 340,
+    "w": 612
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__deco__vdeco_tl0",
+   "name": "Ingame/Map/dumpling/deco/vdeco_tl0",
+   "sheet": {
+    "h": 340,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__deco__vdeco_tl1",
+   "name": "Ingame/Map/dumpling/deco/vdeco_tl1",
+   "sheet": {
+    "h": 340,
+    "w": 272
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__deco__vdeco_tl2",
+   "name": "Ingame/Map/dumpling/deco/vdeco_tl2",
+   "sheet": {
+    "h": 340,
+    "w": 272
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__deco__vdeco_tl3",
+   "name": "Ingame/Map/dumpling/deco/vdeco_tl3",
+   "sheet": {
+    "h": 340,
+    "w": 340
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__deco__vdeco_tl4",
+   "name": "Ingame/Map/dumpling/deco/vdeco_tl4",
+   "sheet": {
+    "h": 340,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__deco__vdeco_tl5",
+   "name": "Ingame/Map/dumpling/deco/vdeco_tl5",
+   "sheet": {
+    "h": 340,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__deco__vdeco_tr",
+   "name": "Ingame/Map/dumpling/deco/vdeco_tr",
+   "sheet": {
+    "h": 340,
+    "w": 340
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__deco__vdeco_tr1",
+   "name": "Ingame/Map/dumpling/deco/vdeco_tr1",
+   "sheet": {
+    "h": 340,
+    "w": 136
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__deco__vdeco_tr2",
+   "name": "Ingame/Map/dumpling/deco/vdeco_tr2",
+   "sheet": {
+    "h": 340,
+    "w": 272
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__deco__vdeco_tr3",
+   "name": "Ingame/Map/dumpling/deco/vdeco_tr3",
+   "sheet": {
+    "h": 340,
+    "w": 204
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__img__01",
+   "name": "Ingame/Map/dumpling/img/01",
+   "sheet": {
+    "h": 79,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__img__02_1",
+   "name": "Ingame/Map/dumpling/img/02_1",
+   "sheet": {
+    "h": 76,
+    "w": 69
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__img__03_1",
+   "name": "Ingame/Map/dumpling/img/03_1",
+   "sheet": {
+    "h": 77,
+    "w": 69
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__img__04",
+   "name": "Ingame/Map/dumpling/img/04",
+   "sheet": {
+    "h": 89,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__img__05",
+   "name": "Ingame/Map/dumpling/img/05",
+   "sheet": {
+    "h": 83,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__img__dumpling_01",
+   "name": "Ingame/Map/dumpling/img/dumpling_01",
+   "sheet": {
+    "h": 72,
+    "w": 75
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__img__dumpling_02",
+   "name": "Ingame/Map/dumpling/img/dumpling_02",
+   "sheet": {
+    "h": 72,
+    "w": 75
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__img__dumpling_03",
+   "name": "Ingame/Map/dumpling/img/dumpling_03",
+   "sheet": {
+    "h": 72,
+    "w": 75
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__img__dumpling_04",
+   "name": "Ingame/Map/dumpling/img/dumpling_04",
+   "sheet": {
+    "h": 72,
+    "w": 75
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__img__flag_base_bottom",
+   "name": "Ingame/Map/dumpling/img/flag_base_bottom",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__img__flag_base_center",
+   "name": "Ingame/Map/dumpling/img/flag_base_center",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__img__flag_rugby",
+   "name": "Ingame/Map/dumpling/img/flag_rugby",
+   "sheet": {
+    "h": 128,
+    "w": 118
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__img__Fx_T_rugby_tile_01",
+   "name": "Ingame/Map/dumpling/img/Fx_T_rugby_tile_01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__img__Fx_T_rugby_tile_02",
+   "name": "Ingame/Map/dumpling/img/Fx_T_rugby_tile_02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__img__pang_mando_bottom",
+   "name": "Ingame/Map/dumpling/img/pang_mando_bottom",
+   "sheet": {
+    "h": 113,
+    "w": 90
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__img__pang_mando_top",
+   "name": "Ingame/Map/dumpling/img/pang_mando_top",
+   "sheet": {
+    "h": 85,
+    "w": 90
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__img__rugby_base_blue00",
+   "name": "Ingame/Map/dumpling/img/rugby_base_blue00",
+   "sheet": {
+    "h": 26,
+    "w": 100
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__img__rugby_base_blue01",
+   "name": "Ingame/Map/dumpling/img/rugby_base_blue01",
+   "sheet": {
+    "h": 102,
+    "w": 100
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__img__rugby_base_blue02",
+   "name": "Ingame/Map/dumpling/img/rugby_base_blue02",
+   "sheet": {
+    "h": 102,
+    "w": 100
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__img__rugby_base_blue03",
+   "name": "Ingame/Map/dumpling/img/rugby_base_blue03",
+   "sheet": {
+    "h": 102,
+    "w": 100
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__img__rugby_base_red00",
+   "name": "Ingame/Map/dumpling/img/rugby_base_red00",
+   "sheet": {
+    "h": 26,
+    "w": 100
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__img__rugby_base_red01",
+   "name": "Ingame/Map/dumpling/img/rugby_base_red01",
+   "sheet": {
+    "h": 102,
+    "w": 100
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__img__rugby_base_red02",
+   "name": "Ingame/Map/dumpling/img/rugby_base_red02",
+   "sheet": {
+    "h": 102,
+    "w": 100
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__img__rugby_base_red03",
+   "name": "Ingame/Map/dumpling/img/rugby_base_red03",
+   "sheet": {
+    "h": 102,
+    "w": 100
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__img__rugby_flag01_blue",
+   "name": "Ingame/Map/dumpling/img/rugby_flag01_blue",
+   "sheet": {
+    "h": 128,
+    "w": 142
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__img__rugby_flag01_red",
+   "name": "Ingame/Map/dumpling/img/rugby_flag01_red",
+   "sheet": {
+    "h": 128,
+    "w": 142
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__img__rugby_flag02_blue",
+   "name": "Ingame/Map/dumpling/img/rugby_flag02_blue",
+   "sheet": {
+    "h": 128,
+    "w": 142
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__img__rugby_flag02_red",
+   "name": "Ingame/Map/dumpling/img/rugby_flag02_red",
+   "sheet": {
+    "h": 128,
+    "w": 142
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__img__rugby_flag03_blue",
+   "name": "Ingame/Map/dumpling/img/rugby_flag03_blue",
+   "sheet": {
+    "h": 128,
+    "w": 142
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__img__rugby_flag03_red",
+   "name": "Ingame/Map/dumpling/img/rugby_flag03_red",
+   "sheet": {
+    "h": 128,
+    "w": 142
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__img__rugby_flag04_blue",
+   "name": "Ingame/Map/dumpling/img/rugby_flag04_blue",
+   "sheet": {
+    "h": 128,
+    "w": 142
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__img__rugby_flag04_red",
+   "name": "Ingame/Map/dumpling/img/rugby_flag04_red",
+   "sheet": {
+    "h": 128,
+    "w": 142
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__item__sprites__arrow_mandoo_select",
+   "name": "Ingame/Map/dumpling/item/sprites/arrow_mandoo_select",
+   "sheet": {
+    "h": 66,
+    "w": 62
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__item__sprites__flag",
+   "name": "Ingame/Map/dumpling/item/sprites/flag",
+   "sheet": {
+    "h": 70,
+    "w": 75
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__item__sprites__flag_rugby_light1",
+   "name": "Ingame/Map/dumpling/item/sprites/flag_rugby_light1",
+   "sheet": {
+    "h": 97,
+    "w": 140
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__item__sprites__flag_rugby_light2",
+   "name": "Ingame/Map/dumpling/item/sprites/flag_rugby_light2",
+   "sheet": {
+    "h": 180,
+    "w": 200
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__tile__base__sprites__gr_0_0",
+   "name": "Ingame/Map/dumpling/tile/base/sprites/gr_0_0",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__tile__base__sprites__gr_0_1",
+   "name": "Ingame/Map/dumpling/tile/base/sprites/gr_0_1",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__tile__base__sprites__gr_1_0",
+   "name": "Ingame/Map/dumpling/tile/base/sprites/gr_1_0",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__dumpling__tile__base__sprites__gr_1_1",
+   "name": "Ingame/Map/dumpling/tile/base/sprites/gr_1_1",
+   "sheet": {
+    "h": 69,
+    "w": 69
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__deco__vdeco_bl",
+   "name": "Ingame/Map/factory/deco/vdeco_bl",
+   "sheet": {
+    "h": 272,
+    "w": 612
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__deco__vdeco_bm",
+   "name": "Ingame/Map/factory/deco/vdeco_bm",
+   "sheet": {
+    "h": 272,
+    "w": 408
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__deco__vdeco_bm1",
+   "name": "Ingame/Map/factory/deco/vdeco_bm1",
+   "sheet": {
+    "h": 272,
+    "w": 272
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__deco__vdeco_br",
+   "name": "Ingame/Map/factory/deco/vdeco_br",
+   "sheet": {
+    "h": 272,
+    "w": 408
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__deco__vdeco_lb",
+   "name": "Ingame/Map/factory/deco/vdeco_lb",
+   "sheet": {
+    "h": 544,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__deco__vdeco_lm0",
+   "name": "Ingame/Map/factory/deco/vdeco_lm0",
+   "sheet": {
+    "h": 272,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__deco__vdeco_lm1",
+   "name": "Ingame/Map/factory/deco/vdeco_lm1",
+   "sheet": {
+    "h": 136,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__deco__vdeco_lt",
+   "name": "Ingame/Map/factory/deco/vdeco_lt",
+   "sheet": {
+    "h": 680,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__deco__vdeco_rb",
+   "name": "Ingame/Map/factory/deco/vdeco_rb",
+   "sheet": {
+    "h": 544,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__deco__vdeco_rm0",
+   "name": "Ingame/Map/factory/deco/vdeco_rm0",
+   "sheet": {
+    "h": 340,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__deco__vdeco_rm1",
+   "name": "Ingame/Map/factory/deco/vdeco_rm1",
+   "sheet": {
+    "h": 340,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__deco__vdeco_rt",
+   "name": "Ingame/Map/factory/deco/vdeco_rt",
+   "sheet": {
+    "h": 680,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__deco__vdeco_tl",
+   "name": "Ingame/Map/factory/deco/vdeco_tl",
+   "sheet": {
+    "h": 340,
+    "w": 612
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__deco__vdeco_tm",
+   "name": "Ingame/Map/factory/deco/vdeco_tm",
+   "sheet": {
+    "h": 340,
+    "w": 408
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__deco__vdeco_tm1",
+   "name": "Ingame/Map/factory/deco/vdeco_tm1",
+   "sheet": {
+    "h": 340,
+    "w": 272
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__deco__vdeco_tr",
+   "name": "Ingame/Map/factory/deco/vdeco_tr",
+   "sheet": {
+    "h": 340,
+    "w": 408
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__img__block01",
+   "name": "Ingame/Map/factory/img/block01",
+   "sheet": {
+    "h": 80,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__img__block02",
+   "name": "Ingame/Map/factory/img/block02",
+   "sheet": {
+    "h": 80,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__img__block03",
+   "name": "Ingame/Map/factory/img/block03",
+   "sheet": {
+    "h": 80,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__img__block04",
+   "name": "Ingame/Map/factory/img/block04",
+   "sheet": {
+    "h": 80,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__img__block05",
+   "name": "Ingame/Map/factory/img/block05",
+   "sheet": {
+    "h": 80,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__img__box01",
+   "name": "Ingame/Map/factory/img/box01",
+   "sheet": {
+    "h": 80,
+    "w": 69
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__img__box02",
+   "name": "Ingame/Map/factory/img/box02",
+   "sheet": {
+    "h": 78,
+    "w": 69
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__img__cone",
+   "name": "Ingame/Map/factory/img/cone",
+   "sheet": {
+    "h": 97,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__img__crash_block_1",
+   "name": "Ingame/Map/factory/img/crash_block_1",
+   "sheet": {
+    "h": 99,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__img__crash_block_2",
+   "name": "Ingame/Map/factory/img/crash_block_2",
+   "sheet": {
+    "h": 99,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__img__crash_block_3",
+   "name": "Ingame/Map/factory/img/crash_block_3",
+   "sheet": {
+    "h": 99,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__img__fence_bottom",
+   "name": "Ingame/Map/factory/img/fence_bottom",
+   "sheet": {
+    "h": 75,
+    "w": 79
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__img__fence_left",
+   "name": "Ingame/Map/factory/img/fence_left",
+   "sheet": {
+    "h": 100,
+    "w": 53
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__img__fence_right",
+   "name": "Ingame/Map/factory/img/fence_right",
+   "sheet": {
+    "h": 101,
+    "w": 50
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__img__fence_top",
+   "name": "Ingame/Map/factory/img/fence_top",
+   "sheet": {
+    "h": 77,
+    "w": 78
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__img__fx_T_block_1_4a838106",
+   "name": "Ingame/Map/factory/img/fx_T_block 1",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__img__fx_T_block_2_c7a9d694",
+   "name": "Ingame/Map/factory/img/fx_T_block 2",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__img__grass_a_top",
+   "name": "Ingame/Map/factory/img/grass_a_top",
+   "sheet": {
+    "h": 51,
+    "w": 67
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__img__grass_b_top",
+   "name": "Ingame/Map/factory/img/grass_b_top",
+   "sheet": {
+    "h": 53,
+    "w": 66
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__img__obstacle01",
+   "name": "Ingame/Map/factory/img/obstacle01",
+   "sheet": {
+    "h": 75,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__img__obstacle02",
+   "name": "Ingame/Map/factory/img/obstacle02",
+   "sheet": {
+    "h": 88,
+    "w": 79
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__img__obstacle03",
+   "name": "Ingame/Map/factory/img/obstacle03",
+   "sheet": {
+    "h": 81,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__img__obstacle04",
+   "name": "Ingame/Map/factory/img/obstacle04",
+   "sheet": {
+    "h": 83,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__img__obstacle05",
+   "name": "Ingame/Map/factory/img/obstacle05",
+   "sheet": {
+    "h": 103,
+    "w": 69
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__img__obstacle06",
+   "name": "Ingame/Map/factory/img/obstacle06",
+   "sheet": {
+    "h": 71,
+    "w": 75
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__img__obstacle07",
+   "name": "Ingame/Map/factory/img/obstacle07",
+   "sheet": {
+    "h": 71,
+    "w": 75
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__img__obstacle08",
+   "name": "Ingame/Map/factory/img/obstacle08",
+   "sheet": {
+    "h": 113,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__img__obstacle09",
+   "name": "Ingame/Map/factory/img/obstacle09",
+   "sheet": {
+    "h": 113,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__img__obstacle10",
+   "name": "Ingame/Map/factory/img/obstacle10",
+   "sheet": {
+    "h": 155,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__img__obstacle11",
+   "name": "Ingame/Map/factory/img/obstacle11",
+   "sheet": {
+    "h": 152,
+    "w": 109
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__img__obstacle_block01",
+   "name": "Ingame/Map/factory/img/obstacle_block01",
+   "sheet": {
+    "h": 92,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__img__obstacle_block02",
+   "name": "Ingame/Map/factory/img/obstacle_block02",
+   "sheet": {
+    "h": 96,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__img__obstacle_block03",
+   "name": "Ingame/Map/factory/img/obstacle_block03",
+   "sheet": {
+    "h": 92,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__img__obstacle_block04",
+   "name": "Ingame/Map/factory/img/obstacle_block04",
+   "sheet": {
+    "h": 98,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__img__tent01",
+   "name": "Ingame/Map/factory/img/tent01",
+   "sheet": {
+    "h": 77,
+    "w": 74
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__img__woodbox01",
+   "name": "Ingame/Map/factory/img/woodbox01",
+   "sheet": {
+    "h": 98,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__img__woodbox02",
+   "name": "Ingame/Map/factory/img/woodbox02",
+   "sheet": {
+    "h": 98,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__img__woodbox03",
+   "name": "Ingame/Map/factory/img/woodbox03",
+   "sheet": {
+    "h": 98,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__tile__base__sprites__gr_0_0",
+   "name": "Ingame/Map/factory/tile/base/sprites/gr_0_0",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__tile__base__sprites__gr_0_1",
+   "name": "Ingame/Map/factory/tile/base/sprites/gr_0_1",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__tile__base__sprites__gr_1_0",
+   "name": "Ingame/Map/factory/tile/base/sprites/gr_1_0",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__tile__base__sprites__gr_1_1",
+   "name": "Ingame/Map/factory/tile/base/sprites/gr_1_1",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__tile__block__sprites__block_c",
+   "name": "Ingame/Map/factory/tile/block/sprites/block_c",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__tile__block__sprites__block_dot",
+   "name": "Ingame/Map/factory/tile/block/sprites/block_dot",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__tile__block__sprites__block_h",
+   "name": "Ingame/Map/factory/tile/block/sprites/block_h",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__tile__block__sprites__block_hl",
+   "name": "Ingame/Map/factory/tile/block/sprites/block_hl",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__tile__block__sprites__block_hr",
+   "name": "Ingame/Map/factory/tile/block/sprites/block_hr",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__tile__block__sprites__block_l",
+   "name": "Ingame/Map/factory/tile/block/sprites/block_l",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__tile__block__sprites__block_n",
+   "name": "Ingame/Map/factory/tile/block/sprites/block_n",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__tile__block__sprites__block_ne",
+   "name": "Ingame/Map/factory/tile/block/sprites/block_ne",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__tile__block__sprites__block_nw",
+   "name": "Ingame/Map/factory/tile/block/sprites/block_nw",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__tile__block__sprites__block_r",
+   "name": "Ingame/Map/factory/tile/block/sprites/block_r",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__tile__block__sprites__block_s",
+   "name": "Ingame/Map/factory/tile/block/sprites/block_s",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__tile__block__sprites__block_se",
+   "name": "Ingame/Map/factory/tile/block/sprites/block_se",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__tile__block__sprites__block_sw",
+   "name": "Ingame/Map/factory/tile/block/sprites/block_sw",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__tile__block__sprites__block_v",
+   "name": "Ingame/Map/factory/tile/block/sprites/block_v",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__tile__block__sprites__block_vb",
+   "name": "Ingame/Map/factory/tile/block/sprites/block_vb",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__tile__block__sprites__block_vt",
+   "name": "Ingame/Map/factory/tile/block/sprites/block_vt",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__tile__block__sprites__bn_cbl",
+   "name": "Ingame/Map/factory/tile/block/sprites/bn_cbl",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__tile__block__sprites__bn_cbr",
+   "name": "Ingame/Map/factory/tile/block/sprites/bn_cbr",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__tile__block__sprites__bs_ctl",
+   "name": "Ingame/Map/factory/tile/block/sprites/bs_ctl",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__tile__block__sprites__bs_ctr",
+   "name": "Ingame/Map/factory/tile/block/sprites/bs_ctr",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__tile__block__sprites__corner_bl",
+   "name": "Ingame/Map/factory/tile/block/sprites/corner_bl",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__tile__block__sprites__corner_br",
+   "name": "Ingame/Map/factory/tile/block/sprites/corner_br",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__tile__block__sprites__corner_tl",
+   "name": "Ingame/Map/factory/tile/block/sprites/corner_tl",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__tile__block__sprites__corner_tr",
+   "name": "Ingame/Map/factory/tile/block/sprites/corner_tr",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__tile__block__sprites__ctl_cbl",
+   "name": "Ingame/Map/factory/tile/block/sprites/ctl_cbl",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__tile__block__sprites__ctr_cbr",
+   "name": "Ingame/Map/factory/tile/block/sprites/ctr_cbr",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__factory__tile__warp",
+   "name": "Ingame/Map/factory/tile/warp",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__deco__vdeco_bl",
+   "name": "Ingame/Map/forest/deco/vdeco_bl",
+   "sheet": {
+    "h": 272,
+    "w": 680
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__deco__vdeco_bm",
+   "name": "Ingame/Map/forest/deco/vdeco_bm",
+   "sheet": {
+    "h": 272,
+    "w": 340
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__deco__vdeco_bm_a",
+   "name": "Ingame/Map/forest/deco/vdeco_bm_a",
+   "sheet": {
+    "h": 272,
+    "w": 408
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__deco__vdeco_bm_b",
+   "name": "Ingame/Map/forest/deco/vdeco_bm_b",
+   "sheet": {
+    "h": 272,
+    "w": 340
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__deco__vdeco_bm_c",
+   "name": "Ingame/Map/forest/deco/vdeco_bm_c",
+   "sheet": {
+    "h": 272,
+    "w": 204
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__deco__vdeco_br",
+   "name": "Ingame/Map/forest/deco/vdeco_br",
+   "sheet": {
+    "h": 272,
+    "w": 340
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__deco__vdeco_lb",
+   "name": "Ingame/Map/forest/deco/vdeco_lb",
+   "sheet": {
+    "h": 680,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__deco__vdeco_lm",
+   "name": "Ingame/Map/forest/deco/vdeco_lm",
+   "sheet": {
+    "h": 272,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__deco__vdeco_lm_a",
+   "name": "Ingame/Map/forest/deco/vdeco_lm_a",
+   "sheet": {
+    "h": 272,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__deco__vdeco_lm_b",
+   "name": "Ingame/Map/forest/deco/vdeco_lm_b",
+   "sheet": {
+    "h": 408,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__deco__vdeco_lt",
+   "name": "Ingame/Map/forest/deco/vdeco_lt",
+   "sheet": {
+    "h": 544,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__deco__vdeco_rb",
+   "name": "Ingame/Map/forest/deco/vdeco_rb",
+   "sheet": {
+    "h": 680,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__deco__vdeco_rm",
+   "name": "Ingame/Map/forest/deco/vdeco_rm",
+   "sheet": {
+    "h": 272,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__deco__vdeco_rm_a",
+   "name": "Ingame/Map/forest/deco/vdeco_rm_a",
+   "sheet": {
+    "h": 272,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__deco__vdeco_rm_b",
+   "name": "Ingame/Map/forest/deco/vdeco_rm_b",
+   "sheet": {
+    "h": 408,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__deco__vdeco_rt",
+   "name": "Ingame/Map/forest/deco/vdeco_rt",
+   "sheet": {
+    "h": 544,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__deco__vdeco_tl",
+   "name": "Ingame/Map/forest/deco/vdeco_tl",
+   "sheet": {
+    "h": 340,
+    "w": 680
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__deco__vdeco_tm",
+   "name": "Ingame/Map/forest/deco/vdeco_tm",
+   "sheet": {
+    "h": 340,
+    "w": 340
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__deco__vdeco_tm_a",
+   "name": "Ingame/Map/forest/deco/vdeco_tm_a",
+   "sheet": {
+    "h": 340,
+    "w": 408
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__deco__vdeco_tm_b",
+   "name": "Ingame/Map/forest/deco/vdeco_tm_b",
+   "sheet": {
+    "h": 340,
+    "w": 204
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__deco__vdeco_tr",
+   "name": "Ingame/Map/forest/deco/vdeco_tr",
+   "sheet": {
+    "h": 340,
+    "w": 340
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__bblock",
+   "name": "Ingame/Map/forest/img/bblock",
+   "sheet": {
+    "h": 89,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__bstatue",
+   "name": "Ingame/Map/forest/img/bstatue",
+   "sheet": {
+    "h": 186,
+    "w": 141
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__bstatue_small",
+   "name": "Ingame/Map/forest/img/bstatue_small",
+   "sheet": {
+    "h": 110,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__cblock",
+   "name": "Ingame/Map/forest/img/cblock",
+   "sheet": {
+    "h": 93,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__crash_block_1",
+   "name": "Ingame/Map/forest/img/crash_block_1",
+   "sheet": {
+    "h": 77,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__crash_block_2",
+   "name": "Ingame/Map/forest/img/crash_block_2",
+   "sheet": {
+    "h": 77,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__crash_block_3",
+   "name": "Ingame/Map/forest/img/crash_block_3",
+   "sheet": {
+    "h": 77,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__f_block_00",
+   "name": "Ingame/Map/forest/img/f_block_00",
+   "sheet": {
+    "h": 77,
+    "w": 73
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__f_block_01",
+   "name": "Ingame/Map/forest/img/f_block_01",
+   "sheet": {
+    "h": 76,
+    "w": 69
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__f_block_02",
+   "name": "Ingame/Map/forest/img/f_block_02",
+   "sheet": {
+    "h": 76,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__f_block_03",
+   "name": "Ingame/Map/forest/img/f_block_03",
+   "sheet": {
+    "h": 75,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__f_block_04",
+   "name": "Ingame/Map/forest/img/f_block_04",
+   "sheet": {
+    "h": 75,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__f_block_05",
+   "name": "Ingame/Map/forest/img/f_block_05",
+   "sheet": {
+    "h": 78,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__f_block_06",
+   "name": "Ingame/Map/forest/img/f_block_06",
+   "sheet": {
+    "h": 77,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__f_block_07",
+   "name": "Ingame/Map/forest/img/f_block_07",
+   "sheet": {
+    "h": 76,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__f_block_08",
+   "name": "Ingame/Map/forest/img/f_block_08",
+   "sheet": {
+    "h": 80,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__f_block_09",
+   "name": "Ingame/Map/forest/img/f_block_09",
+   "sheet": {
+    "h": 85,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__f_block_10",
+   "name": "Ingame/Map/forest/img/f_block_10",
+   "sheet": {
+    "h": 85,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__f_block_11",
+   "name": "Ingame/Map/forest/img/f_block_11",
+   "sheet": {
+    "h": 77,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__f_block_12",
+   "name": "Ingame/Map/forest/img/f_block_12",
+   "sheet": {
+    "h": 80,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__f_block_13",
+   "name": "Ingame/Map/forest/img/f_block_13",
+   "sheet": {
+    "h": 80,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__f_block_14",
+   "name": "Ingame/Map/forest/img/f_block_14",
+   "sheet": {
+    "h": 80,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__f_block_15",
+   "name": "Ingame/Map/forest/img/f_block_15",
+   "sheet": {
+    "h": 80,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__f_flower_00",
+   "name": "Ingame/Map/forest/img/f_flower_00",
+   "sheet": {
+    "h": 82,
+    "w": 81
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__f_flower_01",
+   "name": "Ingame/Map/forest/img/f_flower_01",
+   "sheet": {
+    "h": 83,
+    "w": 80
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__f_house_red",
+   "name": "Ingame/Map/forest/img/f_house_red",
+   "sheet": {
+    "h": 188,
+    "w": 203
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__f_house_yellow",
+   "name": "Ingame/Map/forest/img/f_house_yellow",
+   "sheet": {
+    "h": 191,
+    "w": 205
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__f_mushhouse_blue",
+   "name": "Ingame/Map/forest/img/f_mushhouse_blue",
+   "sheet": {
+    "h": 144,
+    "w": 152
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__f_mushhouse_purple",
+   "name": "Ingame/Map/forest/img/f_mushhouse_purple",
+   "sheet": {
+    "h": 146,
+    "w": 153
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__f_point_l",
+   "name": "Ingame/Map/forest/img/f_point_l",
+   "sheet": {
+    "h": 99,
+    "w": 63
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__f_point_r",
+   "name": "Ingame/Map/forest/img/f_point_r",
+   "sheet": {
+    "h": 99,
+    "w": 63
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__f_wood_00",
+   "name": "Ingame/Map/forest/img/f_wood_00",
+   "sheet": {
+    "h": 108,
+    "w": 55
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__f_wood_01",
+   "name": "Ingame/Map/forest/img/f_wood_01",
+   "sheet": {
+    "h": 68,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__f_wood_02",
+   "name": "Ingame/Map/forest/img/f_wood_02",
+   "sheet": {
+    "h": 88,
+    "w": 33
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__f_wood_03",
+   "name": "Ingame/Map/forest/img/f_wood_03",
+   "sheet": {
+    "h": 87,
+    "w": 35
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__f_wood_04",
+   "name": "Ingame/Map/forest/img/f_wood_04",
+   "sheet": {
+    "h": 56,
+    "w": 73
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__f_wood_05",
+   "name": "Ingame/Map/forest/img/f_wood_05",
+   "sheet": {
+    "h": 62,
+    "w": 78
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__f_wood_06",
+   "name": "Ingame/Map/forest/img/f_wood_06",
+   "sheet": {
+    "h": 61,
+    "w": 80
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__f_wood_07",
+   "name": "Ingame/Map/forest/img/f_wood_07",
+   "sheet": {
+    "h": 73,
+    "w": 66
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__f_wood_08",
+   "name": "Ingame/Map/forest/img/f_wood_08",
+   "sheet": {
+    "h": 88,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__f_wood_09",
+   "name": "Ingame/Map/forest/img/f_wood_09",
+   "sheet": {
+    "h": 153,
+    "w": 132
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__f_wood_10",
+   "name": "Ingame/Map/forest/img/f_wood_10",
+   "sheet": {
+    "h": 153,
+    "w": 132
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__Fx_T_rugby_tile_01",
+   "name": "Ingame/Map/forest/img/Fx_T_rugby_tile_01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__grass_a_bottom",
+   "name": "Ingame/Map/forest/img/grass_a_bottom",
+   "sheet": {
+    "h": 64,
+    "w": 77
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__grass_a_middle",
+   "name": "Ingame/Map/forest/img/grass_a_middle",
+   "sheet": {
+    "h": 59,
+    "w": 74
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__grass_a_top",
+   "name": "Ingame/Map/forest/img/grass_a_top",
+   "sheet": {
+    "h": 17,
+    "w": 35
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__grass_b_bottom",
+   "name": "Ingame/Map/forest/img/grass_b_bottom",
+   "sheet": {
+    "h": 64,
+    "w": 77
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__grass_b_middle",
+   "name": "Ingame/Map/forest/img/grass_b_middle",
+   "sheet": {
+    "h": 59,
+    "w": 74
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__grass_b_top",
+   "name": "Ingame/Map/forest/img/grass_b_top",
+   "sheet": {
+    "h": 17,
+    "w": 35
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__sblock",
+   "name": "Ingame/Map/forest/img/sblock",
+   "sheet": {
+    "h": 82,
+    "w": 69
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__tree_01_bottom",
+   "name": "Ingame/Map/forest/img/tree_01_bottom",
+   "sheet": {
+    "h": 39,
+    "w": 73
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__tree_01_top",
+   "name": "Ingame/Map/forest/img/tree_01_top",
+   "sheet": {
+    "h": 107,
+    "w": 90
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__tree_02_bottom",
+   "name": "Ingame/Map/forest/img/tree_02_bottom",
+   "sheet": {
+    "h": 35,
+    "w": 66
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__tree_02_top",
+   "name": "Ingame/Map/forest/img/tree_02_top",
+   "sheet": {
+    "h": 94,
+    "w": 88
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__tree_03_bottom",
+   "name": "Ingame/Map/forest/img/tree_03_bottom",
+   "sheet": {
+    "h": 38,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__tree_03_top",
+   "name": "Ingame/Map/forest/img/tree_03_top",
+   "sheet": {
+    "h": 94,
+    "w": 87
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__img__tree_04",
+   "name": "Ingame/Map/forest/img/tree_04",
+   "sheet": {
+    "h": 173,
+    "w": 148
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__item__sprites__flag_rugby_light1",
+   "name": "Ingame/Map/forest/item/sprites/flag_rugby_light1",
+   "sheet": {
+    "h": 97,
+    "w": 140
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__item__sprites__juggernaut",
+   "name": "Ingame/Map/forest/item/sprites/juggernaut",
+   "sheet": {
+    "h": 108,
+    "w": 98
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__tile__base__sprites__gr_0_0",
+   "name": "Ingame/Map/forest/tile/base/sprites/gr_0_0",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__tile__base__sprites__gr_0_1",
+   "name": "Ingame/Map/forest/tile/base/sprites/gr_0_1",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__tile__base__sprites__gr_0_2",
+   "name": "Ingame/Map/forest/tile/base/sprites/gr_0_2",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__tile__base__sprites__gr_0_3",
+   "name": "Ingame/Map/forest/tile/base/sprites/gr_0_3",
+   "sheet": {
+    "h": 70,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__tile__base__sprites__gr_0_4",
+   "name": "Ingame/Map/forest/tile/base/sprites/gr_0_4",
+   "sheet": {
+    "h": 71,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__tile__base__sprites__gr_1_0",
+   "name": "Ingame/Map/forest/tile/base/sprites/gr_1_0",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__tile__base__sprites__gr_1_1",
+   "name": "Ingame/Map/forest/tile/base/sprites/gr_1_1",
+   "sheet": {
+    "h": 70,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__tile__base__sprites__gr_1_2",
+   "name": "Ingame/Map/forest/tile/base/sprites/gr_1_2",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__tile__base__sprites__gr_1_3",
+   "name": "Ingame/Map/forest/tile/base/sprites/gr_1_3",
+   "sheet": {
+    "h": 69,
+    "w": 69
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__tile__base__sprites__gr_2_0",
+   "name": "Ingame/Map/forest/tile/base/sprites/gr_2_0",
+   "sheet": {
+    "h": 71,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__tile__base__sprites__gr_2_1",
+   "name": "Ingame/Map/forest/tile/base/sprites/gr_2_1",
+   "sheet": {
+    "h": 71,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__tile__base__sprites__gr_2_2",
+   "name": "Ingame/Map/forest/tile/base/sprites/gr_2_2",
+   "sheet": {
+    "h": 71,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__tile__base__sprites__gr_2_3",
+   "name": "Ingame/Map/forest/tile/base/sprites/gr_2_3",
+   "sheet": {
+    "h": 71,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__tile__base__sprites__gr_2_4",
+   "name": "Ingame/Map/forest/tile/base/sprites/gr_2_4",
+   "sheet": {
+    "h": 71,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__tile__base__sprites__gr_2_5",
+   "name": "Ingame/Map/forest/tile/base/sprites/gr_2_5",
+   "sheet": {
+    "h": 71,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__tile__base__sprites__gr_2_6",
+   "name": "Ingame/Map/forest/tile/base/sprites/gr_2_6",
+   "sheet": {
+    "h": 71,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__tile__base__sprites__gr_2_7",
+   "name": "Ingame/Map/forest/tile/base/sprites/gr_2_7",
+   "sheet": {
+    "h": 71,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__tile__base__sprites__gr_2_8",
+   "name": "Ingame/Map/forest/tile/base/sprites/gr_2_8",
+   "sheet": {
+    "h": 71,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__tile__road__sprites__bot_l_g",
+   "name": "Ingame/Map/forest/tile/road/sprites/bot_l_g",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__tile__road__sprites__bot_l_g_a",
+   "name": "Ingame/Map/forest/tile/road/sprites/bot_l_g_a",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__tile__road__sprites__bot_l_g_a_bot",
+   "name": "Ingame/Map/forest/tile/road/sprites/bot_l_g_a_bot",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__tile__road__sprites__bot_l_g_bot",
+   "name": "Ingame/Map/forest/tile/road/sprites/bot_l_g_bot",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__tile__road__sprites__bot_m_g_bot",
+   "name": "Ingame/Map/forest/tile/road/sprites/bot_m_g_bot",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__tile__road__sprites__bot_m_y",
+   "name": "Ingame/Map/forest/tile/road/sprites/bot_m_y",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__tile__road__sprites__bot_r_g",
+   "name": "Ingame/Map/forest/tile/road/sprites/bot_r_g",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__tile__road__sprites__bot_r_g_a",
+   "name": "Ingame/Map/forest/tile/road/sprites/bot_r_g_a",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__tile__road__sprites__bot_r_h_a_bot",
+   "name": "Ingame/Map/forest/tile/road/sprites/bot_r_h_a_bot",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__tile__road__sprites__bot_r_h_bot",
+   "name": "Ingame/Map/forest/tile/road/sprites/bot_r_h_bot",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__tile__road__sprites__middle_r_g",
+   "name": "Ingame/Map/forest/tile/road/sprites/middle_r_g",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__tile__road__sprites__top_l1",
+   "name": "Ingame/Map/forest/tile/road/sprites/top_l1",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__tile__road__sprites__top_la",
+   "name": "Ingame/Map/forest/tile/road/sprites/top_la",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__tile__road__sprites__top_r1",
+   "name": "Ingame/Map/forest/tile/road/sprites/top_r1",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__tile__road__sprites__top_ra",
+   "name": "Ingame/Map/forest/tile/road/sprites/top_ra",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__tile__warp",
+   "name": "Ingame/Map/forest/tile/warp",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__tile__water__sprites__bottom_l",
+   "name": "Ingame/Map/forest/tile/water/sprites/bottom_l",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__tile__water__sprites__bottom_m",
+   "name": "Ingame/Map/forest/tile/water/sprites/bottom_m",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__tile__water__sprites__bottom_r",
+   "name": "Ingame/Map/forest/tile/water/sprites/bottom_r",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__tile__water__sprites__corner_bl",
+   "name": "Ingame/Map/forest/tile/water/sprites/corner_bl",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__tile__water__sprites__corner_br",
+   "name": "Ingame/Map/forest/tile/water/sprites/corner_br",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__tile__water__sprites__corner_tl",
+   "name": "Ingame/Map/forest/tile/water/sprites/corner_tl",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__tile__water__sprites__corner_tr",
+   "name": "Ingame/Map/forest/tile/water/sprites/corner_tr",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__tile__water__sprites__line_l",
+   "name": "Ingame/Map/forest/tile/water/sprites/line_l",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__tile__water__sprites__line_m",
+   "name": "Ingame/Map/forest/tile/water/sprites/line_m",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__tile__water__sprites__line_r",
+   "name": "Ingame/Map/forest/tile/water/sprites/line_r",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__tile__water__sprites__line_v",
+   "name": "Ingame/Map/forest/tile/water/sprites/line_v",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__tile__water__sprites__line_vb",
+   "name": "Ingame/Map/forest/tile/water/sprites/line_vb",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__tile__water__sprites__line_vt",
+   "name": "Ingame/Map/forest/tile/water/sprites/line_vt",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__tile__water__sprites__m_m",
+   "name": "Ingame/Map/forest/tile/water/sprites/m_m",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__tile__water__sprites__middle_l",
+   "name": "Ingame/Map/forest/tile/water/sprites/middle_l",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__tile__water__sprites__middle_r",
+   "name": "Ingame/Map/forest/tile/water/sprites/middle_r",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__tile__water__sprites__top_l",
+   "name": "Ingame/Map/forest/tile/water/sprites/top_l",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__tile__water__sprites__top_m",
+   "name": "Ingame/Map/forest/tile/water/sprites/top_m",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__forest__tile__water__sprites__top_r",
+   "name": "Ingame/Map/forest/tile/water/sprites/top_r",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__deco__vdeco_bl",
+   "name": "Ingame/Map/pirate/deco/vdeco_bl",
+   "sheet": {
+    "h": 272,
+    "w": 680
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__deco__vdeco_bm",
+   "name": "Ingame/Map/pirate/deco/vdeco_bm",
+   "sheet": {
+    "h": 272,
+    "w": 680
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__deco__vdeco_bm1",
+   "name": "Ingame/Map/pirate/deco/vdeco_bm1",
+   "sheet": {
+    "h": 272,
+    "w": 272
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__deco__vdeco_br",
+   "name": "Ingame/Map/pirate/deco/vdeco_br",
+   "sheet": {
+    "h": 272,
+    "w": 340
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__deco__vdeco_lb",
+   "name": "Ingame/Map/pirate/deco/vdeco_lb",
+   "sheet": {
+    "h": 680,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__deco__vdeco_lm1",
+   "name": "Ingame/Map/pirate/deco/vdeco_lm1",
+   "sheet": {
+    "h": 408,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__deco__vdeco_lm2",
+   "name": "Ingame/Map/pirate/deco/vdeco_lm2",
+   "sheet": {
+    "h": 272,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__deco__vdeco_lm3",
+   "name": "Ingame/Map/pirate/deco/vdeco_lm3",
+   "sheet": {
+    "h": 136,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__deco__vdeco_lt",
+   "name": "Ingame/Map/pirate/deco/vdeco_lt",
+   "sheet": {
+    "h": 544,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__deco__vdeco_rb",
+   "name": "Ingame/Map/pirate/deco/vdeco_rb",
+   "sheet": {
+    "h": 680,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__deco__vdeco_rm1",
+   "name": "Ingame/Map/pirate/deco/vdeco_rm1",
+   "sheet": {
+    "h": 272,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__deco__vdeco_rm2",
+   "name": "Ingame/Map/pirate/deco/vdeco_rm2",
+   "sheet": {
+    "h": 408,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__deco__vdeco_rm3",
+   "name": "Ingame/Map/pirate/deco/vdeco_rm3",
+   "sheet": {
+    "h": 136,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__deco__vdeco_rt",
+   "name": "Ingame/Map/pirate/deco/vdeco_rt",
+   "sheet": {
+    "h": 544,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__deco__vdeco_tl",
+   "name": "Ingame/Map/pirate/deco/vdeco_tl",
+   "sheet": {
+    "h": 340,
+    "w": 680
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__deco__vdeco_tm",
+   "name": "Ingame/Map/pirate/deco/vdeco_tm",
+   "sheet": {
+    "h": 340,
+    "w": 340
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__deco__vdeco_tm1",
+   "name": "Ingame/Map/pirate/deco/vdeco_tm1",
+   "sheet": {
+    "h": 340,
+    "w": 272
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__deco__vdeco_tr",
+   "name": "Ingame/Map/pirate/deco/vdeco_tr",
+   "sheet": {
+    "h": 340,
+    "w": 340
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__img__001",
+   "name": "Ingame/Map/pirate/img/001",
+   "sheet": {
+    "h": 220,
+    "w": 213
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__img__002",
+   "name": "Ingame/Map/pirate/img/002",
+   "sheet": {
+    "h": 100,
+    "w": 73
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__img__003_bottom",
+   "name": "Ingame/Map/pirate/img/003_bottom",
+   "sheet": {
+    "h": 75,
+    "w": 75
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__img__003_middle_00",
+   "name": "Ingame/Map/pirate/img/003_middle_00",
+   "sheet": {
+    "h": 29,
+    "w": 26
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__img__003_middle_01",
+   "name": "Ingame/Map/pirate/img/003_middle_01",
+   "sheet": {
+    "h": 42,
+    "w": 30
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__img__003_middle_02",
+   "name": "Ingame/Map/pirate/img/003_middle_02",
+   "sheet": {
+    "h": 32,
+    "w": 31
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__img__003_top",
+   "name": "Ingame/Map/pirate/img/003_top",
+   "sheet": {
+    "h": 55,
+    "w": 63
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__img__004",
+   "name": "Ingame/Map/pirate/img/004",
+   "sheet": {
+    "h": 91,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__img__005",
+   "name": "Ingame/Map/pirate/img/005",
+   "sheet": {
+    "h": 117,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__img__006",
+   "name": "Ingame/Map/pirate/img/006",
+   "sheet": {
+    "h": 117,
+    "w": 73
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__img__008",
+   "name": "Ingame/Map/pirate/img/008",
+   "sheet": {
+    "h": 98,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__img__009",
+   "name": "Ingame/Map/pirate/img/009",
+   "sheet": {
+    "h": 97,
+    "w": 76
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__img__013",
+   "name": "Ingame/Map/pirate/img/013",
+   "sheet": {
+    "h": 136,
+    "w": 147
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__img__014",
+   "name": "Ingame/Map/pirate/img/014",
+   "sheet": {
+    "h": 182,
+    "w": 110
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__img__block_box06",
+   "name": "Ingame/Map/pirate/img/block_box06",
+   "sheet": {
+    "h": 101,
+    "w": 69
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__img__block_box08",
+   "name": "Ingame/Map/pirate/img/block_box08",
+   "sheet": {
+    "h": 100,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__img__block_box09",
+   "name": "Ingame/Map/pirate/img/block_box09",
+   "sheet": {
+    "h": 100,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__img__box01",
+   "name": "Ingame/Map/pirate/img/box01",
+   "sheet": {
+    "h": 80,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__img__box02",
+   "name": "Ingame/Map/pirate/img/box02",
+   "sheet": {
+    "h": 81,
+    "w": 69
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__img__box03",
+   "name": "Ingame/Map/pirate/img/box03",
+   "sheet": {
+    "h": 81,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__img__box04",
+   "name": "Ingame/Map/pirate/img/box04",
+   "sheet": {
+    "h": 83,
+    "w": 69
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__img__box06",
+   "name": "Ingame/Map/pirate/img/box06",
+   "sheet": {
+    "h": 86,
+    "w": 73
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__img__box07",
+   "name": "Ingame/Map/pirate/img/box07",
+   "sheet": {
+    "h": 95,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__img__box08",
+   "name": "Ingame/Map/pirate/img/box08",
+   "sheet": {
+    "h": 94,
+    "w": 69
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__img__box09",
+   "name": "Ingame/Map/pirate/img/box09",
+   "sheet": {
+    "h": 106,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__img__crash_block_1",
+   "name": "Ingame/Map/pirate/img/crash_block_1",
+   "sheet": {
+    "h": 101,
+    "w": 73
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__img__crash_block_2",
+   "name": "Ingame/Map/pirate/img/crash_block_2",
+   "sheet": {
+    "h": 101,
+    "w": 73
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__img__crash_block_3",
+   "name": "Ingame/Map/pirate/img/crash_block_3",
+   "sheet": {
+    "h": 101,
+    "w": 73
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__img__goldbox",
+   "name": "Ingame/Map/pirate/img/goldbox",
+   "sheet": {
+    "h": 99,
+    "w": 82
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__img__pirate_007_center",
+   "name": "Ingame/Map/pirate/img/pirate_007_center",
+   "sheet": {
+    "h": 227,
+    "w": 213
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__img__pirate_007_flag00",
+   "name": "Ingame/Map/pirate/img/pirate_007_flag00",
+   "sheet": {
+    "h": 43,
+    "w": 65
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__img__pirate_007_flag01",
+   "name": "Ingame/Map/pirate/img/pirate_007_flag01",
+   "sheet": {
+    "h": 53,
+    "w": 77
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__img__pirate_007_flag02",
+   "name": "Ingame/Map/pirate/img/pirate_007_flag02",
+   "sheet": {
+    "h": 60,
+    "w": 77
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__img__pirate_007_flag03",
+   "name": "Ingame/Map/pirate/img/pirate_007_flag03",
+   "sheet": {
+    "h": 57,
+    "w": 77
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__img__tent01",
+   "name": "Ingame/Map/pirate/img/tent01",
+   "sheet": {
+    "h": 88,
+    "w": 75
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__img__tent02",
+   "name": "Ingame/Map/pirate/img/tent02",
+   "sheet": {
+    "h": 88,
+    "w": 75
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__img__tent03",
+   "name": "Ingame/Map/pirate/img/tent03",
+   "sheet": {
+    "h": 115,
+    "w": 81
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__img__tent04",
+   "name": "Ingame/Map/pirate/img/tent04",
+   "sheet": {
+    "h": 115,
+    "w": 81
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__Materials__flag",
+   "name": "Ingame/Map/pirate/Materials/flag",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__tile__base__sprites__gr_0_0",
+   "name": "Ingame/Map/pirate/tile/base/sprites/gr_0_0",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__tile__base__sprites__gr_0_1",
+   "name": "Ingame/Map/pirate/tile/base/sprites/gr_0_1",
+   "sheet": {
+    "h": 69,
+    "w": 69
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__tile__base__sprites__gr_0_2",
+   "name": "Ingame/Map/pirate/tile/base/sprites/gr_0_2",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__tile__base__sprites__gr_0_3",
+   "name": "Ingame/Map/pirate/tile/base/sprites/gr_0_3",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__tile__base__sprites__gr_0_4",
+   "name": "Ingame/Map/pirate/tile/base/sprites/gr_0_4",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__tile__base__sprites__gr_1_0",
+   "name": "Ingame/Map/pirate/tile/base/sprites/gr_1_0",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__tile__base__sprites__gr_1_1",
+   "name": "Ingame/Map/pirate/tile/base/sprites/gr_1_1",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__tile__base__sprites__gr_1_2",
+   "name": "Ingame/Map/pirate/tile/base/sprites/gr_1_2",
+   "sheet": {
+    "h": 69,
+    "w": 69
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__tile__base__sprites__gr_1_3",
+   "name": "Ingame/Map/pirate/tile/base/sprites/gr_1_3",
+   "sheet": {
+    "h": 69,
+    "w": 69
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__tile__warp",
+   "name": "Ingame/Map/pirate/tile/warp",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__tile__water__sprites__bottom_l",
+   "name": "Ingame/Map/pirate/tile/water/sprites/bottom_l",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__tile__water__sprites__bottom_m",
+   "name": "Ingame/Map/pirate/tile/water/sprites/bottom_m",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__tile__water__sprites__bottom_r",
+   "name": "Ingame/Map/pirate/tile/water/sprites/bottom_r",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__tile__water__sprites__circle",
+   "name": "Ingame/Map/pirate/tile/water/sprites/circle",
+   "sheet": {
+    "h": 70,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__tile__water__sprites__line_d",
+   "name": "Ingame/Map/pirate/tile/water/sprites/line_d",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__tile__water__sprites__line_h",
+   "name": "Ingame/Map/pirate/tile/water/sprites/line_h",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__tile__water__sprites__line_l",
+   "name": "Ingame/Map/pirate/tile/water/sprites/line_l",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__tile__water__sprites__line_r",
+   "name": "Ingame/Map/pirate/tile/water/sprites/line_r",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__tile__water__sprites__line_t",
+   "name": "Ingame/Map/pirate/tile/water/sprites/line_t",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__tile__water__sprites__line_v",
+   "name": "Ingame/Map/pirate/tile/water/sprites/line_v",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__tile__water__sprites__m_m",
+   "name": "Ingame/Map/pirate/tile/water/sprites/m_m",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__tile__water__sprites__middle_l",
+   "name": "Ingame/Map/pirate/tile/water/sprites/middle_l",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__tile__water__sprites__middle_r",
+   "name": "Ingame/Map/pirate/tile/water/sprites/middle_r",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__tile__water__sprites__top_l",
+   "name": "Ingame/Map/pirate/tile/water/sprites/top_l",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__tile__water__sprites__top_m",
+   "name": "Ingame/Map/pirate/tile/water/sprites/top_m",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__pirate__tile__water__sprites__top_r",
+   "name": "Ingame/Map/pirate/tile/water/sprites/top_r",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__deco__vdeco_bl",
+   "name": "Ingame/Map/village/deco/vdeco_bl",
+   "sheet": {
+    "h": 272,
+    "w": 612
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__deco__vdeco_bm",
+   "name": "Ingame/Map/village/deco/vdeco_bm",
+   "sheet": {
+    "h": 272,
+    "w": 272
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__deco__vdeco_br",
+   "name": "Ingame/Map/village/deco/vdeco_br",
+   "sheet": {
+    "h": 272,
+    "w": 408
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__deco__vdeco_lb",
+   "name": "Ingame/Map/village/deco/vdeco_lb",
+   "sheet": {
+    "h": 612,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__deco__vdeco_lm",
+   "name": "Ingame/Map/village/deco/vdeco_lm",
+   "sheet": {
+    "h": 136,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__deco__vdeco_lm_a",
+   "name": "Ingame/Map/village/deco/vdeco_lm_a",
+   "sheet": {
+    "h": 272,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__deco__vdeco_lt",
+   "name": "Ingame/Map/village/deco/vdeco_lt",
+   "sheet": {
+    "h": 578,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__deco__vdeco_rb",
+   "name": "Ingame/Map/village/deco/vdeco_rb",
+   "sheet": {
+    "h": 612,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__deco__vdeco_rm",
+   "name": "Ingame/Map/village/deco/vdeco_rm",
+   "sheet": {
+    "h": 136,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__deco__vdeco_rt",
+   "name": "Ingame/Map/village/deco/vdeco_rt",
+   "sheet": {
+    "h": 578,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__deco__vdeco_tl",
+   "name": "Ingame/Map/village/deco/vdeco_tl",
+   "sheet": {
+    "h": 306,
+    "w": 612
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__deco__vdeco_tm",
+   "name": "Ingame/Map/village/deco/vdeco_tm",
+   "sheet": {
+    "h": 306,
+    "w": 272
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__deco__vdeco_tr",
+   "name": "Ingame/Map/village/deco/vdeco_tr",
+   "sheet": {
+    "h": 306,
+    "w": 408
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__img__01",
+   "name": "Ingame/Map/village/img/01",
+   "sheet": {
+    "h": 60,
+    "w": 84
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__img__02L",
+   "name": "Ingame/Map/village/img/02L",
+   "sheet": {
+    "h": 89,
+    "w": 51
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__img__02R",
+   "name": "Ingame/Map/village/img/02R",
+   "sheet": {
+    "h": 89,
+    "w": 41
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__img__barricade01",
+   "name": "Ingame/Map/village/img/barricade01",
+   "sheet": {
+    "h": 58,
+    "w": 83
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__img__barricade03L",
+   "name": "Ingame/Map/village/img/barricade03L",
+   "sheet": {
+    "h": 109,
+    "w": 46
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__img__barricade03R",
+   "name": "Ingame/Map/village/img/barricade03R",
+   "sheet": {
+    "h": 107,
+    "w": 39
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__img__block01",
+   "name": "Ingame/Map/village/img/block01",
+   "sheet": {
+    "h": 78,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__img__block02",
+   "name": "Ingame/Map/village/img/block02",
+   "sheet": {
+    "h": 78,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__img__block03",
+   "name": "Ingame/Map/village/img/block03",
+   "sheet": {
+    "h": 78,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__img__block04",
+   "name": "Ingame/Map/village/img/block04",
+   "sheet": {
+    "h": 78,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__img__block05",
+   "name": "Ingame/Map/village/img/block05",
+   "sheet": {
+    "h": 78,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__img__block06",
+   "name": "Ingame/Map/village/img/block06",
+   "sheet": {
+    "h": 78,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__img__box01",
+   "name": "Ingame/Map/village/img/box01",
+   "sheet": {
+    "h": 81,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__img__box02",
+   "name": "Ingame/Map/village/img/box02",
+   "sheet": {
+    "h": 85,
+    "w": 69
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__img__box03",
+   "name": "Ingame/Map/village/img/box03",
+   "sheet": {
+    "h": 80,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__img__butt01",
+   "name": "Ingame/Map/village/img/butt01",
+   "sheet": {
+    "h": 83,
+    "w": 75
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__img__butt02",
+   "name": "Ingame/Map/village/img/butt02",
+   "sheet": {
+    "h": 83,
+    "w": 75
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__img__crash_block_1",
+   "name": "Ingame/Map/village/img/crash_block_1",
+   "sheet": {
+    "h": 84,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__img__crash_block_2",
+   "name": "Ingame/Map/village/img/crash_block_2",
+   "sheet": {
+    "h": 84,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__img__crash_block_3",
+   "name": "Ingame/Map/village/img/crash_block_3",
+   "sheet": {
+    "h": 84,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__img__dumb01",
+   "name": "Ingame/Map/village/img/dumb01",
+   "sheet": {
+    "h": 87,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__img__firehydrant",
+   "name": "Ingame/Map/village/img/firehydrant",
+   "sheet": {
+    "h": 105,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__img__holl",
+   "name": "Ingame/Map/village/img/holl",
+   "sheet": {
+    "h": 73,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__img__house01",
+   "name": "Ingame/Map/village/img/house01",
+   "sheet": {
+    "h": 94,
+    "w": 73
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__img__house02",
+   "name": "Ingame/Map/village/img/house02",
+   "sheet": {
+    "h": 94,
+    "w": 73
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__img__house03",
+   "name": "Ingame/Map/village/img/house03",
+   "sheet": {
+    "h": 94,
+    "w": 73
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__img__linebox01",
+   "name": "Ingame/Map/village/img/linebox01",
+   "sheet": {
+    "h": 83,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__img__linebox02",
+   "name": "Ingame/Map/village/img/linebox02",
+   "sheet": {
+    "h": 82,
+    "w": 69
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__img__linebox03",
+   "name": "Ingame/Map/village/img/linebox03",
+   "sheet": {
+    "h": 83,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__img__mushroom01",
+   "name": "Ingame/Map/village/img/mushroom01",
+   "sheet": {
+    "h": 78,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__img__mushroom02",
+   "name": "Ingame/Map/village/img/mushroom02",
+   "sheet": {
+    "h": 78,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__img__mushroom03",
+   "name": "Ingame/Map/village/img/mushroom03",
+   "sheet": {
+    "h": 78,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__img__signallamp",
+   "name": "Ingame/Map/village/img/signallamp",
+   "sheet": {
+    "h": 151,
+    "w": 60
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__img__tree01",
+   "name": "Ingame/Map/village/img/tree01",
+   "sheet": {
+    "h": 104,
+    "w": 74
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__img__tree02",
+   "name": "Ingame/Map/village/img/tree02",
+   "sheet": {
+    "h": 117,
+    "w": 76
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__img__tree03",
+   "name": "Ingame/Map/village/img/tree03",
+   "sheet": {
+    "h": 117,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__img__tree04",
+   "name": "Ingame/Map/village/img/tree04",
+   "sheet": {
+    "h": 115,
+    "w": 76
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__img__tree05",
+   "name": "Ingame/Map/village/img/tree05",
+   "sheet": {
+    "h": 232,
+    "w": 204
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__img__v_grass_a_bottom",
+   "name": "Ingame/Map/village/img/v_grass_a_bottom",
+   "sheet": {
+    "h": 53,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__img__v_grass_a_middle",
+   "name": "Ingame/Map/village/img/v_grass_a_middle",
+   "sheet": {
+    "h": 68,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__img__v_grass_a_top",
+   "name": "Ingame/Map/village/img/v_grass_a_top",
+   "sheet": {
+    "h": 51,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__img__v_grass_b_bottom",
+   "name": "Ingame/Map/village/img/v_grass_b_bottom",
+   "sheet": {
+    "h": 54,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__img__v_grass_b_middle",
+   "name": "Ingame/Map/village/img/v_grass_b_middle",
+   "sheet": {
+    "h": 72,
+    "w": 74
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__img__v_grass_b_top",
+   "name": "Ingame/Map/village/img/v_grass_b_top",
+   "sheet": {
+    "h": 50,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__img__wastebasket",
+   "name": "Ingame/Map/village/img/wastebasket",
+   "sheet": {
+    "h": 106,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__tile__base__sprites__gr_0_0",
+   "name": "Ingame/Map/village/tile/base/sprites/gr_0_0",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__tile__base__sprites__gr_0_1",
+   "name": "Ingame/Map/village/tile/base/sprites/gr_0_1",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__tile__base__sprites__gr_0_2",
+   "name": "Ingame/Map/village/tile/base/sprites/gr_0_2",
+   "sheet": {
+    "h": 69,
+    "w": 69
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__tile__base__sprites__gr_1_0",
+   "name": "Ingame/Map/village/tile/base/sprites/gr_1_0",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__tile__base__sprites__gr_1_1",
+   "name": "Ingame/Map/village/tile/base/sprites/gr_1_1",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__tile__base__sprites__gr_1_2",
+   "name": "Ingame/Map/village/tile/base/sprites/gr_1_2",
+   "sheet": {
+    "h": 69,
+    "w": 69
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__tile__road__sprites__road",
+   "name": "Ingame/Map/village/tile/road/sprites/road",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__tile__road__sprites__road_c",
+   "name": "Ingame/Map/village/tile/road/sprites/road_c",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__tile__road__sprites__road_h",
+   "name": "Ingame/Map/village/tile/road/sprites/road_h",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__tile__road__sprites__road_v",
+   "name": "Ingame/Map/village/tile/road/sprites/road_v",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__tile__warp",
+   "name": "Ingame/Map/village/tile/warp",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__tile__water__sprites__bottom_l",
+   "name": "Ingame/Map/village/tile/water/sprites/bottom_l",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__tile__water__sprites__bottom_m",
+   "name": "Ingame/Map/village/tile/water/sprites/bottom_m",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__tile__water__sprites__bottom_r",
+   "name": "Ingame/Map/village/tile/water/sprites/bottom_r",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__tile__water__sprites__line_d",
+   "name": "Ingame/Map/village/tile/water/sprites/line_d",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__tile__water__sprites__line_h",
+   "name": "Ingame/Map/village/tile/water/sprites/line_h",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__tile__water__sprites__line_l",
+   "name": "Ingame/Map/village/tile/water/sprites/line_l",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__tile__water__sprites__line_r",
+   "name": "Ingame/Map/village/tile/water/sprites/line_r",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__tile__water__sprites__line_u",
+   "name": "Ingame/Map/village/tile/water/sprites/line_u",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__tile__water__sprites__line_v",
+   "name": "Ingame/Map/village/tile/water/sprites/line_v",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__tile__water__sprites__middle_l",
+   "name": "Ingame/Map/village/tile/water/sprites/middle_l",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__tile__water__sprites__middle_m",
+   "name": "Ingame/Map/village/tile/water/sprites/middle_m",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__tile__water__sprites__middle_r",
+   "name": "Ingame/Map/village/tile/water/sprites/middle_r",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__tile__water__sprites__top_l",
+   "name": "Ingame/Map/village/tile/water/sprites/top_l",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__tile__water__sprites__top_m",
+   "name": "Ingame/Map/village/tile/water/sprites/top_m",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__village__tile__water__sprites__top_r",
+   "name": "Ingame/Map/village/tile/water/sprites/top_r",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__deco__vdeco_bl",
+   "name": "Ingame/Map/zombie/deco/vdeco_bl",
+   "sheet": {
+    "h": 272,
+    "w": 680
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__deco__vdeco_bm",
+   "name": "Ingame/Map/zombie/deco/vdeco_bm",
+   "sheet": {
+    "h": 272,
+    "w": 340
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__deco__vdeco_bm_a",
+   "name": "Ingame/Map/zombie/deco/vdeco_bm_a",
+   "sheet": {
+    "h": 272,
+    "w": 408
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__deco__vdeco_bm_b",
+   "name": "Ingame/Map/zombie/deco/vdeco_bm_b",
+   "sheet": {
+    "h": 272,
+    "w": 340
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__deco__vdeco_bm_c",
+   "name": "Ingame/Map/zombie/deco/vdeco_bm_c",
+   "sheet": {
+    "h": 272,
+    "w": 204
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__deco__vdeco_br",
+   "name": "Ingame/Map/zombie/deco/vdeco_br",
+   "sheet": {
+    "h": 272,
+    "w": 340
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__deco__vdeco_lb",
+   "name": "Ingame/Map/zombie/deco/vdeco_lb",
+   "sheet": {
+    "h": 680,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__deco__vdeco_lm",
+   "name": "Ingame/Map/zombie/deco/vdeco_lm",
+   "sheet": {
+    "h": 272,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__deco__vdeco_lm_a",
+   "name": "Ingame/Map/zombie/deco/vdeco_lm_a",
+   "sheet": {
+    "h": 272,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__deco__vdeco_lm_b",
+   "name": "Ingame/Map/zombie/deco/vdeco_lm_b",
+   "sheet": {
+    "h": 408,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__deco__vdeco_lt",
+   "name": "Ingame/Map/zombie/deco/vdeco_lt",
+   "sheet": {
+    "h": 544,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__deco__vdeco_rb",
+   "name": "Ingame/Map/zombie/deco/vdeco_rb",
+   "sheet": {
+    "h": 680,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__deco__vdeco_rm",
+   "name": "Ingame/Map/zombie/deco/vdeco_rm",
+   "sheet": {
+    "h": 272,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__deco__vdeco_rm_a",
+   "name": "Ingame/Map/zombie/deco/vdeco_rm_a",
+   "sheet": {
+    "h": 272,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__deco__vdeco_rm_b",
+   "name": "Ingame/Map/zombie/deco/vdeco_rm_b",
+   "sheet": {
+    "h": 408,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__deco__vdeco_rt",
+   "name": "Ingame/Map/zombie/deco/vdeco_rt",
+   "sheet": {
+    "h": 544,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__deco__vdeco_tl",
+   "name": "Ingame/Map/zombie/deco/vdeco_tl",
+   "sheet": {
+    "h": 340,
+    "w": 680
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__deco__vdeco_tm",
+   "name": "Ingame/Map/zombie/deco/vdeco_tm",
+   "sheet": {
+    "h": 340,
+    "w": 340
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__deco__vdeco_tm_a",
+   "name": "Ingame/Map/zombie/deco/vdeco_tm_a",
+   "sheet": {
+    "h": 340,
+    "w": 408
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__deco__vdeco_tm_b",
+   "name": "Ingame/Map/zombie/deco/vdeco_tm_b",
+   "sheet": {
+    "h": 340,
+    "w": 204
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__deco__vdeco_tr",
+   "name": "Ingame/Map/zombie/deco/vdeco_tr",
+   "sheet": {
+    "h": 340,
+    "w": 340
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__img__crash_block_1",
+   "name": "Ingame/Map/zombie/img/crash_block_1",
+   "sheet": {
+    "h": 77,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__img__crash_block_2",
+   "name": "Ingame/Map/zombie/img/crash_block_2",
+   "sheet": {
+    "h": 77,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__img__crash_block_3",
+   "name": "Ingame/Map/zombie/img/crash_block_3",
+   "sheet": {
+    "h": 77,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__img__crash_block_4",
+   "name": "Ingame/Map/zombie/img/crash_block_4",
+   "sheet": {
+    "h": 78,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__img__crash_block_5",
+   "name": "Ingame/Map/zombie/img/crash_block_5",
+   "sheet": {
+    "h": 78,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__img__crash_block_6",
+   "name": "Ingame/Map/zombie/img/crash_block_6",
+   "sheet": {
+    "h": 78,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__img__f_block_00",
+   "name": "Ingame/Map/zombie/img/f_block_00",
+   "sheet": {
+    "h": 77,
+    "w": 73
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__img__f_block_01",
+   "name": "Ingame/Map/zombie/img/f_block_01",
+   "sheet": {
+    "h": 76,
+    "w": 69
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__img__f_block_02",
+   "name": "Ingame/Map/zombie/img/f_block_02",
+   "sheet": {
+    "h": 76,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__img__f_block_05",
+   "name": "Ingame/Map/zombie/img/f_block_05",
+   "sheet": {
+    "h": 78,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__img__f_block_06",
+   "name": "Ingame/Map/zombie/img/f_block_06",
+   "sheet": {
+    "h": 77,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__img__f_block_07",
+   "name": "Ingame/Map/zombie/img/f_block_07",
+   "sheet": {
+    "h": 76,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__img__f_block_08",
+   "name": "Ingame/Map/zombie/img/f_block_08",
+   "sheet": {
+    "h": 80,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__img__f_block_10",
+   "name": "Ingame/Map/zombie/img/f_block_10",
+   "sheet": {
+    "h": 85,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__img__f_block_11",
+   "name": "Ingame/Map/zombie/img/f_block_11",
+   "sheet": {
+    "h": 77,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__img__f_block_12",
+   "name": "Ingame/Map/zombie/img/f_block_12",
+   "sheet": {
+    "h": 80,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__img__f_block_13",
+   "name": "Ingame/Map/zombie/img/f_block_13",
+   "sheet": {
+    "h": 80,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__img__grass_a_bottom",
+   "name": "Ingame/Map/zombie/img/grass_a_bottom",
+   "sheet": {
+    "h": 64,
+    "w": 77
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__img__grass_a_middle",
+   "name": "Ingame/Map/zombie/img/grass_a_middle",
+   "sheet": {
+    "h": 59,
+    "w": 74
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__img__grass_a_top",
+   "name": "Ingame/Map/zombie/img/grass_a_top",
+   "sheet": {
+    "h": 17,
+    "w": 35
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__tile__base__sprites__gr_0_0",
+   "name": "Ingame/Map/zombie/tile/base/sprites/gr_0_0",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__tile__base__sprites__gr_0_1",
+   "name": "Ingame/Map/zombie/tile/base/sprites/gr_0_1",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__tile__base__sprites__gr_0_2",
+   "name": "Ingame/Map/zombie/tile/base/sprites/gr_0_2",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__tile__base__sprites__gr_0_3",
+   "name": "Ingame/Map/zombie/tile/base/sprites/gr_0_3",
+   "sheet": {
+    "h": 70,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__tile__base__sprites__gr_0_4",
+   "name": "Ingame/Map/zombie/tile/base/sprites/gr_0_4",
+   "sheet": {
+    "h": 71,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__tile__base__sprites__gr_1_0",
+   "name": "Ingame/Map/zombie/tile/base/sprites/gr_1_0",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__tile__base__sprites__gr_1_1",
+   "name": "Ingame/Map/zombie/tile/base/sprites/gr_1_1",
+   "sheet": {
+    "h": 70,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__tile__base__sprites__gr_1_2",
+   "name": "Ingame/Map/zombie/tile/base/sprites/gr_1_2",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__tile__base__sprites__gr_1_3",
+   "name": "Ingame/Map/zombie/tile/base/sprites/gr_1_3",
+   "sheet": {
+    "h": 69,
+    "w": 69
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__tile__water__sprites__bottom_l",
+   "name": "Ingame/Map/zombie/tile/water/sprites/bottom_l",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__tile__water__sprites__bottom_r",
+   "name": "Ingame/Map/zombie/tile/water/sprites/bottom_r",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__tile__water__sprites__corner_bl",
+   "name": "Ingame/Map/zombie/tile/water/sprites/corner_bl",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__tile__water__sprites__corner_br",
+   "name": "Ingame/Map/zombie/tile/water/sprites/corner_br",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__tile__water__sprites__corner_tl",
+   "name": "Ingame/Map/zombie/tile/water/sprites/corner_tl",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__tile__water__sprites__corner_tr",
+   "name": "Ingame/Map/zombie/tile/water/sprites/corner_tr",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__tile__water__sprites__line_l",
+   "name": "Ingame/Map/zombie/tile/water/sprites/line_l",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__tile__water__sprites__line_vb",
+   "name": "Ingame/Map/zombie/tile/water/sprites/line_vb",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__tile__water__sprites__line_vt",
+   "name": "Ingame/Map/zombie/tile/water/sprites/line_vt",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__tile__water__sprites__m_m",
+   "name": "Ingame/Map/zombie/tile/water/sprites/m_m",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__tile__water__sprites__middle_l",
+   "name": "Ingame/Map/zombie/tile/water/sprites/middle_l",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__tile__water__sprites__middle_r",
+   "name": "Ingame/Map/zombie/tile/water/sprites/middle_r",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__tile__water__sprites__top_l",
+   "name": "Ingame/Map/zombie/tile/water/sprites/top_l",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__tile__water__sprites__top_m",
+   "name": "Ingame/Map/zombie/tile/water/sprites/top_m",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Ingame__Map__zombie__tile__water__sprites__top_r",
+   "name": "Ingame/Map/zombie/tile/water/sprites/top_r",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  }
+ ],
+ "game": "bnb-mobile",
+ "group": "030_map",
+ "schema": "boomhill-open-assets/index/v1",
+ "title": "맵"
+}

@@ -1,0 +1,3519 @@
+{
+ "category": "3d_costume",
+ "game": "bnb-mobile",
+ "items": [
+  {
+   "bytes": 36620,
+   "file": "020_costume/bazzi_ai.glb",
+   "id": "bazzi_ai",
+   "name": "bazzi_ai",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 30,
+    "textures": 3,
+    "triangles": 1218,
+    "vertices": 915
+   },
+   "thumb": "020_costume/bazzi_ai.webp"
+  },
+  {
+   "bytes": 39408,
+   "file": "020_costume/bazzi_april.glb",
+   "id": "bazzi_april",
+   "label": "소풍 배찌",
+   "name": "bazzi_april",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 30,
+    "textures": 3,
+    "triangles": 1378,
+    "vertices": 1221
+   },
+   "thumb": "020_costume/bazzi_april.webp"
+  },
+  {
+   "bytes": 41260,
+   "file": "020_costume/bazzi_arabia.glb",
+   "id": "bazzi_arabia",
+   "label": "아라비안 배찌",
+   "name": "bazzi_arabia",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 27,
+    "textures": 3,
+    "triangles": 1656,
+    "vertices": 1329
+   },
+   "thumb": "020_costume/bazzi_arabia.webp"
+  },
+  {
+   "bytes": 34844,
+   "file": "020_costume/bazzi_baby.glb",
+   "id": "bazzi_baby",
+   "label": "베이비 배찌",
+   "name": "bazzi_baby",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 27,
+    "textures": 3,
+    "triangles": 1030,
+    "vertices": 790
+   },
+   "thumb": "020_costume/bazzi_baby.webp"
+  },
+  {
+   "bytes": 38096,
+   "file": "020_costume/bazzi_christmas.glb",
+   "id": "bazzi_christmas",
+   "label": "산타 배찌",
+   "name": "bazzi_christmas",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 27,
+    "textures": 3,
+    "triangles": 1332,
+    "vertices": 1093
+   },
+   "thumb": "020_costume/bazzi_christmas.webp"
+  },
+  {
+   "bytes": 37540,
+   "file": "020_costume/bazzi_cooker.glb",
+   "id": "bazzi_cooker",
+   "label": "요리사 배찌",
+   "name": "bazzi_cooker",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 27,
+    "textures": 1,
+    "triangles": 1310,
+    "vertices": 1055
+   },
+   "thumb": "020_costume/bazzi_cooker.webp"
+  },
+  {
+   "bytes": 38052,
+   "file": "020_costume/bazzi_frog.glb",
+   "id": "bazzi_frog",
+   "label": "개구리 배찌",
+   "name": "bazzi_frog",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 30,
+    "textures": 3,
+    "triangles": 1300,
+    "vertices": 1025
+   },
+   "thumb": "020_costume/bazzi_frog.webp"
+  },
+  {
+   "bytes": 36500,
+   "file": "020_costume/bazzi_gangsi.glb",
+   "id": "bazzi_gangsi",
+   "label": "강시 배찌",
+   "name": "bazzi_gangsi",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 27,
+    "textures": 3,
+    "triangles": 1212,
+    "vertices": 951
+   },
+   "thumb": "020_costume/bazzi_gangsi.webp"
+  },
+  {
+   "bytes": 38980,
+   "file": "020_costume/bazzi_jeans.glb",
+   "id": "bazzi_jeans",
+   "label": "데님패션 배찌",
+   "name": "bazzi_jeans",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 30,
+    "textures": 3,
+    "triangles": 1439,
+    "vertices": 1106
+   },
+   "thumb": "020_costume/bazzi_jeans.webp"
+  },
+  {
+   "bytes": 38212,
+   "file": "020_costume/bazzi_luxury.glb",
+   "id": "bazzi_luxury",
+   "label": "꿀벌 배찌",
+   "name": "bazzi_luxury",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 30,
+    "textures": 3,
+    "triangles": 1306,
+    "vertices": 1027
+   },
+   "thumb": "020_costume/bazzi_luxury.webp"
+  },
+  {
+   "bytes": 39584,
+   "file": "020_costume/bazzi_magician.glb",
+   "id": "bazzi_magician",
+   "label": "젠틀맨 배찌",
+   "name": "bazzi_magician",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 30,
+    "textures": 4,
+    "triangles": 1469,
+    "vertices": 1148
+   },
+   "thumb": "020_costume/bazzi_magician.webp"
+  },
+  {
+   "bytes": 38304,
+   "file": "020_costume/bazzi_marine.glb",
+   "id": "bazzi_marine",
+   "label": "마린보이 배찌",
+   "name": "bazzi_marine",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 27,
+    "textures": 2,
+    "triangles": 1376,
+    "vertices": 1105
+   },
+   "thumb": "020_costume/bazzi_marine.webp"
+  },
+  {
+   "bytes": 38920,
+   "file": "020_costume/bazzi_mmangel.glb",
+   "id": "bazzi_mmangel",
+   "name": "bazzi_mmangel",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 27,
+    "textures": 4,
+    "triangles": 1588,
+    "vertices": 1189
+   },
+   "thumb": "020_costume/bazzi_mmangel.webp"
+  },
+  {
+   "bytes": 37968,
+   "file": "020_costume/bazzi_mmdevil.glb",
+   "id": "bazzi_mmdevil",
+   "name": "bazzi_mmdevil",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 27,
+    "textures": 4,
+    "triangles": 1452,
+    "vertices": 1123
+   },
+   "thumb": "020_costume/bazzi_mmdevil.webp"
+  },
+  {
+   "bytes": 36664,
+   "file": "020_costume/bazzi_mmmerchant.glb",
+   "id": "bazzi_mmmerchant",
+   "name": "bazzi_mmmerchant",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 27,
+    "textures": 4,
+    "triangles": 1170,
+    "vertices": 969
+   },
+   "thumb": "020_costume/bazzi_mmmerchant.webp"
+  },
+  {
+   "bytes": 36692,
+   "file": "020_costume/bazzi_mouse.glb",
+   "id": "bazzi_mouse",
+   "label": "찍찍이 배찌",
+   "name": "bazzi_mouse",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 30,
+    "textures": 3,
+    "triangles": 1168,
+    "vertices": 927
+   },
+   "thumb": "020_costume/bazzi_mouse.webp"
+  },
+  {
+   "bytes": 36880,
+   "file": "020_costume/bazzi_mushroom.glb",
+   "id": "bazzi_mushroom",
+   "label": "버섯 배찌",
+   "name": "bazzi_mushroom",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 27,
+    "textures": 3,
+    "triangles": 1208,
+    "vertices": 965
+   },
+   "thumb": "020_costume/bazzi_mushroom.webp"
+  },
+  {
+   "bytes": 39912,
+   "file": "020_costume/bazzi_ninja.glb",
+   "id": "bazzi_ninja",
+   "label": "그림자 배찌",
+   "name": "bazzi_ninja",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 27,
+    "textures": 3,
+    "triangles": 1524,
+    "vertices": 1251
+   },
+   "thumb": "020_costume/bazzi_ninja.webp"
+  },
+  {
+   "bytes": 36688,
+   "file": "020_costume/bazzi_oldperson.glb",
+   "id": "bazzi_oldperson",
+   "label": "노인 배찌",
+   "name": "bazzi_oldperson",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 30,
+    "textures": 3,
+    "triangles": 1218,
+    "vertices": 915
+   },
+   "thumb": "020_costume/bazzi_oldperson.webp"
+  },
+  {
+   "bytes": 37028,
+   "file": "020_costume/bazzi_pajamas.glb",
+   "id": "bazzi_pajamas",
+   "label": "잠옷 배찌",
+   "name": "bazzi_pajamas",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 27,
+    "textures": 3,
+    "triangles": 1274,
+    "vertices": 993
+   },
+   "thumb": "020_costume/bazzi_pajamas.webp"
+  },
+  {
+   "bytes": 37052,
+   "file": "020_costume/bazzi_panda.glb",
+   "id": "bazzi_panda",
+   "label": "팬더 배찌",
+   "name": "bazzi_panda",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 30,
+    "textures": 3,
+    "triangles": 1276,
+    "vertices": 931
+   },
+   "thumb": "020_costume/bazzi_panda.webp"
+  },
+  {
+   "bytes": 39188,
+   "file": "020_costume/bazzi_pirate.glb",
+   "id": "bazzi_pirate",
+   "label": "해적 배찌",
+   "name": "bazzi_pirate",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 27,
+    "textures": 3,
+    "triangles": 1438,
+    "vertices": 1196
+   },
+   "thumb": "020_costume/bazzi_pirate.webp"
+  },
+  {
+   "bytes": 36576,
+   "file": "020_costume/bazzi_prisoner.glb",
+   "id": "bazzi_prisoner",
+   "label": "죄수 배찌",
+   "name": "bazzi_prisoner",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 27,
+    "textures": 3,
+    "triangles": 1246,
+    "vertices": 957
+   },
+   "thumb": "020_costume/bazzi_prisoner.webp"
+  },
+  {
+   "bytes": 37032,
+   "file": "020_costume/bazzi_rudolph.glb",
+   "id": "bazzi_rudolph",
+   "label": "루돌프 배찌",
+   "name": "bazzi_rudolph",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 30,
+    "textures": 3,
+    "triangles": 1202,
+    "vertices": 953
+   },
+   "thumb": "020_costume/bazzi_rudolph.webp"
+  },
+  {
+   "bytes": 37344,
+   "file": "020_costume/bazzi_school.glb",
+   "id": "bazzi_school",
+   "label": "교복 배찌",
+   "name": "bazzi_school",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 27,
+    "textures": 3,
+    "triangles": 1312,
+    "vertices": 1015
+   },
+   "thumb": "020_costume/bazzi_school.webp"
+  },
+  {
+   "bytes": 39232,
+   "file": "020_costume/bazzi_schoolx.glb",
+   "id": "bazzi_schoolx",
+   "label": "오디션 배찌",
+   "name": "bazzi_schoolx",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 30,
+    "textures": 3,
+    "triangles": 1368,
+    "vertices": 1130
+   },
+   "thumb": "020_costume/bazzi_schoolx.webp"
+  },
+  {
+   "bytes": 40712,
+   "file": "020_costume/bazzi_sheep.glb",
+   "id": "bazzi_sheep",
+   "label": "양 배찌",
+   "name": "bazzi_sheep",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 30,
+    "textures": 3,
+    "triangles": 1600,
+    "vertices": 1312
+   },
+   "thumb": "020_costume/bazzi_sheep.webp"
+  },
+  {
+   "bytes": 36852,
+   "file": "020_costume/bazzi_shower.glb",
+   "id": "bazzi_shower",
+   "label": "온천 배찌",
+   "name": "bazzi_shower",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 27,
+    "textures": 3,
+    "triangles": 1278,
+    "vertices": 979
+   },
+   "thumb": "020_costume/bazzi_shower.webp"
+  },
+  {
+   "bytes": 37936,
+   "file": "020_costume/bazzi_sportswear.glb",
+   "id": "bazzi_sportswear",
+   "label": "운동선수 배찌",
+   "name": "bazzi_sportswear",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 27,
+    "textures": 3,
+    "triangles": 1300,
+    "vertices": 1066
+   },
+   "thumb": "020_costume/bazzi_sportswear.webp"
+  },
+  {
+   "bytes": 37152,
+   "file": "020_costume/bazzi_summer2020.glb",
+   "id": "bazzi_summer2020",
+   "label": "썸머 배찌",
+   "name": "bazzi_summer2020",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 27,
+    "textures": 3,
+    "triangles": 1246,
+    "vertices": 982
+   },
+   "thumb": "020_costume/bazzi_summer2020.webp"
+  },
+  {
+   "bytes": 37604,
+   "file": "020_costume/bazzi_vacance.glb",
+   "id": "bazzi_vacance",
+   "label": "바캉스 배찌",
+   "name": "bazzi_vacance",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 27,
+    "textures": 3,
+    "triangles": 1306,
+    "vertices": 1043
+   },
+   "thumb": "020_costume/bazzi_vacance.webp"
+  },
+  {
+   "bytes": 38660,
+   "file": "020_costume/bazzi_wedding.glb",
+   "id": "bazzi_wedding",
+   "label": "웨딩 배찌",
+   "name": "bazzi_wedding",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 27,
+    "textures": 3,
+    "triangles": 1392,
+    "vertices": 1135
+   },
+   "thumb": "020_costume/bazzi_wedding.webp"
+  },
+  {
+   "bytes": 39756,
+   "file": "020_costume/bazzi_wolf.glb",
+   "id": "bazzi_wolf",
+   "label": "늑대 배찌",
+   "name": "bazzi_wolf",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 27,
+    "textures": 3,
+    "triangles": 1600,
+    "vertices": 1250
+   },
+   "thumb": "020_costume/bazzi_wolf.webp"
+  },
+  {
+   "bytes": 38876,
+   "file": "020_costume/bazzi_yubi.glb",
+   "id": "bazzi_yubi",
+   "label": "유비 배찌",
+   "name": "bazzi_yubi",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 27,
+    "textures": 3,
+    "triangles": 1348,
+    "vertices": 1167
+   },
+   "thumb": "020_costume/bazzi_yubi.webp"
+  },
+  {
+   "bytes": 32516,
+   "file": "020_costume/bruce_ai.glb",
+   "id": "bruce_ai",
+   "name": "bruce_ai",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 29,
+    "textures": 3,
+    "triangles": 978,
+    "vertices": 743
+   },
+   "thumb": "020_costume/bruce_ai.webp"
+  },
+  {
+   "bytes": 34484,
+   "file": "020_costume/bruce_baby.glb",
+   "id": "bruce_baby",
+   "label": "베이비 브루스",
+   "name": "bruce_baby",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 29,
+    "textures": 3,
+    "triangles": 1150,
+    "vertices": 879
+   },
+   "thumb": "020_costume/bruce_baby.webp"
+  },
+  {
+   "bytes": 34992,
+   "file": "020_costume/bruce_christmas.glb",
+   "id": "bruce_christmas",
+   "label": "산타 브루스",
+   "name": "bruce_christmas",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 29,
+    "textures": 3,
+    "triangles": 1112,
+    "vertices": 951
+   },
+   "thumb": "020_costume/bruce_christmas.webp"
+  },
+  {
+   "bytes": 34904,
+   "file": "020_costume/bruce_cooker.glb",
+   "id": "bruce_cooker",
+   "label": "요리사 브루스",
+   "name": "bruce_cooker",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 29,
+    "textures": 3,
+    "triangles": 1084,
+    "vertices": 909
+   },
+   "thumb": "020_costume/bruce_cooker.webp"
+  },
+  {
+   "bytes": 41740,
+   "file": "020_costume/bruce_cowboy.glb",
+   "id": "bruce_cowboy",
+   "label": "보안관 브루스",
+   "name": "bruce_cowboy",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 29,
+    "textures": 3,
+    "triangles": 1454,
+    "vertices": 1536
+   },
+   "thumb": "020_costume/bruce_cowboy.webp"
+  },
+  {
+   "bytes": 35896,
+   "file": "020_costume/bruce_freshman.glb",
+   "id": "bruce_freshman",
+   "label": "새학기 브루스",
+   "name": "bruce_freshman",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 29,
+    "textures": 3,
+    "triangles": 1192,
+    "vertices": 1022
+   },
+   "thumb": "020_costume/bruce_freshman.webp"
+  },
+  {
+   "bytes": 37252,
+   "file": "020_costume/bruce_halloween.glb",
+   "id": "bruce_halloween",
+   "label": "흡혈귀 브루스",
+   "name": "bruce_halloween",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 29,
+    "textures": 3,
+    "triangles": 1275,
+    "vertices": 1112
+   },
+   "thumb": "020_costume/bruce_halloween.webp"
+  },
+  {
+   "bytes": 41164,
+   "file": "020_costume/bruce_karate.glb",
+   "id": "bruce_karate",
+   "label": "무술가 브루스 도복",
+   "name": "bruce_karate",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 29,
+    "textures": 3,
+    "triangles": 1558,
+    "vertices": 1470
+   },
+   "thumb": "020_costume/bruce_karate.webp"
+  },
+  {
+   "bytes": 38720,
+   "file": "020_costume/bruce_magician.glb",
+   "id": "bruce_magician",
+   "label": "주술사 브루스 로브",
+   "name": "bruce_magician",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 29,
+    "textures": 3,
+    "triangles": 1374,
+    "vertices": 1242
+   },
+   "thumb": "020_costume/bruce_magician.webp"
+  },
+  {
+   "bytes": 33952,
+   "file": "020_costume/bruce_mouse.glb",
+   "id": "bruce_mouse",
+   "label": "찍찍이 브루스",
+   "name": "bruce_mouse",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 29,
+    "textures": 3,
+    "triangles": 1118,
+    "vertices": 843
+   },
+   "thumb": "020_costume/bruce_mouse.webp"
+  },
+  {
+   "bytes": 35476,
+   "file": "020_costume/bruce_pajamas.glb",
+   "id": "bruce_pajamas",
+   "label": "잠옷 브루스",
+   "name": "bruce_pajamas",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 29,
+    "textures": 3,
+    "triangles": 1186,
+    "vertices": 978
+   },
+   "thumb": "020_costume/bruce_pajamas.webp"
+  },
+  {
+   "bytes": 35056,
+   "file": "020_costume/bruce_pig.glb",
+   "id": "bruce_pig",
+   "label": "아기돼지 브루스",
+   "name": "bruce_pig",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 29,
+    "textures": 3,
+    "triangles": 1188,
+    "vertices": 962
+   },
+   "thumb": "020_costume/bruce_pig.webp"
+  },
+  {
+   "bytes": 35468,
+   "file": "020_costume/bruce_prisoner.glb",
+   "id": "bruce_prisoner",
+   "label": "죄수 브루스",
+   "name": "bruce_prisoner",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 29,
+    "textures": 3,
+    "triangles": 1188,
+    "vertices": 1011
+   },
+   "thumb": "020_costume/bruce_prisoner.webp"
+  },
+  {
+   "bytes": 36052,
+   "file": "020_costume/bruce_rider.glb",
+   "id": "bruce_rider",
+   "label": "라이더 브루스",
+   "name": "bruce_rider",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 29,
+    "textures": 3,
+    "triangles": 1217,
+    "vertices": 1075
+   },
+   "thumb": "020_costume/bruce_rider.webp"
+  },
+  {
+   "bytes": 32908,
+   "file": "020_costume/bruce_rudolph.glb",
+   "id": "bruce_rudolph",
+   "label": "루돌프 브루스",
+   "name": "bruce_rudolph",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 29,
+    "textures": 3,
+    "triangles": 992,
+    "vertices": 775
+   },
+   "thumb": "020_costume/bruce_rudolph.webp"
+  },
+  {
+   "bytes": 32580,
+   "file": "020_costume/bruce_schoolx.glb",
+   "id": "bruce_schoolx",
+   "name": "bruce_schoolx",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 29,
+    "textures": 3,
+    "triangles": 978,
+    "vertices": 743
+   },
+   "thumb": "020_costume/bruce_schoolx.webp"
+  },
+  {
+   "bytes": 33996,
+   "file": "020_costume/bruce_shower.glb",
+   "id": "bruce_shower",
+   "label": "온천 브루스",
+   "name": "bruce_shower",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 29,
+    "textures": 3,
+    "triangles": 1044,
+    "vertices": 871
+   },
+   "thumb": "020_costume/bruce_shower.webp"
+  },
+  {
+   "bytes": 37008,
+   "file": "020_costume/bruce_tuxedo.glb",
+   "id": "bruce_tuxedo",
+   "label": "신사 브루스 턱시도",
+   "name": "bruce_tuxedo",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 29,
+    "textures": 3,
+    "triangles": 1294,
+    "vertices": 1099
+   },
+   "thumb": "020_costume/bruce_tuxedo.webp"
+  },
+  {
+   "bytes": 34540,
+   "file": "020_costume/bruce_vacance.glb",
+   "id": "bruce_vacance",
+   "label": "바캉스 브루스",
+   "name": "bruce_vacance",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 29,
+    "textures": 2,
+    "triangles": 1118,
+    "vertices": 883
+   },
+   "thumb": "020_costume/bruce_vacance.webp"
+  },
+  {
+   "bytes": 35676,
+   "file": "020_costume/bruce_wedding.glb",
+   "id": "bruce_wedding",
+   "label": "웨딩 브루스",
+   "name": "bruce_wedding",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 29,
+    "textures": 3,
+    "triangles": 1124,
+    "vertices": 995
+   },
+   "thumb": "020_costume/bruce_wedding.webp"
+  },
+  {
+   "bytes": 37812,
+   "file": "020_costume/danky_ai.glb",
+   "id": "danky_ai",
+   "name": "danky_ai",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 34,
+    "textures": 3,
+    "triangles": 1204,
+    "vertices": 918
+   },
+   "thumb": "020_costume/danky_ai.webp"
+  },
+  {
+   "bytes": 37292,
+   "file": "020_costume/danky_baby.glb",
+   "id": "danky_baby",
+   "label": "베이비 댕키",
+   "name": "danky_baby",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 33,
+    "textures": 3,
+    "triangles": 1140,
+    "vertices": 884
+   },
+   "thumb": "020_costume/danky_baby.webp"
+  },
+  {
+   "bytes": 39988,
+   "file": "020_costume/danky_christmas.glb",
+   "id": "danky_christmas",
+   "label": "산타 댕키",
+   "name": "danky_christmas",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 33,
+    "textures": 3,
+    "triangles": 1326,
+    "vertices": 1116
+   },
+   "thumb": "020_costume/danky_christmas.webp"
+  },
+  {
+   "bytes": 39968,
+   "file": "020_costume/danky_cooker.glb",
+   "id": "danky_cooker",
+   "label": "요리사 댕키",
+   "name": "danky_cooker",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 33,
+    "textures": 3,
+    "triangles": 1320,
+    "vertices": 1110
+   },
+   "thumb": "020_costume/danky_cooker.webp"
+  },
+  {
+   "bytes": 44980,
+   "file": "020_costume/danky_elvis.glb",
+   "id": "danky_elvis",
+   "label": "로큰롤 댕키",
+   "name": "danky_elvis",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 34,
+    "textures": 2,
+    "triangles": 1664,
+    "vertices": 1486
+   },
+   "thumb": "020_costume/danky_elvis.webp"
+  },
+  {
+   "bytes": 43240,
+   "file": "020_costume/danky_farmer.glb",
+   "id": "danky_farmer",
+   "label": "농부 댕키",
+   "name": "danky_farmer",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 36,
+    "textures": 3,
+    "triangles": 1552,
+    "vertices": 1326
+   },
+   "thumb": "020_costume/danky_farmer.webp"
+  },
+  {
+   "bytes": 39880,
+   "file": "020_costume/danky_fox.glb",
+   "id": "danky_fox",
+   "label": "여우 댕키",
+   "name": "danky_fox",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 34,
+    "textures": 3,
+    "triangles": 1318,
+    "vertices": 997
+   },
+   "thumb": "020_costume/danky_fox.webp"
+  },
+  {
+   "bytes": 39740,
+   "file": "020_costume/danky_freshman.glb",
+   "id": "danky_freshman",
+   "label": "새학기 댕키",
+   "name": "danky_freshman",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 33,
+    "textures": 3,
+    "triangles": 1288,
+    "vertices": 1074
+   },
+   "thumb": "020_costume/danky_freshman.webp"
+  },
+  {
+   "bytes": 41684,
+   "file": "020_costume/danky_halloween.glb",
+   "id": "danky_halloween",
+   "label": "미친과학자 댕키",
+   "name": "danky_halloween",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 33,
+    "textures": 3,
+    "triangles": 1456,
+    "vertices": 1243
+   },
+   "thumb": "020_costume/danky_halloween.webp"
+  },
+  {
+   "bytes": 41080,
+   "file": "020_costume/danky_hood.glb",
+   "id": "danky_hood",
+   "label": "후드 댕키",
+   "name": "danky_hood",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 35,
+    "textures": 3,
+    "triangles": 1256,
+    "vertices": 1249
+   },
+   "thumb": "020_costume/danky_hood.webp"
+  },
+  {
+   "bytes": 40748,
+   "file": "020_costume/danky_liang.glb",
+   "id": "danky_liang",
+   "label": "제갈량 댕키",
+   "name": "danky_liang",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 34,
+    "textures": 2,
+    "triangles": 1320,
+    "vertices": 1153
+   },
+   "thumb": "020_costume/danky_liang.webp"
+  },
+  {
+   "bytes": 41556,
+   "file": "020_costume/danky_mmroulette.glb",
+   "id": "danky_mmroulette",
+   "name": "danky_mmroulette",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 33,
+    "textures": 3,
+    "triangles": 1536,
+    "vertices": 1263
+   },
+   "thumb": "020_costume/danky_mmroulette.webp"
+  },
+  {
+   "bytes": 38576,
+   "file": "020_costume/danky_mouse.glb",
+   "id": "danky_mouse",
+   "label": "찍찍이 댕키",
+   "name": "danky_mouse",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 33,
+    "textures": 3,
+    "triangles": 1308,
+    "vertices": 988
+   },
+   "thumb": "020_costume/danky_mouse.webp"
+  },
+  {
+   "bytes": 37848,
+   "file": "020_costume/danky_oldperson.glb",
+   "id": "danky_oldperson",
+   "name": "danky_oldperson",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 34,
+    "textures": 3,
+    "triangles": 1204,
+    "vertices": 918
+   },
+   "thumb": "020_costume/danky_oldperson.webp"
+  },
+  {
+   "bytes": 40928,
+   "file": "020_costume/danky_pajamas.glb",
+   "id": "danky_pajamas",
+   "label": "잠옷 댕키",
+   "name": "danky_pajamas",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 33,
+    "textures": 3,
+    "triangles": 1422,
+    "vertices": 1199
+   },
+   "thumb": "020_costume/danky_pajamas.webp"
+  },
+  {
+   "bytes": 40900,
+   "file": "020_costume/danky_pinocchio.glb",
+   "id": "danky_pinocchio",
+   "label": "피노키오 댕키",
+   "name": "danky_pinocchio",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 33,
+    "textures": 3,
+    "triangles": 1406,
+    "vertices": 1184
+   },
+   "thumb": "020_costume/danky_pinocchio.webp"
+  },
+  {
+   "bytes": 39484,
+   "file": "020_costume/danky_prisoner.glb",
+   "id": "danky_prisoner",
+   "label": "죄수 댕키",
+   "name": "danky_prisoner",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 33,
+    "textures": 3,
+    "triangles": 1290,
+    "vertices": 1058
+   },
+   "thumb": "020_costume/danky_prisoner.webp"
+  },
+  {
+   "bytes": 38860,
+   "file": "020_costume/danky_rudolph.glb",
+   "id": "danky_rudolph",
+   "label": "루돌프 댕키",
+   "name": "danky_rudolph",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 33,
+    "textures": 3,
+    "triangles": 1228,
+    "vertices": 1036
+   },
+   "thumb": "020_costume/danky_rudolph.webp"
+  },
+  {
+   "bytes": 41448,
+   "file": "020_costume/danky_sailor.glb",
+   "id": "danky_sailor",
+   "label": "신입생 댕키 교복",
+   "name": "danky_sailor",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 34,
+    "textures": 3,
+    "triangles": 1358,
+    "vertices": 1244
+   },
+   "thumb": "020_costume/danky_sailor.webp"
+  },
+  {
+   "bytes": 39684,
+   "file": "020_costume/danky_school.glb",
+   "id": "danky_school",
+   "label": "교복 댕키",
+   "name": "danky_school",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 33,
+    "textures": 3,
+    "triangles": 1346,
+    "vertices": 1137
+   },
+   "thumb": "020_costume/danky_school.webp"
+  },
+  {
+   "bytes": 41352,
+   "file": "020_costume/danky_schoolx.glb",
+   "id": "danky_schoolx",
+   "label": "오디션 댕키",
+   "name": "danky_schoolx",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 33,
+    "textures": 3,
+    "triangles": 1474,
+    "vertices": 1224
+   },
+   "thumb": "020_costume/danky_schoolx.webp"
+  },
+  {
+   "bytes": 38692,
+   "file": "020_costume/danky_shark.glb",
+   "id": "danky_shark",
+   "label": "상어 댕키",
+   "name": "danky_shark",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 33,
+    "textures": 3,
+    "triangles": 1286,
+    "vertices": 1022
+   },
+   "thumb": "020_costume/danky_shark.webp"
+  },
+  {
+   "bytes": 39228,
+   "file": "020_costume/danky_shower.glb",
+   "id": "danky_shower",
+   "label": "온천 댕키",
+   "name": "danky_shower",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 33,
+    "textures": 3,
+    "triangles": 1390,
+    "vertices": 1022
+   },
+   "thumb": "020_costume/danky_shower.webp"
+  },
+  {
+   "bytes": 44920,
+   "file": "020_costume/danky_son.glb",
+   "id": "danky_son",
+   "label": "제천대성 댕키",
+   "name": "danky_son",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 34,
+    "textures": 3,
+    "triangles": 1704,
+    "vertices": 1462
+   },
+   "thumb": "020_costume/danky_son.webp"
+  },
+  {
+   "bytes": 38700,
+   "file": "020_costume/danky_summer2020.glb",
+   "id": "danky_summer2020",
+   "label": "썸머 댕키",
+   "name": "danky_summer2020",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 35,
+    "textures": 3,
+    "triangles": 1254,
+    "vertices": 956
+   },
+   "thumb": "020_costume/danky_summer2020.webp"
+  },
+  {
+   "bytes": 40216,
+   "file": "020_costume/danky_vacance.glb",
+   "id": "danky_vacance",
+   "label": "바캉스 댕키 수영복",
+   "name": "danky_vacance",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 33,
+    "textures": 1,
+    "triangles": 1424,
+    "vertices": 1171
+   },
+   "thumb": "020_costume/danky_vacance.webp"
+  },
+  {
+   "bytes": 41900,
+   "file": "020_costume/danky_wedding.glb",
+   "id": "danky_wedding",
+   "label": "웨딩 댕키",
+   "name": "danky_wedding",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 33,
+    "textures": 3,
+    "triangles": 1466,
+    "vertices": 1266
+   },
+   "thumb": "020_costume/danky_wedding.webp"
+  },
+  {
+   "bytes": 42768,
+   "file": "020_costume/danky_winter.glb",
+   "id": "danky_winter",
+   "label": "겨울복장 댕키",
+   "name": "danky_winter",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 34,
+    "textures": 3,
+    "triangles": 1705,
+    "vertices": 1325
+   },
+   "thumb": "020_costume/danky_winter.webp"
+  },
+  {
+   "bytes": 32532,
+   "file": "020_costume/dao_ai.glb",
+   "id": "dao_ai",
+   "name": "dao_ai",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 28,
+    "textures": 3,
+    "triangles": 1180,
+    "vertices": 920
+   },
+   "thumb": "020_costume/dao_ai.webp"
+  },
+  {
+   "bytes": 33120,
+   "file": "020_costume/dao_april.glb",
+   "id": "dao_april",
+   "label": "소풍 다오",
+   "name": "dao_april",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 30,
+    "textures": 3,
+    "triangles": 1170,
+    "vertices": 936
+   },
+   "thumb": "020_costume/dao_april.webp"
+  },
+  {
+   "bytes": 31924,
+   "file": "020_costume/dao_baby.glb",
+   "id": "dao_baby",
+   "label": "베이비 다오",
+   "name": "dao_baby",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 30,
+    "textures": 3,
+    "triangles": 1120,
+    "vertices": 852
+   },
+   "thumb": "020_costume/dao_baby.webp"
+  },
+  {
+   "bytes": 33960,
+   "file": "020_costume/dao_christmas.glb",
+   "id": "dao_christmas",
+   "label": "산타 다오",
+   "name": "dao_christmas",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 28,
+    "textures": 3,
+    "triangles": 1236,
+    "vertices": 1014
+   },
+   "thumb": "020_costume/dao_christmas.webp"
+  },
+  {
+   "bytes": 33320,
+   "file": "020_costume/dao_cooker.glb",
+   "id": "dao_cooker",
+   "label": "요리사 다오",
+   "name": "dao_cooker",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 28,
+    "textures": 3,
+    "triangles": 1194,
+    "vertices": 1010
+   },
+   "thumb": "020_costume/dao_cooker.webp"
+  },
+  {
+   "bytes": 36184,
+   "file": "020_costume/dao_guanyu.glb",
+   "id": "dao_guanyu",
+   "label": "관우 다오",
+   "name": "dao_guanyu",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 28,
+    "textures": 3,
+    "triangles": 1450,
+    "vertices": 1286
+   },
+   "thumb": "020_costume/dao_guanyu.webp"
+  },
+  {
+   "bytes": 32016,
+   "file": "020_costume/dao_halloween.glb",
+   "id": "dao_halloween",
+   "label": "미라 다오",
+   "name": "dao_halloween",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 30,
+    "textures": 3,
+    "triangles": 1114,
+    "vertices": 820
+   },
+   "thumb": "020_costume/dao_halloween.webp"
+  },
+  {
+   "bytes": 32972,
+   "file": "020_costume/dao_hanbok.glb",
+   "id": "dao_hanbok",
+   "label": "양반 다오",
+   "name": "dao_hanbok",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 28,
+    "textures": 3,
+    "triangles": 1148,
+    "vertices": 927
+   },
+   "thumb": "020_costume/dao_hanbok.webp"
+  },
+  {
+   "bytes": 37732,
+   "file": "020_costume/dao_hiphop.glb",
+   "id": "dao_hiphop",
+   "label": "힙합 다오",
+   "name": "dao_hiphop",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 28,
+    "textures": 3,
+    "triangles": 1566,
+    "vertices": 1446
+   },
+   "thumb": "020_costume/dao_hiphop.webp"
+  },
+  {
+   "bytes": 32268,
+   "file": "020_costume/dao_luxury.glb",
+   "id": "dao_luxury",
+   "label": "불꽃 다오",
+   "name": "dao_luxury",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 28,
+    "textures": 3,
+    "triangles": 1200,
+    "vertices": 880
+   },
+   "thumb": "020_costume/dao_luxury.webp"
+  },
+  {
+   "bytes": 34480,
+   "file": "020_costume/dao_marine.glb",
+   "id": "dao_marine",
+   "label": "마린보이 다오",
+   "name": "dao_marine",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 28,
+    "textures": 3,
+    "triangles": 1322,
+    "vertices": 1086
+   },
+   "thumb": "020_costume/dao_marine.webp"
+  },
+  {
+   "bytes": 36212,
+   "file": "020_costume/dao_mohican.glb",
+   "id": "dao_mohican",
+   "label": "모히칸 다오",
+   "name": "dao_mohican",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 28,
+    "textures": 3,
+    "triangles": 1302,
+    "vertices": 1214
+   },
+   "thumb": "020_costume/dao_mohican.webp"
+  },
+  {
+   "bytes": 31940,
+   "file": "020_costume/dao_mouse.glb",
+   "id": "dao_mouse",
+   "label": "찍찍이 다오",
+   "name": "dao_mouse",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 28,
+    "textures": 3,
+    "triangles": 1094,
+    "vertices": 883
+   },
+   "thumb": "020_costume/dao_mouse.webp"
+  },
+  {
+   "bytes": 33496,
+   "file": "020_costume/dao_ninja.glb",
+   "id": "dao_ninja",
+   "label": "그림자 다오",
+   "name": "dao_ninja",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 28,
+    "textures": 3,
+    "triangles": 1242,
+    "vertices": 991
+   },
+   "thumb": "020_costume/dao_ninja.webp"
+  },
+  {
+   "bytes": 32564,
+   "file": "020_costume/dao_oldperson.glb",
+   "id": "dao_oldperson",
+   "name": "dao_oldperson",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 28,
+    "textures": 3,
+    "triangles": 1180,
+    "vertices": 920
+   },
+   "thumb": "020_costume/dao_oldperson.webp"
+  },
+  {
+   "bytes": 35624,
+   "file": "020_costume/dao_pajamas.glb",
+   "id": "dao_pajamas",
+   "label": "잠옷 다오",
+   "name": "dao_pajamas",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 27,
+    "textures": 3,
+    "triangles": 1384,
+    "vertices": 1290
+   },
+   "thumb": "020_costume/dao_pajamas.webp"
+  },
+  {
+   "bytes": 35504,
+   "file": "020_costume/dao_pirate.glb",
+   "id": "dao_pirate",
+   "label": "캡틴 다오",
+   "name": "dao_pirate",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 28,
+    "textures": 3,
+    "triangles": 1258,
+    "vertices": 1160
+   },
+   "thumb": "020_costume/dao_pirate.webp"
+  },
+  {
+   "bytes": 32532,
+   "file": "020_costume/dao_prisoner.glb",
+   "id": "dao_prisoner",
+   "label": "죄수 다오 죄수복",
+   "name": "dao_prisoner",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 28,
+    "textures": 3,
+    "triangles": 1130,
+    "vertices": 932
+   },
+   "thumb": "020_costume/dao_prisoner.webp"
+  },
+  {
+   "bytes": 34092,
+   "file": "020_costume/dao_rudolph.glb",
+   "id": "dao_rudolph",
+   "label": "루돌프 다오",
+   "name": "dao_rudolph",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 30,
+    "textures": 3,
+    "triangles": 1200,
+    "vertices": 964
+   },
+   "thumb": "020_costume/dao_rudolph.webp"
+  },
+  {
+   "bytes": 33860,
+   "file": "020_costume/dao_school.glb",
+   "id": "dao_school",
+   "label": "교복 다오",
+   "name": "dao_school",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 30,
+    "textures": 3,
+    "triangles": 1272,
+    "vertices": 988
+   },
+   "thumb": "020_costume/dao_school.webp"
+  },
+  {
+   "bytes": 34160,
+   "file": "020_costume/dao_schoolx.glb",
+   "id": "dao_schoolx",
+   "label": "오디션 다오",
+   "name": "dao_schoolx",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 28,
+    "textures": 3,
+    "triangles": 1290,
+    "vertices": 1058
+   },
+   "thumb": "020_costume/dao_schoolx.webp"
+  },
+  {
+   "bytes": 33580,
+   "file": "020_costume/dao_sheriff.glb",
+   "id": "dao_sheriff",
+   "label": "보안관 다오",
+   "name": "dao_sheriff",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 28,
+    "textures": 3,
+    "triangles": 1240,
+    "vertices": 1005
+   },
+   "thumb": "020_costume/dao_sheriff.webp"
+  },
+  {
+   "bytes": 33788,
+   "file": "020_costume/dao_shower.glb",
+   "id": "dao_shower",
+   "label": "온천 다오",
+   "name": "dao_shower",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 30,
+    "textures": 3,
+    "triangles": 1270,
+    "vertices": 1014
+   },
+   "thumb": "020_costume/dao_shower.webp"
+  },
+  {
+   "bytes": 32764,
+   "file": "020_costume/dao_son.glb",
+   "id": "dao_son",
+   "label": "손오공 다오",
+   "name": "dao_son",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 27,
+    "textures": 3,
+    "triangles": 1194,
+    "vertices": 923
+   },
+   "thumb": "020_costume/dao_son.webp"
+  },
+  {
+   "bytes": 33244,
+   "file": "020_costume/dao_sportswear.glb",
+   "id": "dao_sportswear",
+   "label": "트레이닝복 다오",
+   "name": "dao_sportswear",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 28,
+    "textures": 3,
+    "triangles": 1172,
+    "vertices": 984
+   },
+   "thumb": "020_costume/dao_sportswear.webp"
+  },
+  {
+   "bytes": 34540,
+   "file": "020_costume/dao_vacance.glb",
+   "id": "dao_vacance",
+   "label": "바캉스 다오 잠수복",
+   "name": "dao_vacance",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 28,
+    "textures": 3,
+    "triangles": 1332,
+    "vertices": 1099
+   },
+   "thumb": "020_costume/dao_vacance.webp"
+  },
+  {
+   "bytes": 41628,
+   "file": "020_costume/dao_viking.glb",
+   "id": "dao_viking",
+   "label": "바이킹 다오",
+   "name": "dao_viking",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 28,
+    "textures": 3,
+    "triangles": 1842,
+    "vertices": 1845
+   },
+   "thumb": "020_costume/dao_viking.webp"
+  },
+  {
+   "bytes": 33668,
+   "file": "020_costume/dao_wedding.glb",
+   "id": "dao_wedding",
+   "label": "웨딩 다오",
+   "name": "dao_wedding",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 28,
+    "textures": 3,
+    "triangles": 1234,
+    "vertices": 1016
+   },
+   "thumb": "020_costume/dao_wedding.webp"
+  },
+  {
+   "bytes": 35292,
+   "file": "020_costume/dizni_ai.glb",
+   "id": "dizni_ai",
+   "name": "dizni_ai",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 31,
+    "textures": 3,
+    "triangles": 1186,
+    "vertices": 913
+   },
+   "thumb": "020_costume/dizni_ai.webp"
+  },
+  {
+   "bytes": 39216,
+   "file": "020_costume/dizni_april.glb",
+   "id": "dizni_april",
+   "label": "소풍 디지니",
+   "name": "dizni_april",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 31,
+    "textures": 3,
+    "triangles": 1322,
+    "vertices": 1187
+   },
+   "thumb": "020_costume/dizni_april.webp"
+  },
+  {
+   "bytes": 38768,
+   "file": "020_costume/dizni_athlete.glb",
+   "id": "dizni_athlete",
+   "label": "응원단 디지니 단복",
+   "name": "dizni_athlete",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 33,
+    "textures": 3,
+    "triangles": 1498,
+    "vertices": 1221
+   },
+   "thumb": "020_costume/dizni_athlete.webp"
+  },
+  {
+   "bytes": 35268,
+   "file": "020_costume/dizni_baby.glb",
+   "id": "dizni_baby",
+   "label": "베이비 디지니",
+   "name": "dizni_baby",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 31,
+    "textures": 3,
+    "triangles": 1218,
+    "vertices": 912
+   },
+   "thumb": "020_costume/dizni_baby.webp"
+  },
+  {
+   "bytes": 37504,
+   "file": "020_costume/dizni_cat.glb",
+   "id": "dizni_cat",
+   "label": "고양이 디지니",
+   "name": "dizni_cat",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 31,
+    "textures": 3,
+    "triangles": 1328,
+    "vertices": 1144
+   },
+   "thumb": "020_costume/dizni_cat.webp"
+  },
+  {
+   "bytes": 38548,
+   "file": "020_costume/dizni_christmas.glb",
+   "id": "dizni_christmas",
+   "label": "산타 디지니",
+   "name": "dizni_christmas",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 31,
+    "textures": 3,
+    "triangles": 1424,
+    "vertices": 1182
+   },
+   "thumb": "020_costume/dizni_christmas.webp"
+  },
+  {
+   "bytes": 35168,
+   "file": "020_costume/dizni_classic.glb",
+   "id": "dizni_classic",
+   "label": "오리지널 디지니",
+   "name": "dizni_classic",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 31,
+    "textures": 3,
+    "triangles": 1110,
+    "vertices": 960
+   },
+   "thumb": "020_costume/dizni_classic.webp"
+  },
+  {
+   "bytes": 41080,
+   "file": "020_costume/dizni_cooker.glb",
+   "id": "dizni_cooker",
+   "label": "요리사 디지니",
+   "name": "dizni_cooker",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 31,
+    "textures": 3,
+    "triangles": 1678,
+    "vertices": 1452
+   },
+   "thumb": "020_costume/dizni_cooker.webp"
+  },
+  {
+   "bytes": 40932,
+   "file": "020_costume/dizni_fish.glb",
+   "id": "dizni_fish",
+   "label": "고기잡이 디지니",
+   "name": "dizni_fish",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 31,
+    "textures": 3,
+    "triangles": 1506,
+    "vertices": 1459
+   },
+   "thumb": "020_costume/dizni_fish.webp"
+  },
+  {
+   "bytes": 38980,
+   "file": "020_costume/dizni_halloween.glb",
+   "id": "dizni_halloween",
+   "label": "좀비수녀 디지니",
+   "name": "dizni_halloween",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 31,
+    "textures": 3,
+    "triangles": 1262,
+    "vertices": 1191
+   },
+   "thumb": "020_costume/dizni_halloween.webp"
+  },
+  {
+   "bytes": 36860,
+   "file": "020_costume/dizni_hanbok.glb",
+   "id": "dizni_hanbok",
+   "label": "규수 디지니",
+   "name": "dizni_hanbok",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 31,
+    "textures": 3,
+    "triangles": 1274,
+    "vertices": 1034
+   },
+   "thumb": "020_costume/dizni_hanbok.webp"
+  },
+  {
+   "bytes": 37604,
+   "file": "020_costume/dizni_mermaid.glb",
+   "id": "dizni_mermaid",
+   "label": "인어공주 디지니",
+   "name": "dizni_mermaid",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 31,
+    "textures": 3,
+    "triangles": 1598,
+    "vertices": 1169
+   },
+   "thumb": "020_costume/dizni_mermaid.webp"
+  },
+  {
+   "bytes": 33560,
+   "file": "020_costume/dizni_mouse.glb",
+   "id": "dizni_mouse",
+   "label": "찍찍이 디지니",
+   "name": "dizni_mouse",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 31,
+    "textures": 3,
+    "triangles": 982,
+    "vertices": 779
+   },
+   "thumb": "020_costume/dizni_mouse.webp"
+  },
+  {
+   "bytes": 39372,
+   "file": "020_costume/dizni_ninetail.glb",
+   "id": "dizni_ninetail",
+   "label": "구미호 디지니",
+   "name": "dizni_ninetail",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 31,
+    "textures": 3,
+    "triangles": 1502,
+    "vertices": 1317
+   },
+   "thumb": "020_costume/dizni_ninetail.webp"
+  },
+  {
+   "bytes": 35356,
+   "file": "020_costume/dizni_oldperson.glb",
+   "id": "dizni_oldperson",
+   "label": "노인 디지니",
+   "name": "dizni_oldperson",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 31,
+    "textures": 3,
+    "triangles": 1186,
+    "vertices": 913
+   },
+   "thumb": "020_costume/dizni_oldperson.webp"
+  },
+  {
+   "bytes": 39248,
+   "file": "020_costume/dizni_overalls.glb",
+   "id": "dizni_overalls",
+   "label": "말괄량이 디지니",
+   "name": "dizni_overalls",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 31,
+    "textures": 3,
+    "triangles": 1602,
+    "vertices": 1334
+   },
+   "thumb": "020_costume/dizni_overalls.webp"
+  },
+  {
+   "bytes": 36832,
+   "file": "020_costume/dizni_pajamas.glb",
+   "id": "dizni_pajamas",
+   "label": "잠옷 디지니",
+   "name": "dizni_pajamas",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 30,
+    "textures": 3,
+    "triangles": 1338,
+    "vertices": 1058
+   },
+   "thumb": "020_costume/dizni_pajamas.webp"
+  },
+  {
+   "bytes": 37056,
+   "file": "020_costume/dizni_prisoner.glb",
+   "id": "dizni_prisoner",
+   "label": "죄수 디지니",
+   "name": "dizni_prisoner",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 32,
+    "textures": 3,
+    "triangles": 1390,
+    "vertices": 1050
+   },
+   "thumb": "020_costume/dizni_prisoner.webp"
+  },
+  {
+   "bytes": 37712,
+   "file": "020_costume/dizni_rudolph.glb",
+   "id": "dizni_rudolph",
+   "label": "루돌프 디지니",
+   "name": "dizni_rudolph",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 31,
+    "textures": 3,
+    "triangles": 1242,
+    "vertices": 1058
+   },
+   "thumb": "020_costume/dizni_rudolph.webp"
+  },
+  {
+   "bytes": 40044,
+   "file": "020_costume/dizni_schoolx.glb",
+   "id": "dizni_schoolx",
+   "label": "오디션 디지니",
+   "name": "dizni_schoolx",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 31,
+    "textures": 3,
+    "triangles": 1514,
+    "vertices": 1290
+   },
+   "thumb": "020_costume/dizni_schoolx.webp"
+  },
+  {
+   "bytes": 41160,
+   "file": "020_costume/dizni_shang.glb",
+   "id": "dizni_shang",
+   "label": "손상향 디지니",
+   "name": "dizni_shang",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 31,
+    "textures": 3,
+    "triangles": 1649,
+    "vertices": 1439
+   },
+   "thumb": "020_costume/dizni_shang.webp"
+  },
+  {
+   "bytes": 37168,
+   "file": "020_costume/dizni_shower.glb",
+   "id": "dizni_shower",
+   "label": "온천 디지니",
+   "name": "dizni_shower",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 31,
+    "textures": 3,
+    "triangles": 1293,
+    "vertices": 1081
+   },
+   "thumb": "020_costume/dizni_shower.webp"
+  },
+  {
+   "bytes": 41492,
+   "file": "020_costume/dizni_vacance.glb",
+   "id": "dizni_vacance",
+   "label": "바캉스 디지니",
+   "name": "dizni_vacance",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 33,
+    "textures": 3,
+    "triangles": 1609,
+    "vertices": 1375
+   },
+   "thumb": "020_costume/dizni_vacance.webp"
+  },
+  {
+   "bytes": 37472,
+   "file": "020_costume/dizni_wdress.glb",
+   "id": "dizni_wdress",
+   "name": "dizni_wdress",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 31,
+    "textures": 3,
+    "triangles": 1336,
+    "vertices": 1092
+   },
+   "thumb": "020_costume/dizni_wdress.webp"
+  },
+  {
+   "bytes": 37528,
+   "file": "020_costume/dizni_wedding.glb",
+   "id": "dizni_wedding",
+   "label": "웨딩 디지니",
+   "name": "dizni_wedding",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 31,
+    "textures": 3,
+    "triangles": 1338,
+    "vertices": 1094
+   },
+   "thumb": "020_costume/dizni_wedding.webp"
+  },
+  {
+   "bytes": 41176,
+   "file": "020_costume/kephi_ai.glb",
+   "id": "kephi_ai",
+   "name": "kephi_ai",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 33,
+    "textures": 3,
+    "triangles": 1488,
+    "vertices": 1007
+   },
+   "thumb": "020_costume/kephi_ai.webp"
+  },
+  {
+   "bytes": 42716,
+   "file": "020_costume/kephi_april.glb",
+   "id": "kephi_april",
+   "label": "소풍 케피 옷",
+   "name": "kephi_april",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 33,
+    "textures": 3,
+    "triangles": 1560,
+    "vertices": 1137
+   },
+   "thumb": "020_costume/kephi_april.webp"
+  },
+  {
+   "bytes": 41652,
+   "file": "020_costume/kephi_baby.glb",
+   "id": "kephi_baby",
+   "label": "베이비 케피",
+   "name": "kephi_baby",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 33,
+    "textures": 3,
+    "triangles": 1488,
+    "vertices": 1041
+   },
+   "thumb": "020_costume/kephi_baby.webp"
+  },
+  {
+   "bytes": 46076,
+   "file": "020_costume/kephi_christmas.glb",
+   "id": "kephi_christmas",
+   "label": "산타 케피",
+   "name": "kephi_christmas",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 33,
+    "textures": 3,
+    "triangles": 1688,
+    "vertices": 1334
+   },
+   "thumb": "020_costume/kephi_christmas.webp"
+  },
+  {
+   "bytes": 46132,
+   "file": "020_costume/kephi_cooker.glb",
+   "id": "kephi_cooker",
+   "label": "요리사 케피",
+   "name": "kephi_cooker",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 33,
+    "textures": 3,
+    "triangles": 1826,
+    "vertices": 1425
+   },
+   "thumb": "020_costume/kephi_cooker.webp"
+  },
+  {
+   "bytes": 40512,
+   "file": "020_costume/kephi_dinosaur.glb",
+   "id": "kephi_dinosaur",
+   "label": "공룡 케피",
+   "name": "kephi_dinosaur",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 33,
+    "textures": 3,
+    "triangles": 1144,
+    "vertices": 1018
+   },
+   "thumb": "020_costume/kephi_dinosaur.webp"
+  },
+  {
+   "bytes": 48988,
+   "file": "020_costume/kephi_genie.glb",
+   "id": "kephi_genie",
+   "label": "지니 케피",
+   "name": "kephi_genie",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 33,
+    "textures": 3,
+    "triangles": 1982,
+    "vertices": 1711
+   },
+   "thumb": "020_costume/kephi_genie.webp"
+  },
+  {
+   "bytes": 42204,
+   "file": "020_costume/kephi_halloween.glb",
+   "id": "kephi_halloween",
+   "label": "꼬마유령 케피",
+   "name": "kephi_halloween",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 33,
+    "textures": 3,
+    "triangles": 1460,
+    "vertices": 1067
+   },
+   "thumb": "020_costume/kephi_halloween.webp"
+  },
+  {
+   "bytes": 49284,
+   "file": "020_costume/kephi_hawaiian.glb",
+   "id": "kephi_hawaiian",
+   "label": "훌라훌라 케피",
+   "name": "kephi_hawaiian",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 33,
+    "textures": 3,
+    "triangles": 1954,
+    "vertices": 1709
+   },
+   "thumb": "020_costume/kephi_hawaiian.webp"
+  },
+  {
+   "bytes": 43700,
+   "file": "020_costume/kephi_indian.glb",
+   "id": "kephi_indian",
+   "label": "원주민 케피",
+   "name": "kephi_indian",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 33,
+    "textures": 3,
+    "triangles": 1540,
+    "vertices": 1221
+   },
+   "thumb": "020_costume/kephi_indian.webp"
+  },
+  {
+   "bytes": 43912,
+   "file": "020_costume/kephi_luxury.glb",
+   "id": "kephi_luxury",
+   "label": "럭셔리 케피",
+   "name": "kephi_luxury",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 33,
+    "textures": 3,
+    "triangles": 1648,
+    "vertices": 1251
+   },
+   "thumb": "020_costume/kephi_luxury.webp"
+  },
+  {
+   "bytes": 39072,
+   "file": "020_costume/kephi_mouse.glb",
+   "id": "kephi_mouse",
+   "label": "찍찍이 케피",
+   "name": "kephi_mouse",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 33,
+    "textures": 3,
+    "triangles": 1162,
+    "vertices": 887
+   },
+   "thumb": "020_costume/kephi_mouse.webp"
+  },
+  {
+   "bytes": 41208,
+   "file": "020_costume/kephi_oldperson.glb",
+   "id": "kephi_oldperson",
+   "name": "kephi_oldperson",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 33,
+    "textures": 3,
+    "triangles": 1488,
+    "vertices": 1007
+   },
+   "thumb": "020_costume/kephi_oldperson.webp"
+  },
+  {
+   "bytes": 38304,
+   "file": "020_costume/kephi_pajamas.glb",
+   "id": "kephi_pajamas",
+   "label": "잠옷 케피",
+   "name": "kephi_pajamas",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 33,
+    "textures": 3,
+    "triangles": 1088,
+    "vertices": 810
+   },
+   "thumb": "020_costume/kephi_pajamas.webp"
+  },
+  {
+   "bytes": 44296,
+   "file": "020_costume/kephi_prisoner.glb",
+   "id": "kephi_prisoner",
+   "label": "죄수 케피 죄수복",
+   "name": "kephi_prisoner",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 33,
+    "textures": 3,
+    "triangles": 1580,
+    "vertices": 1253
+   },
+   "thumb": "020_costume/kephi_prisoner.webp"
+  },
+  {
+   "bytes": 43320,
+   "file": "020_costume/kephi_rudolph.glb",
+   "id": "kephi_rudolph",
+   "label": "루돌프 케피",
+   "name": "kephi_rudolph",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 33,
+    "textures": 3,
+    "triangles": 1540,
+    "vertices": 1129
+   },
+   "thumb": "020_costume/kephi_rudolph.webp"
+  },
+  {
+   "bytes": 46136,
+   "file": "020_costume/kephi_school.glb",
+   "id": "kephi_school",
+   "label": "교복 케피",
+   "name": "kephi_school",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 33,
+    "textures": 3,
+    "triangles": 1808,
+    "vertices": 1403
+   },
+   "thumb": "020_costume/kephi_school.webp"
+  },
+  {
+   "bytes": 45688,
+   "file": "020_costume/kephi_schoolx.glb",
+   "id": "kephi_schoolx",
+   "label": "오디션 케피",
+   "name": "kephi_schoolx",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 33,
+    "textures": 3,
+    "triangles": 1792,
+    "vertices": 1403
+   },
+   "thumb": "020_costume/kephi_schoolx.webp"
+  },
+  {
+   "bytes": 45308,
+   "file": "020_costume/kephi_shower.glb",
+   "id": "kephi_shower",
+   "label": "온천 케피",
+   "name": "kephi_shower",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 33,
+    "textures": 3,
+    "triangles": 1770,
+    "vertices": 1347
+   },
+   "thumb": "020_costume/kephi_shower.webp"
+  },
+  {
+   "bytes": 42832,
+   "file": "020_costume/kephi_swim.glb",
+   "id": "kephi_swim",
+   "label": "수영선수 케피 수영복",
+   "name": "kephi_swim",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 33,
+    "textures": 3,
+    "triangles": 1552,
+    "vertices": 1137
+   },
+   "thumb": "020_costume/kephi_swim.webp"
+  },
+  {
+   "bytes": 46708,
+   "file": "020_costume/kephi_tradition.glb",
+   "id": "kephi_tradition",
+   "label": "여행가 케피",
+   "name": "kephi_tradition",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 33,
+    "textures": 3,
+    "triangles": 1679,
+    "vertices": 1432
+   },
+   "thumb": "020_costume/kephi_tradition.webp"
+  },
+  {
+   "bytes": 41716,
+   "file": "020_costume/kephi_vacance.glb",
+   "id": "kephi_vacance",
+   "label": "바캉스 케피",
+   "name": "kephi_vacance",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 33,
+    "textures": 3,
+    "triangles": 1500,
+    "vertices": 1039
+   },
+   "thumb": "020_costume/kephi_vacance.webp"
+  },
+  {
+   "bytes": 45480,
+   "file": "020_costume/kephi_wedding.glb",
+   "id": "kephi_wedding",
+   "label": "웨딩 케피",
+   "name": "kephi_wedding",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 33,
+    "textures": 3,
+    "triangles": 1780,
+    "vertices": 1351
+   },
+   "thumb": "020_costume/kephi_wedding.webp"
+  },
+  {
+   "bytes": 48668,
+   "file": "020_costume/kephi_zangbi.glb",
+   "id": "kephi_zangbi",
+   "label": "장비 케피",
+   "name": "kephi_zangbi",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 33,
+    "textures": 3,
+    "triangles": 1814,
+    "vertices": 1654
+   },
+   "thumb": "020_costume/kephi_zangbi.webp"
+  },
+  {
+   "bytes": 42400,
+   "file": "020_costume/lodumani_blue.glb",
+   "id": "lodumani_blue",
+   "name": "lodumani_blue",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 35,
+    "textures": 3,
+    "triangles": 1540,
+    "vertices": 1355
+   },
+   "thumb": "020_costume/lodumani_blue.webp"
+  },
+  {
+   "bytes": 35624,
+   "file": "020_costume/marid_ai.glb",
+   "id": "marid_ai",
+   "name": "marid_ai",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 30,
+    "textures": 3,
+    "triangles": 1138,
+    "vertices": 944
+   },
+   "thumb": "020_costume/marid_ai.webp"
+  },
+  {
+   "bytes": 37524,
+   "file": "020_costume/marid_alice.glb",
+   "id": "marid_alice",
+   "label": "앨리스 마리드",
+   "name": "marid_alice",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 29,
+    "textures": 3,
+    "triangles": 1406,
+    "vertices": 1184
+   },
+   "thumb": "020_costume/marid_alice.webp"
+  },
+  {
+   "bytes": 34832,
+   "file": "020_costume/marid_baby.glb",
+   "id": "marid_baby",
+   "label": "베이비 마리드",
+   "name": "marid_baby",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 30,
+    "textures": 3,
+    "triangles": 1252,
+    "vertices": 916
+   },
+   "thumb": "020_costume/marid_baby.webp"
+  },
+  {
+   "bytes": 34528,
+   "file": "020_costume/marid_chosun.glb",
+   "id": "marid_chosun",
+   "label": "초선 마리드",
+   "name": "marid_chosun",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 30,
+    "textures": 3,
+    "triangles": 1000,
+    "vertices": 879
+   },
+   "thumb": "020_costume/marid_chosun.webp"
+  },
+  {
+   "bytes": 35724,
+   "file": "020_costume/marid_christmas.glb",
+   "id": "marid_christmas",
+   "label": "산타 마리드",
+   "name": "marid_christmas",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 30,
+    "textures": 3,
+    "triangles": 1258,
+    "vertices": 958
+   },
+   "thumb": "020_costume/marid_christmas.webp"
+  },
+  {
+   "bytes": 38888,
+   "file": "020_costume/marid_cooker.glb",
+   "id": "marid_cooker",
+   "label": "요리사 마리드",
+   "name": "marid_cooker",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 30,
+    "textures": 3,
+    "triangles": 1608,
+    "vertices": 1246
+   },
+   "thumb": "020_costume/marid_cooker.webp"
+  },
+  {
+   "bytes": 39464,
+   "file": "020_costume/marid_freshman.glb",
+   "id": "marid_freshman",
+   "label": "새학기 마리드",
+   "name": "marid_freshman",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 30,
+    "textures": 3,
+    "triangles": 1582,
+    "vertices": 1316
+   },
+   "thumb": "020_costume/marid_freshman.webp"
+  },
+  {
+   "bytes": 40468,
+   "file": "020_costume/marid_hawaiian.glb",
+   "id": "marid_hawaiian",
+   "label": "하와이안 마리드",
+   "name": "marid_hawaiian",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 30,
+    "textures": 3,
+    "triangles": 1421,
+    "vertices": 1405
+   },
+   "thumb": "020_costume/marid_hawaiian.webp"
+  },
+  {
+   "bytes": 37256,
+   "file": "020_costume/marid_indian.glb",
+   "id": "marid_indian",
+   "label": "원주민 마리드",
+   "name": "marid_indian",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 30,
+    "textures": 3,
+    "triangles": 1386,
+    "vertices": 1108
+   },
+   "thumb": "020_costume/marid_indian.webp"
+  },
+  {
+   "bytes": 34484,
+   "file": "020_costume/marid_luxury.glb",
+   "id": "marid_luxury",
+   "label": "럭셔리 마리드",
+   "name": "marid_luxury",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 30,
+    "textures": 3,
+    "triangles": 1144,
+    "vertices": 860
+   },
+   "thumb": "020_costume/marid_luxury.webp"
+  },
+  {
+   "bytes": 34532,
+   "file": "020_costume/marid_mouse.glb",
+   "id": "marid_mouse",
+   "label": "찍찍이 마리드",
+   "name": "marid_mouse",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 30,
+    "textures": 3,
+    "triangles": 1192,
+    "vertices": 870
+   },
+   "thumb": "020_costume/marid_mouse.webp"
+  },
+  {
+   "bytes": 35660,
+   "file": "020_costume/marid_oldperson.glb",
+   "id": "marid_oldperson",
+   "name": "marid_oldperson",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 30,
+    "textures": 3,
+    "triangles": 1138,
+    "vertices": 944
+   },
+   "thumb": "020_costume/marid_oldperson.webp"
+  },
+  {
+   "bytes": 34856,
+   "file": "020_costume/marid_pajamas.glb",
+   "id": "marid_pajamas",
+   "label": "잠옷 마리드",
+   "name": "marid_pajamas",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 30,
+    "textures": 3,
+    "triangles": 1162,
+    "vertices": 908
+   },
+   "thumb": "020_costume/marid_pajamas.webp"
+  },
+  {
+   "bytes": 33732,
+   "file": "020_costume/marid_prisoner.glb",
+   "id": "marid_prisoner",
+   "label": "죄수 마리드",
+   "name": "marid_prisoner",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 30,
+    "textures": 3,
+    "triangles": 1058,
+    "vertices": 790
+   },
+   "thumb": "020_costume/marid_prisoner.webp"
+  },
+  {
+   "bytes": 36248,
+   "file": "020_costume/marid_rabbit.glb",
+   "id": "marid_rabbit",
+   "label": "토끼 마리드",
+   "name": "marid_rabbit",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 30,
+    "textures": 2,
+    "triangles": 1430,
+    "vertices": 1050
+   },
+   "thumb": "020_costume/marid_rabbit.webp"
+  },
+  {
+   "bytes": 35748,
+   "file": "020_costume/marid_raincoat.glb",
+   "id": "marid_raincoat",
+   "label": "우비소녀 마리드",
+   "name": "marid_raincoat",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 30,
+    "textures": 3,
+    "triangles": 1334,
+    "vertices": 1014
+   },
+   "thumb": "020_costume/marid_raincoat.webp"
+  },
+  {
+   "bytes": 34448,
+   "file": "020_costume/marid_rudolph.glb",
+   "id": "marid_rudolph",
+   "label": "루돌프 마리드",
+   "name": "marid_rudolph",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 30,
+    "textures": 3,
+    "triangles": 1120,
+    "vertices": 788
+   },
+   "thumb": "020_costume/marid_rudolph.webp"
+  },
+  {
+   "bytes": 39544,
+   "file": "020_costume/marid_school.glb",
+   "id": "marid_school",
+   "label": "교복 마리드",
+   "name": "marid_school",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 30,
+    "textures": 3,
+    "triangles": 1580,
+    "vertices": 1336
+   },
+   "thumb": "020_costume/marid_school.webp"
+  },
+  {
+   "bytes": 36108,
+   "file": "020_costume/marid_schoolx.glb",
+   "id": "marid_schoolx",
+   "label": "오디션 마리드",
+   "name": "marid_schoolx",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 30,
+    "textures": 3,
+    "triangles": 1282,
+    "vertices": 1016
+   },
+   "thumb": "020_costume/marid_schoolx.webp"
+  },
+  {
+   "bytes": 40688,
+   "file": "020_costume/marid_shower.glb",
+   "id": "marid_shower",
+   "label": "온천 마리드",
+   "name": "marid_shower",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 31,
+    "textures": 3,
+    "triangles": 1712,
+    "vertices": 1575
+   },
+   "thumb": "020_costume/marid_shower.webp"
+  },
+  {
+   "bytes": 37936,
+   "file": "020_costume/marid_snowwhite.glb",
+   "id": "marid_snowwhite",
+   "label": "백설공주 마리드",
+   "name": "marid_snowwhite",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 30,
+    "textures": 3,
+    "triangles": 1404,
+    "vertices": 1164
+   },
+   "thumb": "020_costume/marid_snowwhite.webp"
+  },
+  {
+   "bytes": 34788,
+   "file": "020_costume/marid_summer2020.glb",
+   "id": "marid_summer2020",
+   "label": "썸머 마리드",
+   "name": "marid_summer2020",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 29,
+    "textures": 3,
+    "triangles": 1194,
+    "vertices": 904
+   },
+   "thumb": "020_costume/marid_summer2020.webp"
+  },
+  {
+   "bytes": 38612,
+   "file": "020_costume/marid_traditional.glb",
+   "id": "marid_traditional",
+   "label": "선녀 마리드",
+   "name": "marid_traditional",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 30,
+    "textures": 3,
+    "triangles": 1394,
+    "vertices": 1220
+   },
+   "thumb": "020_costume/marid_traditional.webp"
+  },
+  {
+   "bytes": 37940,
+   "file": "020_costume/marid_wedding.glb",
+   "id": "marid_wedding",
+   "label": "웨딩 마리드",
+   "name": "marid_wedding",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 29,
+    "textures": 3,
+    "triangles": 1466,
+    "vertices": 1176
+   },
+   "thumb": "020_costume/marid_wedding.webp"
+  },
+  {
+   "bytes": 36264,
+   "file": "020_costume/marid_witch.glb",
+   "id": "marid_witch",
+   "label": "마녀 마리드",
+   "name": "marid_witch",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 30,
+    "textures": 3,
+    "triangles": 1486,
+    "vertices": 1090
+   },
+   "thumb": "020_costume/marid_witch.webp"
+  },
+  {
+   "bytes": 42708,
+   "file": "020_costume/su_baby.glb",
+   "id": "su_baby",
+   "label": "베이비 수",
+   "name": "su_baby",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 43,
+    "textures": 3,
+    "triangles": 1298,
+    "vertices": 1001
+   },
+   "thumb": "020_costume/su_baby.webp"
+  },
+  {
+   "bytes": 44004,
+   "file": "020_costume/su_hood.glb",
+   "id": "su_hood",
+   "label": "후드 수",
+   "name": "su_hood",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 43,
+    "textures": 3,
+    "triangles": 1412,
+    "vertices": 1067
+   },
+   "thumb": "020_costume/su_hood.webp"
+  },
+  {
+   "bytes": 43896,
+   "file": "020_costume/su_housemistress.glb",
+   "id": "su_housemistress",
+   "name": "su_housemistress",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 43,
+    "textures": 3,
+    "triangles": 1374,
+    "vertices": 1018
+   },
+   "thumb": "020_costume/su_housemistress.webp"
+  },
+  {
+   "bytes": 48032,
+   "file": "020_costume/su_summer2020.glb",
+   "id": "su_summer2020",
+   "label": "썸머 수",
+   "name": "su_summer2020",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 43,
+    "textures": 3,
+    "triangles": 1758,
+    "vertices": 1448
+   },
+   "thumb": "020_costume/su_summer2020.webp"
+  },
+  {
+   "bytes": 47512,
+   "file": "020_costume/su_super.glb",
+   "id": "su_super",
+   "label": "슈퍼 수",
+   "name": "su_super",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 43,
+    "textures": 3,
+    "triangles": 1726,
+    "vertices": 1439
+   },
+   "thumb": "020_costume/su_super.webp"
+  },
+  {
+   "bytes": 43116,
+   "file": "020_costume/su_tiger.glb",
+   "id": "su_tiger",
+   "label": "호랑이 수",
+   "name": "su_tiger",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 43,
+    "textures": 3,
+    "triangles": 1456,
+    "vertices": 1072
+   },
+   "thumb": "020_costume/su_tiger.webp"
+  },
+  {
+   "bytes": 36028,
+   "file": "020_costume/uni_ai.glb",
+   "id": "uni_ai",
+   "name": "uni_ai",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 27,
+    "textures": 3,
+    "triangles": 1272,
+    "vertices": 1053
+   },
+   "thumb": "020_costume/uni_ai.webp"
+  },
+  {
+   "bytes": 36748,
+   "file": "020_costume/uni_angel.glb",
+   "id": "uni_angel",
+   "label": "큐피드 우니",
+   "name": "uni_angel",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 27,
+    "textures": 3,
+    "triangles": 1509,
+    "vertices": 1157
+   },
+   "thumb": "020_costume/uni_angel.webp"
+  },
+  {
+   "bytes": 33276,
+   "file": "020_costume/uni_baby.glb",
+   "id": "uni_baby",
+   "label": "베이비 우니",
+   "name": "uni_baby",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 27,
+    "textures": 3,
+    "triangles": 1144,
+    "vertices": 822
+   },
+   "thumb": "020_costume/uni_baby.webp"
+  },
+  {
+   "bytes": 38584,
+   "file": "020_costume/uni_bear.glb",
+   "id": "uni_bear",
+   "label": "곰돌이 우니",
+   "name": "uni_bear",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 27,
+    "textures": 3,
+    "triangles": 1764,
+    "vertices": 1334
+   },
+   "thumb": "020_costume/uni_bear.webp"
+  },
+  {
+   "bytes": 36496,
+   "file": "020_costume/uni_christmas.glb",
+   "id": "uni_christmas",
+   "label": "산타 우니",
+   "name": "uni_christmas",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 27,
+    "textures": 3,
+    "triangles": 1328,
+    "vertices": 1073
+   },
+   "thumb": "020_costume/uni_christmas.webp"
+  },
+  {
+   "bytes": 36496,
+   "file": "020_costume/uni_classic.glb",
+   "id": "uni_classic",
+   "label": "오리지널 우니",
+   "name": "uni_classic",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 27,
+    "textures": 3,
+    "triangles": 1402,
+    "vertices": 1150
+   },
+   "thumb": "020_costume/uni_classic.webp"
+  },
+  {
+   "bytes": 39296,
+   "file": "020_costume/uni_cooker.glb",
+   "id": "uni_cooker",
+   "label": "요리사 우니",
+   "name": "uni_cooker",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 27,
+    "textures": 3,
+    "triangles": 1506,
+    "vertices": 1368
+   },
+   "thumb": "020_costume/uni_cooker.webp"
+  },
+  {
+   "bytes": 38324,
+   "file": "020_costume/uni_freshman.glb",
+   "id": "uni_freshman",
+   "label": "새학기 우니",
+   "name": "uni_freshman",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 27,
+    "textures": 3,
+    "triangles": 1400,
+    "vertices": 1253
+   },
+   "thumb": "020_costume/uni_freshman.webp"
+  },
+  {
+   "bytes": 38716,
+   "file": "020_costume/uni_halloween.glb",
+   "id": "uni_halloween",
+   "label": "좀비신부 우니",
+   "name": "uni_halloween",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 27,
+    "textures": 3,
+    "triangles": 1422,
+    "vertices": 1253
+   },
+   "thumb": "020_costume/uni_halloween.webp"
+  },
+  {
+   "bytes": 35060,
+   "file": "020_costume/uni_helmet.glb",
+   "id": "uni_helmet",
+   "name": "uni_helmet",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 27,
+    "textures": 3,
+    "triangles": 1134,
+    "vertices": 977
+   },
+   "thumb": "020_costume/uni_helmet.webp"
+  },
+  {
+   "bytes": 36872,
+   "file": "020_costume/uni_kindgarten.glb",
+   "id": "uni_kindgarten",
+   "label": "유치원 우니",
+   "name": "uni_kindgarten",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 27,
+    "textures": 3,
+    "triangles": 1374,
+    "vertices": 1143
+   },
+   "thumb": "020_costume/uni_kindgarten.webp"
+  },
+  {
+   "bytes": 36856,
+   "file": "020_costume/uni_kindgaten.glb",
+   "id": "uni_kindgaten",
+   "name": "uni_kindgaten",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 27,
+    "textures": 3,
+    "triangles": 1374,
+    "vertices": 1143
+   },
+   "thumb": "020_costume/uni_kindgaten.webp"
+  },
+  {
+   "bytes": 37024,
+   "file": "020_costume/uni_littleprince.glb",
+   "id": "uni_littleprince",
+   "label": "어린왕자 우니",
+   "name": "uni_littleprince",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 27,
+    "textures": 3,
+    "triangles": 1448,
+    "vertices": 1156
+   },
+   "thumb": "020_costume/uni_littleprince.webp"
+  },
+  {
+   "bytes": 36476,
+   "file": "020_costume/uni_mouse.glb",
+   "id": "uni_mouse",
+   "label": "찍찍이 우니",
+   "name": "uni_mouse",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 27,
+    "textures": 3,
+    "triangles": 1404,
+    "vertices": 1113
+   },
+   "thumb": "020_costume/uni_mouse.webp"
+  },
+  {
+   "bytes": 36080,
+   "file": "020_costume/uni_oldperson.glb",
+   "id": "uni_oldperson",
+   "label": "노인 우니",
+   "name": "uni_oldperson",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 27,
+    "textures": 3,
+    "triangles": 1272,
+    "vertices": 1053
+   },
+   "thumb": "020_costume/uni_oldperson.webp"
+  },
+  {
+   "bytes": 35672,
+   "file": "020_costume/uni_pajamas.glb",
+   "id": "uni_pajamas",
+   "label": "잠옷 우니",
+   "name": "uni_pajamas",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 27,
+    "textures": 3,
+    "triangles": 1260,
+    "vertices": 1048
+   },
+   "thumb": "020_costume/uni_pajamas.webp"
+  },
+  {
+   "bytes": 36072,
+   "file": "020_costume/uni_phocidae.glb",
+   "id": "uni_phocidae",
+   "label": "황제물개 우니",
+   "name": "uni_phocidae",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 27,
+    "textures": 3,
+    "triangles": 1366,
+    "vertices": 1016
+   },
+   "thumb": "020_costume/uni_phocidae.webp"
+  },
+  {
+   "bytes": 35320,
+   "file": "020_costume/uni_prisoner.glb",
+   "id": "uni_prisoner",
+   "label": "죄수 우니 죄수복",
+   "name": "uni_prisoner",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 27,
+    "textures": 3,
+    "triangles": 1206,
+    "vertices": 1036
+   },
+   "thumb": "020_costume/uni_prisoner.webp"
+  },
+  {
+   "bytes": 38848,
+   "file": "020_costume/uni_raccoon.glb",
+   "id": "uni_raccoon",
+   "label": "너구리 우니",
+   "name": "uni_raccoon",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 27,
+    "textures": 3,
+    "triangles": 1810,
+    "vertices": 1328
+   },
+   "thumb": "020_costume/uni_raccoon.webp"
+  },
+  {
+   "bytes": 36292,
+   "file": "020_costume/uni_rudolph.glb",
+   "id": "uni_rudolph",
+   "label": "루돌프 우니",
+   "name": "uni_rudolph",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 27,
+    "textures": 3,
+    "triangles": 1292,
+    "vertices": 1023
+   },
+   "thumb": "020_costume/uni_rudolph.webp"
+  },
+  {
+   "bytes": 36764,
+   "file": "020_costume/uni_school.glb",
+   "id": "uni_school",
+   "label": "교복 우니",
+   "name": "uni_school",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 27,
+    "textures": 3,
+    "triangles": 1339,
+    "vertices": 1111
+   },
+   "thumb": "020_costume/uni_school.webp"
+  },
+  {
+   "bytes": 38472,
+   "file": "020_costume/uni_schoolx.glb",
+   "id": "uni_schoolx",
+   "label": "오디션 우니",
+   "name": "uni_schoolx",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 27,
+    "textures": 3,
+    "triangles": 1412,
+    "vertices": 1309
+   },
+   "thumb": "020_costume/uni_schoolx.webp"
+  },
+  {
+   "bytes": 37708,
+   "file": "020_costume/uni_shower.glb",
+   "id": "uni_shower",
+   "label": "온천 우니",
+   "name": "uni_shower",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 27,
+    "textures": 3,
+    "triangles": 1542,
+    "vertices": 1220
+   },
+   "thumb": "020_costume/uni_shower.webp"
+  },
+  {
+   "bytes": 39036,
+   "file": "020_costume/uni_super.glb",
+   "id": "uni_super",
+   "label": "슈퍼 우니",
+   "name": "uni_super",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 27,
+    "textures": 3,
+    "triangles": 1548,
+    "vertices": 1396
+   },
+   "thumb": "020_costume/uni_super.webp"
+  },
+  {
+   "bytes": 39548,
+   "file": "020_costume/uni_swimming.glb",
+   "id": "uni_swimming",
+   "label": "바캉스 우니",
+   "name": "uni_swimming",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 27,
+    "textures": 3,
+    "triangles": 1766,
+    "vertices": 1443
+   },
+   "thumb": "020_costume/uni_swimming.webp"
+  },
+  {
+   "bytes": 37332,
+   "file": "020_costume/uni_wedding.glb",
+   "id": "uni_wedding",
+   "label": "웨딩 우니",
+   "name": "uni_wedding",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 27,
+    "textures": 3,
+    "triangles": 1392,
+    "vertices": 1159
+   },
+   "thumb": "020_costume/uni_wedding.webp"
+  },
+  {
+   "bytes": 40056,
+   "file": "020_costume/uni_yeopo.glb",
+   "id": "uni_yeopo",
+   "label": "여포 우니",
+   "name": "uni_yeopo",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 27,
+    "textures": 3,
+    "triangles": 1643,
+    "vertices": 1376
+   },
+   "thumb": "020_costume/uni_yeopo.webp"
+  },
+  {
+   "bytes": 40416,
+   "file": "020_costume/zombie_fast.glb",
+   "id": "zombie_fast",
+   "name": "zombie_fast",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 30,
+    "textures": 3,
+    "triangles": 1354,
+    "vertices": 1031
+   },
+   "thumb": "020_costume/zombie_fast.webp"
+  },
+  {
+   "bytes": 40428,
+   "file": "020_costume/zombie_rader.glb",
+   "id": "zombie_rader",
+   "name": "zombie_rader",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 30,
+    "textures": 3,
+    "triangles": 1354,
+    "vertices": 1031
+   },
+   "thumb": "020_costume/zombie_rader.webp"
+  },
+  {
+   "bytes": 40436,
+   "file": "020_costume/zombie_yeorae.glb",
+   "id": "zombie_yeorae",
+   "name": "zombie_yeorae",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 30,
+    "textures": 3,
+    "triangles": 1354,
+    "vertices": 1031
+   },
+   "thumb": "020_costume/zombie_yeorae.webp"
+  }
+ ],
+ "schema": "boomhill-open-assets/model-list/v1",
+ "title": "코스튬"
+}

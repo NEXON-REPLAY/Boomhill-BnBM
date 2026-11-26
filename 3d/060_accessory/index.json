@@ -1,0 +1,7917 @@
+{
+ "category": "3d_accessory",
+ "game": "bnb-mobile",
+ "items": [
+  {
+   "bytes": 7948,
+   "file": "060_accessory/bodyrear_angelwing.glb",
+   "id": "bodyrear_angelwing",
+   "label": "구름 날개",
+   "name": "bodyrear_angelwing",
+   "stats": {
+    "animations": 1,
+    "bones": 4,
+    "textures": 1,
+    "triangles": 228,
+    "vertices": 168
+   },
+   "thumb": "060_accessory/bodyrear_angelwing.webp"
+  },
+  {
+   "bytes": 7208,
+   "file": "060_accessory/bodyrear_april_flower.glb",
+   "id": "bodyrear_april_flower",
+   "label": "꽃다발",
+   "name": "bodyrear_april_flower",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 332,
+    "vertices": 423
+   },
+   "thumb": "060_accessory/bodyrear_april_flower.webp"
+  },
+  {
+   "bytes": 4144,
+   "file": "060_accessory/bodyrear_april_ketchup.glb",
+   "id": "bodyrear_april_ketchup",
+   "label": "케찹맛 소시지",
+   "name": "bodyrear_april_ketchup",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 144,
+    "vertices": 118
+   },
+   "thumb": "060_accessory/bodyrear_april_ketchup.webp"
+  },
+  {
+   "bytes": 4140,
+   "file": "060_accessory/bodyrear_april_mustad.glb",
+   "id": "bodyrear_april_mustad",
+   "label": "머스타드맛 소시지",
+   "name": "bodyrear_april_mustad",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 144,
+    "vertices": 118
+   },
+   "thumb": "060_accessory/bodyrear_april_mustad.webp"
+  },
+  {
+   "bytes": 5140,
+   "file": "060_accessory/bodyrear_baby_ddal.glb",
+   "id": "bodyrear_baby_ddal",
+   "label": "딸랑이 장난감",
+   "name": "bodyrear_baby_ddal",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 340,
+    "vertices": 246
+   },
+   "thumb": "060_accessory/bodyrear_baby_ddal.webp"
+  },
+  {
+   "bytes": 4184,
+   "file": "060_accessory/bodyrear_bazziarabiabodyrear.glb",
+   "id": "bodyrear_bazziarabiabodyrear",
+   "label": "아라비안 배찌 시미터",
+   "name": "bodyrear_bazziarabiabodyrear",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 180,
+    "vertices": 157
+   },
+   "thumb": "060_accessory/bodyrear_bazziarabiabodyrear.webp"
+  },
+  {
+   "bytes": 7152,
+   "file": "060_accessory/bodyrear_bazziluxurybodyrear.glb",
+   "id": "bodyrear_bazziluxurybodyrear",
+   "label": "꿀벌 배찌 날개",
+   "name": "bodyrear_bazziluxurybodyrear",
+   "stats": {
+    "animations": 1,
+    "bones": 4,
+    "textures": 1,
+    "triangles": 72,
+    "vertices": 88
+   },
+   "thumb": "060_accessory/bodyrear_bazziluxurybodyrear.webp"
+  },
+  {
+   "bytes": 5648,
+   "file": "060_accessory/bodyrear_bazzimagicianbodyrear.glb",
+   "id": "bodyrear_bazzimagicianbodyrear",
+   "label": "젠틀맨 배찌 우산",
+   "name": "bodyrear_bazzimagicianbodyrear",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 342,
+    "vertices": 324
+   },
+   "thumb": "060_accessory/bodyrear_bazzimagicianbodyrear.webp"
+  },
+  {
+   "bytes": 7292,
+   "file": "060_accessory/bodyrear_bazzimmangelbodyrear.glb",
+   "id": "bodyrear_bazzimmangelbodyrear",
+   "name": "bodyrear_bazzimmangelbodyrear",
+   "stats": {
+    "animations": 1,
+    "bones": 4,
+    "textures": 1,
+    "triangles": 160,
+    "vertices": 112
+   },
+   "thumb": "060_accessory/bodyrear_bazzimmangelbodyrear.webp"
+  },
+  {
+   "bytes": 7288,
+   "file": "060_accessory/bodyrear_bazzimmdevilbodyrear.glb",
+   "id": "bodyrear_bazzimmdevilbodyrear",
+   "name": "bodyrear_bazzimmdevilbodyrear",
+   "stats": {
+    "animations": 1,
+    "bones": 4,
+    "textures": 1,
+    "triangles": 96,
+    "vertices": 104
+   },
+   "thumb": "060_accessory/bodyrear_bazzimmdevilbodyrear.webp"
+  },
+  {
+   "bytes": 4492,
+   "file": "060_accessory/bodyrear_bazzimushroombodyrear.glb",
+   "id": "bodyrear_bazzimushroombodyrear",
+   "label": "버섯 배찌 가방",
+   "name": "bodyrear_bazzimushroombodyrear",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 180,
+    "vertices": 154
+   },
+   "thumb": "060_accessory/bodyrear_bazzimushroombodyrear.webp"
+  },
+  {
+   "bytes": 5956,
+   "file": "060_accessory/bodyrear_bazzininjabodyrear.glb",
+   "id": "bodyrear_bazzininjabodyrear",
+   "label": "그림자 배찌 쌍검",
+   "name": "bodyrear_bazzininjabodyrear",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 290,
+    "vertices": 286
+   },
+   "thumb": "060_accessory/bodyrear_bazzininjabodyrear.webp"
+  },
+  {
+   "bytes": 3292,
+   "file": "060_accessory/bodyrear_bazzioldperson.glb",
+   "id": "bodyrear_bazzioldperson",
+   "name": "bodyrear_bazzioldperson",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 72,
+    "vertices": 62
+   },
+   "thumb": "060_accessory/bodyrear_bazzioldperson.webp"
+  },
+  {
+   "bytes": 3912,
+   "file": "060_accessory/bodyrear_bazzipiratebodyrear.glb",
+   "id": "bodyrear_bazzipiratebodyrear",
+   "label": "해적 배찌 커틀러스",
+   "name": "bodyrear_bazzipiratebodyrear",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 139,
+    "vertices": 141
+   },
+   "thumb": "060_accessory/bodyrear_bazzipiratebodyrear.webp"
+  },
+  {
+   "bytes": 3132,
+   "file": "060_accessory/bodyrear_bazzischoolbodyrear.glb",
+   "id": "bodyrear_bazzischoolbodyrear",
+   "label": "교복 배찌 가방",
+   "name": "bodyrear_bazzischoolbodyrear",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 24,
+    "vertices": 38
+   },
+   "thumb": "060_accessory/bodyrear_bazzischoolbodyrear.webp"
+  },
+  {
+   "bytes": 5968,
+   "file": "060_accessory/bodyrear_bazziyubibodyrear.glb",
+   "id": "bodyrear_bazziyubibodyrear",
+   "label": "유비 배찌 쌍검",
+   "name": "bodyrear_bazziyubibodyrear",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 300,
+    "vertices": 380
+   },
+   "thumb": "060_accessory/bodyrear_bazziyubibodyrear.webp"
+  },
+  {
+   "bytes": 5824,
+   "file": "060_accessory/bodyrear_bearbag.glb",
+   "id": "bodyrear_bearbag",
+   "label": "곰돌이 가방",
+   "name": "bodyrear_bearbag",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 298,
+    "vertices": 296
+   },
+   "thumb": "060_accessory/bodyrear_bearbag.webp"
+  },
+  {
+   "bytes": 4812,
+   "file": "060_accessory/bodyrear_blueribbon.glb",
+   "id": "bodyrear_blueribbon",
+   "label": "파란 리본",
+   "name": "bodyrear_blueribbon",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 176,
+    "vertices": 174
+   },
+   "thumb": "060_accessory/bodyrear_blueribbon.webp"
+  },
+  {
+   "bytes": 6120,
+   "file": "060_accessory/bodyrear_brucefreshmanbodyrear.glb",
+   "id": "bodyrear_brucefreshmanbodyrear",
+   "label": "새학기 브루스 보드",
+   "name": "bodyrear_brucefreshmanbodyrear",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 292,
+    "vertices": 342
+   },
+   "thumb": "060_accessory/bodyrear_brucefreshmanbodyrear.webp"
+  },
+  {
+   "bytes": 3772,
+   "file": "060_accessory/bodyrear_brucemagicianbodyrear.glb",
+   "id": "bodyrear_brucemagicianbodyrear",
+   "label": "주술사 브루스 지팡이",
+   "name": "bodyrear_brucemagicianbodyrear",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 168,
+    "vertices": 130
+   },
+   "thumb": "060_accessory/bodyrear_brucemagicianbodyrear.webp"
+  },
+  {
+   "bytes": 3260,
+   "file": "060_accessory/bodyrear_brucemousebodyrear.glb",
+   "id": "bodyrear_brucemousebodyrear",
+   "name": "bodyrear_brucemousebodyrear",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 92,
+    "vertices": 64
+   },
+   "thumb": "060_accessory/bodyrear_brucemousebodyrear.webp"
+  },
+  {
+   "bytes": 4388,
+   "file": "060_accessory/bodyrear_brucepajamasbodyrear.glb",
+   "id": "bodyrear_brucepajamasbodyrear",
+   "label": "잠옷 브루스 이불",
+   "name": "bodyrear_brucepajamasbodyrear",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 124,
+    "vertices": 150
+   },
+   "thumb": "060_accessory/bodyrear_brucepajamasbodyrear.webp"
+  },
+  {
+   "bytes": 4692,
+   "file": "060_accessory/bodyrear_brucevacancebodyrear.glb",
+   "id": "bodyrear_brucevacancebodyrear",
+   "label": "바캉스 브루스 기타",
+   "name": "bodyrear_brucevacancebodyrear",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 180,
+    "vertices": 242
+   },
+   "thumb": "060_accessory/bodyrear_brucevacancebodyrear.webp"
+  },
+  {
+   "bytes": 8168,
+   "file": "060_accessory/bodyrear_butterflywing01.glb",
+   "id": "bodyrear_butterflywing01",
+   "label": "노랑 나비날개",
+   "name": "bodyrear_butterflywing01",
+   "stats": {
+    "animations": 1,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 160,
+    "vertices": 168
+   },
+   "thumb": "060_accessory/bodyrear_butterflywing01.webp"
+  },
+  {
+   "bytes": 7784,
+   "file": "060_accessory/bodyrear_butterflywing02.glb",
+   "id": "bodyrear_butterflywing02",
+   "label": "주황 나비날개",
+   "name": "bodyrear_butterflywing02",
+   "stats": {
+    "animations": 1,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 112,
+    "vertices": 120
+   },
+   "thumb": "060_accessory/bodyrear_butterflywing02.webp"
+  },
+  {
+   "bytes": 4552,
+   "file": "060_accessory/bodyrear_carrot.glb",
+   "id": "bodyrear_carrot",
+   "label": "당근",
+   "name": "bodyrear_carrot",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 240,
+    "vertices": 190
+   },
+   "thumb": "060_accessory/bodyrear_carrot.webp"
+  },
+  {
+   "bytes": 6936,
+   "file": "060_accessory/bodyrear_chick.glb",
+   "id": "bodyrear_chick",
+   "label": "병아리 가방",
+   "name": "bodyrear_chick",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 454,
+    "vertices": 420
+   },
+   "thumb": "060_accessory/bodyrear_chick.webp"
+  },
+  {
+   "bytes": 5820,
+   "file": "060_accessory/bodyrear_christmas_bell.glb",
+   "id": "bodyrear_christmas_bell",
+   "label": "크리스마스 종 장식",
+   "name": "bodyrear_christmas_bell",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 320,
+    "vertices": 294
+   },
+   "thumb": "060_accessory/bodyrear_christmas_bell.webp"
+  },
+  {
+   "bytes": 11860,
+   "file": "060_accessory/bodyrear_christmas_fairy.glb",
+   "id": "bodyrear_christmas_fairy",
+   "label": "요정",
+   "name": "bodyrear_christmas_fairy",
+   "stats": {
+    "animations": 1,
+    "bones": 4,
+    "textures": 1,
+    "triangles": 414,
+    "vertices": 394
+   },
+   "thumb": "060_accessory/bodyrear_christmas_fairy.webp"
+  },
+  {
+   "bytes": 4348,
+   "file": "060_accessory/bodyrear_christmas_sack.glb",
+   "id": "bodyrear_christmas_sack",
+   "label": "선물 주머니",
+   "name": "bodyrear_christmas_sack",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 192,
+    "vertices": 164
+   },
+   "thumb": "060_accessory/bodyrear_christmas_sack.webp"
+  },
+  {
+   "bytes": 12544,
+   "file": "060_accessory/bodyrear_christmas_sled.glb",
+   "id": "bodyrear_christmas_sled",
+   "label": "썰매",
+   "name": "bodyrear_christmas_sled",
+   "stats": {
+    "animations": 1,
+    "bones": 2,
+    "textures": 1,
+    "triangles": 560,
+    "vertices": 675
+   },
+   "thumb": "060_accessory/bodyrear_christmas_sled.webp"
+  },
+  {
+   "bytes": 6612,
+   "file": "060_accessory/bodyrear_christmas_wreath.glb",
+   "id": "bodyrear_christmas_wreath",
+   "label": "크리스마스 리스 장식",
+   "name": "bodyrear_christmas_wreath",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 398,
+    "vertices": 360
+   },
+   "thumb": "060_accessory/bodyrear_christmas_wreath.webp"
+  },
+  {
+   "bytes": 3128,
+   "file": "060_accessory/bodyrear_cookerkal.glb",
+   "id": "bodyrear_cookerkal",
+   "label": "식칼",
+   "name": "bodyrear_cookerkal",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 38,
+    "vertices": 48
+   },
+   "thumb": "060_accessory/bodyrear_cookerkal.webp"
+  },
+  {
+   "bytes": 5992,
+   "file": "060_accessory/bodyrear_dankyelvisbodyrear.glb",
+   "id": "bodyrear_dankyelvisbodyrear",
+   "label": "로큰롤 댕키 기타",
+   "name": "bodyrear_dankyelvisbodyrear",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 240,
+    "vertices": 466
+   },
+   "thumb": "060_accessory/bodyrear_dankyelvisbodyrear.webp"
+  },
+  {
+   "bytes": 3788,
+   "file": "060_accessory/bodyrear_dankyfarmerbodyrear.glb",
+   "id": "bodyrear_dankyfarmerbodyrear",
+   "label": "농부 댕키 쇠스랑",
+   "name": "bodyrear_dankyfarmerbodyrear",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 150,
+    "vertices": 124
+   },
+   "thumb": "060_accessory/bodyrear_dankyfarmerbodyrear.webp"
+  },
+  {
+   "bytes": 6260,
+   "file": "060_accessory/bodyrear_dankyfoxbodyrear.glb",
+   "id": "bodyrear_dankyfoxbodyrear",
+   "label": "여우 댕키 꼬리",
+   "name": "bodyrear_dankyfoxbodyrear",
+   "stats": {
+    "animations": 1,
+    "bones": 2,
+    "textures": 1,
+    "triangles": 64,
+    "vertices": 66
+   },
+   "thumb": "060_accessory/bodyrear_dankyfoxbodyrear.webp"
+  },
+  {
+   "bytes": 4080,
+   "file": "060_accessory/bodyrear_dankyfreshmanbodyrear.glb",
+   "id": "bodyrear_dankyfreshmanbodyrear",
+   "label": "새학기 댕키 백팩",
+   "name": "bodyrear_dankyfreshmanbodyrear",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 138,
+    "vertices": 152
+   },
+   "thumb": "060_accessory/bodyrear_dankyfreshmanbodyrear.webp"
+  },
+  {
+   "bytes": 8132,
+   "file": "060_accessory/bodyrear_dankyhalloweenbodyrear.glb",
+   "id": "bodyrear_dankyhalloweenbodyrear",
+   "label": "미친과학자 댕키 주사기",
+   "name": "bodyrear_dankyhalloweenbodyrear",
+   "stats": {
+    "animations": 1,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 224,
+    "vertices": 262
+   },
+   "thumb": "060_accessory/bodyrear_dankyhalloweenbodyrear.webp"
+  },
+  {
+   "bytes": 4488,
+   "file": "060_accessory/bodyrear_dankypajamasbodyrear.glb",
+   "id": "bodyrear_dankypajamasbodyrear",
+   "label": "잠옷 댕키 바나나쿠션",
+   "name": "bodyrear_dankypajamasbodyrear",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 140,
+    "vertices": 163
+   },
+   "thumb": "060_accessory/bodyrear_dankypajamasbodyrear.webp"
+  },
+  {
+   "bytes": 4684,
+   "file": "060_accessory/bodyrear_dankyschoolbodyrear.glb",
+   "id": "bodyrear_dankyschoolbodyrear",
+   "label": "교복 댕키 대걸레",
+   "name": "bodyrear_dankyschoolbodyrear",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 168,
+    "vertices": 183
+   },
+   "thumb": "060_accessory/bodyrear_dankyschoolbodyrear.webp"
+  },
+  {
+   "bytes": 5180,
+   "file": "060_accessory/bodyrear_daoguanyubodyrear.glb",
+   "id": "bodyrear_daoguanyubodyrear",
+   "label": "관우 다오 언월도",
+   "name": "bodyrear_daoguanyubodyrear",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 221,
+    "vertices": 291
+   },
+   "thumb": "060_accessory/bodyrear_daoguanyubodyrear.webp"
+  },
+  {
+   "bytes": 6528,
+   "file": "060_accessory/bodyrear_daomohicanbodyrear.glb",
+   "id": "bodyrear_daomohicanbodyrear",
+   "label": "모히칸 다오 부스터",
+   "name": "bodyrear_daomohicanbodyrear",
+   "stats": {
+    "animations": 1,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 240,
+    "vertices": 208
+   },
+   "thumb": "060_accessory/bodyrear_daomohicanbodyrear.webp"
+  },
+  {
+   "bytes": 5576,
+   "file": "060_accessory/bodyrear_daoninjabodyrear.glb",
+   "id": "bodyrear_daoninjabodyrear",
+   "label": "그림자 다오 칼",
+   "name": "bodyrear_daoninjabodyrear",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 273,
+    "vertices": 261
+   },
+   "thumb": "060_accessory/bodyrear_daoninjabodyrear.webp"
+  },
+  {
+   "bytes": 3312,
+   "file": "060_accessory/bodyrear_daoschoolbodyrear.glb",
+   "id": "bodyrear_daoschoolbodyrear",
+   "label": "교복 다오 가방",
+   "name": "bodyrear_daoschoolbodyrear",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 42,
+    "vertices": 62
+   },
+   "thumb": "060_accessory/bodyrear_daoschoolbodyrear.webp"
+  },
+  {
+   "bytes": 4880,
+   "file": "060_accessory/bodyrear_daovacancebodyrear.glb",
+   "id": "bodyrear_daovacancebodyrear",
+   "label": "바캉스 다오 산소통",
+   "name": "bodyrear_daovacancebodyrear",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 214,
+    "vertices": 254
+   },
+   "thumb": "060_accessory/bodyrear_daovacancebodyrear.webp"
+  },
+  {
+   "bytes": 4532,
+   "file": "060_accessory/bodyrear_daovikingbodyrear.glb",
+   "id": "bodyrear_daovikingbodyrear",
+   "label": "바이킹 다오 뿔피리",
+   "name": "bodyrear_daovikingbodyrear",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 224,
+    "vertices": 184
+   },
+   "thumb": "060_accessory/bodyrear_daovikingbodyrear.webp"
+  },
+  {
+   "bytes": 8400,
+   "file": "060_accessory/bodyrear_devilwing.glb",
+   "id": "bodyrear_devilwing",
+   "label": "악마 날개",
+   "name": "bodyrear_devilwing",
+   "stats": {
+    "animations": 1,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 228,
+    "vertices": 204
+   },
+   "thumb": "060_accessory/bodyrear_devilwing.webp"
+  },
+  {
+   "bytes": 9892,
+   "file": "060_accessory/bodyrear_diznifishbodyrear.glb",
+   "id": "bodyrear_diznifishbodyrear",
+   "label": "고기잡이 디지니 낚싯대",
+   "name": "bodyrear_diznifishbodyrear",
+   "stats": {
+    "animations": 2,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 298,
+    "vertices": 295
+   },
+   "thumb": "060_accessory/bodyrear_diznifishbodyrear.webp"
+  },
+  {
+   "bytes": 3224,
+   "file": "060_accessory/bodyrear_diznipajamasbodyrear.glb",
+   "id": "bodyrear_diznipajamasbodyrear",
+   "label": "잠옷 디지니 베게",
+   "name": "bodyrear_diznipajamasbodyrear",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 60,
+    "vertices": 60
+   },
+   "thumb": "060_accessory/bodyrear_diznipajamasbodyrear.webp"
+  },
+  {
+   "bytes": 6068,
+   "file": "060_accessory/bodyrear_diznishangbodyrear.glb",
+   "id": "bodyrear_diznishangbodyrear",
+   "label": "손상향 디지니 활",
+   "name": "bodyrear_diznishangbodyrear",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 380,
+    "vertices": 424
+   },
+   "thumb": "060_accessory/bodyrear_diznishangbodyrear.webp"
+  },
+  {
+   "bytes": 5752,
+   "file": "060_accessory/bodyrear_dogbag.glb",
+   "id": "bodyrear_dogbag",
+   "label": "강아지 가방",
+   "name": "bodyrear_dogbag",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 302,
+    "vertices": 296
+   },
+   "thumb": "060_accessory/bodyrear_dogbag.webp"
+  },
+  {
+   "bytes": 7920,
+   "file": "060_accessory/bodyrear_firewing.glb",
+   "id": "bodyrear_firewing",
+   "label": "불꽃 날개",
+   "name": "bodyrear_firewing",
+   "stats": {
+    "animations": 1,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 144,
+    "vertices": 152
+   },
+   "thumb": "060_accessory/bodyrear_firewing.webp"
+  },
+  {
+   "bytes": 11320,
+   "file": "060_accessory/bodyrear_firewingrank01.glb",
+   "id": "bodyrear_firewingrank01",
+   "label": "시즌1 승리의 날개(1위)",
+   "name": "bodyrear_firewingrank01",
+   "stats": {
+    "animations": 2,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 288,
+    "vertices": 304
+   },
+   "thumb": "060_accessory/bodyrear_firewingrank01.webp"
+  },
+  {
+   "bytes": 11356,
+   "file": "060_accessory/bodyrear_firewingrank02.glb",
+   "id": "bodyrear_firewingrank02",
+   "label": "시즌1 승리의 날개(2위)",
+   "name": "bodyrear_firewingrank02",
+   "stats": {
+    "animations": 2,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 288,
+    "vertices": 304
+   },
+   "thumb": "060_accessory/bodyrear_firewingrank02.webp"
+  },
+  {
+   "bytes": 11356,
+   "file": "060_accessory/bodyrear_firewingrank03.glb",
+   "id": "bodyrear_firewingrank03",
+   "label": "시즌1 승리의 날개(3위)",
+   "name": "bodyrear_firewingrank03",
+   "stats": {
+    "animations": 2,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 288,
+    "vertices": 304
+   },
+   "thumb": "060_accessory/bodyrear_firewingrank03.webp"
+  },
+  {
+   "bytes": 3360,
+   "file": "060_accessory/bodyrear_freshman_tri.glb",
+   "id": "bodyrear_freshman_tri",
+   "label": "제도용 자",
+   "name": "bodyrear_freshman_tri",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 42,
+    "vertices": 58
+   },
+   "thumb": "060_accessory/bodyrear_freshman_tri.webp"
+  },
+  {
+   "bytes": 4232,
+   "file": "060_accessory/bodyrear_freshman_unibook.glb",
+   "id": "bodyrear_freshman_unibook",
+   "label": "우니의 잃어버린 노트",
+   "name": "bodyrear_freshman_unibook",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 106,
+    "vertices": 162
+   },
+   "thumb": "060_accessory/bodyrear_freshman_unibook.webp"
+  },
+  {
+   "bytes": 7612,
+   "file": "060_accessory/bodyrear_greenbutterfly.glb",
+   "id": "bodyrear_greenbutterfly",
+   "label": "민트색 나비 날개",
+   "name": "bodyrear_greenbutterfly",
+   "stats": {
+    "animations": 1,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 104,
+    "vertices": 112
+   },
+   "thumb": "060_accessory/bodyrear_greenbutterfly.webp"
+  },
+  {
+   "bytes": 4720,
+   "file": "060_accessory/bodyrear_guitar.glb",
+   "id": "bodyrear_guitar",
+   "label": "통기타",
+   "name": "bodyrear_guitar",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 180,
+    "vertices": 242
+   },
+   "thumb": "060_accessory/bodyrear_guitar.webp"
+  },
+  {
+   "bytes": 4992,
+   "file": "060_accessory/bodyrear_halloween_bone.glb",
+   "id": "bodyrear_halloween_bone",
+   "label": "뼈다귀",
+   "name": "bodyrear_halloween_bone",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 200,
+    "vertices": 130
+   },
+   "thumb": "060_accessory/bodyrear_halloween_bone.webp"
+  },
+  {
+   "bytes": 10764,
+   "file": "060_accessory/bodyrear_halloween_ghost.glb",
+   "id": "bodyrear_halloween_ghost",
+   "label": "꼬마 유령",
+   "name": "bodyrear_halloween_ghost",
+   "stats": {
+    "animations": 1,
+    "bones": 4,
+    "textures": 1,
+    "triangles": 178,
+    "vertices": 168
+   },
+   "thumb": "060_accessory/bodyrear_halloween_ghost.webp"
+  },
+  {
+   "bytes": 6272,
+   "file": "060_accessory/bodyrear_halloween_spider.glb",
+   "id": "bodyrear_halloween_spider",
+   "label": "할로윈 거미",
+   "name": "bodyrear_halloween_spider",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 222,
+    "vertices": 250
+   },
+   "thumb": "060_accessory/bodyrear_halloween_spider.webp"
+  },
+  {
+   "bytes": 4184,
+   "file": "060_accessory/bodyrear_halloween_stickcandygreen.glb",
+   "id": "bodyrear_halloween_stickcandygreen",
+   "label": "할로윈 사과 사탕",
+   "name": "bodyrear_halloween_stickcandygreen",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 124,
+    "vertices": 150
+   },
+   "thumb": "060_accessory/bodyrear_halloween_stickcandygreen.webp"
+  },
+  {
+   "bytes": 4188,
+   "file": "060_accessory/bodyrear_halloween_stickcandyonange.glb",
+   "id": "bodyrear_halloween_stickcandyonange",
+   "label": "할로윈 오렌지 사탕",
+   "name": "bodyrear_halloween_stickcandyonange",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 124,
+    "vertices": 150
+   },
+   "thumb": "060_accessory/bodyrear_halloween_stickcandyonange.webp"
+  },
+  {
+   "bytes": 4180,
+   "file": "060_accessory/bodyrear_halloween_stickcandyred.glb",
+   "id": "bodyrear_halloween_stickcandyred",
+   "label": "할로윈 딸기 사탕",
+   "name": "bodyrear_halloween_stickcandyred",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 124,
+    "vertices": 150
+   },
+   "thumb": "060_accessory/bodyrear_halloween_stickcandyred.webp"
+  },
+  {
+   "bytes": 6012,
+   "file": "060_accessory/bodyrear_honeytong.glb",
+   "id": "bodyrear_honeytong",
+   "label": "꿀단지",
+   "name": "bodyrear_honeytong",
+   "stats": {
+    "animations": 0,
+    "bones": 2,
+    "textures": 1,
+    "triangles": 212,
+    "vertices": 182
+   },
+   "thumb": "060_accessory/bodyrear_honeytong.webp"
+  },
+  {
+   "bytes": 3904,
+   "file": "060_accessory/bodyrear_icebar.glb",
+   "id": "bodyrear_icebar",
+   "label": "아이스크림",
+   "name": "bodyrear_icebar",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 124,
+    "vertices": 124
+   },
+   "thumb": "060_accessory/bodyrear_icebar.webp"
+  },
+  {
+   "bytes": 6748,
+   "file": "060_accessory/bodyrear_kephicookerbodyrear.glb",
+   "id": "bodyrear_kephicookerbodyrear",
+   "label": "요리사 케피 조리도구",
+   "name": "bodyrear_kephicookerbodyrear",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 378,
+    "vertices": 425
+   },
+   "thumb": "060_accessory/bodyrear_kephicookerbodyrear.webp"
+  },
+  {
+   "bytes": 4492,
+   "file": "060_accessory/bodyrear_kephiindianbodyrear.glb",
+   "id": "bodyrear_kephiindianbodyrear",
+   "label": "원주민 케피 활",
+   "name": "bodyrear_kephiindianbodyrear",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 142,
+    "vertices": 162
+   },
+   "thumb": "060_accessory/bodyrear_kephiindianbodyrear.webp"
+  },
+  {
+   "bytes": 4228,
+   "file": "060_accessory/bodyrear_kephitraditionbodyrear.glb",
+   "id": "bodyrear_kephitraditionbodyrear",
+   "label": "여행가 케피 봇짐",
+   "name": "bodyrear_kephitraditionbodyrear",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 128,
+    "vertices": 130
+   },
+   "thumb": "060_accessory/bodyrear_kephitraditionbodyrear.webp"
+  },
+  {
+   "bytes": 4260,
+   "file": "060_accessory/bodyrear_kephizangbibodyrear.glb",
+   "id": "bodyrear_kephizangbibodyrear",
+   "label": "장비 케피 장팔사모",
+   "name": "bodyrear_kephizangbibodyrear",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 182,
+    "vertices": 192
+   },
+   "thumb": "060_accessory/bodyrear_kephizangbibodyrear.webp"
+  },
+  {
+   "bytes": 5544,
+   "file": "060_accessory/bodyrear_ladder10_cape_01.glb",
+   "id": "bodyrear_ladder10_cape_01",
+   "name": "bodyrear_ladder10_cape_01",
+   "stats": {
+    "animations": 0,
+    "bones": 4,
+    "textures": 0,
+    "triangles": 156,
+    "vertices": 128
+   },
+   "thumb": "060_accessory/bodyrear_ladder10_cape_01.webp"
+  },
+  {
+   "bytes": 9404,
+   "file": "060_accessory/bodyrear_ladder10_cape_01_01.glb",
+   "id": "bodyrear_ladder10_cape_01_01",
+   "label": "시즌10 1위 망토",
+   "name": "bodyrear_ladder10_cape_01_01",
+   "stats": {
+    "animations": 2,
+    "bones": 4,
+    "textures": 1,
+    "triangles": 156,
+    "vertices": 128
+   },
+   "thumb": "060_accessory/bodyrear_ladder10_cape_01_01.webp"
+  },
+  {
+   "bytes": 9404,
+   "file": "060_accessory/bodyrear_ladder10_cape_01_02.glb",
+   "id": "bodyrear_ladder10_cape_01_02",
+   "label": "시즌10 2위 망토",
+   "name": "bodyrear_ladder10_cape_01_02",
+   "stats": {
+    "animations": 2,
+    "bones": 4,
+    "textures": 1,
+    "triangles": 156,
+    "vertices": 128
+   },
+   "thumb": "060_accessory/bodyrear_ladder10_cape_01_02.webp"
+  },
+  {
+   "bytes": 9404,
+   "file": "060_accessory/bodyrear_ladder10_cape_01_03.glb",
+   "id": "bodyrear_ladder10_cape_01_03",
+   "label": "시즌10 3위 망토",
+   "name": "bodyrear_ladder10_cape_01_03",
+   "stats": {
+    "animations": 2,
+    "bones": 4,
+    "textures": 1,
+    "triangles": 156,
+    "vertices": 128
+   },
+   "thumb": "060_accessory/bodyrear_ladder10_cape_01_03.webp"
+  },
+  {
+   "bytes": 9404,
+   "file": "060_accessory/bodyrear_ladder10_cape_01_04.glb",
+   "id": "bodyrear_ladder10_cape_01_04",
+   "label": "시즌10 챌린저 망토",
+   "name": "bodyrear_ladder10_cape_01_04",
+   "stats": {
+    "animations": 2,
+    "bones": 4,
+    "textures": 1,
+    "triangles": 156,
+    "vertices": 128
+   },
+   "thumb": "060_accessory/bodyrear_ladder10_cape_01_04.webp"
+  },
+  {
+   "bytes": 9224,
+   "file": "060_accessory/bodyrear_ladder10_cape_02.glb",
+   "id": "bodyrear_ladder10_cape_02",
+   "label": "시즌10 마스터 망토",
+   "name": "bodyrear_ladder10_cape_02",
+   "stats": {
+    "animations": 2,
+    "bones": 4,
+    "textures": 1,
+    "triangles": 156,
+    "vertices": 128
+   },
+   "thumb": "060_accessory/bodyrear_ladder10_cape_02.webp"
+  },
+  {
+   "bytes": 8052,
+   "file": "060_accessory/bodyrear_ladder10_cape_03.glb",
+   "id": "bodyrear_ladder10_cape_03",
+   "label": "시즌10 최고급 망토",
+   "name": "bodyrear_ladder10_cape_03",
+   "stats": {
+    "animations": 2,
+    "bones": 4,
+    "textures": 1,
+    "triangles": 48,
+    "vertices": 40
+   },
+   "thumb": "060_accessory/bodyrear_ladder10_cape_03.webp"
+  },
+  {
+   "bytes": 8052,
+   "file": "060_accessory/bodyrear_ladder10_cape_04.glb",
+   "id": "bodyrear_ladder10_cape_04",
+   "label": "시즌10 고급 망토",
+   "name": "bodyrear_ladder10_cape_04",
+   "stats": {
+    "animations": 2,
+    "bones": 4,
+    "textures": 1,
+    "triangles": 48,
+    "vertices": 40
+   },
+   "thumb": "060_accessory/bodyrear_ladder10_cape_04.webp"
+  },
+  {
+   "bytes": 8052,
+   "file": "060_accessory/bodyrear_ladder10_cape_05.glb",
+   "id": "bodyrear_ladder10_cape_05",
+   "label": "시즌10 망토",
+   "name": "bodyrear_ladder10_cape_05",
+   "stats": {
+    "animations": 2,
+    "bones": 4,
+    "textures": 1,
+    "triangles": 48,
+    "vertices": 40
+   },
+   "thumb": "060_accessory/bodyrear_ladder10_cape_05.webp"
+  },
+  {
+   "bytes": 8676,
+   "file": "060_accessory/bodyrear_ladybug.glb",
+   "id": "bodyrear_ladybug",
+   "label": "무당벌레",
+   "name": "bodyrear_ladybug",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 4,
+    "textures": 1,
+    "triangles": 206,
+    "vertices": 166
+   },
+   "thumb": "060_accessory/bodyrear_ladybug.webp"
+  },
+  {
+   "bytes": 11744,
+   "file": "060_accessory/bodyrear_leafwing_gold.glb",
+   "id": "bodyrear_leafwing_gold",
+   "label": "영광의 황금날개",
+   "name": "bodyrear_leafwing_gold",
+   "stats": {
+    "animations": 1,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 416,
+    "vertices": 524
+   },
+   "thumb": "060_accessory/bodyrear_leafwing_gold.webp"
+  },
+  {
+   "bytes": 11752,
+   "file": "060_accessory/bodyrear_leafwing_green.glb",
+   "id": "bodyrear_leafwing_green",
+   "label": "영광의 날개",
+   "name": "bodyrear_leafwing_green",
+   "stats": {
+    "animations": 1,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 416,
+    "vertices": 524
+   },
+   "thumb": "060_accessory/bodyrear_leafwing_green.webp"
+  },
+  {
+   "bytes": 8880,
+   "file": "060_accessory/bodyrear_lodumanirudder.glb",
+   "id": "bodyrear_lodumanirudder",
+   "label": "로두마니 방향타",
+   "name": "bodyrear_lodumanirudder",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 668,
+    "vertices": 696
+   },
+   "thumb": "060_accessory/bodyrear_lodumanirudder.webp"
+  },
+  {
+   "bytes": 7836,
+   "file": "060_accessory/bodyrear_manteau.glb",
+   "id": "bodyrear_manteau",
+   "label": "반짝반짝 망토",
+   "name": "bodyrear_manteau",
+   "stats": {
+    "animations": 1,
+    "bones": 4,
+    "textures": 1,
+    "triangles": 100,
+    "vertices": 92
+   },
+   "thumb": "060_accessory/bodyrear_manteau.webp"
+  },
+  {
+   "bytes": 3976,
+   "file": "060_accessory/bodyrear_maridalicebodyrear.glb",
+   "id": "bodyrear_maridalicebodyrear",
+   "label": "앨리스 마리드 왕리본",
+   "name": "bodyrear_maridalicebodyrear",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 108,
+    "vertices": 116
+   },
+   "thumb": "060_accessory/bodyrear_maridalicebodyrear.webp"
+  },
+  {
+   "bytes": 2552,
+   "file": "060_accessory/bodyrear_maridmousebodyrear.glb",
+   "id": "bodyrear_maridmousebodyrear",
+   "name": "bodyrear_maridmousebodyrear",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 0,
+    "triangles": 80,
+    "vertices": 70
+   },
+   "thumb": "060_accessory/bodyrear_maridmousebodyrear.webp"
+  },
+  {
+   "bytes": 5308,
+   "file": "060_accessory/bodyrear_maridraincoatbodyrear.glb",
+   "id": "bodyrear_maridraincoatbodyrear",
+   "label": "우비소녀 마리드 가방",
+   "name": "bodyrear_maridraincoatbodyrear",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 280,
+    "vertices": 244
+   },
+   "thumb": "060_accessory/bodyrear_maridraincoatbodyrear.webp"
+  },
+  {
+   "bytes": 4432,
+   "file": "060_accessory/bodyrear_maridschoolbodyrear.glb",
+   "id": "bodyrear_maridschoolbodyrear",
+   "label": "교복 마리드 토끼가방",
+   "name": "bodyrear_maridschoolbodyrear",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 142,
+    "vertices": 154
+   },
+   "thumb": "060_accessory/bodyrear_maridschoolbodyrear.webp"
+  },
+  {
+   "bytes": 5596,
+   "file": "060_accessory/bodyrear_maridtraditionalbodyrear.glb",
+   "id": "bodyrear_maridtraditionalbodyrear",
+   "label": "선녀 마리드 비파",
+   "name": "bodyrear_maridtraditionalbodyrear",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 216,
+    "vertices": 290
+   },
+   "thumb": "060_accessory/bodyrear_maridtraditionalbodyrear.webp"
+  },
+  {
+   "bytes": 9484,
+   "file": "060_accessory/bodyrear_neonwing.glb",
+   "id": "bodyrear_neonwing",
+   "label": "별무늬 나비 날개",
+   "name": "bodyrear_neonwing",
+   "stats": {
+    "animations": 1,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 200,
+    "vertices": 312
+   },
+   "thumb": "060_accessory/bodyrear_neonwing.webp"
+  },
+  {
+   "bytes": 4308,
+   "file": "060_accessory/bodyrear_newyear2020_cheesebox.glb",
+   "id": "bodyrear_newyear2020_cheesebox",
+   "label": "치즈볼",
+   "name": "bodyrear_newyear2020_cheesebox",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 116,
+    "vertices": 148
+   },
+   "thumb": "060_accessory/bodyrear_newyear2020_cheesebox.webp"
+  },
+  {
+   "bytes": 3592,
+   "file": "060_accessory/bodyrear_newyear2020_cheesecake.glb",
+   "id": "bodyrear_newyear2020_cheesecake",
+   "label": "통 치즈",
+   "name": "bodyrear_newyear2020_cheesecake",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 60,
+    "vertices": 92
+   },
+   "thumb": "060_accessory/bodyrear_newyear2020_cheesecake.webp"
+  },
+  {
+   "bytes": 5084,
+   "file": "060_accessory/bodyrear_newyear2020_cheesesand.glb",
+   "id": "bodyrear_newyear2020_cheesesand",
+   "label": "치즈 크래커",
+   "name": "bodyrear_newyear2020_cheesesand",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 231,
+    "vertices": 203
+   },
+   "thumb": "060_accessory/bodyrear_newyear2020_cheesesand.webp"
+  },
+  {
+   "bytes": 10752,
+   "file": "060_accessory/bodyrear_newyear2020_kite.glb",
+   "id": "bodyrear_newyear2020_kite",
+   "label": "찍찍이 연",
+   "name": "bodyrear_newyear2020_kite",
+   "stats": {
+    "animations": 1,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 328,
+    "vertices": 436
+   },
+   "thumb": "060_accessory/bodyrear_newyear2020_kite.webp"
+  },
+  {
+   "bytes": 7424,
+   "file": "060_accessory/bodyrear_newyear2020_startail.glb",
+   "id": "bodyrear_newyear2020_startail",
+   "label": "별꼬리",
+   "name": "bodyrear_newyear2020_startail",
+   "stats": {
+    "animations": 1,
+    "bones": 4,
+    "textures": 1,
+    "triangles": 96,
+    "vertices": 86
+   },
+   "thumb": "060_accessory/bodyrear_newyear2020_startail.webp"
+  },
+  {
+   "bytes": 7508,
+   "file": "060_accessory/bodyrear_pajamas_bear.glb",
+   "id": "bodyrear_pajamas_bear",
+   "label": "곰인형",
+   "name": "bodyrear_pajamas_bear",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 540,
+    "vertices": 464
+   },
+   "thumb": "060_accessory/bodyrear_pajamas_bear.webp"
+  },
+  {
+   "bytes": 4600,
+   "file": "060_accessory/bodyrear_pajamas_unibottle.glb",
+   "id": "bodyrear_pajamas_unibottle",
+   "label": "젖병",
+   "name": "bodyrear_pajamas_unibottle",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 238,
+    "vertices": 188
+   },
+   "thumb": "060_accessory/bodyrear_pajamas_unibottle.webp"
+  },
+  {
+   "bytes": 9504,
+   "file": "060_accessory/bodyrear_peacocktail01.glb",
+   "id": "bodyrear_peacocktail01",
+   "label": "푸른 공작날개",
+   "name": "bodyrear_peacocktail01",
+   "stats": {
+    "animations": 1,
+    "bones": 5,
+    "textures": 1,
+    "triangles": 124,
+    "vertices": 196
+   },
+   "thumb": "060_accessory/bodyrear_peacocktail01.webp"
+  },
+  {
+   "bytes": 9604,
+   "file": "060_accessory/bodyrear_peacocktail02.glb",
+   "id": "bodyrear_peacocktail02",
+   "label": "보라 공작날개",
+   "name": "bodyrear_peacocktail02",
+   "stats": {
+    "animations": 1,
+    "bones": 5,
+    "textures": 1,
+    "triangles": 128,
+    "vertices": 176
+   },
+   "thumb": "060_accessory/bodyrear_peacocktail02.webp"
+  },
+  {
+   "bytes": 6680,
+   "file": "060_accessory/bodyrear_pillow.glb",
+   "id": "bodyrear_pillow",
+   "label": "숙면베개",
+   "name": "bodyrear_pillow",
+   "stats": {
+    "animations": 1,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 28,
+    "vertices": 24
+   },
+   "thumb": "060_accessory/bodyrear_pillow.webp"
+  },
+  {
+   "bytes": 7380,
+   "file": "060_accessory/bodyrear_prisonerball.glb",
+   "id": "bodyrear_prisonerball",
+   "label": "족쇄",
+   "name": "bodyrear_prisonerball",
+   "stats": {
+    "animations": 0,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 224,
+    "vertices": 274
+   },
+   "thumb": "060_accessory/bodyrear_prisonerball.webp"
+  },
+  {
+   "bytes": 4524,
+   "file": "060_accessory/bodyrear_prisonerkey.glb",
+   "id": "bodyrear_prisonerkey",
+   "label": "만능 열쇠",
+   "name": "bodyrear_prisonerkey",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 152,
+    "vertices": 176
+   },
+   "thumb": "060_accessory/bodyrear_prisonerkey.webp"
+  },
+  {
+   "bytes": 4356,
+   "file": "060_accessory/bodyrear_prisonermoney.glb",
+   "id": "bodyrear_prisonermoney",
+   "label": "돈자루",
+   "name": "bodyrear_prisonermoney",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 192,
+    "vertices": 165
+   },
+   "thumb": "060_accessory/bodyrear_prisonermoney.webp"
+  },
+  {
+   "bytes": 3936,
+   "file": "060_accessory/bodyrear_prisonerspoon.glb",
+   "id": "bodyrear_prisonerspoon",
+   "label": "교도소 수저",
+   "name": "bodyrear_prisonerspoon",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 116,
+    "vertices": 129
+   },
+   "thumb": "060_accessory/bodyrear_prisonerspoon.webp"
+  },
+  {
+   "bytes": 7600,
+   "file": "060_accessory/bodyrear_puplebutterfly.glb",
+   "id": "bodyrear_puplebutterfly",
+   "label": "보라색 나비 날개",
+   "name": "bodyrear_puplebutterfly",
+   "stats": {
+    "animations": 1,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 104,
+    "vertices": 112
+   },
+   "thumb": "060_accessory/bodyrear_puplebutterfly.webp"
+  },
+  {
+   "bytes": 6664,
+   "file": "060_accessory/bodyrear_radio.glb",
+   "id": "bodyrear_radio",
+   "label": "레트로 라디오",
+   "name": "bodyrear_radio",
+   "stats": {
+    "animations": 1,
+    "bones": 2,
+    "textures": 1,
+    "triangles": 108,
+    "vertices": 144
+   },
+   "thumb": "060_accessory/bodyrear_radio.webp"
+  },
+  {
+   "bytes": 9680,
+   "file": "060_accessory/bodyrear_rankwing01_02.glb",
+   "id": "bodyrear_rankwing01_02",
+   "label": "시즌2 승리의 날개(1위)",
+   "name": "bodyrear_rankwing01_02",
+   "stats": {
+    "animations": 2,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 104,
+    "vertices": 120
+   },
+   "thumb": "060_accessory/bodyrear_rankwing01_02.webp"
+  },
+  {
+   "bytes": 9680,
+   "file": "060_accessory/bodyrear_rankwing01_03.glb",
+   "id": "bodyrear_rankwing01_03",
+   "label": "시즌3 승리의 날개(1위)",
+   "name": "bodyrear_rankwing01_03",
+   "stats": {
+    "animations": 2,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 104,
+    "vertices": 120
+   },
+   "thumb": "060_accessory/bodyrear_rankwing01_03.webp"
+  },
+  {
+   "bytes": 9680,
+   "file": "060_accessory/bodyrear_rankwing01_04.glb",
+   "id": "bodyrear_rankwing01_04",
+   "label": "시즌4 승리의 날개(1위)",
+   "name": "bodyrear_rankwing01_04",
+   "stats": {
+    "animations": 2,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 104,
+    "vertices": 120
+   },
+   "thumb": "060_accessory/bodyrear_rankwing01_04.webp"
+  },
+  {
+   "bytes": 9680,
+   "file": "060_accessory/bodyrear_rankwing01_05.glb",
+   "id": "bodyrear_rankwing01_05",
+   "label": "시즌5 승리의 날개(1위)",
+   "name": "bodyrear_rankwing01_05",
+   "stats": {
+    "animations": 2,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 104,
+    "vertices": 120
+   },
+   "thumb": "060_accessory/bodyrear_rankwing01_05.webp"
+  },
+  {
+   "bytes": 9680,
+   "file": "060_accessory/bodyrear_rankwing01_06.glb",
+   "id": "bodyrear_rankwing01_06",
+   "label": "시즌6 승리의 날개(1위)",
+   "name": "bodyrear_rankwing01_06",
+   "stats": {
+    "animations": 2,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 104,
+    "vertices": 120
+   },
+   "thumb": "060_accessory/bodyrear_rankwing01_06.webp"
+  },
+  {
+   "bytes": 9680,
+   "file": "060_accessory/bodyrear_rankwing01_07.glb",
+   "id": "bodyrear_rankwing01_07",
+   "label": "시즌7 승리의 날개(1위)",
+   "name": "bodyrear_rankwing01_07",
+   "stats": {
+    "animations": 2,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 104,
+    "vertices": 120
+   },
+   "thumb": "060_accessory/bodyrear_rankwing01_07.webp"
+  },
+  {
+   "bytes": 11356,
+   "file": "060_accessory/bodyrear_rankwing01_08.glb",
+   "id": "bodyrear_rankwing01_08",
+   "label": "시즌8 승리의 날개(1위)",
+   "name": "bodyrear_rankwing01_08",
+   "stats": {
+    "animations": 2,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 288,
+    "vertices": 304
+   },
+   "thumb": "060_accessory/bodyrear_rankwing01_08.webp"
+  },
+  {
+   "bytes": 11356,
+   "file": "060_accessory/bodyrear_rankwing01_09.glb",
+   "id": "bodyrear_rankwing01_09",
+   "label": "시즌9 승리의 날개(1위)",
+   "name": "bodyrear_rankwing01_09",
+   "stats": {
+    "animations": 2,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 288,
+    "vertices": 304
+   },
+   "thumb": "060_accessory/bodyrear_rankwing01_09.webp"
+  },
+  {
+   "bytes": 9680,
+   "file": "060_accessory/bodyrear_rankwing02_02.glb",
+   "id": "bodyrear_rankwing02_02",
+   "label": "시즌2 승리의 날개(2위)",
+   "name": "bodyrear_rankwing02_02",
+   "stats": {
+    "animations": 2,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 104,
+    "vertices": 120
+   },
+   "thumb": "060_accessory/bodyrear_rankwing02_02.webp"
+  },
+  {
+   "bytes": 9680,
+   "file": "060_accessory/bodyrear_rankwing02_03.glb",
+   "id": "bodyrear_rankwing02_03",
+   "label": "시즌3 승리의 날개(2위)",
+   "name": "bodyrear_rankwing02_03",
+   "stats": {
+    "animations": 2,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 104,
+    "vertices": 120
+   },
+   "thumb": "060_accessory/bodyrear_rankwing02_03.webp"
+  },
+  {
+   "bytes": 9680,
+   "file": "060_accessory/bodyrear_rankwing02_04.glb",
+   "id": "bodyrear_rankwing02_04",
+   "label": "시즌4 승리의 날개(2위)",
+   "name": "bodyrear_rankwing02_04",
+   "stats": {
+    "animations": 2,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 104,
+    "vertices": 120
+   },
+   "thumb": "060_accessory/bodyrear_rankwing02_04.webp"
+  },
+  {
+   "bytes": 9680,
+   "file": "060_accessory/bodyrear_rankwing02_05.glb",
+   "id": "bodyrear_rankwing02_05",
+   "label": "시즌5 승리의 날개(2위)",
+   "name": "bodyrear_rankwing02_05",
+   "stats": {
+    "animations": 2,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 104,
+    "vertices": 120
+   },
+   "thumb": "060_accessory/bodyrear_rankwing02_05.webp"
+  },
+  {
+   "bytes": 9680,
+   "file": "060_accessory/bodyrear_rankwing02_06.glb",
+   "id": "bodyrear_rankwing02_06",
+   "label": "시즌6 승리의 날개(2위)",
+   "name": "bodyrear_rankwing02_06",
+   "stats": {
+    "animations": 2,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 104,
+    "vertices": 120
+   },
+   "thumb": "060_accessory/bodyrear_rankwing02_06.webp"
+  },
+  {
+   "bytes": 9680,
+   "file": "060_accessory/bodyrear_rankwing02_07.glb",
+   "id": "bodyrear_rankwing02_07",
+   "label": "시즌7 승리의 날개(2위)",
+   "name": "bodyrear_rankwing02_07",
+   "stats": {
+    "animations": 2,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 104,
+    "vertices": 120
+   },
+   "thumb": "060_accessory/bodyrear_rankwing02_07.webp"
+  },
+  {
+   "bytes": 11356,
+   "file": "060_accessory/bodyrear_rankwing02_08.glb",
+   "id": "bodyrear_rankwing02_08",
+   "label": "시즌8 승리의 날개(2위)",
+   "name": "bodyrear_rankwing02_08",
+   "stats": {
+    "animations": 2,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 288,
+    "vertices": 304
+   },
+   "thumb": "060_accessory/bodyrear_rankwing02_08.webp"
+  },
+  {
+   "bytes": 11356,
+   "file": "060_accessory/bodyrear_rankwing02_09.glb",
+   "id": "bodyrear_rankwing02_09",
+   "label": "시즌9 승리의 날개(2위)",
+   "name": "bodyrear_rankwing02_09",
+   "stats": {
+    "animations": 2,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 288,
+    "vertices": 304
+   },
+   "thumb": "060_accessory/bodyrear_rankwing02_09.webp"
+  },
+  {
+   "bytes": 9680,
+   "file": "060_accessory/bodyrear_rankwing03_02.glb",
+   "id": "bodyrear_rankwing03_02",
+   "label": "시즌2 승리의 날개(3위)",
+   "name": "bodyrear_rankwing03_02",
+   "stats": {
+    "animations": 2,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 104,
+    "vertices": 120
+   },
+   "thumb": "060_accessory/bodyrear_rankwing03_02.webp"
+  },
+  {
+   "bytes": 9680,
+   "file": "060_accessory/bodyrear_rankwing03_03.glb",
+   "id": "bodyrear_rankwing03_03",
+   "label": "시즌3 승리의 날개(3위)",
+   "name": "bodyrear_rankwing03_03",
+   "stats": {
+    "animations": 2,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 104,
+    "vertices": 120
+   },
+   "thumb": "060_accessory/bodyrear_rankwing03_03.webp"
+  },
+  {
+   "bytes": 9680,
+   "file": "060_accessory/bodyrear_rankwing03_04.glb",
+   "id": "bodyrear_rankwing03_04",
+   "label": "시즌4 승리의 날개(3위)",
+   "name": "bodyrear_rankwing03_04",
+   "stats": {
+    "animations": 2,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 104,
+    "vertices": 120
+   },
+   "thumb": "060_accessory/bodyrear_rankwing03_04.webp"
+  },
+  {
+   "bytes": 9680,
+   "file": "060_accessory/bodyrear_rankwing03_05.glb",
+   "id": "bodyrear_rankwing03_05",
+   "label": "시즌5 승리의 날개(3위)",
+   "name": "bodyrear_rankwing03_05",
+   "stats": {
+    "animations": 2,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 104,
+    "vertices": 120
+   },
+   "thumb": "060_accessory/bodyrear_rankwing03_05.webp"
+  },
+  {
+   "bytes": 9680,
+   "file": "060_accessory/bodyrear_rankwing03_06.glb",
+   "id": "bodyrear_rankwing03_06",
+   "label": "시즌6 승리의 날개(3위)",
+   "name": "bodyrear_rankwing03_06",
+   "stats": {
+    "animations": 2,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 104,
+    "vertices": 120
+   },
+   "thumb": "060_accessory/bodyrear_rankwing03_06.webp"
+  },
+  {
+   "bytes": 9680,
+   "file": "060_accessory/bodyrear_rankwing03_07.glb",
+   "id": "bodyrear_rankwing03_07",
+   "label": "시즌7 승리의 날개(3위)",
+   "name": "bodyrear_rankwing03_07",
+   "stats": {
+    "animations": 2,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 104,
+    "vertices": 120
+   },
+   "thumb": "060_accessory/bodyrear_rankwing03_07.webp"
+  },
+  {
+   "bytes": 11356,
+   "file": "060_accessory/bodyrear_rankwing03_08.glb",
+   "id": "bodyrear_rankwing03_08",
+   "label": "시즌8 승리의 날개(3위)",
+   "name": "bodyrear_rankwing03_08",
+   "stats": {
+    "animations": 2,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 288,
+    "vertices": 304
+   },
+   "thumb": "060_accessory/bodyrear_rankwing03_08.webp"
+  },
+  {
+   "bytes": 11356,
+   "file": "060_accessory/bodyrear_rankwing03_09.glb",
+   "id": "bodyrear_rankwing03_09",
+   "label": "시즌9 승리의 날개(3위)",
+   "name": "bodyrear_rankwing03_09",
+   "stats": {
+    "animations": 2,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 288,
+    "vertices": 304
+   },
+   "thumb": "060_accessory/bodyrear_rankwing03_09.webp"
+  },
+  {
+   "bytes": 4848,
+   "file": "060_accessory/bodyrear_ribbon.glb",
+   "id": "bodyrear_ribbon",
+   "label": "선물리본",
+   "name": "bodyrear_ribbon",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 176,
+    "vertices": 174
+   },
+   "thumb": "060_accessory/bodyrear_ribbon.webp"
+  },
+  {
+   "bytes": 11080,
+   "file": "060_accessory/bodyrear_robotwing.glb",
+   "id": "bodyrear_robotwing",
+   "label": "로켓 날개",
+   "name": "bodyrear_robotwing",
+   "stats": {
+    "animations": 2,
+    "bones": 4,
+    "textures": 1,
+    "triangles": 254,
+    "vertices": 265
+   },
+   "thumb": "060_accessory/bodyrear_robotwing.webp"
+  },
+  {
+   "bytes": 4884,
+   "file": "060_accessory/bodyrear_showerstick.glb",
+   "id": "bodyrear_showerstick",
+   "label": "목욕 브러쉬",
+   "name": "bodyrear_showerstick",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 194,
+    "vertices": 222
+   },
+   "thumb": "060_accessory/bodyrear_showerstick.webp"
+  },
+  {
+   "bytes": 6088,
+   "file": "060_accessory/bodyrear_skateboard.glb",
+   "id": "bodyrear_skateboard",
+   "label": "스케이트 보드",
+   "name": "bodyrear_skateboard",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 292,
+    "vertices": 344
+   },
+   "thumb": "060_accessory/bodyrear_skateboard.webp"
+  },
+  {
+   "bytes": 7088,
+   "file": "060_accessory/bodyrear_spiralspring.glb",
+   "id": "bodyrear_spiralspring",
+   "label": "시계태엽",
+   "name": "bodyrear_spiralspring",
+   "stats": {
+    "animations": 1,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 264,
+    "vertices": 292
+   },
+   "thumb": "060_accessory/bodyrear_spiralspring.webp"
+  },
+  {
+   "bytes": 3540,
+   "file": "060_accessory/bodyrear_summer2020_icebar01.glb",
+   "id": "bodyrear_summer2020_icebar01",
+   "label": "오렌지맛 하드",
+   "name": "bodyrear_summer2020_icebar01",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 84,
+    "vertices": 80
+   },
+   "thumb": "060_accessory/bodyrear_summer2020_icebar01.webp"
+  },
+  {
+   "bytes": 3540,
+   "file": "060_accessory/bodyrear_summer2020_icebar02.glb",
+   "id": "bodyrear_summer2020_icebar02",
+   "label": "키위맛 하드",
+   "name": "bodyrear_summer2020_icebar02",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 84,
+    "vertices": 80
+   },
+   "thumb": "060_accessory/bodyrear_summer2020_icebar02.webp"
+  },
+  {
+   "bytes": 3540,
+   "file": "060_accessory/bodyrear_summer2020_icebar03.glb",
+   "id": "bodyrear_summer2020_icebar03",
+   "label": "소다맛 하드",
+   "name": "bodyrear_summer2020_icebar03",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 84,
+    "vertices": 80
+   },
+   "thumb": "060_accessory/bodyrear_summer2020_icebar03.webp"
+  },
+  {
+   "bytes": 3648,
+   "file": "060_accessory/bodyrear_summer2020_ribbon.glb",
+   "id": "bodyrear_summer2020_ribbon",
+   "label": "블루 레모네이드 리본",
+   "name": "bodyrear_summer2020_ribbon",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 84,
+    "vertices": 75
+   },
+   "thumb": "060_accessory/bodyrear_summer2020_ribbon.webp"
+  },
+  {
+   "bytes": 3240,
+   "file": "060_accessory/bodyrear_summer2020_subak.glb",
+   "id": "bodyrear_summer2020_subak",
+   "label": "조각 수박",
+   "name": "bodyrear_summer2020_subak",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 36,
+    "vertices": 46
+   },
+   "thumb": "060_accessory/bodyrear_summer2020_subak.webp"
+  },
+  {
+   "bytes": 3876,
+   "file": "060_accessory/bodyrear_tube01.glb",
+   "id": "bodyrear_tube01",
+   "label": "도넛 튜브",
+   "name": "bodyrear_tube01",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 144,
+    "vertices": 96
+   },
+   "thumb": "060_accessory/bodyrear_tube01.webp"
+  },
+  {
+   "bytes": 3876,
+   "file": "060_accessory/bodyrear_tube02.glb",
+   "id": "bodyrear_tube02",
+   "label": "줄무늬 튜브",
+   "name": "bodyrear_tube02",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 144,
+    "vertices": 96
+   },
+   "thumb": "060_accessory/bodyrear_tube02.webp"
+  },
+  {
+   "bytes": 4056,
+   "file": "060_accessory/bodyrear_turtle.glb",
+   "id": "bodyrear_turtle",
+   "label": "거북이 등",
+   "name": "bodyrear_turtle",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 174,
+    "vertices": 140
+   },
+   "thumb": "060_accessory/bodyrear_turtle.webp"
+  },
+  {
+   "bytes": 7700,
+   "file": "060_accessory/bodyrear_umbrella.glb",
+   "id": "bodyrear_umbrella",
+   "label": "노란 우산",
+   "name": "bodyrear_umbrella",
+   "stats": {
+    "animations": 1,
+    "bones": 4,
+    "textures": 1,
+    "triangles": 188,
+    "vertices": 185
+   },
+   "thumb": "060_accessory/bodyrear_umbrella.webp"
+  },
+  {
+   "bytes": 14140,
+   "file": "060_accessory/bodyrear_uniangelbodyrear.glb",
+   "id": "bodyrear_uniangelbodyrear",
+   "label": "큐피드 우니 천사날개",
+   "name": "bodyrear_uniangelbodyrear",
+   "stats": {
+    "animations": 2,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 518,
+    "vertices": 534
+   },
+   "thumb": "060_accessory/bodyrear_uniangelbodyrear.webp"
+  },
+  {
+   "bytes": 4180,
+   "file": "060_accessory/bodyrear_unifreshmanbodyrear.glb",
+   "id": "bodyrear_unifreshmanbodyrear",
+   "label": "새학기 우니 가방",
+   "name": "bodyrear_unifreshmanbodyrear",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 128,
+    "vertices": 152
+   },
+   "thumb": "060_accessory/bodyrear_unifreshmanbodyrear.webp"
+  },
+  {
+   "bytes": 4392,
+   "file": "060_accessory/bodyrear_unikindgartenbodyrear.glb",
+   "id": "bodyrear_unikindgartenbodyrear",
+   "label": "유치원 우니 가방",
+   "name": "bodyrear_unikindgartenbodyrear",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 136,
+    "vertices": 164
+   },
+   "thumb": "060_accessory/bodyrear_unikindgartenbodyrear.webp"
+  },
+  {
+   "bytes": 3832,
+   "file": "060_accessory/bodyrear_unischoolbodyrear.glb",
+   "id": "bodyrear_unischoolbodyrear",
+   "label": "교복 우니 방망이",
+   "name": "bodyrear_unischoolbodyrear",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 118,
+    "vertices": 108
+   },
+   "thumb": "060_accessory/bodyrear_unischoolbodyrear.webp"
+  },
+  {
+   "bytes": 5768,
+   "file": "060_accessory/bodyrear_uniswimmingbodyrear.glb",
+   "id": "bodyrear_uniswimmingbodyrear",
+   "label": "바캉스 우니 가재",
+   "name": "bodyrear_uniswimmingbodyrear",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 302,
+    "vertices": 292
+   },
+   "thumb": "060_accessory/bodyrear_uniswimmingbodyrear.webp"
+  },
+  {
+   "bytes": 4868,
+   "file": "060_accessory/bodyrear_uniyeopobodyrear.glb",
+   "id": "bodyrear_uniyeopobodyrear",
+   "label": "여포 우니 방천화극",
+   "name": "bodyrear_uniyeopobodyrear",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 230,
+    "vertices": 258
+   },
+   "thumb": "060_accessory/bodyrear_uniyeopobodyrear.webp"
+  },
+  {
+   "bytes": 3256,
+   "file": "060_accessory/dummytail_bazzipandatail.glb",
+   "id": "dummytail_bazzipandatail",
+   "label": "팬더 배찌 꼬리",
+   "name": "dummytail_bazzipandatail",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 68,
+    "vertices": 48
+   },
+   "thumb": "060_accessory/dummytail_bazzipandatail.webp"
+  },
+  {
+   "bytes": 6112,
+   "file": "060_accessory/dummytail_bazzisheeptail.glb",
+   "id": "dummytail_bazzisheeptail",
+   "label": "양 배찌 꼬리",
+   "name": "dummytail_bazzisheeptail",
+   "stats": {
+    "animations": 1,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 54,
+    "vertices": 46
+   },
+   "thumb": "060_accessory/dummytail_bazzisheeptail.webp"
+  },
+  {
+   "bytes": 5460,
+   "file": "060_accessory/dummytail_bazziwolf.glb",
+   "id": "dummytail_bazziwolf",
+   "name": "dummytail_bazziwolf",
+   "stats": {
+    "animations": 1,
+    "bones": 3,
+    "textures": 0,
+    "triangles": 56,
+    "vertices": 44
+   },
+   "thumb": "060_accessory/dummytail_bazziwolf.webp"
+  },
+  {
+   "bytes": 7052,
+   "file": "060_accessory/dummytail_bazziwolftail.glb",
+   "id": "dummytail_bazziwolftail",
+   "label": "늑대 배찌 꼬리",
+   "name": "dummytail_bazziwolftail",
+   "stats": {
+    "animations": 2,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 56,
+    "vertices": 44
+   },
+   "thumb": "060_accessory/dummytail_bazziwolftail.webp"
+  },
+  {
+   "bytes": 6488,
+   "file": "060_accessory/dummytail_daosontail.glb",
+   "id": "dummytail_daosontail",
+   "label": "손오공 다오 꼬리",
+   "name": "dummytail_daosontail",
+   "stats": {
+    "animations": 1,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 98,
+    "vertices": 78
+   },
+   "thumb": "060_accessory/dummytail_daosontail.webp"
+  },
+  {
+   "bytes": 9400,
+   "file": "060_accessory/dummytail_dizniathletetail.glb",
+   "id": "dummytail_dizniathletetail",
+   "label": "응원단 디지니 타이어",
+   "name": "dummytail_dizniathletetail",
+   "stats": {
+    "animations": 2,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 208,
+    "vertices": 208
+   },
+   "thumb": "060_accessory/dummytail_dizniathletetail.webp"
+  },
+  {
+   "bytes": 9036,
+   "file": "060_accessory/dummytail_diznicattail.glb",
+   "id": "dummytail_diznicattail",
+   "label": "고양이 디지니 꼬리",
+   "name": "dummytail_diznicattail",
+   "stats": {
+    "animations": 2,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 170,
+    "vertices": 144
+   },
+   "thumb": "060_accessory/dummytail_diznicattail.webp"
+  },
+  {
+   "bytes": 12748,
+   "file": "060_accessory/dummytail_diznininetail.glb",
+   "id": "dummytail_diznininetail",
+   "label": "구미호 디지니 꼬리",
+   "name": "dummytail_diznininetail",
+   "stats": {
+    "animations": 1,
+    "bones": 4,
+    "textures": 1,
+    "triangles": 504,
+    "vertices": 378
+   },
+   "thumb": "060_accessory/dummytail_diznininetail.webp"
+  },
+  {
+   "bytes": 3152,
+   "file": "060_accessory/dummytail_kephipajamas.glb",
+   "id": "dummytail_kephipajamas",
+   "label": "잠옷 케피 꼬리장식",
+   "name": "dummytail_kephipajamas",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 68,
+    "vertices": 48
+   },
+   "thumb": "060_accessory/dummytail_kephipajamas.webp"
+  },
+  {
+   "bytes": 3304,
+   "file": "060_accessory/dummytail_maridrabbittail.glb",
+   "id": "dummytail_maridrabbittail",
+   "label": "토끼 마리드 꼬리",
+   "name": "dummytail_maridrabbittail",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 68,
+    "vertices": 42
+   },
+   "thumb": "060_accessory/dummytail_maridrabbittail.webp"
+  },
+  {
+   "bytes": 8056,
+   "file": "060_accessory/dummytail_paperplane.glb",
+   "id": "dummytail_paperplane",
+   "label": "종이 비행기",
+   "name": "dummytail_paperplane",
+   "stats": {
+    "animations": 1,
+    "bones": 4,
+    "textures": 1,
+    "triangles": 28,
+    "vertices": 48
+   },
+   "thumb": "060_accessory/dummytail_paperplane.webp"
+  },
+  {
+   "bytes": 6748,
+   "file": "060_accessory/dummytail_raccoontail.glb",
+   "id": "dummytail_raccoontail",
+   "label": "너구리 꼬리",
+   "name": "dummytail_raccoontail",
+   "stats": {
+    "animations": 1,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 120,
+    "vertices": 82
+   },
+   "thumb": "060_accessory/dummytail_raccoontail.webp"
+  },
+  {
+   "bytes": 8392,
+   "file": "060_accessory/dummytail_rocket.glb",
+   "id": "dummytail_rocket",
+   "label": "로켓 부스터",
+   "name": "dummytail_rocket",
+   "stats": {
+    "animations": 1,
+    "bones": 2,
+    "textures": 1,
+    "triangles": 186,
+    "vertices": 222
+   },
+   "thumb": "060_accessory/dummytail_rocket.webp"
+  },
+  {
+   "bytes": 7140,
+   "file": "060_accessory/dummytail_shark.glb",
+   "id": "dummytail_shark",
+   "label": "아작아작 상어",
+   "name": "dummytail_shark",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 256,
+    "vertices": 214
+   },
+   "thumb": "060_accessory/dummytail_shark.webp"
+  },
+  {
+   "bytes": 3356,
+   "file": "060_accessory/dummytail_sutigerdummytail.glb",
+   "id": "dummytail_sutigerdummytail",
+   "label": "호랑이 수 꼬리",
+   "name": "dummytail_sutigerdummytail",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 88,
+    "vertices": 62
+   },
+   "thumb": "060_accessory/dummytail_sutigerdummytail.webp"
+  },
+  {
+   "bytes": 3188,
+   "file": "060_accessory/dummytail_unibeartail.glb",
+   "id": "dummytail_unibeartail",
+   "label": "곰돌이 우니 꼬리",
+   "name": "dummytail_unibeartail",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 68,
+    "vertices": 48
+   },
+   "thumb": "060_accessory/dummytail_unibeartail.webp"
+  },
+  {
+   "bytes": 8220,
+   "file": "060_accessory/dummytail_unicorntail.glb",
+   "id": "dummytail_unicorntail",
+   "label": "유니콘 꼬리",
+   "name": "dummytail_unicorntail",
+   "stats": {
+    "animations": 1,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 168,
+    "vertices": 112
+   },
+   "thumb": "060_accessory/dummytail_unicorntail.webp"
+  },
+  {
+   "bytes": 6652,
+   "file": "060_accessory/dummytail_uniphocidaetail.glb",
+   "id": "dummytail_uniphocidaetail",
+   "label": "황제물개 우니 꼬리",
+   "name": "dummytail_uniphocidaetail",
+   "stats": {
+    "animations": 1,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 68,
+    "vertices": 60
+   },
+   "thumb": "060_accessory/dummytail_uniphocidaetail.webp"
+  },
+  {
+   "bytes": 6748,
+   "file": "060_accessory/dummytail_uniraccoontail.glb",
+   "id": "dummytail_uniraccoontail",
+   "label": "너구리 우니 꼬리",
+   "name": "dummytail_uniraccoontail",
+   "stats": {
+    "animations": 1,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 88,
+    "vertices": 68
+   },
+   "thumb": "060_accessory/dummytail_uniraccoontail.webp"
+  },
+  {
+   "bytes": 4172,
+   "file": "060_accessory/headfront_april_clover.glb",
+   "id": "headfront_april_clover",
+   "label": "네잎 클로버",
+   "name": "headfront_april_clover",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 108,
+    "vertices": 184
+   },
+   "thumb": "060_accessory/headfront_april_clover.webp"
+  },
+  {
+   "bytes": 5292,
+   "file": "060_accessory/headfront_april_twinflower.glb",
+   "id": "headfront_april_twinflower",
+   "label": "꽃 장식",
+   "name": "headfront_april_twinflower",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 220,
+    "vertices": 250
+   },
+   "thumb": "060_accessory/headfront_april_twinflower.webp"
+  },
+  {
+   "bytes": 3332,
+   "file": "060_accessory/headfront_bandaid.glb",
+   "id": "headfront_bandaid",
+   "label": "상처용 밴드",
+   "name": "headfront_bandaid",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 60,
+    "vertices": 72
+   },
+   "thumb": "060_accessory/headfront_bandaid.webp"
+  },
+  {
+   "bytes": 7556,
+   "file": "060_accessory/headfront_bazzigangsiheadfront.glb",
+   "id": "headfront_bazzigangsiheadfront",
+   "label": "강시 배찌 부적",
+   "name": "headfront_bazzigangsiheadfront",
+   "stats": {
+    "animations": 1,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 200,
+    "vertices": 162
+   },
+   "thumb": "060_accessory/headfront_bazzigangsiheadfront.webp"
+  },
+  {
+   "bytes": 4880,
+   "file": "060_accessory/headfront_bazzimagicianheadfront.glb",
+   "id": "headfront_bazzimagicianheadfront",
+   "label": "젠틀맨 배찌 안경",
+   "name": "headfront_bazzimagicianheadfront",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 204,
+    "vertices": 208
+   },
+   "thumb": "060_accessory/headfront_bazzimagicianheadfront.webp"
+  },
+  {
+   "bytes": 5220,
+   "file": "060_accessory/headfront_bazzioldperson.glb",
+   "id": "headfront_bazzioldperson",
+   "label": "노인 배찌 수염",
+   "name": "headfront_bazzioldperson",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 270,
+    "vertices": 220
+   },
+   "thumb": "060_accessory/headfront_bazzioldperson.webp"
+  },
+  {
+   "bytes": 3636,
+   "file": "060_accessory/headfront_bazzipirateheadfront.glb",
+   "id": "headfront_bazzipirateheadfront",
+   "label": "해적 배찌 안대",
+   "name": "headfront_bazzipirateheadfront",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 112,
+    "vertices": 77
+   },
+   "thumb": "060_accessory/headfront_bazzipirateheadfront.webp"
+  },
+  {
+   "bytes": 3608,
+   "file": "060_accessory/headfront_bazziyubiheadfront.glb",
+   "id": "headfront_bazziyubiheadfront",
+   "label": "유비 배찌 수염",
+   "name": "headfront_bazziyubiheadfront",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 74,
+    "vertices": 78
+   },
+   "thumb": "060_accessory/headfront_bazziyubiheadfront.webp"
+  },
+  {
+   "bytes": 3108,
+   "file": "060_accessory/headfront_brucecowboyheadfront.glb",
+   "id": "headfront_brucecowboyheadfront",
+   "label": "보안관 브루스 수염",
+   "name": "headfront_brucecowboyheadfront",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 40,
+    "vertices": 34
+   },
+   "thumb": "060_accessory/headfront_brucecowboyheadfront.webp"
+  },
+  {
+   "bytes": 5636,
+   "file": "060_accessory/headfront_brucemagicianheadfront.glb",
+   "id": "headfront_brucemagicianheadfront",
+   "label": "주술사 브루스 수염",
+   "name": "headfront_brucemagicianheadfront",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 194,
+    "vertices": 274
+   },
+   "thumb": "060_accessory/headfront_brucemagicianheadfront.webp"
+  },
+  {
+   "bytes": 3384,
+   "file": "060_accessory/headfront_brucepigheadfront.glb",
+   "id": "headfront_brucepigheadfront",
+   "label": "아기돼지 브루스 돼지코",
+   "name": "headfront_brucepigheadfront",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 68,
+    "vertices": 66
+   },
+   "thumb": "060_accessory/headfront_brucepigheadfront.webp"
+  },
+  {
+   "bytes": 5260,
+   "file": "060_accessory/headfront_bruceriderheadfront.glb",
+   "id": "headfront_bruceriderheadfront",
+   "label": "라이더 브루스 선글라스",
+   "name": "headfront_bruceriderheadfront",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 216,
+    "vertices": 256
+   },
+   "thumb": "060_accessory/headfront_bruceriderheadfront.webp"
+  },
+  {
+   "bytes": 8176,
+   "file": "060_accessory/headfront_catmu.glb",
+   "id": "headfront_catmu",
+   "label": "고양이 수염",
+   "name": "headfront_catmu",
+   "stats": {
+    "animations": 2,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 112,
+    "vertices": 100
+   },
+   "thumb": "060_accessory/headfront_catmu.webp"
+  },
+  {
+   "bytes": 11688,
+   "file": "060_accessory/headfront_chewinggum.glb",
+   "id": "headfront_chewinggum",
+   "label": "풍선껌",
+   "name": "headfront_chewinggum",
+   "stats": {
+    "animations": 2,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 200,
+    "vertices": 114
+   },
+   "thumb": "060_accessory/headfront_chewinggum.webp"
+  },
+  {
+   "bytes": 11988,
+   "file": "060_accessory/headfront_chewinggum_gold.glb",
+   "id": "headfront_chewinggum_gold",
+   "label": "새학기 마리드 풍선껌",
+   "name": "headfront_chewinggum_gold",
+   "stats": {
+    "animations": 2,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 200,
+    "vertices": 114
+   },
+   "thumb": "060_accessory/headfront_chewinggum_gold.webp"
+  },
+  {
+   "bytes": 5224,
+   "file": "060_accessory/headfront_christmas_rednose.glb",
+   "id": "headfront_christmas_rednose",
+   "label": "빨간코 수염",
+   "name": "headfront_christmas_rednose",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 222,
+    "vertices": 236
+   },
+   "thumb": "060_accessory/headfront_christmas_rednose.webp"
+  },
+  {
+   "bytes": 9152,
+   "file": "060_accessory/headfront_christmas_rudolph.glb",
+   "id": "headfront_christmas_rudolph",
+   "label": "루돌프 안경",
+   "name": "headfront_christmas_rudolph",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 592,
+    "vertices": 656
+   },
+   "thumb": "060_accessory/headfront_christmas_rudolph.webp"
+  },
+  {
+   "bytes": 4340,
+   "file": "060_accessory/headfront_christmas_santabeard.glb",
+   "id": "headfront_christmas_santabeard",
+   "label": "산타 수염",
+   "name": "headfront_christmas_santabeard",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 184,
+    "vertices": 146
+   },
+   "thumb": "060_accessory/headfront_christmas_santabeard.webp"
+  },
+  {
+   "bytes": 9228,
+   "file": "060_accessory/headfront_christmas_tree.glb",
+   "id": "headfront_christmas_tree",
+   "label": "트리 안경",
+   "name": "headfront_christmas_tree",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 496,
+    "vertices": 695
+   },
+   "thumb": "060_accessory/headfront_christmas_tree.webp"
+  },
+  {
+   "bytes": 3116,
+   "file": "060_accessory/headfront_dankycookerheadfront.glb",
+   "id": "headfront_dankycookerheadfront",
+   "label": "요리사 댕키 수염",
+   "name": "headfront_dankycookerheadfront",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 20,
+    "vertices": 26
+   },
+   "thumb": "060_accessory/headfront_dankycookerheadfront.webp"
+  },
+  {
+   "bytes": 4848,
+   "file": "060_accessory/headfront_dankyhalloweenheadfront.glb",
+   "id": "headfront_dankyhalloweenheadfront",
+   "label": "미친과학자 댕키 안경",
+   "name": "headfront_dankyhalloweenheadfront",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 164,
+    "vertices": 200
+   },
+   "thumb": "060_accessory/headfront_dankyhalloweenheadfront.webp"
+  },
+  {
+   "bytes": 3676,
+   "file": "060_accessory/headfront_dankyliangheadfront.glb",
+   "id": "headfront_dankyliangheadfront",
+   "label": "제갈량 댕키 수염",
+   "name": "headfront_dankyliangheadfront",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 90,
+    "vertices": 88
+   },
+   "thumb": "060_accessory/headfront_dankyliangheadfront.webp"
+  },
+  {
+   "bytes": 3404,
+   "file": "060_accessory/headfront_dankypinocchioheadfront.glb",
+   "id": "headfront_dankypinocchioheadfront",
+   "label": "피노키오 댕키 나무코",
+   "name": "headfront_dankypinocchioheadfront",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 38,
+    "vertices": 58
+   },
+   "thumb": "060_accessory/headfront_dankypinocchioheadfront.webp"
+  },
+  {
+   "bytes": 8880,
+   "file": "060_accessory/headfront_dankyvacanceheadfront.glb",
+   "id": "headfront_dankyvacanceheadfront",
+   "label": "바캉스 댕키 선글라스",
+   "name": "headfront_dankyvacanceheadfront",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 456,
+    "vertices": 605
+   },
+   "thumb": "060_accessory/headfront_dankyvacanceheadfront.webp"
+  },
+  {
+   "bytes": 3816,
+   "file": "060_accessory/headfront_daoguanyuheadfront.glb",
+   "id": "headfront_daoguanyuheadfront",
+   "label": "관우 다오 수염",
+   "name": "headfront_daoguanyuheadfront",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 114,
+    "vertices": 98
+   },
+   "thumb": "060_accessory/headfront_daoguanyuheadfront.webp"
+  },
+  {
+   "bytes": 4508,
+   "file": "060_accessory/headfront_daohiphopheadfront.glb",
+   "id": "headfront_daohiphopheadfront",
+   "label": "힙합 다오 선글라스",
+   "name": "headfront_daohiphopheadfront",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 132,
+    "vertices": 158
+   },
+   "thumb": "060_accessory/headfront_daohiphopheadfront.webp"
+  },
+  {
+   "bytes": 4708,
+   "file": "060_accessory/headfront_daomohicanheadfront.glb",
+   "id": "headfront_daomohicanheadfront",
+   "label": "모히칸 다오 마스크",
+   "name": "headfront_daomohicanheadfront",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 156,
+    "vertices": 192
+   },
+   "thumb": "060_accessory/headfront_daomohicanheadfront.webp"
+  },
+  {
+   "bytes": 3040,
+   "file": "060_accessory/headfront_daooldperson.glb",
+   "id": "headfront_daooldperson",
+   "label": "노인 다오 수염",
+   "name": "headfront_daooldperson",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 30,
+    "vertices": 23
+   },
+   "thumb": "060_accessory/headfront_daooldperson.webp"
+  },
+  {
+   "bytes": 3036,
+   "file": "060_accessory/headfront_daopirateheadfront.glb",
+   "id": "headfront_daopirateheadfront",
+   "label": "캡틴 다오 안대",
+   "name": "headfront_daopirateheadfront",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 20,
+    "vertices": 26
+   },
+   "thumb": "060_accessory/headfront_daopirateheadfront.webp"
+  },
+  {
+   "bytes": 5508,
+   "file": "060_accessory/headfront_daoschoolheadfront.glb",
+   "id": "headfront_daoschoolheadfront",
+   "label": "교복 다오 안경",
+   "name": "headfront_daoschoolheadfront",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 252,
+    "vertices": 276
+   },
+   "thumb": "060_accessory/headfront_daoschoolheadfront.webp"
+  },
+  {
+   "bytes": 6936,
+   "file": "060_accessory/headfront_daovacanceheadfront.glb",
+   "id": "headfront_daovacanceheadfront",
+   "label": "바캉스 다오 스노클",
+   "name": "headfront_daovacanceheadfront",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 358,
+    "vertices": 418
+   },
+   "thumb": "060_accessory/headfront_daovacanceheadfront.webp"
+  },
+  {
+   "bytes": 5088,
+   "file": "060_accessory/headfront_daovikingheadfront.glb",
+   "id": "headfront_daovikingheadfront",
+   "label": "바이킹 다오 수염",
+   "name": "headfront_daovikingheadfront",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 236,
+    "vertices": 212
+   },
+   "thumb": "060_accessory/headfront_daovikingheadfront.webp"
+  },
+  {
+   "bytes": 9180,
+   "file": "060_accessory/headfront_diznicatheadfront.glb",
+   "id": "headfront_diznicatheadfront",
+   "label": "고양이 디지니 볼터치",
+   "name": "headfront_diznicatheadfront",
+   "stats": {
+    "animations": 2,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 232,
+    "vertices": 184
+   },
+   "thumb": "060_accessory/headfront_diznicatheadfront.webp"
+  },
+  {
+   "bytes": 3884,
+   "file": "060_accessory/headfront_eyepatch.glb",
+   "id": "headfront_eyepatch",
+   "label": "꿀수면 안대",
+   "name": "headfront_eyepatch",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 134,
+    "vertices": 106
+   },
+   "thumb": "060_accessory/headfront_eyepatch.webp"
+  },
+  {
+   "bytes": 4176,
+   "file": "060_accessory/headfront_freshman_hand.glb",
+   "id": "headfront_freshman_hand",
+   "label": "손자국",
+   "name": "headfront_freshman_hand",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 136,
+    "vertices": 152
+   },
+   "thumb": "060_accessory/headfront_freshman_hand.webp"
+  },
+  {
+   "bytes": 3584,
+   "file": "060_accessory/headfront_freshman_star.glb",
+   "id": "headfront_freshman_star",
+   "label": "별모양 스티커",
+   "name": "headfront_freshman_star",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 72,
+    "vertices": 88
+   },
+   "thumb": "060_accessory/headfront_freshman_star.webp"
+  },
+  {
+   "bytes": 8380,
+   "file": "060_accessory/headfront_glasses01.glb",
+   "id": "headfront_glasses01",
+   "label": "루돌프 안경",
+   "name": "headfront_glasses01",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 496,
+    "vertices": 504
+   },
+   "thumb": "060_accessory/headfront_glasses01.webp"
+  },
+  {
+   "bytes": 7744,
+   "file": "060_accessory/headfront_glasses02.glb",
+   "id": "headfront_glasses02",
+   "label": "파인애플 선글라스",
+   "name": "headfront_glasses02",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 388,
+    "vertices": 580
+   },
+   "thumb": "060_accessory/headfront_glasses02.webp"
+  },
+  {
+   "bytes": 5508,
+   "file": "060_accessory/headfront_glasses03.glb",
+   "id": "headfront_glasses03",
+   "label": "블루리본 핑크안경",
+   "name": "headfront_glasses03",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 256,
+    "vertices": 284
+   },
+   "thumb": "060_accessory/headfront_glasses03.webp"
+  },
+  {
+   "bytes": 6072,
+   "file": "060_accessory/headfront_glasses04.glb",
+   "id": "headfront_glasses04",
+   "label": "하와이안 선글라스",
+   "name": "headfront_glasses04",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 236,
+    "vertices": 304
+   },
+   "thumb": "060_accessory/headfront_glasses04.webp"
+  },
+  {
+   "bytes": 9484,
+   "file": "060_accessory/headfront_glasses05.glb",
+   "id": "headfront_glasses05",
+   "label": "빙글빙글 안경",
+   "name": "headfront_glasses05",
+   "stats": {
+    "animations": 1,
+    "bones": 4,
+    "textures": 1,
+    "triangles": 276,
+    "vertices": 328
+   },
+   "thumb": "060_accessory/headfront_glasses05.webp"
+  },
+  {
+   "bytes": 7496,
+   "file": "060_accessory/headfront_glasses06.glb",
+   "id": "headfront_glasses06",
+   "label": "파란 꽃 선글라스",
+   "name": "headfront_glasses06",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 344,
+    "vertices": 434
+   },
+   "thumb": "060_accessory/headfront_glasses06.webp"
+  },
+  {
+   "bytes": 5916,
+   "file": "060_accessory/headfront_glasses07.glb",
+   "id": "headfront_glasses07",
+   "label": "파란색 동글 안경",
+   "name": "headfront_glasses07",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 276,
+    "vertices": 304
+   },
+   "thumb": "060_accessory/headfront_glasses07.webp"
+  },
+  {
+   "bytes": 9088,
+   "file": "060_accessory/headfront_glasses08.glb",
+   "id": "headfront_glasses08",
+   "label": "초록색 나비 안경",
+   "name": "headfront_glasses08",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 412,
+    "vertices": 668
+   },
+   "thumb": "060_accessory/headfront_glasses08.webp"
+  },
+  {
+   "bytes": 6012,
+   "file": "060_accessory/headfront_glasses09.glb",
+   "id": "headfront_glasses09",
+   "label": "핑크캣 선글라스",
+   "name": "headfront_glasses09",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 252,
+    "vertices": 308
+   },
+   "thumb": "060_accessory/headfront_glasses09.webp"
+  },
+  {
+   "bytes": 6708,
+   "file": "060_accessory/headfront_glasses10.glb",
+   "id": "headfront_glasses10",
+   "label": "고양이발바닥 안경",
+   "name": "headfront_glasses10",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 352,
+    "vertices": 380
+   },
+   "thumb": "060_accessory/headfront_glasses10.webp"
+  },
+  {
+   "bytes": 7020,
+   "file": "060_accessory/headfront_glasses11.glb",
+   "id": "headfront_glasses11",
+   "label": "여우 안경",
+   "name": "headfront_glasses11",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 344,
+    "vertices": 402
+   },
+   "thumb": "060_accessory/headfront_glasses11.webp"
+  },
+  {
+   "bytes": 8848,
+   "file": "060_accessory/headfront_glasses12.glb",
+   "id": "headfront_glasses12",
+   "label": "하트 눈",
+   "name": "headfront_glasses12",
+   "stats": {
+    "animations": 1,
+    "bones": 4,
+    "textures": 1,
+    "triangles": 244,
+    "vertices": 162
+   },
+   "thumb": "060_accessory/headfront_glasses12.webp"
+  },
+  {
+   "bytes": 5360,
+   "file": "060_accessory/headfront_glasses13.glb",
+   "id": "headfront_glasses13",
+   "label": "팬더 선글라스",
+   "name": "headfront_glasses13",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 212,
+    "vertices": 248
+   },
+   "thumb": "060_accessory/headfront_glasses13.webp"
+  },
+  {
+   "bytes": 4916,
+   "file": "060_accessory/headfront_glasses14.glb",
+   "id": "headfront_glasses14",
+   "label": "보잉 선글라스",
+   "name": "headfront_glasses14",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 204,
+    "vertices": 200
+   },
+   "thumb": "060_accessory/headfront_glasses14.webp"
+  },
+  {
+   "bytes": 6596,
+   "file": "060_accessory/headfront_glasses15.glb",
+   "id": "headfront_glasses15",
+   "label": "굵은눈썹 안경",
+   "name": "headfront_glasses15",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 208,
+    "vertices": 458
+   },
+   "thumb": "060_accessory/headfront_glasses15.webp"
+  },
+  {
+   "bytes": 5828,
+   "file": "060_accessory/headfront_glasses16.glb",
+   "id": "headfront_glasses16",
+   "label": "딸기 선글라스",
+   "name": "headfront_glasses16",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 224,
+    "vertices": 286
+   },
+   "thumb": "060_accessory/headfront_glasses16.webp"
+  },
+  {
+   "bytes": 6176,
+   "file": "060_accessory/headfront_glasses17.glb",
+   "id": "headfront_glasses17",
+   "label": "셔터 선글라스",
+   "name": "headfront_glasses17",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 280,
+    "vertices": 324
+   },
+   "thumb": "060_accessory/headfront_glasses17.webp"
+  },
+  {
+   "bytes": 8360,
+   "file": "060_accessory/headfront_glasses18.glb",
+   "id": "headfront_glasses18",
+   "label": "별장식 안경",
+   "name": "headfront_glasses18",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 440,
+    "vertices": 546
+   },
+   "thumb": "060_accessory/headfront_glasses18.webp"
+  },
+  {
+   "bytes": 4756,
+   "file": "060_accessory/headfront_glasses_3d.glb",
+   "id": "headfront_glasses_3d",
+   "label": "3D 안경",
+   "name": "headfront_glasses_3d",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 148,
+    "vertices": 183
+   },
+   "thumb": "060_accessory/headfront_glasses_3d.webp"
+  },
+  {
+   "bytes": 5368,
+   "file": "060_accessory/headfront_glasses_black.glb",
+   "id": "headfront_glasses_black",
+   "label": "검은테 안경",
+   "name": "headfront_glasses_black",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 272,
+    "vertices": 216
+   },
+   "thumb": "060_accessory/headfront_glasses_black.webp"
+  },
+  {
+   "bytes": 4416,
+   "file": "060_accessory/headfront_glasses_blackcircle.glb",
+   "id": "headfront_glasses_blackcircle",
+   "label": "원형 선글라스",
+   "name": "headfront_glasses_blackcircle",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 148,
+    "vertices": 176
+   },
+   "thumb": "060_accessory/headfront_glasses_blackcircle.webp"
+  },
+  {
+   "bytes": 5364,
+   "file": "060_accessory/headfront_glasses_gold.glb",
+   "id": "headfront_glasses_gold",
+   "label": "금테 안경",
+   "name": "headfront_glasses_gold",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 272,
+    "vertices": 216
+   },
+   "thumb": "060_accessory/headfront_glasses_gold.webp"
+  },
+  {
+   "bytes": 5552,
+   "file": "060_accessory/headfront_glasses_heartsun.glb",
+   "id": "headfront_glasses_heartsun",
+   "label": "하트 선글라스",
+   "name": "headfront_glasses_heartsun",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 204,
+    "vertices": 253
+   },
+   "thumb": "060_accessory/headfront_glasses_heartsun.webp"
+  },
+  {
+   "bytes": 6524,
+   "file": "060_accessory/headfront_glasses_mustache.glb",
+   "id": "headfront_glasses_mustache",
+   "label": "눈썹 안경",
+   "name": "headfront_glasses_mustache",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 340,
+    "vertices": 386
+   },
+   "thumb": "060_accessory/headfront_glasses_mustache.webp"
+  },
+  {
+   "bytes": 5920,
+   "file": "060_accessory/headfront_glasses_red.glb",
+   "id": "headfront_glasses_red",
+   "label": "똑똑이 안경",
+   "name": "headfront_glasses_red",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 276,
+    "vertices": 304
+   },
+   "thumb": "060_accessory/headfront_glasses_red.webp"
+  },
+  {
+   "bytes": 5372,
+   "file": "060_accessory/headfront_glasses_silver.glb",
+   "id": "headfront_glasses_silver",
+   "label": "은테 안경",
+   "name": "headfront_glasses_silver",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 272,
+    "vertices": 216
+   },
+   "thumb": "060_accessory/headfront_glasses_silver.webp"
+  },
+  {
+   "bytes": 4204,
+   "file": "060_accessory/headfront_glasses_star.glb",
+   "id": "headfront_glasses_star",
+   "label": "노랑별 선글라스",
+   "name": "headfront_glasses_star",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 118,
+    "vertices": 138
+   },
+   "thumb": "060_accessory/headfront_glasses_star.webp"
+  },
+  {
+   "bytes": 4820,
+   "file": "060_accessory/headfront_goggle01.glb",
+   "id": "headfront_goggle01",
+   "label": "선수용 고글",
+   "name": "headfront_goggle01",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 186,
+    "vertices": 202
+   },
+   "thumb": "060_accessory/headfront_goggle01.webp"
+  },
+  {
+   "bytes": 7204,
+   "file": "060_accessory/headfront_halloween_bat.glb",
+   "id": "headfront_halloween_bat",
+   "label": "박쥐 안경",
+   "name": "headfront_halloween_bat",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 348,
+    "vertices": 451
+   },
+   "thumb": "060_accessory/headfront_halloween_bat.webp"
+  },
+  {
+   "bytes": 7028,
+   "file": "060_accessory/headfront_halloween_hobak.glb",
+   "id": "headfront_halloween_hobak",
+   "label": "호박 안경",
+   "name": "headfront_halloween_hobak",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 396,
+    "vertices": 436
+   },
+   "thumb": "060_accessory/headfront_halloween_hobak.webp"
+  },
+  {
+   "bytes": 3600,
+   "file": "060_accessory/headfront_kephigenieheadfront.glb",
+   "id": "headfront_kephigenieheadfront",
+   "label": "지니 케피 수염",
+   "name": "headfront_kephigenieheadfront",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 82,
+    "vertices": 76
+   },
+   "thumb": "060_accessory/headfront_kephigenieheadfront.webp"
+  },
+  {
+   "bytes": 3556,
+   "file": "060_accessory/headfront_kephiindianheadfront.glb",
+   "id": "headfront_kephiindianheadfront",
+   "label": "원주민 케피 얼굴문신",
+   "name": "headfront_kephiindianheadfront",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 72,
+    "vertices": 72
+   },
+   "thumb": "060_accessory/headfront_kephiindianheadfront.webp"
+  },
+  {
+   "bytes": 4080,
+   "file": "060_accessory/headfront_kephioldperson.glb",
+   "id": "headfront_kephioldperson",
+   "label": "노인 케피 수염",
+   "name": "headfront_kephioldperson",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 134,
+    "vertices": 106
+   },
+   "thumb": "060_accessory/headfront_kephioldperson.webp"
+  },
+  {
+   "bytes": 6300,
+   "file": "060_accessory/headfront_kephischoolheadfront.glb",
+   "id": "headfront_kephischoolheadfront",
+   "label": "교복 케피 안경",
+   "name": "headfront_kephischoolheadfront",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 288,
+    "vertices": 368
+   },
+   "thumb": "060_accessory/headfront_kephischoolheadfront.webp"
+  },
+  {
+   "bytes": 12388,
+   "file": "060_accessory/headfront_kephiswimheadfront.glb",
+   "id": "headfront_kephiswimheadfront",
+   "label": "수영선수 케피 물안경",
+   "name": "headfront_kephiswimheadfront",
+   "stats": {
+    "animations": 2,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 254,
+    "vertices": 470
+   },
+   "thumb": "060_accessory/headfront_kephiswimheadfront.webp"
+  },
+  {
+   "bytes": 5980,
+   "file": "060_accessory/headfront_kephizangbiheadfront.glb",
+   "id": "headfront_kephizangbiheadfront",
+   "label": "장비 케피 수염",
+   "name": "headfront_kephizangbiheadfront",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 346,
+    "vertices": 290
+   },
+   "thumb": "060_accessory/headfront_kephizangbiheadfront.webp"
+  },
+  {
+   "bytes": 4828,
+   "file": "060_accessory/headfront_lips.glb",
+   "id": "headfront_lips",
+   "label": "입술 자국",
+   "name": "headfront_lips",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 248,
+    "vertices": 196
+   },
+   "thumb": "060_accessory/headfront_lips.webp"
+  },
+  {
+   "bytes": 3264,
+   "file": "060_accessory/headfront_maridindianheadfront.glb",
+   "id": "headfront_maridindianheadfront",
+   "label": "원주민 마리드 문신",
+   "name": "headfront_maridindianheadfront",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 40,
+    "vertices": 48
+   },
+   "thumb": "060_accessory/headfront_maridindianheadfront.webp"
+  },
+  {
+   "bytes": 5220,
+   "file": "060_accessory/headfront_monocle.glb",
+   "id": "headfront_monocle",
+   "label": "외눈 안경",
+   "name": "headfront_monocle",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 234,
+    "vertices": 240
+   },
+   "thumb": "060_accessory/headfront_monocle.webp"
+  },
+  {
+   "bytes": 4284,
+   "file": "060_accessory/headfront_mustache01.glb",
+   "id": "headfront_mustache01",
+   "label": "간지 콧수염",
+   "name": "headfront_mustache01",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 124,
+    "vertices": 150
+   },
+   "thumb": "060_accessory/headfront_mustache01.webp"
+  },
+  {
+   "bytes": 5444,
+   "file": "060_accessory/headfront_mustache02.glb",
+   "id": "headfront_mustache02",
+   "label": "산타 콧수염",
+   "name": "headfront_mustache02",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 292,
+    "vertices": 243
+   },
+   "thumb": "060_accessory/headfront_mustache02.webp"
+  },
+  {
+   "bytes": 5172,
+   "file": "060_accessory/headfront_newyear2020_starglasses.glb",
+   "id": "headfront_newyear2020_starglasses",
+   "label": "2020 선글라스",
+   "name": "headfront_newyear2020_starglasses",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 212,
+    "vertices": 228
+   },
+   "thumb": "060_accessory/headfront_newyear2020_starglasses.webp"
+  },
+  {
+   "bytes": 3232,
+   "file": "060_accessory/headfront_pierrotnose.glb",
+   "id": "headfront_pierrotnose",
+   "label": "루돌프 코",
+   "name": "headfront_pierrotnose",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 68,
+    "vertices": 48
+   },
+   "thumb": "060_accessory/headfront_pierrotnose.webp"
+  },
+  {
+   "bytes": 3224,
+   "file": "060_accessory/headfront_prisonerband.glb",
+   "id": "headfront_prisonerband",
+   "label": "반창고",
+   "name": "headfront_prisonerband",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 56,
+    "vertices": 48
+   },
+   "thumb": "060_accessory/headfront_prisonerband.webp"
+  },
+  {
+   "bytes": 7440,
+   "file": "060_accessory/headfront_redcheek01.glb",
+   "id": "headfront_redcheek01",
+   "label": "볼터치",
+   "name": "headfront_redcheek01",
+   "stats": {
+    "animations": 1,
+    "bones": 2,
+    "textures": 1,
+    "triangles": 256,
+    "vertices": 164
+   },
+   "thumb": "060_accessory/headfront_redcheek01.webp"
+  },
+  {
+   "bytes": 9276,
+   "file": "060_accessory/headfront_redcheek02.glb",
+   "id": "headfront_redcheek02",
+   "name": "headfront_redcheek02",
+   "stats": {
+    "animations": 1,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 312,
+    "vertices": 336
+   },
+   "thumb": "060_accessory/headfront_redcheek02.webp"
+  },
+  {
+   "bytes": 5712,
+   "file": "060_accessory/headfront_suhousemistressheadfront.glb",
+   "id": "headfront_suhousemistressheadfront",
+   "name": "headfront_suhousemistressheadfront",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 288,
+    "vertices": 288
+   },
+   "thumb": "060_accessory/headfront_suhousemistressheadfront.webp"
+  },
+  {
+   "bytes": 5924,
+   "file": "060_accessory/headfront_sutigerheadfront.glb",
+   "id": "headfront_sutigerheadfront",
+   "label": "호랑이 수 고기",
+   "name": "headfront_sutigerheadfront",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 416,
+    "vertices": 308
+   },
+   "thumb": "060_accessory/headfront_sutigerheadfront.webp"
+  },
+  {
+   "bytes": 3992,
+   "file": "060_accessory/headfront_unikindgartenheadfront.glb",
+   "id": "headfront_unikindgartenheadfront",
+   "label": "유치원 우니 볼터치",
+   "name": "headfront_unikindgartenheadfront",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 144,
+    "vertices": 100
+   },
+   "thumb": "060_accessory/headfront_unikindgartenheadfront.webp"
+  },
+  {
+   "bytes": 5056,
+   "file": "060_accessory/headfront_unioldperson.glb",
+   "id": "headfront_unioldperson",
+   "label": "노인 우니 수염",
+   "name": "headfront_unioldperson",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 236,
+    "vertices": 190
+   },
+   "thumb": "060_accessory/headfront_unioldperson.webp"
+  },
+  {
+   "bytes": 4088,
+   "file": "060_accessory/headfront_uniswimmingheadfront.glb",
+   "id": "headfront_uniswimmingheadfront",
+   "label": "바캉스 우니 스노클",
+   "name": "headfront_uniswimmingheadfront",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 132,
+    "vertices": 129
+   },
+   "thumb": "060_accessory/headfront_uniswimmingheadfront.webp"
+  },
+  {
+   "bytes": 7356,
+   "file": "060_accessory/headfront_water.glb",
+   "id": "headfront_water",
+   "label": "땀",
+   "name": "headfront_water",
+   "stats": {
+    "animations": 2,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 144,
+    "vertices": 88
+   },
+   "thumb": "060_accessory/headfront_water.webp"
+  },
+  {
+   "bytes": 12640,
+   "file": "060_accessory/headtop_100day.glb",
+   "id": "headtop_100day",
+   "label": "100일 축하 컵케익",
+   "name": "headtop_100day",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 906,
+    "vertices": 966
+   },
+   "thumb": "060_accessory/headtop_100day.webp"
+  },
+  {
+   "bytes": 9780,
+   "file": "060_accessory/headtop_airplane.glb",
+   "id": "headtop_airplane",
+   "label": "장난감 비행기",
+   "name": "headtop_airplane",
+   "stats": {
+    "animations": 1,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 214,
+    "vertices": 204
+   },
+   "thumb": "060_accessory/headtop_airplane.webp"
+  },
+  {
+   "bytes": 9648,
+   "file": "060_accessory/headtop_angelring.glb",
+   "id": "headtop_angelring",
+   "label": "천사링",
+   "name": "headtop_angelring",
+   "stats": {
+    "animations": 1,
+    "bones": 4,
+    "textures": 1,
+    "triangles": 368,
+    "vertices": 268
+   },
+   "thumb": "060_accessory/headtop_angelring.webp"
+  },
+  {
+   "bytes": 4076,
+   "file": "060_accessory/headtop_apple.glb",
+   "id": "headtop_apple",
+   "label": "베어먹은 사과",
+   "name": "headtop_apple",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 166,
+    "vertices": 131
+   },
+   "thumb": "060_accessory/headtop_apple.webp"
+  },
+  {
+   "bytes": 3548,
+   "file": "060_accessory/headtop_appletop.glb",
+   "id": "headtop_appletop",
+   "label": "사과꼭지",
+   "name": "headtop_appletop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 76,
+    "vertices": 80
+   },
+   "thumb": "060_accessory/headtop_appletop.webp"
+  },
+  {
+   "bytes": 9968,
+   "file": "060_accessory/headtop_april_butterfly.glb",
+   "id": "headtop_april_butterfly",
+   "label": "나비",
+   "name": "headtop_april_butterfly",
+   "stats": {
+    "animations": 2,
+    "bones": 4,
+    "textures": 1,
+    "triangles": 56,
+    "vertices": 64
+   },
+   "thumb": "060_accessory/headtop_april_butterfly.webp"
+  },
+  {
+   "bytes": 8156,
+   "file": "060_accessory/headtop_april_fruitbag.glb",
+   "id": "headtop_april_fruitbag",
+   "label": "소풍 바구니",
+   "name": "headtop_april_fruitbag",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 480,
+    "vertices": 582
+   },
+   "thumb": "060_accessory/headtop_april_fruitbag.webp"
+  },
+  {
+   "bytes": 5484,
+   "file": "060_accessory/headtop_april_parasol.glb",
+   "id": "headtop_april_parasol",
+   "label": "파라솔",
+   "name": "headtop_april_parasol",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 178,
+    "vertices": 268
+   },
+   "thumb": "060_accessory/headtop_april_parasol.webp"
+  },
+  {
+   "bytes": 3312,
+   "file": "060_accessory/headtop_april_sandblue.glb",
+   "id": "headtop_april_sandblue",
+   "label": "햄 샌드위치",
+   "name": "headtop_april_sandblue",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 32,
+    "vertices": 56
+   },
+   "thumb": "060_accessory/headtop_april_sandblue.webp"
+  },
+  {
+   "bytes": 3308,
+   "file": "060_accessory/headtop_april_sandred.glb",
+   "id": "headtop_april_sandred",
+   "label": "야채 샌드위치",
+   "name": "headtop_april_sandred",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 32,
+    "vertices": 56
+   },
+   "thumb": "060_accessory/headtop_april_sandred.webp"
+  },
+  {
+   "bytes": 8408,
+   "file": "060_accessory/headtop_april_tulip_b.glb",
+   "id": "headtop_april_tulip_b",
+   "label": "파랑 튤립",
+   "name": "headtop_april_tulip_b",
+   "stats": {
+    "animations": 1,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 206,
+    "vertices": 215
+   },
+   "thumb": "060_accessory/headtop_april_tulip_b.webp"
+  },
+  {
+   "bytes": 8408,
+   "file": "060_accessory/headtop_april_tulip_r.glb",
+   "id": "headtop_april_tulip_r",
+   "label": "빨강 튤립",
+   "name": "headtop_april_tulip_r",
+   "stats": {
+    "animations": 1,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 206,
+    "vertices": 215
+   },
+   "thumb": "060_accessory/headtop_april_tulip_r.webp"
+  },
+  {
+   "bytes": 8412,
+   "file": "060_accessory/headtop_april_tulip_ry.glb",
+   "id": "headtop_april_tulip_ry",
+   "label": "분홍 믹스 튤립",
+   "name": "headtop_april_tulip_ry",
+   "stats": {
+    "animations": 1,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 206,
+    "vertices": 215
+   },
+   "thumb": "060_accessory/headtop_april_tulip_ry.webp"
+  },
+  {
+   "bytes": 8408,
+   "file": "060_accessory/headtop_april_tulip_y.glb",
+   "id": "headtop_april_tulip_y",
+   "label": "노랑 튤립",
+   "name": "headtop_april_tulip_y",
+   "stats": {
+    "animations": 1,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 206,
+    "vertices": 215
+   },
+   "thumb": "060_accessory/headtop_april_tulip_y.webp"
+  },
+  {
+   "bytes": 8300,
+   "file": "060_accessory/headtop_april_yellowflower.glb",
+   "id": "headtop_april_yellowflower",
+   "label": "노란 봄꽃",
+   "name": "headtop_april_yellowflower",
+   "stats": {
+    "animations": 1,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 196,
+    "vertices": 219
+   },
+   "thumb": "060_accessory/headtop_april_yellowflower.webp"
+  },
+  {
+   "bytes": 3384,
+   "file": "060_accessory/headtop_baby_cube3.glb",
+   "id": "headtop_baby_cube3",
+   "label": "베이비 캐릭터 블록",
+   "name": "headtop_baby_cube3",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 36,
+    "vertices": 72
+   },
+   "thumb": "060_accessory/headtop_baby_cube3.webp"
+  },
+  {
+   "bytes": 3536,
+   "file": "060_accessory/headtop_baby_cubebazzi.glb",
+   "id": "headtop_baby_cubebazzi",
+   "label": "베이비 배찌 블록",
+   "name": "headtop_baby_cubebazzi",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 44,
+    "vertices": 80
+   },
+   "thumb": "060_accessory/headtop_baby_cubebazzi.webp"
+  },
+  {
+   "bytes": 4436,
+   "file": "060_accessory/headtop_baby_cubebig3.glb",
+   "id": "headtop_baby_cubebig3",
+   "label": "베이비 조립 블록",
+   "name": "headtop_baby_cubebig3",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 168,
+    "vertices": 170
+   },
+   "thumb": "060_accessory/headtop_baby_cubebig3.webp"
+  },
+  {
+   "bytes": 3528,
+   "file": "060_accessory/headtop_baby_cubedao.glb",
+   "id": "headtop_baby_cubedao",
+   "label": "베이비 다오 블록",
+   "name": "headtop_baby_cubedao",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 44,
+    "vertices": 80
+   },
+   "thumb": "060_accessory/headtop_baby_cubedao.webp"
+  },
+  {
+   "bytes": 3532,
+   "file": "060_accessory/headtop_baby_cubeuni.glb",
+   "id": "headtop_baby_cubeuni",
+   "label": "베이비 우니 블록",
+   "name": "headtop_baby_cubeuni",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 44,
+    "vertices": 80
+   },
+   "thumb": "060_accessory/headtop_baby_cubeuni.webp"
+  },
+  {
+   "bytes": 5256,
+   "file": "060_accessory/headtop_baby_train.glb",
+   "id": "headtop_baby_train",
+   "label": "베이비 자동차",
+   "name": "headtop_baby_train",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 216,
+    "vertices": 272
+   },
+   "thumb": "060_accessory/headtop_baby_train.webp"
+  },
+  {
+   "bytes": 9108,
+   "file": "060_accessory/headtop_banana.glb",
+   "id": "headtop_banana",
+   "label": "바나나 껍질",
+   "name": "headtop_banana",
+   "stats": {
+    "animations": 2,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 176,
+    "vertices": 143
+   },
+   "thumb": "060_accessory/headtop_banana.webp"
+  },
+  {
+   "bytes": 5144,
+   "file": "060_accessory/headtop_bazziaprilheadtop.glb",
+   "id": "headtop_bazziaprilheadtop",
+   "label": "소풍 배찌 모자",
+   "name": "headtop_bazziaprilheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 264,
+    "vertices": 218
+   },
+   "thumb": "060_accessory/headtop_bazziaprilheadtop.webp"
+  },
+  {
+   "bytes": 6232,
+   "file": "060_accessory/headtop_bazziarabiaheadtop.glb",
+   "id": "headtop_bazziarabiaheadtop",
+   "label": "아라비안 배찌 모자",
+   "name": "headtop_bazziarabiaheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 367,
+    "vertices": 343
+   },
+   "thumb": "060_accessory/headtop_bazziarabiaheadtop.webp"
+  },
+  {
+   "bytes": 7828,
+   "file": "060_accessory/headtop_bazzicap.glb",
+   "id": "headtop_bazzicap",
+   "label": "배찌 캡슐",
+   "name": "headtop_bazzicap",
+   "stats": {
+    "animations": 1,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 352,
+    "vertices": 302
+   },
+   "thumb": "060_accessory/headtop_bazzicap.webp"
+  },
+  {
+   "bytes": 3192,
+   "file": "060_accessory/headtop_bazzicookerheadtop.glb",
+   "id": "headtop_bazzicookerheadtop",
+   "label": "요리사 배찌 모자",
+   "name": "headtop_bazzicookerheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 40,
+    "vertices": 60
+   },
+   "thumb": "060_accessory/headtop_bazzicookerheadtop.webp"
+  },
+  {
+   "bytes": 7848,
+   "file": "060_accessory/headtop_bazzifrogheadtop.glb",
+   "id": "headtop_bazzifrogheadtop",
+   "label": "개구리 배찌 머리띠",
+   "name": "headtop_bazzifrogheadtop",
+   "stats": {
+    "animations": 1,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 242,
+    "vertices": 212
+   },
+   "thumb": "060_accessory/headtop_bazzifrogheadtop.webp"
+  },
+  {
+   "bytes": 11452,
+   "file": "060_accessory/headtop_bazzigangsiheadtop.glb",
+   "id": "headtop_bazzigangsiheadtop",
+   "label": "강시 배찌 모자",
+   "name": "headtop_bazzigangsiheadtop",
+   "stats": {
+    "animations": 2,
+    "bones": 4,
+    "textures": 1,
+    "triangles": 580,
+    "vertices": 464
+   },
+   "thumb": "060_accessory/headtop_bazzigangsiheadtop.webp"
+  },
+  {
+   "bytes": 5368,
+   "file": "060_accessory/headtop_bazzijeansheadtop.glb",
+   "id": "headtop_bazzijeansheadtop",
+   "label": "데님패션 배찌 비니",
+   "name": "headtop_bazzijeansheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 310,
+    "vertices": 248
+   },
+   "thumb": "060_accessory/headtop_bazzijeansheadtop.webp"
+  },
+  {
+   "bytes": 4108,
+   "file": "060_accessory/headtop_bazziluxuryheadtop.glb",
+   "id": "headtop_bazziluxuryheadtop",
+   "label": "꿀벌 배찌 더듬이",
+   "name": "headtop_bazziluxuryheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 200,
+    "vertices": 144
+   },
+   "thumb": "060_accessory/headtop_bazziluxuryheadtop.webp"
+  },
+  {
+   "bytes": 4168,
+   "file": "060_accessory/headtop_bazzimagicianheadtop.glb",
+   "id": "headtop_bazzimagicianheadtop",
+   "label": "젠틀맨 배찌 모자",
+   "name": "headtop_bazzimagicianheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 126,
+    "vertices": 148
+   },
+   "thumb": "060_accessory/headtop_bazzimagicianheadtop.webp"
+  },
+  {
+   "bytes": 5096,
+   "file": "060_accessory/headtop_bazzimarineheadtop.glb",
+   "id": "headtop_bazzimarineheadtop",
+   "label": "마린보이 배찌 모자",
+   "name": "headtop_bazzimarineheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 256,
+    "vertices": 212
+   },
+   "thumb": "060_accessory/headtop_bazzimarineheadtop.webp"
+  },
+  {
+   "bytes": 8452,
+   "file": "060_accessory/headtop_bazzimushroomheadtop.glb",
+   "id": "headtop_bazzimushroomheadtop",
+   "label": "버섯 배찌 버섯갓",
+   "name": "headtop_bazzimushroomheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 716,
+    "vertices": 570
+   },
+   "thumb": "060_accessory/headtop_bazzimushroomheadtop.webp"
+  },
+  {
+   "bytes": 8208,
+   "file": "060_accessory/headtop_bazzininjaheadtop.glb",
+   "id": "headtop_bazzininjaheadtop",
+   "label": "그림자 배찌 모자",
+   "name": "headtop_bazzininjaheadtop",
+   "stats": {
+    "animations": 2,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 204,
+    "vertices": 174
+   },
+   "thumb": "060_accessory/headtop_bazzininjaheadtop.webp"
+  },
+  {
+   "bytes": 6056,
+   "file": "060_accessory/headtop_bazzipajamasheadtop.glb",
+   "id": "headtop_bazzipajamasheadtop",
+   "label": "잠옷 배찌 잠자는다오",
+   "name": "headtop_bazzipajamasheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 398,
+    "vertices": 314
+   },
+   "thumb": "060_accessory/headtop_bazzipajamasheadtop.webp"
+  },
+  {
+   "bytes": 4372,
+   "file": "060_accessory/headtop_bazzisummer2020headtop01.glb",
+   "id": "headtop_bazzisummer2020headtop01",
+   "label": "갈색 동글 선글라스",
+   "name": "headtop_bazzisummer2020headtop01",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 172,
+    "vertices": 156
+   },
+   "thumb": "060_accessory/headtop_bazzisummer2020headtop01.webp"
+  },
+  {
+   "bytes": 4372,
+   "file": "060_accessory/headtop_bazzisummer2020headtop02.glb",
+   "id": "headtop_bazzisummer2020headtop02",
+   "label": "보라 동글 선글라스",
+   "name": "headtop_bazzisummer2020headtop02",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 172,
+    "vertices": 156
+   },
+   "thumb": "060_accessory/headtop_bazzisummer2020headtop02.webp"
+  },
+  {
+   "bytes": 3976,
+   "file": "060_accessory/headtop_bazzivacanceheadtop.glb",
+   "id": "headtop_bazzivacanceheadtop",
+   "label": "바캉스 배찌 수박조각",
+   "name": "headtop_bazzivacanceheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 122,
+    "vertices": 120
+   },
+   "thumb": "060_accessory/headtop_bazzivacanceheadtop.webp"
+  },
+  {
+   "bytes": 5060,
+   "file": "060_accessory/headtop_bazziwolfheadtop.glb",
+   "id": "headtop_bazziwolfheadtop",
+   "label": "늑대 배찌 모자",
+   "name": "headtop_bazziwolfheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 278,
+    "vertices": 216
+   },
+   "thumb": "060_accessory/headtop_bazziwolfheadtop.webp"
+  },
+  {
+   "bytes": 8280,
+   "file": "060_accessory/headtop_bazziyubiheadtop.glb",
+   "id": "headtop_bazziyubiheadtop",
+   "label": "유비 배찌 장식모",
+   "name": "headtop_bazziyubiheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 518,
+    "vertices": 580
+   },
+   "thumb": "060_accessory/headtop_bazziyubiheadtop.webp"
+  },
+  {
+   "bytes": 6424,
+   "file": "060_accessory/headtop_beetong.glb",
+   "id": "headtop_beetong",
+   "label": "벌집",
+   "name": "headtop_beetong",
+   "stats": {
+    "animations": 0,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 249,
+    "vertices": 185
+   },
+   "thumb": "060_accessory/headtop_beetong.webp"
+  },
+  {
+   "bytes": 3904,
+   "file": "060_accessory/headtop_bluehairband.glb",
+   "id": "headtop_bluehairband",
+   "label": "파란 머리 리본",
+   "name": "headtop_bluehairband",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 120,
+    "vertices": 100
+   },
+   "thumb": "060_accessory/headtop_bluehairband.webp"
+  },
+  {
+   "bytes": 7020,
+   "file": "060_accessory/headtop_blueship.glb",
+   "id": "headtop_blueship",
+   "label": "종이배",
+   "name": "headtop_blueship",
+   "stats": {
+    "animations": 2,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 30,
+    "vertices": 64
+   },
+   "thumb": "060_accessory/headtop_blueship.webp"
+  },
+  {
+   "bytes": 4760,
+   "file": "060_accessory/headtop_brucecookerheadtop.glb",
+   "id": "headtop_brucecookerheadtop",
+   "label": "요리사 브루스 머리띠",
+   "name": "headtop_brucecookerheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 212,
+    "vertices": 180
+   },
+   "thumb": "060_accessory/headtop_brucecookerheadtop.webp"
+  },
+  {
+   "bytes": 5288,
+   "file": "060_accessory/headtop_brucecowboyheadtop.glb",
+   "id": "headtop_brucecowboyheadtop",
+   "label": "보안관 브루스 모자",
+   "name": "headtop_brucecowboyheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 280,
+    "vertices": 224
+   },
+   "thumb": "060_accessory/headtop_brucecowboyheadtop.webp"
+  },
+  {
+   "bytes": 4636,
+   "file": "060_accessory/headtop_brucefreshmanheadtop.glb",
+   "id": "headtop_brucefreshmanheadtop",
+   "label": "새학기 브루스 모자",
+   "name": "headtop_brucefreshmanheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 158,
+    "vertices": 174
+   },
+   "thumb": "060_accessory/headtop_brucefreshmanheadtop.webp"
+  },
+  {
+   "bytes": 4172,
+   "file": "060_accessory/headtop_brucepigheadtop.glb",
+   "id": "headtop_brucepigheadtop",
+   "label": "아기돼지 브루스 모자",
+   "name": "headtop_brucepigheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 128,
+    "vertices": 142
+   },
+   "thumb": "060_accessory/headtop_brucepigheadtop.webp"
+  },
+  {
+   "bytes": 4380,
+   "file": "060_accessory/headtop_brucetuxedoheadtop.glb",
+   "id": "headtop_brucetuxedoheadtop",
+   "label": "신사 브루스 애교머리",
+   "name": "headtop_brucetuxedoheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 158,
+    "vertices": 126
+   },
+   "thumb": "060_accessory/headtop_brucetuxedoheadtop.webp"
+  },
+  {
+   "bytes": 4348,
+   "file": "060_accessory/headtop_brucevacanceheadtop.glb",
+   "id": "headtop_brucevacanceheadtop",
+   "label": "바캉스 브루스 모자",
+   "name": "headtop_brucevacanceheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 166,
+    "vertices": 162
+   },
+   "thumb": "060_accessory/headtop_brucevacanceheadtop.webp"
+  },
+  {
+   "bytes": 8020,
+   "file": "060_accessory/headtop_cat.glb",
+   "id": "headtop_cat",
+   "name": "headtop_cat",
+   "stats": {
+    "animations": 0,
+    "bones": 4,
+    "textures": 0,
+    "triangles": 487,
+    "vertices": 511
+   },
+   "thumb": "060_accessory/headtop_cat.webp"
+  },
+  {
+   "bytes": 12884,
+   "file": "060_accessory/headtop_cat01.glb",
+   "id": "headtop_cat01",
+   "label": "샴고양이 모자",
+   "name": "headtop_cat01",
+   "stats": {
+    "animations": 1,
+    "bones": 4,
+    "textures": 1,
+    "triangles": 487,
+    "vertices": 511
+   },
+   "thumb": "060_accessory/headtop_cat01.webp"
+  },
+  {
+   "bytes": 12884,
+   "file": "060_accessory/headtop_cat02.glb",
+   "id": "headtop_cat02",
+   "label": "노랑 냥이 모자",
+   "name": "headtop_cat02",
+   "stats": {
+    "animations": 1,
+    "bones": 4,
+    "textures": 1,
+    "triangles": 487,
+    "vertices": 511
+   },
+   "thumb": "060_accessory/headtop_cat02.webp"
+  },
+  {
+   "bytes": 9084,
+   "file": "060_accessory/headtop_chicken.glb",
+   "id": "headtop_chicken",
+   "label": "꼬꼬댁 모자",
+   "name": "headtop_chicken",
+   "stats": {
+    "animations": 1,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 290,
+    "vertices": 214
+   },
+   "thumb": "060_accessory/headtop_chicken.webp"
+  },
+  {
+   "bytes": 5012,
+   "file": "060_accessory/headtop_christmas_antler.glb",
+   "id": "headtop_christmas_antler",
+   "label": "루돌프 뿔",
+   "name": "headtop_christmas_antler",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 348,
+    "vertices": 248
+   },
+   "thumb": "060_accessory/headtop_christmas_antler.webp"
+  },
+  {
+   "bytes": 5876,
+   "file": "060_accessory/headtop_christmas_antlerhat.glb",
+   "id": "headtop_christmas_antlerhat",
+   "label": "산타 루돌프 뿔",
+   "name": "headtop_christmas_antlerhat",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 456,
+    "vertices": 346
+   },
+   "thumb": "060_accessory/headtop_christmas_antlerhat.webp"
+  },
+  {
+   "bytes": 5912,
+   "file": "060_accessory/headtop_christmas_candle.glb",
+   "id": "headtop_christmas_candle",
+   "label": "크리스마스 양초",
+   "name": "headtop_christmas_candle",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 290,
+    "vertices": 316
+   },
+   "thumb": "060_accessory/headtop_christmas_candle.webp"
+  },
+  {
+   "bytes": 16732,
+   "file": "060_accessory/headtop_christmas_deer.glb",
+   "id": "headtop_christmas_deer",
+   "label": "미니 루돌프",
+   "name": "headtop_christmas_deer",
+   "stats": {
+    "animations": 2,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 826,
+    "vertices": 715
+   },
+   "thumb": "060_accessory/headtop_christmas_deer.webp"
+  },
+  {
+   "bytes": 4412,
+   "file": "060_accessory/headtop_christmas_hat.glb",
+   "id": "headtop_christmas_hat",
+   "label": "산타 모자",
+   "name": "headtop_christmas_hat",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 224,
+    "vertices": 170
+   },
+   "thumb": "060_accessory/headtop_christmas_hat.webp"
+  },
+  {
+   "bytes": 5552,
+   "file": "060_accessory/headtop_christmas_hatbell.glb",
+   "id": "headtop_christmas_hatbell",
+   "label": "크리스마스 장식모자",
+   "name": "headtop_christmas_hatbell",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 330,
+    "vertices": 264
+   },
+   "thumb": "060_accessory/headtop_christmas_hatbell.webp"
+  },
+  {
+   "bytes": 7408,
+   "file": "060_accessory/headtop_christmas_reindeer.glb",
+   "id": "headtop_christmas_reindeer",
+   "label": "순록 뿔",
+   "name": "headtop_christmas_reindeer",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 620,
+    "vertices": 424
+   },
+   "thumb": "060_accessory/headtop_christmas_reindeer.webp"
+  },
+  {
+   "bytes": 7860,
+   "file": "060_accessory/headtop_christmas_snowman.glb",
+   "id": "headtop_christmas_snowman",
+   "label": "배찌 눈사람",
+   "name": "headtop_christmas_snowman",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 558,
+    "vertices": 545
+   },
+   "thumb": "060_accessory/headtop_christmas_snowman.webp"
+  },
+  {
+   "bytes": 9820,
+   "file": "060_accessory/headtop_christmas_turkey.glb",
+   "id": "headtop_christmas_turkey",
+   "label": "칠면조 구이",
+   "name": "headtop_christmas_turkey",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 806,
+    "vertices": 663
+   },
+   "thumb": "060_accessory/headtop_christmas_turkey.webp"
+  },
+  {
+   "bytes": 6240,
+   "file": "060_accessory/headtop_cooker_kingmando.glb",
+   "id": "headtop_cooker_kingmando",
+   "label": "왕만두",
+   "name": "headtop_cooker_kingmando",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 392,
+    "vertices": 362
+   },
+   "thumb": "060_accessory/headtop_cooker_kingmando.webp"
+  },
+  {
+   "bytes": 4740,
+   "file": "060_accessory/headtop_cooker_ramen.glb",
+   "id": "headtop_cooker_ramen",
+   "label": "탄탄면",
+   "name": "headtop_cooker_ramen",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 158,
+    "vertices": 183
+   },
+   "thumb": "060_accessory/headtop_cooker_ramen.webp"
+  },
+  {
+   "bytes": 6300,
+   "file": "060_accessory/headtop_cooker_salmonbob.glb",
+   "id": "headtop_cooker_salmonbob",
+   "label": "연어덮밥",
+   "name": "headtop_cooker_salmonbob",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 346,
+    "vertices": 326
+   },
+   "thumb": "060_accessory/headtop_cooker_salmonbob.webp"
+  },
+  {
+   "bytes": 3428,
+   "file": "060_accessory/headtop_cornhat.glb",
+   "id": "headtop_cornhat",
+   "label": "파티고깔",
+   "name": "headtop_cornhat",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 96,
+    "vertices": 69
+   },
+   "thumb": "060_accessory/headtop_cornhat.webp"
+  },
+  {
+   "bytes": 5408,
+   "file": "060_accessory/headtop_crown.glb",
+   "id": "headtop_crown",
+   "label": "왕관",
+   "name": "headtop_crown",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 278,
+    "vertices": 264
+   },
+   "thumb": "060_accessory/headtop_crown.webp"
+  },
+  {
+   "bytes": 5128,
+   "file": "060_accessory/headtop_cup.glb",
+   "id": "headtop_cup",
+   "label": "코코아",
+   "name": "headtop_cup",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 271,
+    "vertices": 231
+   },
+   "thumb": "060_accessory/headtop_cup.webp"
+  },
+  {
+   "bytes": 4032,
+   "file": "060_accessory/headtop_dankycookerheadtop.glb",
+   "id": "headtop_dankycookerheadtop",
+   "label": "요리사 댕키 모자",
+   "name": "headtop_dankycookerheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 142,
+    "vertices": 128
+   },
+   "thumb": "060_accessory/headtop_dankycookerheadtop.webp"
+  },
+  {
+   "bytes": 16372,
+   "file": "060_accessory/headtop_dankyfarmerheadtop.glb",
+   "id": "headtop_dankyfarmerheadtop",
+   "label": "농부 댕키 두더지",
+   "name": "headtop_dankyfarmerheadtop",
+   "stats": {
+    "animations": 2,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 644,
+    "vertices": 614
+   },
+   "thumb": "060_accessory/headtop_dankyfarmerheadtop.webp"
+  },
+  {
+   "bytes": 4360,
+   "file": "060_accessory/headtop_dankyfoxheadtop.glb",
+   "id": "headtop_dankyfoxheadtop",
+   "label": "여우 댕키 모자",
+   "name": "headtop_dankyfoxheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 174,
+    "vertices": 140
+   },
+   "thumb": "060_accessory/headtop_dankyfoxheadtop.webp"
+  },
+  {
+   "bytes": 4356,
+   "file": "060_accessory/headtop_dankyfreshmanheadtop.glb",
+   "id": "headtop_dankyfreshmanheadtop",
+   "label": "새학기 댕키 모자",
+   "name": "headtop_dankyfreshmanheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 132,
+    "vertices": 144
+   },
+   "thumb": "060_accessory/headtop_dankyfreshmanheadtop.webp"
+  },
+  {
+   "bytes": 5036,
+   "file": "060_accessory/headtop_dankyhalloweenheadtop.glb",
+   "id": "headtop_dankyhalloweenheadtop",
+   "label": "미친과학자 댕키 가발",
+   "name": "headtop_dankyhalloweenheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 282,
+    "vertices": 181
+   },
+   "thumb": "060_accessory/headtop_dankyhalloweenheadtop.webp"
+  },
+  {
+   "bytes": 6792,
+   "file": "060_accessory/headtop_dankyliangheadtop.glb",
+   "id": "headtop_dankyliangheadtop",
+   "label": "제갈량 댕키 모자",
+   "name": "headtop_dankyliangheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 362,
+    "vertices": 388
+   },
+   "thumb": "060_accessory/headtop_dankyliangheadtop.webp"
+  },
+  {
+   "bytes": 5632,
+   "file": "060_accessory/headtop_dankypinocchioheadtop.glb",
+   "id": "headtop_dankypinocchioheadtop",
+   "label": "피노키오 댕키 모자",
+   "name": "headtop_dankypinocchioheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 320,
+    "vertices": 276
+   },
+   "thumb": "060_accessory/headtop_dankypinocchioheadtop.webp"
+  },
+  {
+   "bytes": 3812,
+   "file": "060_accessory/headtop_dankyprisonerheadtop.glb",
+   "id": "headtop_dankyprisonerheadtop",
+   "label": "죄수 댕키 모자",
+   "name": "headtop_dankyprisonerheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 126,
+    "vertices": 92
+   },
+   "thumb": "060_accessory/headtop_dankyprisonerheadtop.webp"
+  },
+  {
+   "bytes": 6984,
+   "file": "060_accessory/headtop_dankysailorheadtop.glb",
+   "id": "headtop_dankysailorheadtop",
+   "label": "신입생 댕키 가발",
+   "name": "headtop_dankysailorheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 414,
+    "vertices": 412
+   },
+   "thumb": "060_accessory/headtop_dankysailorheadtop.webp"
+  },
+  {
+   "bytes": 4836,
+   "file": "060_accessory/headtop_dankysharkheadtop.glb",
+   "id": "headtop_dankysharkheadtop",
+   "label": "상어 댕키 모자",
+   "name": "headtop_dankysharkheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 260,
+    "vertices": 204
+   },
+   "thumb": "060_accessory/headtop_dankysharkheadtop.webp"
+  },
+  {
+   "bytes": 7708,
+   "file": "060_accessory/headtop_dankysonheadtop.glb",
+   "id": "headtop_dankysonheadtop",
+   "label": "제천대성 댕키 모자",
+   "name": "headtop_dankysonheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 532,
+    "vertices": 460
+   },
+   "thumb": "060_accessory/headtop_dankysonheadtop.webp"
+  },
+  {
+   "bytes": 5100,
+   "file": "060_accessory/headtop_dankysummer2020headtop00.glb",
+   "id": "headtop_dankysummer2020headtop00",
+   "label": "노란 별 선글라스",
+   "name": "headtop_dankysummer2020headtop00",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 244,
+    "vertices": 216
+   },
+   "thumb": "060_accessory/headtop_dankysummer2020headtop00.webp"
+  },
+  {
+   "bytes": 5100,
+   "file": "060_accessory/headtop_dankysummer2020headtop01.glb",
+   "id": "headtop_dankysummer2020headtop01",
+   "label": "빨간 별 선글라스",
+   "name": "headtop_dankysummer2020headtop01",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 244,
+    "vertices": 216
+   },
+   "thumb": "060_accessory/headtop_dankysummer2020headtop01.webp"
+  },
+  {
+   "bytes": 5100,
+   "file": "060_accessory/headtop_dankysummer2020headtop02.glb",
+   "id": "headtop_dankysummer2020headtop02",
+   "label": "파란 별 선글라스",
+   "name": "headtop_dankysummer2020headtop02",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 244,
+    "vertices": 216
+   },
+   "thumb": "060_accessory/headtop_dankysummer2020headtop02.webp"
+  },
+  {
+   "bytes": 6000,
+   "file": "060_accessory/headtop_dankyvacanceheadtop.glb",
+   "id": "headtop_dankyvacanceheadtop",
+   "label": "바캉스 댕키 코코넛",
+   "name": "headtop_dankyvacanceheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 336,
+    "vertices": 346
+   },
+   "thumb": "060_accessory/headtop_dankyvacanceheadtop.webp"
+  },
+  {
+   "bytes": 5540,
+   "file": "060_accessory/headtop_dankywinterheadtop.glb",
+   "id": "headtop_dankywinterheadtop",
+   "label": "겨울복장 댕키 비니",
+   "name": "headtop_dankywinterheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 349,
+    "vertices": 265
+   },
+   "thumb": "060_accessory/headtop_dankywinterheadtop.webp"
+  },
+  {
+   "bytes": 4700,
+   "file": "060_accessory/headtop_daoaprilheadtop.glb",
+   "id": "headtop_daoaprilheadtop",
+   "label": "소풍 다오 모자",
+   "name": "headtop_daoaprilheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 224,
+    "vertices": 181
+   },
+   "thumb": "060_accessory/headtop_daoaprilheadtop.webp"
+  },
+  {
+   "bytes": 3716,
+   "file": "060_accessory/headtop_daocookerheadtop.glb",
+   "id": "headtop_daocookerheadtop",
+   "label": "요리사 다오 모자",
+   "name": "headtop_daocookerheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 120,
+    "vertices": 120
+   },
+   "thumb": "060_accessory/headtop_daocookerheadtop.webp"
+  },
+  {
+   "bytes": 6524,
+   "file": "060_accessory/headtop_daoguanyuheadtop.glb",
+   "id": "headtop_daoguanyuheadtop",
+   "label": "관우 다오 모자",
+   "name": "headtop_daoguanyuheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 322,
+    "vertices": 382
+   },
+   "thumb": "060_accessory/headtop_daoguanyuheadtop.webp"
+  },
+  {
+   "bytes": 3864,
+   "file": "060_accessory/headtop_daohanbokheadtop.glb",
+   "id": "headtop_daohanbokheadtop",
+   "label": "양반 다오 갓",
+   "name": "headtop_daohanbokheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 120,
+    "vertices": 116
+   },
+   "thumb": "060_accessory/headtop_daohanbokheadtop.webp"
+  },
+  {
+   "bytes": 5336,
+   "file": "060_accessory/headtop_daomarineheadtop.glb",
+   "id": "headtop_daomarineheadtop",
+   "label": "마린보이 다오 모자",
+   "name": "headtop_daomarineheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 242,
+    "vertices": 268
+   },
+   "thumb": "060_accessory/headtop_daomarineheadtop.webp"
+  },
+  {
+   "bytes": 3940,
+   "file": "060_accessory/headtop_daomohicanheadtop.glb",
+   "id": "headtop_daomohicanheadtop",
+   "label": "모히칸 다오 헤어",
+   "name": "headtop_daomohicanheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 92,
+    "vertices": 124
+   },
+   "thumb": "060_accessory/headtop_daomohicanheadtop.webp"
+  },
+  {
+   "bytes": 9752,
+   "file": "060_accessory/headtop_daoninjaheadtop.glb",
+   "id": "headtop_daoninjaheadtop",
+   "label": "그림자 다오 나무토막",
+   "name": "headtop_daoninjaheadtop",
+   "stats": {
+    "animations": 1,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 202,
+    "vertices": 268
+   },
+   "thumb": "060_accessory/headtop_daoninjaheadtop.webp"
+  },
+  {
+   "bytes": 5504,
+   "file": "060_accessory/headtop_daopajamasheadtop.glb",
+   "id": "headtop_daopajamasheadtop",
+   "label": "잠옷 다오 모자",
+   "name": "headtop_daopajamasheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 326,
+    "vertices": 274
+   },
+   "thumb": "060_accessory/headtop_daopajamasheadtop.webp"
+  },
+  {
+   "bytes": 7700,
+   "file": "060_accessory/headtop_daopirateheadtop.glb",
+   "id": "headtop_daopirateheadtop",
+   "label": "캡틴 다오 모자",
+   "name": "headtop_daopirateheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 512,
+    "vertices": 494
+   },
+   "thumb": "060_accessory/headtop_daopirateheadtop.webp"
+  },
+  {
+   "bytes": 13264,
+   "file": "060_accessory/headtop_daoschoolheadtop.glb",
+   "id": "headtop_daoschoolheadtop",
+   "label": "교복 다오 책탑",
+   "name": "headtop_daoschoolheadtop",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 4,
+    "textures": 1,
+    "triangles": 149,
+    "vertices": 240
+   },
+   "thumb": "060_accessory/headtop_daoschoolheadtop.webp"
+  },
+  {
+   "bytes": 5960,
+   "file": "060_accessory/headtop_daosheriffheadtop.glb",
+   "id": "headtop_daosheriffheadtop",
+   "label": "보안관 다오 모자",
+   "name": "headtop_daosheriffheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 388,
+    "vertices": 324
+   },
+   "thumb": "060_accessory/headtop_daosheriffheadtop.webp"
+  },
+  {
+   "bytes": 5632,
+   "file": "060_accessory/headtop_daosonheadtop.glb",
+   "id": "headtop_daosonheadtop",
+   "label": "손오공 다오 긴고아",
+   "name": "headtop_daosonheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 324,
+    "vertices": 268
+   },
+   "thumb": "060_accessory/headtop_daosonheadtop.webp"
+  },
+  {
+   "bytes": 13412,
+   "file": "060_accessory/headtop_daovacanceheadtop.glb",
+   "id": "headtop_daovacanceheadtop",
+   "label": "바캉스 다오 펭귄",
+   "name": "headtop_daovacanceheadtop",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 428,
+    "vertices": 450
+   },
+   "thumb": "060_accessory/headtop_daovacanceheadtop.webp"
+  },
+  {
+   "bytes": 13184,
+   "file": "060_accessory/headtop_dizniathleteheadtop.glb",
+   "id": "headtop_dizniathleteheadtop",
+   "label": "응원단 디지니 모자",
+   "name": "headtop_dizniathleteheadtop",
+   "stats": {
+    "animations": 2,
+    "bones": 4,
+    "textures": 1,
+    "triangles": 478,
+    "vertices": 392
+   },
+   "thumb": "060_accessory/headtop_dizniathleteheadtop.webp"
+  },
+  {
+   "bytes": 6332,
+   "file": "060_accessory/headtop_diznihanbokheadtop.glb",
+   "id": "headtop_diznihanbokheadtop",
+   "label": "규수 디지니 꽃장식",
+   "name": "headtop_diznihanbokheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 340,
+    "vertices": 344
+   },
+   "thumb": "060_accessory/headtop_diznihanbokheadtop.webp"
+  },
+  {
+   "bytes": 10712,
+   "file": "060_accessory/headtop_diznimermaidheadtop.glb",
+   "id": "headtop_diznimermaidheadtop",
+   "label": "인어공주 디지니 진주",
+   "name": "headtop_diznimermaidheadtop",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 3,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 336,
+    "vertices": 256
+   },
+   "thumb": "060_accessory/headtop_diznimermaidheadtop.webp"
+  },
+  {
+   "bytes": 4768,
+   "file": "060_accessory/headtop_diznishowerheadtop.glb",
+   "id": "headtop_diznishowerheadtop",
+   "label": "온천 디지니 머리장식",
+   "name": "headtop_diznishowerheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 208,
+    "vertices": 191
+   },
+   "thumb": "060_accessory/headtop_diznishowerheadtop.webp"
+  },
+  {
+   "bytes": 5640,
+   "file": "060_accessory/headtop_diznivacanceheadtop.glb",
+   "id": "headtop_diznivacanceheadtop",
+   "label": "바캉스 디지니 머리핀",
+   "name": "headtop_diznivacanceheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 289,
+    "vertices": 257
+   },
+   "thumb": "060_accessory/headtop_diznivacanceheadtop.webp"
+  },
+  {
+   "bytes": 6600,
+   "file": "060_accessory/headtop_dizniwdressheadtop.glb",
+   "id": "headtop_dizniwdressheadtop",
+   "name": "headtop_dizniwdressheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 328,
+    "vertices": 385
+   },
+   "thumb": "060_accessory/headtop_dizniwdressheadtop.webp"
+  },
+  {
+   "bytes": 6600,
+   "file": "060_accessory/headtop_dizniweddingheadtop.glb",
+   "id": "headtop_dizniweddingheadtop",
+   "label": "웨딩 디지니 꽃장식",
+   "name": "headtop_dizniweddingheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 328,
+    "vertices": 385
+   },
+   "thumb": "060_accessory/headtop_dizniweddingheadtop.webp"
+  },
+  {
+   "bytes": 4336,
+   "file": "060_accessory/headtop_duck.glb",
+   "id": "headtop_duck",
+   "label": "병아리 모자",
+   "name": "headtop_duck",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 210,
+    "vertices": 154
+   },
+   "thumb": "060_accessory/headtop_duck.webp"
+  },
+  {
+   "bytes": 11120,
+   "file": "060_accessory/headtop_eggfly.glb",
+   "id": "headtop_eggfly",
+   "label": "후라이팬",
+   "name": "headtop_eggfly",
+   "stats": {
+    "animations": 1,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 298,
+    "vertices": 292
+   },
+   "thumb": "060_accessory/headtop_eggfly.webp"
+  },
+  {
+   "bytes": 4024,
+   "file": "060_accessory/headtop_freshman_gamegirl.glb",
+   "id": "headtop_freshman_gamegirl",
+   "label": "뿅뿅기 머리띠",
+   "name": "headtop_freshman_gamegirl",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 146,
+    "vertices": 127
+   },
+   "thumb": "060_accessory/headtop_freshman_gamegirl.webp"
+  },
+  {
+   "bytes": 7996,
+   "file": "060_accessory/headtop_freshman_oneheart.glb",
+   "id": "headtop_freshman_oneheart",
+   "label": "하트하트 풍선!",
+   "name": "headtop_freshman_oneheart",
+   "stats": {
+    "animations": 1,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 220,
+    "vertices": 202
+   },
+   "thumb": "060_accessory/headtop_freshman_oneheart.webp"
+  },
+  {
+   "bytes": 7992,
+   "file": "060_accessory/headtop_freshman_twoheart.glb",
+   "id": "headtop_freshman_twoheart",
+   "label": "두근두근 새학기 머리띠",
+   "name": "headtop_freshman_twoheart",
+   "stats": {
+    "animations": 1,
+    "bones": 4,
+    "textures": 1,
+    "triangles": 234,
+    "vertices": 180
+   },
+   "thumb": "060_accessory/headtop_freshman_twoheart.webp"
+  },
+  {
+   "bytes": 14060,
+   "file": "060_accessory/headtop_fruitbird00.glb",
+   "id": "headtop_fruitbird00",
+   "label": "파인애플 새",
+   "name": "headtop_fruitbird00",
+   "stats": {
+    "animations": 2,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 588,
+    "vertices": 610
+   },
+   "thumb": "060_accessory/headtop_fruitbird00.webp"
+  },
+  {
+   "bytes": 17428,
+   "file": "060_accessory/headtop_fruitbird01.glb",
+   "id": "headtop_fruitbird01",
+   "label": "키위 새",
+   "name": "headtop_fruitbird01",
+   "stats": {
+    "animations": 2,
+    "bones": 4,
+    "textures": 1,
+    "triangles": 432,
+    "vertices": 454
+   },
+   "thumb": "060_accessory/headtop_fruitbird01.webp"
+  },
+  {
+   "bytes": 12644,
+   "file": "060_accessory/headtop_fruitbird02.glb",
+   "id": "headtop_fruitbird02",
+   "label": "바나나 새",
+   "name": "headtop_fruitbird02",
+   "stats": {
+    "animations": 2,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 324,
+    "vertices": 324
+   },
+   "thumb": "060_accessory/headtop_fruitbird02.webp"
+  },
+  {
+   "bytes": 11124,
+   "file": "060_accessory/headtop_fruitbird03.glb",
+   "id": "headtop_fruitbird03",
+   "label": "사과 새",
+   "name": "headtop_fruitbird03",
+   "stats": {
+    "animations": 2,
+    "bones": 2,
+    "textures": 1,
+    "triangles": 352,
+    "vertices": 352
+   },
+   "thumb": "060_accessory/headtop_fruitbird03.webp"
+  },
+  {
+   "bytes": 4584,
+   "file": "060_accessory/headtop_fullmoon.glb",
+   "id": "headtop_fullmoon",
+   "label": "경단",
+   "name": "headtop_fullmoon",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 208,
+    "vertices": 186
+   },
+   "thumb": "060_accessory/headtop_fullmoon.webp"
+  },
+  {
+   "bytes": 12160,
+   "file": "060_accessory/headtop_halloween_cat.glb",
+   "id": "headtop_halloween_cat",
+   "label": "마녀 고양이",
+   "name": "headtop_halloween_cat",
+   "stats": {
+    "animations": 1,
+    "bones": 4,
+    "textures": 1,
+    "triangles": 487,
+    "vertices": 419
+   },
+   "thumb": "060_accessory/headtop_halloween_cat.webp"
+  },
+  {
+   "bytes": 11364,
+   "file": "060_accessory/headtop_halloween_ghost.glb",
+   "id": "headtop_halloween_ghost",
+   "label": "아기 유령",
+   "name": "headtop_halloween_ghost",
+   "stats": {
+    "animations": 2,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 224,
+    "vertices": 193
+   },
+   "thumb": "060_accessory/headtop_halloween_ghost.webp"
+  },
+  {
+   "bytes": 4612,
+   "file": "060_accessory/headtop_halloween_hobak.glb",
+   "id": "headtop_halloween_hobak",
+   "label": "유령 호박",
+   "name": "headtop_halloween_hobak",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 210,
+    "vertices": 226
+   },
+   "thumb": "060_accessory/headtop_halloween_hobak.webp"
+  },
+  {
+   "bytes": 10736,
+   "file": "060_accessory/headtop_halloween_owl.glb",
+   "id": "headtop_halloween_owl",
+   "label": "부엉이",
+   "name": "headtop_halloween_owl",
+   "stats": {
+    "animations": 1,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 446,
+    "vertices": 352
+   },
+   "thumb": "060_accessory/headtop_halloween_owl.webp"
+  },
+  {
+   "bytes": 9652,
+   "file": "060_accessory/headtop_halloweenbat.glb",
+   "id": "headtop_halloweenbat",
+   "label": "유령 박쥐",
+   "name": "headtop_halloweenbat",
+   "stats": {
+    "animations": 1,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 226,
+    "vertices": 196
+   },
+   "thumb": "060_accessory/headtop_halloweenbat.webp"
+  },
+  {
+   "bytes": 7556,
+   "file": "060_accessory/headtop_headrentern.glb",
+   "id": "headtop_headrentern",
+   "label": "더듬이 렌턴",
+   "name": "headtop_headrentern",
+   "stats": {
+    "animations": 1,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 120,
+    "vertices": 106
+   },
+   "thumb": "060_accessory/headtop_headrentern.webp"
+  },
+  {
+   "bytes": 9516,
+   "file": "060_accessory/headtop_hok.glb",
+   "id": "headtop_hok",
+   "label": "혹",
+   "name": "headtop_hok",
+   "stats": {
+    "animations": 2,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 144,
+    "vertices": 128
+   },
+   "thumb": "060_accessory/headtop_hok.webp"
+  },
+  {
+   "bytes": 6504,
+   "file": "060_accessory/headtop_horn.glb",
+   "id": "headtop_horn",
+   "label": "마왕의 뿔",
+   "name": "headtop_horn",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 444,
+    "vertices": 352
+   },
+   "thumb": "060_accessory/headtop_horn.webp"
+  },
+  {
+   "bytes": 4316,
+   "file": "060_accessory/headtop_kephiaprilheadtop.glb",
+   "id": "headtop_kephiaprilheadtop",
+   "label": "소풍 케피 모자",
+   "name": "headtop_kephiaprilheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 140,
+    "vertices": 144
+   },
+   "thumb": "060_accessory/headtop_kephiaprilheadtop.webp"
+  },
+  {
+   "bytes": 5436,
+   "file": "060_accessory/headtop_kephicookerheadtop.glb",
+   "id": "headtop_kephicookerheadtop",
+   "label": "요리사 케피 모자",
+   "name": "headtop_kephicookerheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 300,
+    "vertices": 246
+   },
+   "thumb": "060_accessory/headtop_kephicookerheadtop.webp"
+  },
+  {
+   "bytes": 5896,
+   "file": "060_accessory/headtop_kephigenieheadtop.glb",
+   "id": "headtop_kephigenieheadtop",
+   "label": "지니 케피 램프",
+   "name": "headtop_kephigenieheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 408,
+    "vertices": 350
+   },
+   "thumb": "060_accessory/headtop_kephigenieheadtop.webp"
+  },
+  {
+   "bytes": 11960,
+   "file": "060_accessory/headtop_kephihawaiianheadtop.glb",
+   "id": "headtop_kephihawaiianheadtop",
+   "label": "훌라훌라 케피 모자",
+   "name": "headtop_kephihawaiianheadtop",
+   "stats": {
+    "animations": 2,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 402,
+    "vertices": 366
+   },
+   "thumb": "060_accessory/headtop_kephihawaiianheadtop.webp"
+  },
+  {
+   "bytes": 7880,
+   "file": "060_accessory/headtop_kephiindianheadtop.glb",
+   "id": "headtop_kephiindianheadtop",
+   "label": "원주민 케피 모자",
+   "name": "headtop_kephiindianheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 492,
+    "vertices": 492
+   },
+   "thumb": "060_accessory/headtop_kephiindianheadtop.webp"
+  },
+  {
+   "bytes": 5120,
+   "file": "060_accessory/headtop_kephiprisonerheadtop.glb",
+   "id": "headtop_kephiprisonerheadtop",
+   "label": "죄수 케피 모자",
+   "name": "headtop_kephiprisonerheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 156,
+    "vertices": 224
+   },
+   "thumb": "060_accessory/headtop_kephiprisonerheadtop.webp"
+  },
+  {
+   "bytes": 5152,
+   "file": "060_accessory/headtop_kephischoolheadtop.glb",
+   "id": "headtop_kephischoolheadtop",
+   "label": "교복 케피 합격기원",
+   "name": "headtop_kephischoolheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 306,
+    "vertices": 282
+   },
+   "thumb": "060_accessory/headtop_kephischoolheadtop.webp"
+  },
+  {
+   "bytes": 4508,
+   "file": "060_accessory/headtop_kephitraditionheadtop.glb",
+   "id": "headtop_kephitraditionheadtop",
+   "label": "여행가 케피 모자",
+   "name": "headtop_kephitraditionheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 180,
+    "vertices": 160
+   },
+   "thumb": "060_accessory/headtop_kephitraditionheadtop.webp"
+  },
+  {
+   "bytes": 10520,
+   "file": "060_accessory/headtop_kephivacanceheadtop.glb",
+   "id": "headtop_kephivacanceheadtop",
+   "label": "바캉스 케피 아이스크림",
+   "name": "headtop_kephivacanceheadtop",
+   "stats": {
+    "animations": 1,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 357,
+    "vertices": 330
+   },
+   "thumb": "060_accessory/headtop_kephivacanceheadtop.webp"
+  },
+  {
+   "bytes": 9128,
+   "file": "060_accessory/headtop_ladder02_crown_01.glb",
+   "id": "headtop_ladder02_crown_01",
+   "label": "시즌2 챌린저 왕관",
+   "name": "headtop_ladder02_crown_01",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 568,
+    "vertices": 626
+   },
+   "thumb": "060_accessory/headtop_ladder02_crown_01.webp"
+  },
+  {
+   "bytes": 9196,
+   "file": "060_accessory/headtop_ladder02_crown_02.glb",
+   "id": "headtop_ladder02_crown_02",
+   "label": "시즌2 마스터 왕관",
+   "name": "headtop_ladder02_crown_02",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 568,
+    "vertices": 626
+   },
+   "thumb": "060_accessory/headtop_ladder02_crown_02.webp"
+  },
+  {
+   "bytes": 5968,
+   "file": "060_accessory/headtop_ladder02_crown_03.glb",
+   "id": "headtop_ladder02_crown_03",
+   "label": "시즌2 다이아몬드 왕관",
+   "name": "headtop_ladder02_crown_03",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 292,
+    "vertices": 326
+   },
+   "thumb": "060_accessory/headtop_ladder02_crown_03.webp"
+  },
+  {
+   "bytes": 5968,
+   "file": "060_accessory/headtop_ladder02_crown_04.glb",
+   "id": "headtop_ladder02_crown_04",
+   "label": "시즌2 플래티넘 왕관",
+   "name": "headtop_ladder02_crown_04",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 292,
+    "vertices": 326
+   },
+   "thumb": "060_accessory/headtop_ladder02_crown_04.webp"
+  },
+  {
+   "bytes": 5252,
+   "file": "060_accessory/headtop_ladder02_crown_05.glb",
+   "id": "headtop_ladder02_crown_05",
+   "label": "시즌2 골드 왕관",
+   "name": "headtop_ladder02_crown_05",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 250,
+    "vertices": 234
+   },
+   "thumb": "060_accessory/headtop_ladder02_crown_05.webp"
+  },
+  {
+   "bytes": 3976,
+   "file": "060_accessory/headtop_ladder02_crown_06.glb",
+   "id": "headtop_ladder02_crown_06",
+   "label": "시즌2 실버 왕관",
+   "name": "headtop_ladder02_crown_06",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 100,
+    "vertices": 111
+   },
+   "thumb": "060_accessory/headtop_ladder02_crown_06.webp"
+  },
+  {
+   "bytes": 3976,
+   "file": "060_accessory/headtop_ladder02_crown_07.glb",
+   "id": "headtop_ladder02_crown_07",
+   "label": "시즌2 브론즈 왕관",
+   "name": "headtop_ladder02_crown_07",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 100,
+    "vertices": 111
+   },
+   "thumb": "060_accessory/headtop_ladder02_crown_07.webp"
+  },
+  {
+   "bytes": 9040,
+   "file": "060_accessory/headtop_ladder03_crown_01.glb",
+   "id": "headtop_ladder03_crown_01",
+   "label": "시즌3 챌린저 왕관",
+   "name": "headtop_ladder03_crown_01",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 568,
+    "vertices": 618
+   },
+   "thumb": "060_accessory/headtop_ladder03_crown_01.webp"
+  },
+  {
+   "bytes": 9088,
+   "file": "060_accessory/headtop_ladder03_crown_02.glb",
+   "id": "headtop_ladder03_crown_02",
+   "label": "시즌3 마스터 왕관",
+   "name": "headtop_ladder03_crown_02",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 568,
+    "vertices": 618
+   },
+   "thumb": "060_accessory/headtop_ladder03_crown_02.webp"
+  },
+  {
+   "bytes": 5964,
+   "file": "060_accessory/headtop_ladder03_crown_03.glb",
+   "id": "headtop_ladder03_crown_03",
+   "label": "시즌3 다이아몬드 왕관",
+   "name": "headtop_ladder03_crown_03",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 292,
+    "vertices": 306
+   },
+   "thumb": "060_accessory/headtop_ladder03_crown_03.webp"
+  },
+  {
+   "bytes": 5964,
+   "file": "060_accessory/headtop_ladder03_crown_04.glb",
+   "id": "headtop_ladder03_crown_04",
+   "label": "시즌3 플래티넘 왕관",
+   "name": "headtop_ladder03_crown_04",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 292,
+    "vertices": 306
+   },
+   "thumb": "060_accessory/headtop_ladder03_crown_04.webp"
+  },
+  {
+   "bytes": 5264,
+   "file": "060_accessory/headtop_ladder03_crown_05.glb",
+   "id": "headtop_ladder03_crown_05",
+   "label": "시즌3 골드 왕관",
+   "name": "headtop_ladder03_crown_05",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 250,
+    "vertices": 234
+   },
+   "thumb": "060_accessory/headtop_ladder03_crown_05.webp"
+  },
+  {
+   "bytes": 3976,
+   "file": "060_accessory/headtop_ladder03_crown_06.glb",
+   "id": "headtop_ladder03_crown_06",
+   "label": "시즌3 실버 왕관",
+   "name": "headtop_ladder03_crown_06",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 100,
+    "vertices": 111
+   },
+   "thumb": "060_accessory/headtop_ladder03_crown_06.webp"
+  },
+  {
+   "bytes": 3976,
+   "file": "060_accessory/headtop_ladder03_crown_07.glb",
+   "id": "headtop_ladder03_crown_07",
+   "label": "시즌3 브론즈 왕관",
+   "name": "headtop_ladder03_crown_07",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 100,
+    "vertices": 111
+   },
+   "thumb": "060_accessory/headtop_ladder03_crown_07.webp"
+  },
+  {
+   "bytes": 9040,
+   "file": "060_accessory/headtop_ladder04_crown_01.glb",
+   "id": "headtop_ladder04_crown_01",
+   "label": "시즌4 챌린저 왕관",
+   "name": "headtop_ladder04_crown_01",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 568,
+    "vertices": 618
+   },
+   "thumb": "060_accessory/headtop_ladder04_crown_01.webp"
+  },
+  {
+   "bytes": 9088,
+   "file": "060_accessory/headtop_ladder04_crown_02.glb",
+   "id": "headtop_ladder04_crown_02",
+   "label": "시즌4 마스터 왕관",
+   "name": "headtop_ladder04_crown_02",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 568,
+    "vertices": 618
+   },
+   "thumb": "060_accessory/headtop_ladder04_crown_02.webp"
+  },
+  {
+   "bytes": 5964,
+   "file": "060_accessory/headtop_ladder04_crown_03.glb",
+   "id": "headtop_ladder04_crown_03",
+   "label": "시즌4 다이아몬드 왕관",
+   "name": "headtop_ladder04_crown_03",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 292,
+    "vertices": 306
+   },
+   "thumb": "060_accessory/headtop_ladder04_crown_03.webp"
+  },
+  {
+   "bytes": 5964,
+   "file": "060_accessory/headtop_ladder04_crown_04.glb",
+   "id": "headtop_ladder04_crown_04",
+   "label": "시즌4 플래티넘 왕관",
+   "name": "headtop_ladder04_crown_04",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 292,
+    "vertices": 306
+   },
+   "thumb": "060_accessory/headtop_ladder04_crown_04.webp"
+  },
+  {
+   "bytes": 5264,
+   "file": "060_accessory/headtop_ladder04_crown_05.glb",
+   "id": "headtop_ladder04_crown_05",
+   "label": "시즌4 골드 왕관",
+   "name": "headtop_ladder04_crown_05",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 250,
+    "vertices": 234
+   },
+   "thumb": "060_accessory/headtop_ladder04_crown_05.webp"
+  },
+  {
+   "bytes": 3976,
+   "file": "060_accessory/headtop_ladder04_crown_06.glb",
+   "id": "headtop_ladder04_crown_06",
+   "label": "시즌4 실버 왕관",
+   "name": "headtop_ladder04_crown_06",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 100,
+    "vertices": 111
+   },
+   "thumb": "060_accessory/headtop_ladder04_crown_06.webp"
+  },
+  {
+   "bytes": 3976,
+   "file": "060_accessory/headtop_ladder04_crown_07.glb",
+   "id": "headtop_ladder04_crown_07",
+   "label": "시즌4 브론즈 왕관",
+   "name": "headtop_ladder04_crown_07",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 100,
+    "vertices": 111
+   },
+   "thumb": "060_accessory/headtop_ladder04_crown_07.webp"
+  },
+  {
+   "bytes": 9040,
+   "file": "060_accessory/headtop_ladder05_crown_01.glb",
+   "id": "headtop_ladder05_crown_01",
+   "label": "시즌5 챌린저 왕관",
+   "name": "headtop_ladder05_crown_01",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 568,
+    "vertices": 618
+   },
+   "thumb": "060_accessory/headtop_ladder05_crown_01.webp"
+  },
+  {
+   "bytes": 9088,
+   "file": "060_accessory/headtop_ladder05_crown_02.glb",
+   "id": "headtop_ladder05_crown_02",
+   "label": "시즌5 마스터 왕관",
+   "name": "headtop_ladder05_crown_02",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 568,
+    "vertices": 618
+   },
+   "thumb": "060_accessory/headtop_ladder05_crown_02.webp"
+  },
+  {
+   "bytes": 5964,
+   "file": "060_accessory/headtop_ladder05_crown_03.glb",
+   "id": "headtop_ladder05_crown_03",
+   "label": "시즌5 다이아몬드 왕관",
+   "name": "headtop_ladder05_crown_03",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 292,
+    "vertices": 306
+   },
+   "thumb": "060_accessory/headtop_ladder05_crown_03.webp"
+  },
+  {
+   "bytes": 5964,
+   "file": "060_accessory/headtop_ladder05_crown_04.glb",
+   "id": "headtop_ladder05_crown_04",
+   "label": "시즌5 플래티넘 왕관",
+   "name": "headtop_ladder05_crown_04",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 292,
+    "vertices": 306
+   },
+   "thumb": "060_accessory/headtop_ladder05_crown_04.webp"
+  },
+  {
+   "bytes": 5264,
+   "file": "060_accessory/headtop_ladder05_crown_05.glb",
+   "id": "headtop_ladder05_crown_05",
+   "label": "시즌5 골드 왕관",
+   "name": "headtop_ladder05_crown_05",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 250,
+    "vertices": 234
+   },
+   "thumb": "060_accessory/headtop_ladder05_crown_05.webp"
+  },
+  {
+   "bytes": 3976,
+   "file": "060_accessory/headtop_ladder05_crown_06.glb",
+   "id": "headtop_ladder05_crown_06",
+   "label": "시즌5 실버 왕관",
+   "name": "headtop_ladder05_crown_06",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 100,
+    "vertices": 111
+   },
+   "thumb": "060_accessory/headtop_ladder05_crown_06.webp"
+  },
+  {
+   "bytes": 3976,
+   "file": "060_accessory/headtop_ladder05_crown_07.glb",
+   "id": "headtop_ladder05_crown_07",
+   "label": "시즌5 브론즈 왕관",
+   "name": "headtop_ladder05_crown_07",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 100,
+    "vertices": 111
+   },
+   "thumb": "060_accessory/headtop_ladder05_crown_07.webp"
+  },
+  {
+   "bytes": 9040,
+   "file": "060_accessory/headtop_ladder06_crown_01.glb",
+   "id": "headtop_ladder06_crown_01",
+   "label": "시즌6 챌린저 왕관",
+   "name": "headtop_ladder06_crown_01",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 568,
+    "vertices": 618
+   },
+   "thumb": "060_accessory/headtop_ladder06_crown_01.webp"
+  },
+  {
+   "bytes": 9088,
+   "file": "060_accessory/headtop_ladder06_crown_02.glb",
+   "id": "headtop_ladder06_crown_02",
+   "label": "시즌6 마스터 왕관",
+   "name": "headtop_ladder06_crown_02",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 568,
+    "vertices": 618
+   },
+   "thumb": "060_accessory/headtop_ladder06_crown_02.webp"
+  },
+  {
+   "bytes": 5964,
+   "file": "060_accessory/headtop_ladder06_crown_03.glb",
+   "id": "headtop_ladder06_crown_03",
+   "label": "시즌6 다이아몬드 왕관",
+   "name": "headtop_ladder06_crown_03",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 292,
+    "vertices": 306
+   },
+   "thumb": "060_accessory/headtop_ladder06_crown_03.webp"
+  },
+  {
+   "bytes": 5964,
+   "file": "060_accessory/headtop_ladder06_crown_04.glb",
+   "id": "headtop_ladder06_crown_04",
+   "label": "시즌6 플래티넘 왕관",
+   "name": "headtop_ladder06_crown_04",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 292,
+    "vertices": 306
+   },
+   "thumb": "060_accessory/headtop_ladder06_crown_04.webp"
+  },
+  {
+   "bytes": 5264,
+   "file": "060_accessory/headtop_ladder06_crown_05.glb",
+   "id": "headtop_ladder06_crown_05",
+   "label": "시즌6 골드 왕관",
+   "name": "headtop_ladder06_crown_05",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 250,
+    "vertices": 234
+   },
+   "thumb": "060_accessory/headtop_ladder06_crown_05.webp"
+  },
+  {
+   "bytes": 3976,
+   "file": "060_accessory/headtop_ladder06_crown_06.glb",
+   "id": "headtop_ladder06_crown_06",
+   "label": "시즌6 실버 왕관",
+   "name": "headtop_ladder06_crown_06",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 100,
+    "vertices": 111
+   },
+   "thumb": "060_accessory/headtop_ladder06_crown_06.webp"
+  },
+  {
+   "bytes": 3976,
+   "file": "060_accessory/headtop_ladder06_crown_07.glb",
+   "id": "headtop_ladder06_crown_07",
+   "label": "시즌6 브론즈 왕관",
+   "name": "headtop_ladder06_crown_07",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 100,
+    "vertices": 111
+   },
+   "thumb": "060_accessory/headtop_ladder06_crown_07.webp"
+  },
+  {
+   "bytes": 9040,
+   "file": "060_accessory/headtop_ladder07_crown_01.glb",
+   "id": "headtop_ladder07_crown_01",
+   "label": "시즌7 챌린저 왕관",
+   "name": "headtop_ladder07_crown_01",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 568,
+    "vertices": 618
+   },
+   "thumb": "060_accessory/headtop_ladder07_crown_01.webp"
+  },
+  {
+   "bytes": 9088,
+   "file": "060_accessory/headtop_ladder07_crown_02.glb",
+   "id": "headtop_ladder07_crown_02",
+   "label": "시즌7 마스터 왕관",
+   "name": "headtop_ladder07_crown_02",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 568,
+    "vertices": 618
+   },
+   "thumb": "060_accessory/headtop_ladder07_crown_02.webp"
+  },
+  {
+   "bytes": 5964,
+   "file": "060_accessory/headtop_ladder07_crown_03.glb",
+   "id": "headtop_ladder07_crown_03",
+   "label": "시즌7 다이아몬드 왕관",
+   "name": "headtop_ladder07_crown_03",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 292,
+    "vertices": 306
+   },
+   "thumb": "060_accessory/headtop_ladder07_crown_03.webp"
+  },
+  {
+   "bytes": 5964,
+   "file": "060_accessory/headtop_ladder07_crown_04.glb",
+   "id": "headtop_ladder07_crown_04",
+   "label": "시즌7 플래티넘 왕관",
+   "name": "headtop_ladder07_crown_04",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 292,
+    "vertices": 306
+   },
+   "thumb": "060_accessory/headtop_ladder07_crown_04.webp"
+  },
+  {
+   "bytes": 5264,
+   "file": "060_accessory/headtop_ladder07_crown_05.glb",
+   "id": "headtop_ladder07_crown_05",
+   "label": "시즌7 골드 왕관",
+   "name": "headtop_ladder07_crown_05",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 250,
+    "vertices": 234
+   },
+   "thumb": "060_accessory/headtop_ladder07_crown_05.webp"
+  },
+  {
+   "bytes": 3976,
+   "file": "060_accessory/headtop_ladder07_crown_06.glb",
+   "id": "headtop_ladder07_crown_06",
+   "label": "시즌7 실버 왕관",
+   "name": "headtop_ladder07_crown_06",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 100,
+    "vertices": 111
+   },
+   "thumb": "060_accessory/headtop_ladder07_crown_06.webp"
+  },
+  {
+   "bytes": 3976,
+   "file": "060_accessory/headtop_ladder07_crown_07.glb",
+   "id": "headtop_ladder07_crown_07",
+   "label": "시즌7 브론즈 왕관",
+   "name": "headtop_ladder07_crown_07",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 100,
+    "vertices": 111
+   },
+   "thumb": "060_accessory/headtop_ladder07_crown_07.webp"
+  },
+  {
+   "bytes": 9040,
+   "file": "060_accessory/headtop_ladder08_crown_01.glb",
+   "id": "headtop_ladder08_crown_01",
+   "label": "시즌8 챌린저 왕관",
+   "name": "headtop_ladder08_crown_01",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 568,
+    "vertices": 618
+   },
+   "thumb": "060_accessory/headtop_ladder08_crown_01.webp"
+  },
+  {
+   "bytes": 9088,
+   "file": "060_accessory/headtop_ladder08_crown_02.glb",
+   "id": "headtop_ladder08_crown_02",
+   "label": "시즌8 마스터 왕관",
+   "name": "headtop_ladder08_crown_02",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 568,
+    "vertices": 618
+   },
+   "thumb": "060_accessory/headtop_ladder08_crown_02.webp"
+  },
+  {
+   "bytes": 5964,
+   "file": "060_accessory/headtop_ladder08_crown_03.glb",
+   "id": "headtop_ladder08_crown_03",
+   "label": "시즌8 다이아몬드 왕관",
+   "name": "headtop_ladder08_crown_03",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 292,
+    "vertices": 306
+   },
+   "thumb": "060_accessory/headtop_ladder08_crown_03.webp"
+  },
+  {
+   "bytes": 5964,
+   "file": "060_accessory/headtop_ladder08_crown_04.glb",
+   "id": "headtop_ladder08_crown_04",
+   "label": "시즌8 플래티넘 왕관",
+   "name": "headtop_ladder08_crown_04",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 292,
+    "vertices": 306
+   },
+   "thumb": "060_accessory/headtop_ladder08_crown_04.webp"
+  },
+  {
+   "bytes": 5264,
+   "file": "060_accessory/headtop_ladder08_crown_05.glb",
+   "id": "headtop_ladder08_crown_05",
+   "label": "시즌8 골드 왕관",
+   "name": "headtop_ladder08_crown_05",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 250,
+    "vertices": 234
+   },
+   "thumb": "060_accessory/headtop_ladder08_crown_05.webp"
+  },
+  {
+   "bytes": 3976,
+   "file": "060_accessory/headtop_ladder08_crown_06.glb",
+   "id": "headtop_ladder08_crown_06",
+   "label": "시즌8 실버 왕관",
+   "name": "headtop_ladder08_crown_06",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 100,
+    "vertices": 111
+   },
+   "thumb": "060_accessory/headtop_ladder08_crown_06.webp"
+  },
+  {
+   "bytes": 3976,
+   "file": "060_accessory/headtop_ladder08_crown_07.glb",
+   "id": "headtop_ladder08_crown_07",
+   "label": "시즌8 브론즈 왕관",
+   "name": "headtop_ladder08_crown_07",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 100,
+    "vertices": 111
+   },
+   "thumb": "060_accessory/headtop_ladder08_crown_07.webp"
+  },
+  {
+   "bytes": 9040,
+   "file": "060_accessory/headtop_ladder09_crown_01.glb",
+   "id": "headtop_ladder09_crown_01",
+   "label": "시즌9 챌린저 왕관",
+   "name": "headtop_ladder09_crown_01",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 568,
+    "vertices": 618
+   },
+   "thumb": "060_accessory/headtop_ladder09_crown_01.webp"
+  },
+  {
+   "bytes": 9088,
+   "file": "060_accessory/headtop_ladder09_crown_02.glb",
+   "id": "headtop_ladder09_crown_02",
+   "label": "시즌9 마스터 왕관",
+   "name": "headtop_ladder09_crown_02",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 568,
+    "vertices": 618
+   },
+   "thumb": "060_accessory/headtop_ladder09_crown_02.webp"
+  },
+  {
+   "bytes": 5964,
+   "file": "060_accessory/headtop_ladder09_crown_03.glb",
+   "id": "headtop_ladder09_crown_03",
+   "label": "시즌9 다이아몬드 왕관",
+   "name": "headtop_ladder09_crown_03",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 292,
+    "vertices": 306
+   },
+   "thumb": "060_accessory/headtop_ladder09_crown_03.webp"
+  },
+  {
+   "bytes": 5964,
+   "file": "060_accessory/headtop_ladder09_crown_04.glb",
+   "id": "headtop_ladder09_crown_04",
+   "label": "시즌9 플래티넘 왕관",
+   "name": "headtop_ladder09_crown_04",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 292,
+    "vertices": 306
+   },
+   "thumb": "060_accessory/headtop_ladder09_crown_04.webp"
+  },
+  {
+   "bytes": 5264,
+   "file": "060_accessory/headtop_ladder09_crown_05.glb",
+   "id": "headtop_ladder09_crown_05",
+   "label": "시즌9 골드 왕관",
+   "name": "headtop_ladder09_crown_05",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 250,
+    "vertices": 234
+   },
+   "thumb": "060_accessory/headtop_ladder09_crown_05.webp"
+  },
+  {
+   "bytes": 3976,
+   "file": "060_accessory/headtop_ladder09_crown_06.glb",
+   "id": "headtop_ladder09_crown_06",
+   "label": "시즌9 실버 왕관",
+   "name": "headtop_ladder09_crown_06",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 100,
+    "vertices": 111
+   },
+   "thumb": "060_accessory/headtop_ladder09_crown_06.webp"
+  },
+  {
+   "bytes": 3976,
+   "file": "060_accessory/headtop_ladder09_crown_07.glb",
+   "id": "headtop_ladder09_crown_07",
+   "label": "시즌9 브론즈 왕관",
+   "name": "headtop_ladder09_crown_07",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 100,
+    "vertices": 111
+   },
+   "thumb": "060_accessory/headtop_ladder09_crown_07.webp"
+  },
+  {
+   "bytes": 8400,
+   "file": "060_accessory/headtop_ladder10_crown_01.glb",
+   "id": "headtop_ladder10_crown_01",
+   "name": "headtop_ladder10_crown_01",
+   "stats": {
+    "animations": 0,
+    "bones": 4,
+    "textures": 0,
+    "triangles": 624,
+    "vertices": 580
+   },
+   "thumb": "060_accessory/headtop_ladder10_crown_01.webp"
+  },
+  {
+   "bytes": 12584,
+   "file": "060_accessory/headtop_ladder10_crown_01_01.glb",
+   "id": "headtop_ladder10_crown_01_01",
+   "label": "시즌10 1위 머리띠",
+   "name": "headtop_ladder10_crown_01_01",
+   "stats": {
+    "animations": 1,
+    "bones": 4,
+    "textures": 1,
+    "triangles": 624,
+    "vertices": 580
+   },
+   "thumb": "060_accessory/headtop_ladder10_crown_01_01.webp"
+  },
+  {
+   "bytes": 12584,
+   "file": "060_accessory/headtop_ladder10_crown_01_02.glb",
+   "id": "headtop_ladder10_crown_01_02",
+   "label": "시즌10 2위 머리띠",
+   "name": "headtop_ladder10_crown_01_02",
+   "stats": {
+    "animations": 1,
+    "bones": 4,
+    "textures": 1,
+    "triangles": 624,
+    "vertices": 580
+   },
+   "thumb": "060_accessory/headtop_ladder10_crown_01_02.webp"
+  },
+  {
+   "bytes": 12584,
+   "file": "060_accessory/headtop_ladder10_crown_01_03.glb",
+   "id": "headtop_ladder10_crown_01_03",
+   "label": "시즌10 3위 머리띠",
+   "name": "headtop_ladder10_crown_01_03",
+   "stats": {
+    "animations": 1,
+    "bones": 4,
+    "textures": 1,
+    "triangles": 624,
+    "vertices": 580
+   },
+   "thumb": "060_accessory/headtop_ladder10_crown_01_03.webp"
+  },
+  {
+   "bytes": 12432,
+   "file": "060_accessory/headtop_ladder10_crown_01_04.glb",
+   "id": "headtop_ladder10_crown_01_04",
+   "label": "시즌10 챌린저 머리띠",
+   "name": "headtop_ladder10_crown_01_04",
+   "stats": {
+    "animations": 1,
+    "bones": 4,
+    "textures": 1,
+    "triangles": 624,
+    "vertices": 580
+   },
+   "thumb": "060_accessory/headtop_ladder10_crown_01_04.webp"
+  },
+  {
+   "bytes": 10420,
+   "file": "060_accessory/headtop_ladder10_crown_02.glb",
+   "id": "headtop_ladder10_crown_02",
+   "label": "시즌10 마스터 머리띠",
+   "name": "headtop_ladder10_crown_02",
+   "stats": {
+    "animations": 1,
+    "bones": 4,
+    "textures": 1,
+    "triangles": 428,
+    "vertices": 354
+   },
+   "thumb": "060_accessory/headtop_ladder10_crown_02.webp"
+  },
+  {
+   "bytes": 5760,
+   "file": "060_accessory/headtop_ladder10_crown_03.glb",
+   "id": "headtop_ladder10_crown_03",
+   "label": "시즌10 다이아몬드 머리띠",
+   "name": "headtop_ladder10_crown_03",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 356,
+    "vertices": 274
+   },
+   "thumb": "060_accessory/headtop_ladder10_crown_03.webp"
+  },
+  {
+   "bytes": 5760,
+   "file": "060_accessory/headtop_ladder10_crown_04.glb",
+   "id": "headtop_ladder10_crown_04",
+   "label": "시즌10 플래티넘 머리띠",
+   "name": "headtop_ladder10_crown_04",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 356,
+    "vertices": 274
+   },
+   "thumb": "060_accessory/headtop_ladder10_crown_04.webp"
+  },
+  {
+   "bytes": 5760,
+   "file": "060_accessory/headtop_ladder10_crown_05.glb",
+   "id": "headtop_ladder10_crown_05",
+   "label": "시즌10 골드 머리띠",
+   "name": "headtop_ladder10_crown_05",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 356,
+    "vertices": 274
+   },
+   "thumb": "060_accessory/headtop_ladder10_crown_05.webp"
+  },
+  {
+   "bytes": 5760,
+   "file": "060_accessory/headtop_ladder10_crown_06.glb",
+   "id": "headtop_ladder10_crown_06",
+   "label": "시즌10 실버 머리띠",
+   "name": "headtop_ladder10_crown_06",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 356,
+    "vertices": 274
+   },
+   "thumb": "060_accessory/headtop_ladder10_crown_06.webp"
+  },
+  {
+   "bytes": 5760,
+   "file": "060_accessory/headtop_ladder10_crown_07.glb",
+   "id": "headtop_ladder10_crown_07",
+   "label": "시즌10 브론즈 머리띠",
+   "name": "headtop_ladder10_crown_07",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 356,
+    "vertices": 274
+   },
+   "thumb": "060_accessory/headtop_ladder10_crown_07.webp"
+  },
+  {
+   "bytes": 9124,
+   "file": "060_accessory/headtop_ladder_crown_01.glb",
+   "id": "headtop_ladder_crown_01",
+   "label": "챌린저 왕관",
+   "name": "headtop_ladder_crown_01",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 568,
+    "vertices": 626
+   },
+   "thumb": "060_accessory/headtop_ladder_crown_01.webp"
+  },
+  {
+   "bytes": 9188,
+   "file": "060_accessory/headtop_ladder_crown_02.glb",
+   "id": "headtop_ladder_crown_02",
+   "label": "마스터 왕관",
+   "name": "headtop_ladder_crown_02",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 568,
+    "vertices": 626
+   },
+   "thumb": "060_accessory/headtop_ladder_crown_02.webp"
+  },
+  {
+   "bytes": 5964,
+   "file": "060_accessory/headtop_ladder_crown_03.glb",
+   "id": "headtop_ladder_crown_03",
+   "label": "다이아몬드 왕관",
+   "name": "headtop_ladder_crown_03",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 292,
+    "vertices": 326
+   },
+   "thumb": "060_accessory/headtop_ladder_crown_03.webp"
+  },
+  {
+   "bytes": 5964,
+   "file": "060_accessory/headtop_ladder_crown_04.glb",
+   "id": "headtop_ladder_crown_04",
+   "label": "플래티넘 왕관",
+   "name": "headtop_ladder_crown_04",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 292,
+    "vertices": 326
+   },
+   "thumb": "060_accessory/headtop_ladder_crown_04.webp"
+  },
+  {
+   "bytes": 5244,
+   "file": "060_accessory/headtop_ladder_crown_05.glb",
+   "id": "headtop_ladder_crown_05",
+   "label": "골드 왕관",
+   "name": "headtop_ladder_crown_05",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 250,
+    "vertices": 234
+   },
+   "thumb": "060_accessory/headtop_ladder_crown_05.webp"
+  },
+  {
+   "bytes": 3968,
+   "file": "060_accessory/headtop_ladder_crown_06.glb",
+   "id": "headtop_ladder_crown_06",
+   "label": "실버 왕관",
+   "name": "headtop_ladder_crown_06",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 100,
+    "vertices": 111
+   },
+   "thumb": "060_accessory/headtop_ladder_crown_06.webp"
+  },
+  {
+   "bytes": 3968,
+   "file": "060_accessory/headtop_ladder_crown_07.glb",
+   "id": "headtop_ladder_crown_07",
+   "label": "브론즈 왕관",
+   "name": "headtop_ladder_crown_07",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 100,
+    "vertices": 111
+   },
+   "thumb": "060_accessory/headtop_ladder_crown_07.webp"
+  },
+  {
+   "bytes": 8312,
+   "file": "060_accessory/headtop_laurelcrown.glb",
+   "id": "headtop_laurelcrown",
+   "label": "월계관",
+   "name": "headtop_laurelcrown",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 572,
+    "vertices": 604
+   },
+   "thumb": "060_accessory/headtop_laurelcrown.webp"
+  },
+  {
+   "bytes": 4680,
+   "file": "060_accessory/headtop_lodumanihat.glb",
+   "id": "headtop_lodumanihat",
+   "label": "로두마니 모자",
+   "name": "headtop_lodumanihat",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 224,
+    "vertices": 174
+   },
+   "thumb": "060_accessory/headtop_lodumanihat.webp"
+  },
+  {
+   "bytes": 7992,
+   "file": "060_accessory/headtop_mandu.glb",
+   "id": "headtop_mandu",
+   "label": "만두",
+   "name": "headtop_mandu",
+   "stats": {
+    "animations": 1,
+    "bones": 2,
+    "textures": 1,
+    "triangles": 212,
+    "vertices": 178
+   },
+   "thumb": "060_accessory/headtop_mandu.webp"
+  },
+  {
+   "bytes": 7876,
+   "file": "060_accessory/headtop_maridaliceheadtop.glb",
+   "id": "headtop_maridaliceheadtop",
+   "label": "앨리스 마리드 리본",
+   "name": "headtop_maridaliceheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 468,
+    "vertices": 492
+   },
+   "thumb": "060_accessory/headtop_maridaliceheadtop.webp"
+  },
+  {
+   "bytes": 14092,
+   "file": "060_accessory/headtop_maridchosunheadtop.glb",
+   "id": "headtop_maridchosunheadtop",
+   "label": "초선 마리드 꽃 장식",
+   "name": "headtop_maridchosunheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 1070,
+    "vertices": 1176
+   },
+   "thumb": "060_accessory/headtop_maridchosunheadtop.webp"
+  },
+  {
+   "bytes": 3988,
+   "file": "060_accessory/headtop_maridcookerheadtop.glb",
+   "id": "headtop_maridcookerheadtop",
+   "label": "요리사 마리드 모자",
+   "name": "headtop_maridcookerheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 142,
+    "vertices": 114
+   },
+   "thumb": "060_accessory/headtop_maridcookerheadtop.webp"
+  },
+  {
+   "bytes": 13176,
+   "file": "060_accessory/headtop_maridhawaiianheadtop.glb",
+   "id": "headtop_maridhawaiianheadtop",
+   "label": "하와이안 마리드 모자",
+   "name": "headtop_maridhawaiianheadtop",
+   "stats": {
+    "animations": 1,
+    "bones": 5,
+    "textures": 1,
+    "triangles": 676,
+    "vertices": 570
+   },
+   "thumb": "060_accessory/headtop_maridhawaiianheadtop.webp"
+  },
+  {
+   "bytes": 4900,
+   "file": "060_accessory/headtop_maridindianheadtop.glb",
+   "id": "headtop_maridindianheadtop",
+   "label": "원주민 마리드 머리띠",
+   "name": "headtop_maridindianheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 188,
+    "vertices": 208
+   },
+   "thumb": "060_accessory/headtop_maridindianheadtop.webp"
+  },
+  {
+   "bytes": 4476,
+   "file": "060_accessory/headtop_maridpajamasheadtop.glb",
+   "id": "headtop_maridpajamasheadtop",
+   "label": "잠옷 마리드 모자",
+   "name": "headtop_maridpajamasheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 180,
+    "vertices": 160
+   },
+   "thumb": "060_accessory/headtop_maridpajamasheadtop.webp"
+  },
+  {
+   "bytes": 3772,
+   "file": "060_accessory/headtop_maridprisonerheadtop.glb",
+   "id": "headtop_maridprisonerheadtop",
+   "label": "죄수 마리드 모자",
+   "name": "headtop_maridprisonerheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 94,
+    "vertices": 87
+   },
+   "thumb": "060_accessory/headtop_maridprisonerheadtop.webp"
+  },
+  {
+   "bytes": 9528,
+   "file": "060_accessory/headtop_maridraincoatheadtop.glb",
+   "id": "headtop_maridraincoatheadtop",
+   "label": "우비소녀 마리드 우산",
+   "name": "headtop_maridraincoatheadtop",
+   "stats": {
+    "animations": 2,
+    "bones": 4,
+    "textures": 1,
+    "triangles": 252,
+    "vertices": 271
+   },
+   "thumb": "060_accessory/headtop_maridraincoatheadtop.webp"
+  },
+  {
+   "bytes": 3780,
+   "file": "060_accessory/headtop_maridsnowwhiteheadtop.glb",
+   "id": "headtop_maridsnowwhiteheadtop",
+   "label": "백설공주 마리드 리본",
+   "name": "headtop_maridsnowwhiteheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 98,
+    "vertices": 96
+   },
+   "thumb": "060_accessory/headtop_maridsnowwhiteheadtop.webp"
+  },
+  {
+   "bytes": 5044,
+   "file": "060_accessory/headtop_maridsummer2020headtop01.glb",
+   "id": "headtop_maridsummer2020headtop01",
+   "label": "분홍 하트 선글라스",
+   "name": "headtop_maridsummer2020headtop01",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 244,
+    "vertices": 216
+   },
+   "thumb": "060_accessory/headtop_maridsummer2020headtop01.webp"
+  },
+  {
+   "bytes": 5044,
+   "file": "060_accessory/headtop_maridsummer2020headtop02.glb",
+   "id": "headtop_maridsummer2020headtop02",
+   "label": "초록 하트 선글라스",
+   "name": "headtop_maridsummer2020headtop02",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 244,
+    "vertices": 216
+   },
+   "thumb": "060_accessory/headtop_maridsummer2020headtop02.webp"
+  },
+  {
+   "bytes": 6668,
+   "file": "060_accessory/headtop_maridweddingheadtop.glb",
+   "id": "headtop_maridweddingheadtop",
+   "label": "웨딩 마리드 꽃장식",
+   "name": "headtop_maridweddingheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 328,
+    "vertices": 385
+   },
+   "thumb": "060_accessory/headtop_maridweddingheadtop.webp"
+  },
+  {
+   "bytes": 5420,
+   "file": "060_accessory/headtop_maridwitchheadtop.glb",
+   "id": "headtop_maridwitchheadtop",
+   "label": "마녀 마리드 모자",
+   "name": "headtop_maridwitchheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 298,
+    "vertices": 233
+   },
+   "thumb": "060_accessory/headtop_maridwitchheadtop.webp"
+  },
+  {
+   "bytes": 9264,
+   "file": "060_accessory/headtop_mountain.glb",
+   "id": "headtop_mountain",
+   "label": "화산",
+   "name": "headtop_mountain",
+   "stats": {
+    "animations": 2,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 110,
+    "vertices": 161
+   },
+   "thumb": "060_accessory/headtop_mountain.webp"
+  },
+  {
+   "bytes": 3572,
+   "file": "060_accessory/headtop_newyear2020_cheese.glb",
+   "id": "headtop_newyear2020_cheese",
+   "label": "치즈덩어리",
+   "name": "headtop_newyear2020_cheese",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 92,
+    "vertices": 72
+   },
+   "thumb": "060_accessory/headtop_newyear2020_cheese.webp"
+  },
+  {
+   "bytes": 5176,
+   "file": "060_accessory/headtop_newyear2020_mouse00.glb",
+   "id": "headtop_newyear2020_mouse00",
+   "label": "찍찍이 머리띠",
+   "name": "headtop_newyear2020_mouse00",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 286,
+    "vertices": 222
+   },
+   "thumb": "060_accessory/headtop_newyear2020_mouse00.webp"
+  },
+  {
+   "bytes": 9736,
+   "file": "060_accessory/headtop_newyear2020_mouse01.glb",
+   "id": "headtop_newyear2020_mouse01",
+   "label": "새앙쥐",
+   "name": "headtop_newyear2020_mouse01",
+   "stats": {
+    "animations": 2,
+    "bones": 2,
+    "textures": 1,
+    "triangles": 300,
+    "vertices": 232
+   },
+   "thumb": "060_accessory/headtop_newyear2020_mouse01.webp"
+  },
+  {
+   "bytes": 11180,
+   "file": "060_accessory/headtop_newyear2020_mouse02.glb",
+   "id": "headtop_newyear2020_mouse02",
+   "label": "철봉 파랑 찍찍이",
+   "name": "headtop_newyear2020_mouse02",
+   "stats": {
+    "animations": 2,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 422,
+    "vertices": 364
+   },
+   "thumb": "060_accessory/headtop_newyear2020_mouse02.webp"
+  },
+  {
+   "bytes": 10220,
+   "file": "060_accessory/headtop_newyear2020_mouse03.glb",
+   "id": "headtop_newyear2020_mouse03",
+   "label": "철봉 분홍 찍찍이",
+   "name": "headtop_newyear2020_mouse03",
+   "stats": {
+    "animations": 2,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 422,
+    "vertices": 364
+   },
+   "thumb": "060_accessory/headtop_newyear2020_mouse03.webp"
+  },
+  {
+   "bytes": 15420,
+   "file": "060_accessory/headtop_newyear2020_surprisebox.glb",
+   "id": "headtop_newyear2020_surprisebox",
+   "label": "2020 응원찍찍이",
+   "name": "headtop_newyear2020_surprisebox",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 5,
+    "bones": 4,
+    "textures": 1,
+    "triangles": 410,
+    "vertices": 436
+   },
+   "thumb": "060_accessory/headtop_newyear2020_surprisebox.webp"
+  },
+  {
+   "bytes": 7264,
+   "file": "060_accessory/headtop_newyear2020_surprisebox_end.glb",
+   "id": "headtop_newyear2020_surprisebox_end",
+   "name": "headtop_newyear2020_surprisebox_end",
+   "stats": {
+    "animations": 0,
+    "bones": 4,
+    "textures": 0,
+    "triangles": 410,
+    "vertices": 436
+   },
+   "thumb": "060_accessory/headtop_newyear2020_surprisebox_end.webp"
+  },
+  {
+   "bytes": 7260,
+   "file": "060_accessory/headtop_newyear2020_surprisebox_open.glb",
+   "id": "headtop_newyear2020_surprisebox_open",
+   "name": "headtop_newyear2020_surprisebox_open",
+   "stats": {
+    "animations": 0,
+    "bones": 4,
+    "textures": 0,
+    "triangles": 410,
+    "vertices": 436
+   },
+   "thumb": "060_accessory/headtop_newyear2020_surprisebox_open.webp"
+  },
+  {
+   "bytes": 7264,
+   "file": "060_accessory/headtop_newyear2020_surprisebox_ready00.glb",
+   "id": "headtop_newyear2020_surprisebox_ready00",
+   "name": "headtop_newyear2020_surprisebox_ready00",
+   "stats": {
+    "animations": 0,
+    "bones": 4,
+    "textures": 0,
+    "triangles": 410,
+    "vertices": 436
+   },
+   "thumb": "060_accessory/headtop_newyear2020_surprisebox_ready00.webp"
+  },
+  {
+   "bytes": 7264,
+   "file": "060_accessory/headtop_newyear2020_surprisebox_ready01.glb",
+   "id": "headtop_newyear2020_surprisebox_ready01",
+   "name": "headtop_newyear2020_surprisebox_ready01",
+   "stats": {
+    "animations": 0,
+    "bones": 4,
+    "textures": 0,
+    "triangles": 410,
+    "vertices": 436
+   },
+   "thumb": "060_accessory/headtop_newyear2020_surprisebox_ready01.webp"
+  },
+  {
+   "bytes": 5268,
+   "file": "060_accessory/headtop_peach.glb",
+   "id": "headtop_peach",
+   "label": "복숭아",
+   "name": "headtop_peach",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 236,
+    "vertices": 256
+   },
+   "thumb": "060_accessory/headtop_peach.webp"
+  },
+  {
+   "bytes": 10524,
+   "file": "060_accessory/headtop_phocidaehat.glb",
+   "id": "headtop_phocidaehat",
+   "label": "물범",
+   "name": "headtop_phocidaehat",
+   "stats": {
+    "animations": 1,
+    "bones": 4,
+    "textures": 1,
+    "triangles": 442,
+    "vertices": 320
+   },
+   "thumb": "060_accessory/headtop_phocidaehat.webp"
+  },
+  {
+   "bytes": 8800,
+   "file": "060_accessory/headtop_pinwheel.glb",
+   "id": "headtop_pinwheel",
+   "label": "무지개 바람개비",
+   "name": "headtop_pinwheel",
+   "stats": {
+    "animations": 1,
+    "bones": 4,
+    "textures": 1,
+    "triangles": 276,
+    "vertices": 316
+   },
+   "thumb": "060_accessory/headtop_pinwheel.webp"
+  },
+  {
+   "bytes": 7396,
+   "file": "060_accessory/headtop_prisonermouse.glb",
+   "id": "headtop_prisonermouse",
+   "label": "애완 쥐",
+   "name": "headtop_prisonermouse",
+   "stats": {
+    "animations": 1,
+    "bones": 2,
+    "textures": 1,
+    "triangles": 248,
+    "vertices": 198
+   },
+   "thumb": "060_accessory/headtop_prisonermouse.webp"
+  },
+  {
+   "bytes": 8808,
+   "file": "060_accessory/headtop_propellerhat.glb",
+   "id": "headtop_propellerhat",
+   "label": "프로펠러 모자",
+   "name": "headtop_propellerhat",
+   "stats": {
+    "animations": 1,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 266,
+    "vertices": 318
+   },
+   "thumb": "060_accessory/headtop_propellerhat.webp"
+  },
+  {
+   "bytes": 8488,
+   "file": "060_accessory/headtop_rabbitband.glb",
+   "id": "headtop_rabbitband",
+   "label": "토끼머리띠",
+   "name": "headtop_rabbitband",
+   "stats": {
+    "animations": 2,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 156,
+    "vertices": 120
+   },
+   "thumb": "060_accessory/headtop_rabbitband.webp"
+  },
+  {
+   "bytes": 4536,
+   "file": "060_accessory/headtop_shower.glb",
+   "id": "headtop_shower",
+   "label": "온천 수건",
+   "name": "headtop_shower",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 210,
+    "vertices": 176
+   },
+   "thumb": "060_accessory/headtop_shower.webp"
+  },
+  {
+   "bytes": 3048,
+   "file": "060_accessory/headtop_shower01.glb",
+   "id": "headtop_shower01",
+   "label": "거품 비누",
+   "name": "headtop_shower01",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 12,
+    "vertices": 24
+   },
+   "thumb": "060_accessory/headtop_shower01.webp"
+  },
+  {
+   "bytes": 6004,
+   "file": "060_accessory/headtop_shower02.glb",
+   "id": "headtop_shower02",
+   "label": "온천 바구니",
+   "name": "headtop_shower02",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 270,
+    "vertices": 356
+   },
+   "thumb": "060_accessory/headtop_shower02.webp"
+  },
+  {
+   "bytes": 3884,
+   "file": "060_accessory/headtop_siren.glb",
+   "id": "headtop_siren",
+   "name": "headtop_siren",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 58,
+    "vertices": 86
+   },
+   "thumb": "060_accessory/headtop_siren.webp"
+  },
+  {
+   "bytes": 11996,
+   "file": "060_accessory/headtop_snail.glb",
+   "id": "headtop_snail",
+   "label": "달팽이",
+   "name": "headtop_snail",
+   "stats": {
+    "animations": 1,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 480,
+    "vertices": 385
+   },
+   "thumb": "060_accessory/headtop_snail.webp"
+  },
+  {
+   "bytes": 4128,
+   "file": "060_accessory/headtop_sprout.glb",
+   "id": "headtop_sprout",
+   "label": "새싹 장식",
+   "name": "headtop_sprout",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 162,
+    "vertices": 132
+   },
+   "thumb": "060_accessory/headtop_sprout.webp"
+  },
+  {
+   "bytes": 5080,
+   "file": "060_accessory/headtop_staghorn.glb",
+   "id": "headtop_staghorn",
+   "label": "사슴뿔",
+   "name": "headtop_staghorn",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 256,
+    "vertices": 208
+   },
+   "thumb": "060_accessory/headtop_staghorn.webp"
+  },
+  {
+   "bytes": 12068,
+   "file": "060_accessory/headtop_starband.glb",
+   "id": "headtop_starband",
+   "label": "별 머리띠",
+   "name": "headtop_starband",
+   "stats": {
+    "animations": 2,
+    "bones": 4,
+    "textures": 1,
+    "triangles": 292,
+    "vertices": 355
+   },
+   "thumb": "060_accessory/headtop_starband.webp"
+  },
+  {
+   "bytes": 4176,
+   "file": "060_accessory/headtop_strawhat.glb",
+   "id": "headtop_strawhat",
+   "label": "밀짚모자",
+   "name": "headtop_strawhat",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 106,
+    "vertices": 136
+   },
+   "thumb": "060_accessory/headtop_strawhat.webp"
+  },
+  {
+   "bytes": 3880,
+   "file": "060_accessory/headtop_summer2020_ribbon.glb",
+   "id": "headtop_summer2020_ribbon",
+   "label": "블루 레모네이드 핀",
+   "name": "headtop_summer2020_ribbon",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 94,
+    "vertices": 114
+   },
+   "thumb": "060_accessory/headtop_summer2020_ribbon.webp"
+  },
+  {
+   "bytes": 8948,
+   "file": "060_accessory/headtop_sunflower.glb",
+   "id": "headtop_sunflower",
+   "label": "해바라기",
+   "name": "headtop_sunflower",
+   "stats": {
+    "animations": 1,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 243,
+    "vertices": 299
+   },
+   "thumb": "060_accessory/headtop_sunflower.webp"
+  },
+  {
+   "bytes": 6040,
+   "file": "060_accessory/headtop_susummer2020headtop01.glb",
+   "id": "headtop_susummer2020headtop01",
+   "label": "하늘 꽃 선글라스",
+   "name": "headtop_susummer2020headtop01",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 376,
+    "vertices": 322
+   },
+   "thumb": "060_accessory/headtop_susummer2020headtop01.webp"
+  },
+  {
+   "bytes": 6040,
+   "file": "060_accessory/headtop_susummer2020headtop02.glb",
+   "id": "headtop_susummer2020headtop02",
+   "label": "분홍 꽃 선글라스",
+   "name": "headtop_susummer2020headtop02",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 376,
+    "vertices": 322
+   },
+   "thumb": "060_accessory/headtop_susummer2020headtop02.webp"
+  },
+  {
+   "bytes": 4556,
+   "file": "060_accessory/headtop_tree.glb",
+   "id": "headtop_tree",
+   "label": "미니 트리",
+   "name": "headtop_tree",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 80,
+    "vertices": 184
+   },
+   "thumb": "060_accessory/headtop_tree.webp"
+  },
+  {
+   "bytes": 3640,
+   "file": "060_accessory/headtop_uniangelheadtop.glb",
+   "id": "headtop_uniangelheadtop",
+   "label": "큐피드 우니 천사링",
+   "name": "headtop_uniangelheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 120,
+    "vertices": 84
+   },
+   "thumb": "060_accessory/headtop_uniangelheadtop.webp"
+  },
+  {
+   "bytes": 4340,
+   "file": "060_accessory/headtop_unicornhorn.glb",
+   "id": "headtop_unicornhorn",
+   "label": "유니콘 뿔",
+   "name": "headtop_unicornhorn",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 170,
+    "vertices": 158
+   },
+   "thumb": "060_accessory/headtop_unicornhorn.webp"
+  },
+  {
+   "bytes": 4964,
+   "file": "060_accessory/headtop_unikindgartenheadtop.glb",
+   "id": "headtop_unikindgartenheadtop",
+   "label": "유치원 우니 모자",
+   "name": "headtop_unikindgartenheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 212,
+    "vertices": 210
+   },
+   "thumb": "060_accessory/headtop_unikindgartenheadtop.webp"
+  },
+  {
+   "bytes": 13348,
+   "file": "060_accessory/headtop_unilittleprinceheadtop.glb",
+   "id": "headtop_unilittleprinceheadtop",
+   "label": "어린왕자 우니 아기여우",
+   "name": "headtop_unilittleprinceheadtop",
+   "stats": {
+    "animations": 2,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 566,
+    "vertices": 460
+   },
+   "thumb": "060_accessory/headtop_unilittleprinceheadtop.webp"
+  },
+  {
+   "bytes": 4628,
+   "file": "060_accessory/headtop_unipajamasheadtop.glb",
+   "id": "headtop_unipajamasheadtop",
+   "label": "잠옷 우니 모자",
+   "name": "headtop_unipajamasheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 198,
+    "vertices": 178
+   },
+   "thumb": "060_accessory/headtop_unipajamasheadtop.webp"
+  },
+  {
+   "bytes": 6032,
+   "file": "060_accessory/headtop_uniphocidaeheadtop.glb",
+   "id": "headtop_uniphocidaeheadtop",
+   "label": "황제물개 우니 왕관",
+   "name": "headtop_uniphocidaeheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 356,
+    "vertices": 301
+   },
+   "thumb": "060_accessory/headtop_uniphocidaeheadtop.webp"
+  },
+  {
+   "bytes": 8716,
+   "file": "060_accessory/headtop_uniraccoonheadtop.glb",
+   "id": "headtop_uniraccoonheadtop",
+   "label": "너구리 우니 새싹",
+   "name": "headtop_uniraccoonheadtop",
+   "stats": {
+    "animations": 2,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 156,
+    "vertices": 148
+   },
+   "thumb": "060_accessory/headtop_uniraccoonheadtop.webp"
+  },
+  {
+   "bytes": 7688,
+   "file": "060_accessory/headtop_unischoolheadtop.glb",
+   "id": "headtop_unischoolheadtop",
+   "label": "교복 우니 모자",
+   "name": "headtop_unischoolheadtop",
+   "stats": {
+    "animations": 2,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 260,
+    "vertices": 252
+   },
+   "thumb": "060_accessory/headtop_unischoolheadtop.webp"
+  },
+  {
+   "bytes": 11948,
+   "file": "060_accessory/headtop_uniswinmmingheadtop.glb",
+   "id": "headtop_uniswinmmingheadtop",
+   "label": "바캉스 우니 모자",
+   "name": "headtop_uniswinmmingheadtop",
+   "stats": {
+    "animations": 1,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 480,
+    "vertices": 374
+   },
+   "thumb": "060_accessory/headtop_uniswinmmingheadtop.webp"
+  },
+  {
+   "bytes": 6928,
+   "file": "060_accessory/headtop_uniyeopoheadtop.glb",
+   "id": "headtop_uniyeopoheadtop",
+   "label": "여포 우니 자금관",
+   "name": "headtop_uniyeopoheadtop",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 402,
+    "vertices": 422
+   },
+   "thumb": "060_accessory/headtop_uniyeopoheadtop.webp"
+  },
+  {
+   "bytes": 4200,
+   "file": "060_accessory/headtop_water.glb",
+   "id": "headtop_water",
+   "name": "headtop_water",
+   "stats": {
+    "animations": 0,
+    "bones": 3,
+    "textures": 0,
+    "triangles": 144,
+    "vertices": 88
+   },
+   "thumb": "060_accessory/headtop_water.webp"
+  },
+  {
+   "bytes": 14604,
+   "file": "060_accessory/headtop_welsh.glb",
+   "id": "headtop_welsh",
+   "label": "멍멍이 모자",
+   "name": "headtop_welsh",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 5,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 456,
+    "vertices": 406
+   },
+   "thumb": "060_accessory/headtop_welsh.webp"
+  },
+  {
+   "bytes": 8616,
+   "file": "060_accessory/headtopeffect_dankyliangfan.glb",
+   "id": "headtopeffect_dankyliangfan",
+   "label": "제갈량 댕키 부채",
+   "name": "headtopeffect_dankyliangfan",
+   "stats": {
+    "animations": 2,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 208,
+    "vertices": 264
+   },
+   "thumb": "060_accessory/headtopeffect_dankyliangfan.webp"
+  },
+  {
+   "bytes": 5972,
+   "file": "060_accessory/headtopeffect_maridchosunprops.glb",
+   "id": "headtopeffect_maridchosunprops",
+   "label": "초선 마리드 부채",
+   "name": "headtopeffect_maridchosunprops",
+   "stats": {
+    "animations": 1,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 224,
+    "vertices": 250
+   },
+   "thumb": "060_accessory/headtopeffect_maridchosunprops.webp"
+  },
+  {
+   "bytes": 5128,
+   "file": "060_accessory/mmweapon_bow.glb",
+   "id": "mmweapon_bow",
+   "label": "활",
+   "name": "mmweapon_bow",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 220,
+    "vertices": 280
+   },
+   "thumb": "060_accessory/mmweapon_bow.webp"
+  },
+  {
+   "bytes": 14304,
+   "file": "060_accessory/mmweapon_hydrant.glb",
+   "id": "mmweapon_hydrant",
+   "label": "기관총",
+   "name": "mmweapon_hydrant",
+   "stats": {
+    "animations": 0,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 818,
+    "vertices": 1134
+   },
+   "thumb": "060_accessory/mmweapon_hydrant.webp"
+  },
+  {
+   "bytes": 6360,
+   "file": "060_accessory/mmweapon_rifle.glb",
+   "id": "mmweapon_rifle",
+   "label": "저격총",
+   "name": "mmweapon_rifle",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 336,
+    "vertices": 443
+   },
+   "thumb": "060_accessory/mmweapon_rifle.webp"
+  },
+  {
+   "bytes": 4708,
+   "file": "060_accessory/mmweapon_watergun.glb",
+   "id": "mmweapon_watergun",
+   "label": "관우 다오 언월도",
+   "name": "mmweapon_watergun",
+   "stats": {
+    "animations": 0,
+    "bones": 0,
+    "textures": 1,
+    "triangles": 234,
+    "vertices": 212
+   },
+   "thumb": "060_accessory/mmweapon_watergun.webp"
+  }
+ ],
+ "schema": "boomhill-open-assets/model-list/v1",
+ "title": "액세서리"
+}

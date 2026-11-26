@@ -1,0 +1,4301 @@
+{
+ "assets": [
+  {
+   "frames": 1,
+   "id": "Effects__baldo_dart_01",
+   "name": "Effects/baldo_dart_01",
+   "sheet": {
+    "h": 88,
+    "w": 75
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__baldo_dart_03",
+   "name": "Effects/baldo_dart_03",
+   "sheet": {
+    "h": 105,
+    "w": 75
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__baldo_dart_07",
+   "name": "Effects/baldo_dart_07",
+   "sheet": {
+    "h": 113,
+    "w": 75
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__baldo_dart_12",
+   "name": "Effects/baldo_dart_12",
+   "sheet": {
+    "h": 88,
+    "w": 75
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__baldo_dart_front",
+   "name": "Effects/baldo_dart_front",
+   "sheet": {
+    "h": 111,
+    "w": 75
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__baldo_dart_hit",
+   "name": "Effects/baldo_dart_hit",
+   "sheet": {
+    "h": 68,
+    "w": 75
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__fx_su_drop_image1",
+   "name": "Effects/fx_su_drop_image1",
+   "sheet": {
+    "h": 106,
+    "w": 166
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__fx_su_drop_image2",
+   "name": "Effects/fx_su_drop_image2",
+   "sheet": {
+    "h": 215,
+    "w": 323
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__bat",
+   "name": "Effects/Meshes/Materials/bat",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__bombingballoon",
+   "name": "Effects/Meshes/Materials/bombingballoon",
+   "sheet": {
+    "h": 49,
+    "w": 49
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__bombingballoon01",
+   "name": "Effects/Meshes/Materials/bombingballoon01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__bombingballoon_1_a0c4b826",
+   "name": "Effects/Meshes/Materials/bombingballoon 1",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__bullet01",
+   "name": "Effects/Meshes/Materials/bullet01",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__bullet01_p",
+   "name": "Effects/Meshes/Materials/bullet01_p",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__bullet01_s01",
+   "name": "Effects/Meshes/Materials/bullet01_s01",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__bullet01_s02",
+   "name": "Effects/Meshes/Materials/bullet01_s02",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__bullet_e01",
+   "name": "Effects/Meshes/Materials/bullet_e01",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__bullet_e02_1",
+   "name": "Effects/Meshes/Materials/bullet_e02_1",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__bullet_e02_2",
+   "name": "Effects/Meshes/Materials/bullet_e02_2",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__bullet_e02_3",
+   "name": "Effects/Meshes/Materials/bullet_e02_3",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__bullet_e02_4",
+   "name": "Effects/Meshes/Materials/bullet_e02_4",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__clock_01",
+   "name": "Effects/Meshes/Materials/clock_01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__clock_02",
+   "name": "Effects/Meshes/Materials/clock_02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__clock_03",
+   "name": "Effects/Meshes/Materials/clock_03",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fire_01",
+   "name": "Effects/Meshes/Materials/Fire_01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fire_02",
+   "name": "Effects/Meshes/Materials/Fire_02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fire_03",
+   "name": "Effects/Meshes/Materials/Fire_03",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fire_04",
+   "name": "Effects/Meshes/Materials/Fire_04",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__fx_sharkwater",
+   "name": "Effects/Meshes/Materials/fx_sharkwater",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__fx_showroom02",
+   "name": "Effects/Meshes/Materials/fx_showroom02",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__fx_showroom03",
+   "name": "Effects/Meshes/Materials/fx_showroom03",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__fx_sirenhead",
+   "name": "Effects/Meshes/Materials/fx_sirenhead",
+   "sheet": {
+    "h": 16,
+    "w": 16
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_3Arrow",
+   "name": "Effects/Meshes/Materials/Fx_T_3Arrow",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Airplane01",
+   "name": "Effects/Meshes/Materials/Fx_T_Airplane01",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Airplane02",
+   "name": "Effects/Meshes/Materials/Fx_T_Airplane02",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Arrow",
+   "name": "Effects/Meshes/Materials/Fx_T_Arrow",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Arrow02",
+   "name": "Effects/Meshes/Materials/Fx_T_Arrow02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Arrow03",
+   "name": "Effects/Meshes/Materials/Fx_T_Arrow03",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_arrow04",
+   "name": "Effects/Meshes/Materials/Fx_T_arrow04",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_arrow05",
+   "name": "Effects/Meshes/Materials/Fx_T_arrow05",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Backfire",
+   "name": "Effects/Meshes/Materials/Fx_T_Backfire",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Ball01",
+   "name": "Effects/Meshes/Materials/Fx_T_Ball01",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Ball02",
+   "name": "Effects/Meshes/Materials/Fx_T_Ball02",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Ball03",
+   "name": "Effects/Meshes/Materials/Fx_T_Ball03",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Ball04",
+   "name": "Effects/Meshes/Materials/Fx_T_Ball04",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_ballon019_01",
+   "name": "Effects/Meshes/Materials/Fx_T_ballon019_01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_ballonwater01",
+   "name": "Effects/Meshes/Materials/Fx_T_ballonwater01",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_ballonwater102",
+   "name": "Effects/Meshes/Materials/Fx_T_ballonwater102",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_ballonwater118",
+   "name": "Effects/Meshes/Materials/Fx_T_ballonwater118",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_ballonwater119",
+   "name": "Effects/Meshes/Materials/Fx_T_ballonwater119",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_balloon",
+   "name": "Effects/Meshes/Materials/Fx_T_balloon",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_bat01",
+   "name": "Effects/Meshes/Materials/Fx_T_bat01",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_bat02",
+   "name": "Effects/Meshes/Materials/Fx_T_bat02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_bat03",
+   "name": "Effects/Meshes/Materials/Fx_T_bat03",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_bat04",
+   "name": "Effects/Meshes/Materials/Fx_T_bat04",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Bee01",
+   "name": "Effects/Meshes/Materials/Fx_T_Bee01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__fx_T_bird01",
+   "name": "Effects/Meshes/Materials/fx_T_bird01",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__fx_T_bird02",
+   "name": "Effects/Meshes/Materials/fx_T_bird02",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__fx_T_block",
+   "name": "Effects/Meshes/Materials/fx_T_block",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Block01",
+   "name": "Effects/Meshes/Materials/Fx_T_Block01",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_boat02",
+   "name": "Effects/Meshes/Materials/Fx_T_boat02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_boat03",
+   "name": "Effects/Meshes/Materials/Fx_T_boat03",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__fx_T_box01",
+   "name": "Effects/Meshes/Materials/fx_T_box01",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Box02",
+   "name": "Effects/Meshes/Materials/Fx_T_Box02",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Box03",
+   "name": "Effects/Meshes/Materials/Fx_T_Box03",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Box05",
+   "name": "Effects/Meshes/Materials/Fx_T_Box05",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_boxlight",
+   "name": "Effects/Meshes/Materials/Fx_T_boxlight",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_BoxLight02",
+   "name": "Effects/Meshes/Materials/Fx_T_BoxLight02",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_BoxLight03",
+   "name": "Effects/Meshes/Materials/Fx_T_BoxLight03",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_boxset001",
+   "name": "Effects/Meshes/Materials/Fx_T_boxset001",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_BreakObject01",
+   "name": "Effects/Meshes/Materials/Fx_T_BreakObject01",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Bubble01",
+   "name": "Effects/Meshes/Materials/Fx_T_Bubble01",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Bubble02",
+   "name": "Effects/Meshes/Materials/Fx_T_Bubble02",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Bubble03",
+   "name": "Effects/Meshes/Materials/Fx_T_Bubble03",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Bubble04",
+   "name": "Effects/Meshes/Materials/Fx_T_Bubble04",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_BubbleB",
+   "name": "Effects/Meshes/Materials/Fx_T_BubbleB",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_BubblePoint01",
+   "name": "Effects/Meshes/Materials/Fx_T_BubblePoint01",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_BubblePoint02",
+   "name": "Effects/Meshes/Materials/Fx_T_BubblePoint02",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_BubblePoint03",
+   "name": "Effects/Meshes/Materials/Fx_T_BubblePoint03",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_BubblePoint04",
+   "name": "Effects/Meshes/Materials/Fx_T_BubblePoint04",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_BubblePoint05",
+   "name": "Effects/Meshes/Materials/Fx_T_BubblePoint05",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_BubbleR",
+   "name": "Effects/Meshes/Materials/Fx_T_BubbleR",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_bug01",
+   "name": "Effects/Meshes/Materials/Fx_T_bug01",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Butterfly01",
+   "name": "Effects/Meshes/Materials/Fx_T_Butterfly01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Butterfly02",
+   "name": "Effects/Meshes/Materials/Fx_T_Butterfly02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Butterfly03",
+   "name": "Effects/Meshes/Materials/Fx_T_Butterfly03",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__fx_T_cadre01",
+   "name": "Effects/Meshes/Materials/fx_T_cadre01",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_card",
+   "name": "Effects/Meshes/Materials/Fx_T_card",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Cardon01",
+   "name": "Effects/Meshes/Materials/Fx_T_Cardon01",
+   "sheet": {
+    "h": 429,
+    "w": 429
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_catfoot01",
+   "name": "Effects/Meshes/Materials/Fx_T_catfoot01",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_cha_get01",
+   "name": "Effects/Meshes/Materials/Fx_T_cha_get01",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_cha_passive01",
+   "name": "Effects/Meshes/Materials/Fx_T_cha_passive01",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_cha_passive02",
+   "name": "Effects/Meshes/Materials/Fx_T_cha_passive02",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_cha_passive03",
+   "name": "Effects/Meshes/Materials/Fx_T_cha_passive03",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_change01",
+   "name": "Effects/Meshes/Materials/Fx_T_change01",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_changeskill01",
+   "name": "Effects/Meshes/Materials/Fx_T_changeskill01",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_changeskill02",
+   "name": "Effects/Meshes/Materials/Fx_T_changeskill02",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_CharacterstatusOn",
+   "name": "Effects/Meshes/Materials/Fx_T_CharacterstatusOn",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_chicken01",
+   "name": "Effects/Meshes/Materials/Fx_T_chicken01",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_chicken02",
+   "name": "Effects/Meshes/Materials/Fx_T_chicken02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Circle01",
+   "name": "Effects/Meshes/Materials/Fx_T_Circle01",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Circle02",
+   "name": "Effects/Meshes/Materials/Fx_T_Circle02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Circle03",
+   "name": "Effects/Meshes/Materials/Fx_T_Circle03",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Circle05",
+   "name": "Effects/Meshes/Materials/Fx_T_Circle05",
+   "sheet": {
+    "h": 99,
+    "w": 99
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Circle06",
+   "name": "Effects/Meshes/Materials/Fx_T_Circle06",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Circle08",
+   "name": "Effects/Meshes/Materials/Fx_T_Circle08",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Circle09",
+   "name": "Effects/Meshes/Materials/Fx_T_Circle09",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Circle10",
+   "name": "Effects/Meshes/Materials/Fx_T_Circle10",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_clam01",
+   "name": "Effects/Meshes/Materials/Fx_T_clam01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_clock01",
+   "name": "Effects/Meshes/Materials/Fx_T_clock01",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Cloud",
+   "name": "Effects/Meshes/Materials/Fx_T_Cloud",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Cloud01",
+   "name": "Effects/Meshes/Materials/Fx_T_Cloud01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Cloud02",
+   "name": "Effects/Meshes/Materials/Fx_T_Cloud02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_cloud03",
+   "name": "Effects/Meshes/Materials/Fx_T_cloud03",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_cloud04",
+   "name": "Effects/Meshes/Materials/Fx_T_cloud04",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_clover01",
+   "name": "Effects/Meshes/Materials/Fx_T_clover01",
+   "sheet": {
+    "h": 29,
+    "w": 29
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_clover02",
+   "name": "Effects/Meshes/Materials/Fx_T_clover02",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_clover04",
+   "name": "Effects/Meshes/Materials/Fx_T_clover04",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_clover05",
+   "name": "Effects/Meshes/Materials/Fx_T_clover05",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_clover06",
+   "name": "Effects/Meshes/Materials/Fx_T_clover06",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_clover07",
+   "name": "Effects/Meshes/Materials/Fx_T_clover07",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_clover08",
+   "name": "Effects/Meshes/Materials/Fx_T_clover08",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_corelab01",
+   "name": "Effects/Meshes/Materials/Fx_T_corelab01",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_costume01",
+   "name": "Effects/Meshes/Materials/Fx_T_costume01",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_costume02",
+   "name": "Effects/Meshes/Materials/Fx_T_costume02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_costume03",
+   "name": "Effects/Meshes/Materials/Fx_T_costume03",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_costume04",
+   "name": "Effects/Meshes/Materials/Fx_T_costume04",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_costume05",
+   "name": "Effects/Meshes/Materials/Fx_T_costume05",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_costume06",
+   "name": "Effects/Meshes/Materials/Fx_T_costume06",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Credits01",
+   "name": "Effects/Meshes/Materials/Fx_T_Credits01",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Credits02",
+   "name": "Effects/Meshes/Materials/Fx_T_Credits02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Credits03",
+   "name": "Effects/Meshes/Materials/Fx_T_Credits03",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Credits04",
+   "name": "Effects/Meshes/Materials/Fx_T_Credits04",
+   "sheet": {
+    "h": 8,
+    "w": 8
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Credits05",
+   "name": "Effects/Meshes/Materials/Fx_T_Credits05",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Credits06",
+   "name": "Effects/Meshes/Materials/Fx_T_Credits06",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Dandelion",
+   "name": "Effects/Meshes/Materials/Fx_T_Dandelion",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_demon01",
+   "name": "Effects/Meshes/Materials/Fx_T_demon01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_demon02",
+   "name": "Effects/Meshes/Materials/Fx_T_demon02",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Desertback01",
+   "name": "Effects/Meshes/Materials/Fx_T_Desertback01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_desertback02",
+   "name": "Effects/Meshes/Materials/Fx_T_desertback02",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_dispel03",
+   "name": "Effects/Meshes/Materials/Fx_T_dispel03",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_dropbody01",
+   "name": "Effects/Meshes/Materials/Fx_T_dropbody01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_duck01",
+   "name": "Effects/Meshes/Materials/Fx_T_duck01",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_dummyboom01",
+   "name": "Effects/Meshes/Materials/Fx_T_dummyboom01",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_dumpling_01",
+   "name": "Effects/Meshes/Materials/Fx_T_dumpling_01",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_dumpling_02",
+   "name": "Effects/Meshes/Materials/Fx_T_dumpling_02",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_dumpling_03",
+   "name": "Effects/Meshes/Materials/Fx_T_dumpling_03",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_dumpling_05",
+   "name": "Effects/Meshes/Materials/Fx_T_dumpling_05",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Dust01",
+   "name": "Effects/Meshes/Materials/Fx_T_Dust01",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_EventShop01",
+   "name": "Effects/Meshes/Materials/Fx_T_EventShop01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_EventShop02",
+   "name": "Effects/Meshes/Materials/Fx_T_EventShop02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_EventShop03",
+   "name": "Effects/Meshes/Materials/Fx_T_EventShop03",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_factory01",
+   "name": "Effects/Meshes/Materials/Fx_T_factory01",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_factory03",
+   "name": "Effects/Meshes/Materials/Fx_T_factory03",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_factory04",
+   "name": "Effects/Meshes/Materials/Fx_T_factory04",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_factory05",
+   "name": "Effects/Meshes/Materials/Fx_T_factory05",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_factory_conveyor01",
+   "name": "Effects/Meshes/Materials/Fx_T_factory_conveyor01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_factory_conveyor02",
+   "name": "Effects/Meshes/Materials/Fx_T_factory_conveyor02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_FactoryFan01",
+   "name": "Effects/Meshes/Materials/Fx_T_FactoryFan01",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_FactoryFan02",
+   "name": "Effects/Meshes/Materials/Fx_T_FactoryFan02",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_FactoryFan03",
+   "name": "Effects/Meshes/Materials/Fx_T_FactoryFan03",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_FactoryFan04",
+   "name": "Effects/Meshes/Materials/Fx_T_FactoryFan04",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_factorysteam01",
+   "name": "Effects/Meshes/Materials/Fx_T_factorysteam01",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_factorysteam02",
+   "name": "Effects/Meshes/Materials/Fx_T_factorysteam02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_factorysteam03",
+   "name": "Effects/Meshes/Materials/Fx_T_factorysteam03",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_factorysteam04",
+   "name": "Effects/Meshes/Materials/Fx_T_factorysteam04",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_factorysteam05",
+   "name": "Effects/Meshes/Materials/Fx_T_factorysteam05",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_factorysteam06",
+   "name": "Effects/Meshes/Materials/Fx_T_factorysteam06",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_feather01",
+   "name": "Effects/Meshes/Materials/Fx_T_feather01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Fire01",
+   "name": "Effects/Meshes/Materials/Fx_T_Fire01",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Fire02",
+   "name": "Effects/Meshes/Materials/Fx_T_Fire02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_firecracker01",
+   "name": "Effects/Meshes/Materials/Fx_T_firecracker01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_firecracker02",
+   "name": "Effects/Meshes/Materials/Fx_T_firecracker02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Firepaticle01",
+   "name": "Effects/Meshes/Materials/Fx_T_Firepaticle01",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Firepaticle02",
+   "name": "Effects/Meshes/Materials/Fx_T_Firepaticle02",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Firepaticle03",
+   "name": "Effects/Meshes/Materials/Fx_T_Firepaticle03",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_fireworks01",
+   "name": "Effects/Meshes/Materials/Fx_T_fireworks01",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_fireworks02",
+   "name": "Effects/Meshes/Materials/Fx_T_fireworks02",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Fish01",
+   "name": "Effects/Meshes/Materials/Fx_T_Fish01",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Fish02",
+   "name": "Effects/Meshes/Materials/Fx_T_Fish02",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Flower01",
+   "name": "Effects/Meshes/Materials/Fx_T_Flower01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Flower02",
+   "name": "Effects/Meshes/Materials/Fx_T_Flower02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Flower03",
+   "name": "Effects/Meshes/Materials/Fx_T_Flower03",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Flower04",
+   "name": "Effects/Meshes/Materials/Fx_T_Flower04",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Flower07",
+   "name": "Effects/Meshes/Materials/Fx_T_Flower07",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_fly01",
+   "name": "Effects/Meshes/Materials/Fx_T_fly01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_focus01",
+   "name": "Effects/Meshes/Materials/Fx_T_focus01",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_focus02",
+   "name": "Effects/Meshes/Materials/Fx_T_focus02",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_focus03",
+   "name": "Effects/Meshes/Materials/Fx_T_focus03",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_freeze02",
+   "name": "Effects/Meshes/Materials/Fx_T_freeze02",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_freeze03",
+   "name": "Effects/Meshes/Materials/Fx_T_freeze03",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_gacha01",
+   "name": "Effects/Meshes/Materials/Fx_T_gacha01",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_gacha02",
+   "name": "Effects/Meshes/Materials/Fx_T_gacha02",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_gas01",
+   "name": "Effects/Meshes/Materials/Fx_T_gas01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_gas04",
+   "name": "Effects/Meshes/Materials/Fx_T_gas04",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_gas05",
+   "name": "Effects/Meshes/Materials/Fx_T_gas05",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_ghost01",
+   "name": "Effects/Meshes/Materials/Fx_T_ghost01",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_ghost02",
+   "name": "Effects/Meshes/Materials/Fx_T_ghost02",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_ghost03",
+   "name": "Effects/Meshes/Materials/Fx_T_ghost03",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_ginseng",
+   "name": "Effects/Meshes/Materials/Fx_T_ginseng",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_ginseng01",
+   "name": "Effects/Meshes/Materials/Fx_T_ginseng01",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_ginseng02",
+   "name": "Effects/Meshes/Materials/Fx_T_ginseng02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Glow_e",
+   "name": "Effects/Meshes/Materials/Fx_T_Glow_e",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Glow_e01",
+   "name": "Effects/Meshes/Materials/Fx_T_Glow_e01",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_goblin",
+   "name": "Effects/Meshes/Materials/Fx_T_goblin",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_gold01",
+   "name": "Effects/Meshes/Materials/Fx_T_gold01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Gra_1_0e1d4999",
+   "name": "Effects/Meshes/Materials/Fx_T_Gra 1",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_hammer01",
+   "name": "Effects/Meshes/Materials/Fx_T_hammer01",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_hammer03",
+   "name": "Effects/Meshes/Materials/Fx_T_hammer03",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_hammer04",
+   "name": "Effects/Meshes/Materials/Fx_T_hammer04",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_hand01",
+   "name": "Effects/Meshes/Materials/Fx_T_hand01",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Hawaiian01",
+   "name": "Effects/Meshes/Materials/Fx_T_Hawaiian01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Hawaiian02",
+   "name": "Effects/Meshes/Materials/Fx_T_Hawaiian02",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Hawaiian03",
+   "name": "Effects/Meshes/Materials/Fx_T_Hawaiian03",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Hawaiian04",
+   "name": "Effects/Meshes/Materials/Fx_T_Hawaiian04",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Hawaiian05",
+   "name": "Effects/Meshes/Materials/Fx_T_Hawaiian05",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_hippo01",
+   "name": "Effects/Meshes/Materials/Fx_T_hippo01",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_hippo02",
+   "name": "Effects/Meshes/Materials/Fx_T_hippo02",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_hippo03",
+   "name": "Effects/Meshes/Materials/Fx_T_hippo03",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_hippo04",
+   "name": "Effects/Meshes/Materials/Fx_T_hippo04",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_hippo05",
+   "name": "Effects/Meshes/Materials/Fx_T_hippo05",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_hippo07",
+   "name": "Effects/Meshes/Materials/Fx_T_hippo07",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_hippo08",
+   "name": "Effects/Meshes/Materials/Fx_T_hippo08",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_hippo09",
+   "name": "Effects/Meshes/Materials/Fx_T_hippo09",
+   "sheet": {
+    "h": 384,
+    "w": 384
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_hippo10",
+   "name": "Effects/Meshes/Materials/Fx_T_hippo10",
+   "sheet": {
+    "h": 384,
+    "w": 384
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Honeybee01",
+   "name": "Effects/Meshes/Materials/Fx_T_Honeybee01",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Honor01",
+   "name": "Effects/Meshes/Materials/Fx_T_Honor01",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Ingameprogress",
+   "name": "Effects/Meshes/Materials/Fx_T_Ingameprogress",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Invite01",
+   "name": "Effects/Meshes/Materials/Fx_T_Invite01",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_jewel01",
+   "name": "Effects/Meshes/Materials/Fx_T_jewel01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_knife01",
+   "name": "Effects/Meshes/Materials/Fx_T_knife01",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_knife02",
+   "name": "Effects/Meshes/Materials/Fx_T_knife02",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_knife03",
+   "name": "Effects/Meshes/Materials/Fx_T_knife03",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_knife05",
+   "name": "Effects/Meshes/Materials/Fx_T_knife05",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_knife06",
+   "name": "Effects/Meshes/Materials/Fx_T_knife06",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Ladder01",
+   "name": "Effects/Meshes/Materials/Fx_T_Ladder01",
+   "sheet": {
+    "h": 16,
+    "w": 16
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Laddercrown01",
+   "name": "Effects/Meshes/Materials/Fx_T_Laddercrown01",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_LandBreak",
+   "name": "Effects/Meshes/Materials/Fx_T_LandBreak",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_landcircle01",
+   "name": "Effects/Meshes/Materials/Fx_T_landcircle01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_landSmoke01",
+   "name": "Effects/Meshes/Materials/Fx_T_landSmoke01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Lantern",
+   "name": "Effects/Meshes/Materials/Fx_T_Lantern",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Leaf01",
+   "name": "Effects/Meshes/Materials/Fx_T_Leaf01",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Leaf02",
+   "name": "Effects/Meshes/Materials/Fx_T_Leaf02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Leaf03",
+   "name": "Effects/Meshes/Materials/Fx_T_Leaf03",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Leaf04",
+   "name": "Effects/Meshes/Materials/Fx_T_Leaf04",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Leaf05",
+   "name": "Effects/Meshes/Materials/Fx_T_Leaf05",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Leaf06",
+   "name": "Effects/Meshes/Materials/Fx_T_Leaf06",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Leaf07",
+   "name": "Effects/Meshes/Materials/Fx_T_Leaf07",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Levelupprogress",
+   "name": "Effects/Meshes/Materials/Fx_T_Levelupprogress",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__FX_T_Light01",
+   "name": "Effects/Meshes/Materials/FX_T_Light01",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_light02",
+   "name": "Effects/Meshes/Materials/Fx_T_light02",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_light03",
+   "name": "Effects/Meshes/Materials/Fx_T_light03",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_light04",
+   "name": "Effects/Meshes/Materials/Fx_T_light04",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_light05",
+   "name": "Effects/Meshes/Materials/Fx_T_light05",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_light07",
+   "name": "Effects/Meshes/Materials/Fx_T_light07",
+   "sheet": {
+    "h": 113,
+    "w": 104
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_light08",
+   "name": "Effects/Meshes/Materials/Fx_T_light08",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_light09",
+   "name": "Effects/Meshes/Materials/Fx_T_light09",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_light10",
+   "name": "Effects/Meshes/Materials/Fx_T_light10",
+   "sheet": {
+    "h": 154,
+    "w": 392
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_light10_2",
+   "name": "Effects/Meshes/Materials/Fx_T_light10_2",
+   "sheet": {
+    "h": 166,
+    "w": 404
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_light11",
+   "name": "Effects/Meshes/Materials/Fx_T_light11",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Lighting01",
+   "name": "Effects/Meshes/Materials/Fx_T_Lighting01",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Lightingparticle",
+   "name": "Effects/Meshes/Materials/Fx_T_Lightingparticle",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_LightWave01",
+   "name": "Effects/Meshes/Materials/Fx_T_LightWave01",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_LightWave02",
+   "name": "Effects/Meshes/Materials/Fx_T_LightWave02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Lobbyfireworks02",
+   "name": "Effects/Meshes/Materials/Fx_T_Lobbyfireworks02",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Lobbywater01",
+   "name": "Effects/Meshes/Materials/Fx_T_Lobbywater01",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Love",
+   "name": "Effects/Meshes/Materials/Fx_T_Love",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Love01",
+   "name": "Effects/Meshes/Materials/Fx_T_Love01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Magnet",
+   "name": "Effects/Meshes/Materials/Fx_T_Magnet",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Magnet01",
+   "name": "Effects/Meshes/Materials/Fx_T_Magnet01",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Magnet02",
+   "name": "Effects/Meshes/Materials/Fx_T_Magnet02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_mandu01",
+   "name": "Effects/Meshes/Materials/Fx_T_mandu01",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_mandu02",
+   "name": "Effects/Meshes/Materials/Fx_T_mandu02",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_MatchPopup",
+   "name": "Effects/Meshes/Materials/Fx_T_MatchPopup",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_MatchPopup02",
+   "name": "Effects/Meshes/Materials/Fx_T_MatchPopup02",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Monster_01",
+   "name": "Effects/Meshes/Materials/Fx_T_Monster_01",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Monster_02",
+   "name": "Effects/Meshes/Materials/Fx_T_Monster_02",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_multidart01",
+   "name": "Effects/Meshes/Materials/Fx_T_multidart01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_multidart02",
+   "name": "Effects/Meshes/Materials/Fx_T_multidart02",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Mytile",
+   "name": "Effects/Meshes/Materials/Fx_T_Mytile",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Mytile01",
+   "name": "Effects/Meshes/Materials/Fx_T_Mytile01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_needle",
+   "name": "Effects/Meshes/Materials/Fx_T_needle",
+   "sheet": {
+    "h": 108,
+    "w": 98
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Note01",
+   "name": "Effects/Meshes/Materials/Fx_T_Note01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Note02",
+   "name": "Effects/Meshes/Materials/Fx_T_Note02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_octopus03",
+   "name": "Effects/Meshes/Materials/Fx_T_octopus03",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_octopusink",
+   "name": "Effects/Meshes/Materials/Fx_T_octopusink",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_openslot01",
+   "name": "Effects/Meshes/Materials/Fx_T_openslot01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_openslot03",
+   "name": "Effects/Meshes/Materials/Fx_T_openslot03",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_openslot04",
+   "name": "Effects/Meshes/Materials/Fx_T_openslot04",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_openslot05",
+   "name": "Effects/Meshes/Materials/Fx_T_openslot05",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_openslot06",
+   "name": "Effects/Meshes/Materials/Fx_T_openslot06",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_ostrich01",
+   "name": "Effects/Meshes/Materials/Fx_T_ostrich01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_ostrich02",
+   "name": "Effects/Meshes/Materials/Fx_T_ostrich02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_ostrich03",
+   "name": "Effects/Meshes/Materials/Fx_T_ostrich03",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_paddle01",
+   "name": "Effects/Meshes/Materials/Fx_T_paddle01",
+   "sheet": {
+    "h": 512,
+    "w": 768
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_partner01",
+   "name": "Effects/Meshes/Materials/Fx_T_partner01",
+   "sheet": {
+    "h": 768,
+    "w": 768
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_partner02",
+   "name": "Effects/Meshes/Materials/Fx_T_partner02",
+   "sheet": {
+    "h": 768,
+    "w": 768
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_partner04",
+   "name": "Effects/Meshes/Materials/Fx_T_partner04",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_partner07",
+   "name": "Effects/Meshes/Materials/Fx_T_partner07",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Paticle01",
+   "name": "Effects/Meshes/Materials/Fx_T_Paticle01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Paticle02",
+   "name": "Effects/Meshes/Materials/Fx_T_Paticle02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Pet03",
+   "name": "Effects/Meshes/Materials/Fx_T_Pet03",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Pet04",
+   "name": "Effects/Meshes/Materials/Fx_T_Pet04",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Plus01",
+   "name": "Effects/Meshes/Materials/Fx_T_Plus01",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_potal03",
+   "name": "Effects/Meshes/Materials/Fx_T_potal03",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_progressbar01",
+   "name": "Effects/Meshes/Materials/Fx_T_progressbar01",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_question",
+   "name": "Effects/Meshes/Materials/Fx_T_question",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_rain01",
+   "name": "Effects/Meshes/Materials/Fx_T_rain01",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_rain02",
+   "name": "Effects/Meshes/Materials/Fx_T_rain02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Rainbow01",
+   "name": "Effects/Meshes/Materials/Fx_T_Rainbow01",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_rainbow02",
+   "name": "Effects/Meshes/Materials/Fx_T_rainbow02",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Rainbow03",
+   "name": "Effects/Meshes/Materials/Fx_T_Rainbow03",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_raincloud01",
+   "name": "Effects/Meshes/Materials/Fx_T_raincloud01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_raincloud02",
+   "name": "Effects/Meshes/Materials/Fx_T_raincloud02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_raincloud03",
+   "name": "Effects/Meshes/Materials/Fx_T_raincloud03",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_raincloud04",
+   "name": "Effects/Meshes/Materials/Fx_T_raincloud04",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_raincloud06",
+   "name": "Effects/Meshes/Materials/Fx_T_raincloud06",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_raincloud07",
+   "name": "Effects/Meshes/Materials/Fx_T_raincloud07",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_raincloud08",
+   "name": "Effects/Meshes/Materials/Fx_T_raincloud08",
+   "sheet": {
+    "h": 384,
+    "w": 384
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_ready01",
+   "name": "Effects/Meshes/Materials/Fx_T_ready01",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_RewardBox01",
+   "name": "Effects/Meshes/Materials/Fx_T_RewardBox01",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_ring01",
+   "name": "Effects/Meshes/Materials/Fx_T_ring01",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_scuba01",
+   "name": "Effects/Meshes/Materials/Fx_T_scuba01",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_scuba03",
+   "name": "Effects/Meshes/Materials/Fx_T_scuba03",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_scuba04",
+   "name": "Effects/Meshes/Materials/Fx_T_scuba04",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Shield01",
+   "name": "Effects/Meshes/Materials/Fx_T_Shield01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_shock01",
+   "name": "Effects/Meshes/Materials/Fx_T_shock01",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_shock02",
+   "name": "Effects/Meshes/Materials/Fx_T_shock02",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Shockwave01",
+   "name": "Effects/Meshes/Materials/Fx_T_Shockwave01",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Shockwave02",
+   "name": "Effects/Meshes/Materials/Fx_T_Shockwave02",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Shockwave03",
+   "name": "Effects/Meshes/Materials/Fx_T_Shockwave03",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Shockwave04",
+   "name": "Effects/Meshes/Materials/Fx_T_Shockwave04",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Shockwave05",
+   "name": "Effects/Meshes/Materials/Fx_T_Shockwave05",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Shoe",
+   "name": "Effects/Meshes/Materials/Fx_T_Shoe",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_shower01",
+   "name": "Effects/Meshes/Materials/Fx_T_shower01",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_silence01",
+   "name": "Effects/Meshes/Materials/Fx_T_silence01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_silence02",
+   "name": "Effects/Meshes/Materials/Fx_T_silence02",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_silence03",
+   "name": "Effects/Meshes/Materials/Fx_T_silence03",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_silenceui02",
+   "name": "Effects/Meshes/Materials/Fx_T_silenceui02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_siren",
+   "name": "Effects/Meshes/Materials/Fx_T_siren",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_sleeping01",
+   "name": "Effects/Meshes/Materials/Fx_T_sleeping01",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_smoke03",
+   "name": "Effects/Meshes/Materials/Fx_T_smoke03",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_smoke04",
+   "name": "Effects/Meshes/Materials/Fx_T_smoke04",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_smoke05",
+   "name": "Effects/Meshes/Materials/Fx_T_smoke05",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_smoke06",
+   "name": "Effects/Meshes/Materials/Fx_T_smoke06",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_smoke08",
+   "name": "Effects/Meshes/Materials/Fx_T_smoke08",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_smoke09",
+   "name": "Effects/Meshes/Materials/Fx_T_smoke09",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_smokeskill01",
+   "name": "Effects/Meshes/Materials/Fx_T_smokeskill01",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_smokeskill02",
+   "name": "Effects/Meshes/Materials/Fx_T_smokeskill02",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_smokeskill03",
+   "name": "Effects/Meshes/Materials/Fx_T_smokeskill03",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Snow01",
+   "name": "Effects/Meshes/Materials/Fx_T_Snow01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Snow02",
+   "name": "Effects/Meshes/Materials/Fx_T_Snow02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Snow03",
+   "name": "Effects/Meshes/Materials/Fx_T_Snow03",
+   "sheet": {
+    "h": 16,
+    "w": 16
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Snowglass",
+   "name": "Effects/Meshes/Materials/Fx_T_Snowglass",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Spark01",
+   "name": "Effects/Meshes/Materials/Fx_T_Spark01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_spotlight01",
+   "name": "Effects/Meshes/Materials/Fx_T_spotlight01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_spotlight02",
+   "name": "Effects/Meshes/Materials/Fx_T_spotlight02",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_spotlight03",
+   "name": "Effects/Meshes/Materials/Fx_T_spotlight03",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_square01",
+   "name": "Effects/Meshes/Materials/Fx_T_square01",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_star01",
+   "name": "Effects/Meshes/Materials/Fx_T_star01",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_star02",
+   "name": "Effects/Meshes/Materials/Fx_T_star02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_star03",
+   "name": "Effects/Meshes/Materials/Fx_T_star03",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_star05",
+   "name": "Effects/Meshes/Materials/Fx_T_star05",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_star06",
+   "name": "Effects/Meshes/Materials/Fx_T_star06",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_star07",
+   "name": "Effects/Meshes/Materials/Fx_T_star07",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_star10",
+   "name": "Effects/Meshes/Materials/Fx_T_star10",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_star11",
+   "name": "Effects/Meshes/Materials/Fx_T_star11",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_star13",
+   "name": "Effects/Meshes/Materials/Fx_T_star13",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Star14",
+   "name": "Effects/Meshes/Materials/Fx_T_Star14",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Star15",
+   "name": "Effects/Meshes/Materials/Fx_T_Star15",
+   "sheet": {
+    "h": 24,
+    "w": 24
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_starbubble",
+   "name": "Effects/Meshes/Materials/Fx_T_starbubble",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_starCircle",
+   "name": "Effects/Meshes/Materials/Fx_T_starCircle",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_start01",
+   "name": "Effects/Meshes/Materials/Fx_T_start01",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Startfocus02",
+   "name": "Effects/Meshes/Materials/Fx_T_Startfocus02",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Startfocus03",
+   "name": "Effects/Meshes/Materials/Fx_T_Startfocus03",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Startfocus04",
+   "name": "Effects/Meshes/Materials/Fx_T_Startfocus04",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Startfocus05",
+   "name": "Effects/Meshes/Materials/Fx_T_Startfocus05",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_steam",
+   "name": "Effects/Meshes/Materials/Fx_T_steam",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_sTimeb",
+   "name": "Effects/Meshes/Materials/Fx_T_sTimeb",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_sTimes",
+   "name": "Effects/Meshes/Materials/Fx_T_sTimes",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Stone01",
+   "name": "Effects/Meshes/Materials/Fx_T_Stone01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_sun01",
+   "name": "Effects/Meshes/Materials/Fx_T_sun01",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Super_remote01",
+   "name": "Effects/Meshes/Materials/Fx_T_Super_remote01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_SuperOn02",
+   "name": "Effects/Meshes/Materials/Fx_T_SuperOn02",
+   "sheet": {
+    "h": 338,
+    "w": 338
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_SuperOn03",
+   "name": "Effects/Meshes/Materials/Fx_T_SuperOn03",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_SuperOn04",
+   "name": "Effects/Meshes/Materials/Fx_T_SuperOn04",
+   "sheet": {
+    "h": 256,
+    "w": 384
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_SuperOn05",
+   "name": "Effects/Meshes/Materials/Fx_T_SuperOn05",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_survive_2_d0fab01f",
+   "name": "Effects/Meshes/Materials/Fx_T_survive 2",
+   "sheet": {
+    "h": 32,
+    "w": 57
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_survive_3_7df68e41",
+   "name": "Effects/Meshes/Materials/Fx_T_survive 3",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_survive_4_d941b6a8",
+   "name": "Effects/Meshes/Materials/Fx_T_survive 4",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_survive_5_744219e9",
+   "name": "Effects/Meshes/Materials/Fx_T_survive 5",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_survive_6_a5b74a07",
+   "name": "Effects/Meshes/Materials/Fx_T_survive 6",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_survive_8_431f6f59",
+   "name": "Effects/Meshes/Materials/Fx_T_survive 8",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_survive_9_637fee59",
+   "name": "Effects/Meshes/Materials/Fx_T_survive 9",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Teamdispel01",
+   "name": "Effects/Meshes/Materials/Fx_T_Teamdispel01",
+   "sheet": {
+    "h": 108,
+    "w": 98
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Teamneedle",
+   "name": "Effects/Meshes/Materials/Fx_T_Teamneedle",
+   "sheet": {
+    "h": 108,
+    "w": 98
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Teamshield01",
+   "name": "Effects/Meshes/Materials/Fx_T_Teamshield01",
+   "sheet": {
+    "h": 108,
+    "w": 98
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Texttest",
+   "name": "Effects/Meshes/Materials/Fx_T_Texttest",
+   "sheet": {
+    "h": 84,
+    "w": 173
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Thunder",
+   "name": "Effects/Meshes/Materials/Fx_T_Thunder",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Timeb",
+   "name": "Effects/Meshes/Materials/Fx_T_Timeb",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Times",
+   "name": "Effects/Meshes/Materials/Fx_T_Times",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_TimeWarning01",
+   "name": "Effects/Meshes/Materials/Fx_T_TimeWarning01",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_TimeWarning02",
+   "name": "Effects/Meshes/Materials/Fx_T_TimeWarning02",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_TimeWarning03",
+   "name": "Effects/Meshes/Materials/Fx_T_TimeWarning03",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_toad01",
+   "name": "Effects/Meshes/Materials/Fx_T_toad01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_toad04",
+   "name": "Effects/Meshes/Materials/Fx_T_toad04",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_trap",
+   "name": "Effects/Meshes/Materials/Fx_T_trap",
+   "sheet": {
+    "h": 98,
+    "w": 196
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__FX_T_trap01",
+   "name": "Effects/Meshes/Materials/FX_T_trap01",
+   "sheet": {
+    "h": 180,
+    "w": 200
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_TreeLight",
+   "name": "Effects/Meshes/Materials/Fx_T_TreeLight",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_tumbleweed",
+   "name": "Effects/Meshes/Materials/Fx_T_tumbleweed",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Tutorial_star",
+   "name": "Effects/Meshes/Materials/Fx_T_Tutorial_star",
+   "sheet": {
+    "h": 58,
+    "w": 60
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Ui_Coreback",
+   "name": "Effects/Meshes/Materials/Fx_T_Ui_Coreback",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Ui_Coreupgrade01",
+   "name": "Effects/Meshes/Materials/Fx_T_Ui_Coreupgrade01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Ui_Coreupgrade02",
+   "name": "Effects/Meshes/Materials/Fx_T_Ui_Coreupgrade02",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Ui_Coreupgrade03",
+   "name": "Effects/Meshes/Materials/Fx_T_Ui_Coreupgrade03",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Ui_Coreupgrade04",
+   "name": "Effects/Meshes/Materials/Fx_T_Ui_Coreupgrade04",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Ui_Skill01",
+   "name": "Effects/Meshes/Materials/Fx_T_Ui_Skill01",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Ui_Skill02",
+   "name": "Effects/Meshes/Materials/Fx_T_Ui_Skill02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_volcano01",
+   "name": "Effects/Meshes/Materials/Fx_T_volcano01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Watch01",
+   "name": "Effects/Meshes/Materials/Fx_T_Watch01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Watch02",
+   "name": "Effects/Meshes/Materials/Fx_T_Watch02",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Watch03",
+   "name": "Effects/Meshes/Materials/Fx_T_Watch03",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Watch04",
+   "name": "Effects/Meshes/Materials/Fx_T_Watch04",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Watch05",
+   "name": "Effects/Meshes/Materials/Fx_T_Watch05",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Watch06",
+   "name": "Effects/Meshes/Materials/Fx_T_Watch06",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Watch07",
+   "name": "Effects/Meshes/Materials/Fx_T_Watch07",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Watch08",
+   "name": "Effects/Meshes/Materials/Fx_T_Watch08",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Waterall",
+   "name": "Effects/Meshes/Materials/Fx_T_Waterall",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_WaterBall02",
+   "name": "Effects/Meshes/Materials/Fx_T_WaterBall02",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_WaterBallBreak",
+   "name": "Effects/Meshes/Materials/Fx_T_WaterBallBreak",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_WaterBallIn",
+   "name": "Effects/Meshes/Materials/Fx_T_WaterBallIn",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_WaterBreak",
+   "name": "Effects/Meshes/Materials/Fx_T_WaterBreak",
+   "sheet": {
+    "h": 256,
+    "w": 384
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_WaterBreak01",
+   "name": "Effects/Meshes/Materials/Fx_T_WaterBreak01",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_watercenterBack",
+   "name": "Effects/Meshes/Materials/Fx_T_watercenterBack",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_watermove",
+   "name": "Effects/Meshes/Materials/Fx_T_watermove",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_waterout",
+   "name": "Effects/Meshes/Materials/Fx_T_waterout",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_waterpan",
+   "name": "Effects/Meshes/Materials/Fx_T_waterpan",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_WaterUp",
+   "name": "Effects/Meshes/Materials/Fx_T_WaterUp",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_waterup01",
+   "name": "Effects/Meshes/Materials/Fx_T_waterup01",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_Watervolcano01",
+   "name": "Effects/Meshes/Materials/Fx_T_Watervolcano01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__FX_T_Watervolcano02",
+   "name": "Effects/Meshes/Materials/FX_T_Watervolcano02",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__FX_T_Watervolcano03",
+   "name": "Effects/Meshes/Materials/FX_T_Watervolcano03",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__FX_T_Watervolcano04",
+   "name": "Effects/Meshes/Materials/FX_T_Watervolcano04",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__FX_T_Watervolcano05",
+   "name": "Effects/Meshes/Materials/FX_T_Watervolcano05",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__FX_T_Watervolcano06",
+   "name": "Effects/Meshes/Materials/FX_T_Watervolcano06",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__FX_T_Watervolcano09",
+   "name": "Effects/Meshes/Materials/FX_T_Watervolcano09",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__FX_T_Watervolcano10",
+   "name": "Effects/Meshes/Materials/FX_T_Watervolcano10",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__fx_T_waterVolcano12",
+   "name": "Effects/Meshes/Materials/fx_T_waterVolcano12",
+   "sheet": {
+    "h": 80,
+    "w": 80
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__FX_T_Wave01",
+   "name": "Effects/Meshes/Materials/FX_T_Wave01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_wavewater02",
+   "name": "Effects/Meshes/Materials/Fx_T_wavewater02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_wavewater03",
+   "name": "Effects/Meshes/Materials/Fx_T_wavewater03",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_wavewater04",
+   "name": "Effects/Meshes/Materials/Fx_T_wavewater04",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_wavewater08",
+   "name": "Effects/Meshes/Materials/Fx_T_wavewater08",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_wavewater11",
+   "name": "Effects/Meshes/Materials/Fx_T_wavewater11",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_wavewater12",
+   "name": "Effects/Meshes/Materials/Fx_T_wavewater12",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_wavewater13",
+   "name": "Effects/Meshes/Materials/Fx_T_wavewater13",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_wavewater14",
+   "name": "Effects/Meshes/Materials/Fx_T_wavewater14",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_wavewater16",
+   "name": "Effects/Meshes/Materials/Fx_T_wavewater16",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_wavewater17",
+   "name": "Effects/Meshes/Materials/Fx_T_wavewater17",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_wavewater18",
+   "name": "Effects/Meshes/Materials/Fx_T_wavewater18",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_wavewater19",
+   "name": "Effects/Meshes/Materials/Fx_T_wavewater19",
+   "sheet": {
+    "h": 512,
+    "w": 768
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_whalewater",
+   "name": "Effects/Meshes/Materials/Fx_T_whalewater",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_wing01",
+   "name": "Effects/Meshes/Materials/Fx_T_wing01",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_zombiespawn02",
+   "name": "Effects/Meshes/Materials/Fx_T_zombiespawn02",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_zsmoke11",
+   "name": "Effects/Meshes/Materials/Fx_T_zsmoke11",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__Fx_T_zsmoke12",
+   "name": "Effects/Meshes/Materials/Fx_T_zsmoke12",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__hammer",
+   "name": "Effects/Meshes/Materials/hammer",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__shark",
+   "name": "Effects/Meshes/Materials/shark",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__smokemask",
+   "name": "Effects/Meshes/Materials/smokemask",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__survive01",
+   "name": "Effects/Meshes/Materials/survive01",
+   "sheet": {
+    "h": 32,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__survive02_02",
+   "name": "Effects/Meshes/Materials/survive02_02",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__survive02_03",
+   "name": "Effects/Meshes/Materials/survive02_03",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__Meshes__Materials__survive02_04",
+   "name": "Effects/Meshes/Materials/survive02_04",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__water_fly",
+   "name": "Effects/water_fly",
+   "sheet": {
+    "h": 42,
+    "w": 42
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__water_fly_house",
+   "name": "Effects/water_fly_house",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__water_fly_line",
+   "name": "Effects/water_fly_line",
+   "sheet": {
+    "h": 250,
+    "w": 20
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Effects__water_fly_wing",
+   "name": "Effects/water_fly_wing",
+   "sheet": {
+    "h": 49,
+    "w": 50
+   }
+  }
+ ],
+ "game": "bnb-mobile",
+ "group": "050_effect",
+ "schema": "boomhill-open-assets/index/v1",
+ "title": "효과"
+}

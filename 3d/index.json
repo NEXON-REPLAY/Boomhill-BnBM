@@ -1,0 +1,56 @@
+{
+ "categories": [
+  {
+   "bytes": 458839,
+   "count": 11,
+   "dir": "010_character",
+   "id": "3d_character",
+   "list": "010_character/index.json",
+   "title": "캐릭터"
+  },
+  {
+   "bytes": 9327096,
+   "count": 221,
+   "dir": "020_costume",
+   "id": "3d_costume",
+   "list": "020_costume/index.json",
+   "title": "코스튬"
+  },
+  {
+   "bytes": 278381,
+   "count": 10,
+   "dir": "030_vehicle",
+   "id": "3d_vehicle",
+   "list": "030_vehicle/index.json",
+   "title": "탈것"
+  },
+  {
+   "bytes": 185853,
+   "count": 10,
+   "dir": "040_pet",
+   "id": "3d_pet",
+   "list": "040_pet/index.json",
+   "title": "펫"
+  },
+  {
+   "bytes": 869658,
+   "count": 40,
+   "dir": "050_monster",
+   "id": "3d_monster",
+   "list": "050_monster/index.json",
+   "title": "몬스터"
+  },
+  {
+   "bytes": 5308690,
+   "count": 528,
+   "dir": "060_accessory",
+   "id": "3d_accessory",
+   "list": "060_accessory/index.json",
+   "title": "액세서리"
+  }
+ ],
+ "game": "bnb-mobile",
+ "plugin": null,
+ "render": {},
+ "schema": "boomhill-open-assets/models/v1"
+}

@@ -1,0 +1,184 @@
+{
+ "category": "3d_character",
+ "game": "bnb-mobile",
+ "items": [
+  {
+   "bytes": 36608,
+   "file": "010_character/bazzi.glb",
+   "id": "bazzi",
+   "label": "배찌",
+   "name": "bazzi",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 128,
+    "bones": 30,
+    "textures": 3,
+    "triangles": 1218,
+    "vertices": 915
+   },
+   "thumb": "010_character/bazzi.webp"
+  },
+  {
+   "bytes": 32500,
+   "file": "010_character/bruce.glb",
+   "id": "bruce",
+   "label": "브루스",
+   "name": "bruce",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 96,
+    "bones": 29,
+    "textures": 3,
+    "triangles": 978,
+    "vertices": 743
+   },
+   "thumb": "010_character/bruce.webp"
+  },
+  {
+   "bytes": 37796,
+   "file": "010_character/danky.glb",
+   "id": "danky",
+   "label": "댕키",
+   "name": "danky",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 100,
+    "bones": 34,
+    "textures": 3,
+    "triangles": 1204,
+    "vertices": 918
+   },
+   "thumb": "010_character/danky.webp"
+  },
+  {
+   "bytes": 32516,
+   "file": "010_character/dao.glb",
+   "id": "dao",
+   "label": "다오",
+   "name": "dao",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 109,
+    "bones": 28,
+    "textures": 3,
+    "triangles": 1180,
+    "vertices": 920
+   },
+   "thumb": "010_character/dao.webp"
+  },
+  {
+   "bytes": 35276,
+   "file": "010_character/dizni.glb",
+   "id": "dizni",
+   "label": "디지니",
+   "name": "dizni",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 108,
+    "bones": 31,
+    "textures": 3,
+    "triangles": 1186,
+    "vertices": 913
+   },
+   "thumb": "010_character/dizni.webp"
+  },
+  {
+   "bytes": 41160,
+   "file": "010_character/kephi.glb",
+   "id": "kephi",
+   "label": "케피",
+   "name": "kephi",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 88,
+    "bones": 33,
+    "textures": 3,
+    "triangles": 1488,
+    "vertices": 1007
+   },
+   "thumb": "010_character/kephi.webp"
+  },
+  {
+   "bytes": 42956,
+   "file": "010_character/lodumani.glb",
+   "id": "lodumani",
+   "label": "로두마니",
+   "name": "lodumani",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 57,
+    "bones": 37,
+    "textures": 3,
+    "triangles": 1572,
+    "vertices": 1378
+   },
+   "thumb": "010_character/lodumani.webp"
+  },
+  {
+   "bytes": 35612,
+   "file": "010_character/marid.glb",
+   "id": "marid",
+   "label": "마리드",
+   "name": "marid",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 110,
+    "bones": 30,
+    "textures": 3,
+    "triangles": 1138,
+    "vertices": 944
+   },
+   "thumb": "010_character/marid.webp"
+  },
+  {
+   "bytes": 47712,
+   "file": "010_character/su.glb",
+   "id": "su",
+   "label": "수",
+   "name": "su",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 83,
+    "bones": 43,
+    "textures": 3,
+    "triangles": 1638,
+    "vertices": 1416
+   },
+   "thumb": "010_character/su.webp"
+  },
+  {
+   "bytes": 36012,
+   "file": "010_character/uni.glb",
+   "id": "uni",
+   "label": "우니",
+   "name": "uni",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 100,
+    "bones": 27,
+    "textures": 3,
+    "triangles": 1272,
+    "vertices": 1053
+   },
+   "thumb": "010_character/uni.webp"
+  },
+  {
+   "bytes": 40360,
+   "file": "010_character/zombie.glb",
+   "id": "zombie",
+   "label": "좀비 모드",
+   "name": "zombie",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 5,
+    "bones": 30,
+    "textures": 3,
+    "triangles": 1354,
+    "vertices": 1031
+   },
+   "thumb": "010_character/zombie.webp"
+  }
+ ],
+ "schema": "boomhill-open-assets/model-list/v1",
+ "title": "캐릭터"
+}

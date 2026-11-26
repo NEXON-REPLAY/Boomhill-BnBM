@@ -1,0 +1,49 @@
+{
+ "about": "모바일(Unity) 물풍선 액션 게임 크레이지아케이드 BnB M의 2D 이미지와 3D 모델: UI, 아이템 아이콘, 맵, 몬스터 모드, 효과, 캐릭터, 코스튬, 탈것, 펫, 몬스터, 액세서리.",
+ "game": "bnb-mobile",
+ "groups": [
+  {
+   "bytes": 73712735,
+   "count": 2198,
+   "frames": 2198,
+   "id": "010_ui",
+   "title": "UI"
+  },
+  {
+   "bytes": 15163030,
+   "count": 1643,
+   "frames": 1643,
+   "id": "020_icon",
+   "title": "아이콘"
+  },
+  {
+   "bytes": 24007576,
+   "count": 835,
+   "frames": 835,
+   "id": "030_map",
+   "title": "맵"
+  },
+  {
+   "bytes": 10445839,
+   "count": 419,
+   "frames": 419,
+   "id": "040_monster",
+   "title": "몬스터 모드"
+  },
+  {
+   "bytes": 7797377,
+   "count": 477,
+   "frames": 477,
+   "id": "050_effect",
+   "title": "효과"
+  }
+ ],
+ "schema": "boomhill-open-assets/game/v1",
+ "source_kind": "모바일 클라이언트(Unity)의 UI, 아이콘, 맵, 몬스터 모드, 효과 그림(PNG, TGA)",
+ "title": "크레이지아케이드 BnB M",
+ "title_en": "Crazy Arcade BnB M",
+ "totals": {
+  "assets": 5572,
+  "frames": 5572
+ }
+}

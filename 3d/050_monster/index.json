@@ -1,0 +1,648 @@
+{
+ "category": "3d_monster",
+ "game": "bnb-mobile",
+ "items": [
+  {
+   "bytes": 22648,
+   "file": "050_monster/20001.glb",
+   "id": "20001",
+   "label": "감귤이",
+   "name": "20001",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 7,
+    "bones": 13,
+    "textures": 2,
+    "triangles": 696,
+    "vertices": 516
+   },
+   "thumb": "050_monster/20001.webp"
+  },
+  {
+   "bytes": 16444,
+   "file": "050_monster/20002.glb",
+   "id": "20002",
+   "label": "꼬물이",
+   "name": "20002",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 10,
+    "bones": 10,
+    "textures": 2,
+    "triangles": 664,
+    "vertices": 434
+   },
+   "thumb": "050_monster/20002.webp"
+  },
+  {
+   "bytes": 26008,
+   "file": "050_monster/20003.glb",
+   "id": "20003",
+   "label": "까칠이",
+   "name": "20003",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 7,
+    "bones": 14,
+    "textures": 2,
+    "triangles": 898,
+    "vertices": 644
+   },
+   "thumb": "050_monster/20003.webp"
+  },
+  {
+   "bytes": 16664,
+   "file": "050_monster/20004.glb",
+   "id": "20004",
+   "label": "말벌",
+   "name": "20004",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 8,
+    "bones": 12,
+    "textures": 2,
+    "triangles": 234,
+    "vertices": 236
+   },
+   "thumb": "050_monster/20004.webp"
+  },
+  {
+   "bytes": 12900,
+   "file": "050_monster/20005.glb",
+   "id": "20005",
+   "label": "검은박쥐",
+   "name": "20005",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 11,
+    "bones": 12,
+    "textures": 1,
+    "triangles": 96,
+    "vertices": 92
+   },
+   "thumb": "050_monster/20005.webp"
+  },
+  {
+   "bytes": 12316,
+   "file": "050_monster/20006.glb",
+   "id": "20006",
+   "label": "붉은박쥐",
+   "name": "20006",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 5,
+    "bones": 13,
+    "textures": 1,
+    "triangles": 96,
+    "vertices": 92
+   },
+   "thumb": "050_monster/20006.webp"
+  },
+  {
+   "bytes": 22552,
+   "file": "050_monster/20007.glb",
+   "id": "20007",
+   "label": "딱쿵이",
+   "name": "20007",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 7,
+    "bones": 13,
+    "textures": 2,
+    "triangles": 432,
+    "vertices": 515
+   },
+   "thumb": "050_monster/20007.webp"
+  },
+  {
+   "bytes": 17196,
+   "file": "050_monster/20008.glb",
+   "id": "20008",
+   "label": "최상급아이돌",
+   "name": "20008",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 7,
+    "bones": 12,
+    "textures": 2,
+    "triangles": 160,
+    "vertices": 221
+   },
+   "thumb": "050_monster/20008.webp"
+  },
+  {
+   "bytes": 9576,
+   "file": "050_monster/20009.glb",
+   "id": "20009",
+   "label": "상급아이돌",
+   "name": "20009",
+   "stats": {
+    "animations": 0,
+    "animationsOriginal": 1,
+    "bones": 12,
+    "textures": 2,
+    "triangles": 160,
+    "vertices": 221
+   },
+   "thumb": "050_monster/20009.webp"
+  },
+  {
+   "bytes": 9576,
+   "file": "050_monster/20010.glb",
+   "id": "20010",
+   "label": "중급아이돌",
+   "name": "20010",
+   "stats": {
+    "animations": 0,
+    "animationsOriginal": 1,
+    "bones": 12,
+    "textures": 2,
+    "triangles": 160,
+    "vertices": 221
+   },
+   "thumb": "050_monster/20010.webp"
+  },
+  {
+   "bytes": 9576,
+   "file": "050_monster/20011.glb",
+   "id": "20011",
+   "label": "하급아이돌",
+   "name": "20011",
+   "stats": {
+    "animations": 0,
+    "animationsOriginal": 1,
+    "bones": 12,
+    "textures": 2,
+    "triangles": 160,
+    "vertices": 221
+   },
+   "thumb": "050_monster/20011.webp"
+  },
+  {
+   "bytes": 25464,
+   "file": "050_monster/20012.glb",
+   "id": "20012",
+   "label": "푸드덕악어",
+   "name": "20012",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 10,
+    "bones": 14,
+    "textures": 2,
+    "triangles": 756,
+    "vertices": 723
+   },
+   "thumb": "050_monster/20012.webp"
+  },
+  {
+   "bytes": 20508,
+   "file": "050_monster/20013.glb",
+   "id": "20013",
+   "label": "꼬마악어",
+   "name": "20013",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 7,
+    "bones": 12,
+    "textures": 2,
+    "triangles": 506,
+    "vertices": 486
+   },
+   "thumb": "050_monster/20013.webp"
+  },
+  {
+   "bytes": 25084,
+   "file": "050_monster/20014.glb",
+   "id": "20014",
+   "label": "중보 악어",
+   "name": "20014",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 8,
+    "bones": 14,
+    "textures": 2,
+    "triangles": 756,
+    "vertices": 723
+   },
+   "thumb": "050_monster/20014.webp"
+  },
+  {
+   "bytes": 18208,
+   "file": "050_monster/20015.glb",
+   "id": "20015",
+   "label": "중보 아이돌",
+   "name": "20015",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 16,
+    "bones": 13,
+    "textures": 2,
+    "triangles": 206,
+    "vertices": 257
+   },
+   "thumb": "050_monster/20015.webp"
+  },
+  {
+   "bytes": 29020,
+   "file": "050_monster/20016.glb",
+   "id": "20016",
+   "label": "보스 골렘",
+   "name": "20016",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 12,
+    "bones": 17,
+    "textures": 2,
+    "triangles": 752,
+    "vertices": 656
+   },
+   "thumb": "050_monster/20016.webp"
+  },
+  {
+   "bytes": 26028,
+   "file": "050_monster/20017.glb",
+   "id": "20017",
+   "label": "폭발용별몬",
+   "name": "20017",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 7,
+    "bones": 20,
+    "textures": 2,
+    "triangles": 132,
+    "vertices": 109
+   },
+   "thumb": "050_monster/20017.webp"
+  },
+  {
+   "bytes": 20568,
+   "file": "050_monster/20018.glb",
+   "id": "20018",
+   "label": "츄추",
+   "name": "20018",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 7,
+    "bones": 12,
+    "textures": 2,
+    "triangles": 494,
+    "vertices": 429
+   },
+   "thumb": "050_monster/20018.webp"
+  },
+  {
+   "bytes": 14668,
+   "file": "050_monster/20019.glb",
+   "id": "20019",
+   "label": "페페",
+   "name": "20019",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 10,
+    "bones": 9,
+    "textures": 2,
+    "triangles": 314,
+    "vertices": 363
+   },
+   "thumb": "050_monster/20019.webp"
+  },
+  {
+   "bytes": 9804,
+   "file": "050_monster/20020.glb",
+   "id": "20020",
+   "label": "붉은 페페",
+   "name": "20020",
+   "stats": {
+    "animations": 0,
+    "animationsOriginal": 1,
+    "bones": 9,
+    "textures": 2,
+    "triangles": 314,
+    "vertices": 363
+   },
+   "thumb": "050_monster/20020.webp"
+  },
+  {
+   "bytes": 17476,
+   "file": "050_monster/20022.glb",
+   "id": "20022",
+   "label": "추추",
+   "name": "20022",
+   "stats": {
+    "animations": 1,
+    "animationsOriginal": 2,
+    "bones": 11,
+    "textures": 2,
+    "triangles": 557,
+    "vertices": 511
+   },
+   "thumb": "050_monster/20022.webp"
+  },
+  {
+   "bytes": 21596,
+   "file": "050_monster/20023.glb",
+   "id": "20023",
+   "label": "대쉬 별몬",
+   "name": "20023",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 4,
+    "bones": 20,
+    "textures": 2,
+    "triangles": 132,
+    "vertices": 109
+   },
+   "thumb": "050_monster/20023.webp"
+  },
+  {
+   "bytes": 24092,
+   "file": "050_monster/20024.glb",
+   "id": "20024",
+   "label": "추츄",
+   "name": "20024",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 7,
+    "bones": 13,
+    "textures": 2,
+    "triangles": 572,
+    "vertices": 525
+   },
+   "thumb": "050_monster/20024.webp"
+  },
+  {
+   "bytes": 16412,
+   "file": "050_monster/20025.glb",
+   "id": "20025",
+   "label": "지렁이1",
+   "name": "20025",
+   "stats": {
+    "animations": 1,
+    "animationsOriginal": 9,
+    "bones": 13,
+    "textures": 2,
+    "triangles": 508,
+    "vertices": 584
+   },
+   "thumb": "050_monster/20025.webp"
+  },
+  {
+   "bytes": 14756,
+   "file": "050_monster/20026.glb",
+   "id": "20026",
+   "label": "지렁이2",
+   "name": "20026",
+   "stats": {
+    "animations": 0,
+    "animationsOriginal": 1,
+    "bones": 13,
+    "textures": 2,
+    "triangles": 684,
+    "vertices": 708
+   },
+   "thumb": "050_monster/20026.webp"
+  },
+  {
+   "bytes": 15392,
+   "file": "050_monster/20027.glb",
+   "id": "20027",
+   "label": "중보 별몬",
+   "name": "20027",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 11,
+    "bones": 15,
+    "textures": 2,
+    "triangles": 132,
+    "vertices": 109
+   },
+   "thumb": "050_monster/20027.webp"
+  },
+  {
+   "bytes": 23292,
+   "file": "050_monster/20028.glb",
+   "id": "20028",
+   "label": "중보 츄츄",
+   "name": "20028",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 9,
+    "bones": 14,
+    "textures": 2,
+    "triangles": 572,
+    "vertices": 526
+   },
+   "thumb": "050_monster/20028.webp"
+  },
+  {
+   "bytes": 22820,
+   "file": "050_monster/20030.glb",
+   "id": "20030",
+   "label": "보스 물개",
+   "name": "20030",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 12,
+    "bones": 14,
+    "textures": 2,
+    "triangles": 796,
+    "vertices": 617
+   },
+   "thumb": "050_monster/20030.webp"
+  },
+  {
+   "bytes": 16388,
+   "file": "050_monster/20031.glb",
+   "id": "20031",
+   "label": "부기",
+   "name": "20031",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 6,
+    "bones": 10,
+    "textures": 2,
+    "triangles": 314,
+    "vertices": 324
+   },
+   "thumb": "050_monster/20031.webp"
+  },
+  {
+   "bytes": 9516,
+   "file": "050_monster/20032.glb",
+   "id": "20032",
+   "label": "강화 말벌",
+   "name": "20032",
+   "stats": {
+    "animations": 0,
+    "animationsOriginal": 1,
+    "bones": 12,
+    "textures": 2,
+    "triangles": 234,
+    "vertices": 236
+   },
+   "thumb": "050_monster/20032.webp"
+  },
+  {
+   "bytes": 17288,
+   "file": "050_monster/20035.glb",
+   "id": "20035",
+   "label": "사탕 뱀",
+   "name": "20035",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 7,
+    "bones": 13,
+    "textures": 2,
+    "triangles": 222,
+    "vertices": 288
+   },
+   "thumb": "050_monster/20035.webp"
+  },
+  {
+   "bytes": 14608,
+   "file": "050_monster/20036.glb",
+   "id": "20036",
+   "label": "초코칩 쿠키몬",
+   "name": "20036",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 7,
+    "bones": 11,
+    "textures": 2,
+    "triangles": 170,
+    "vertices": 172
+   },
+   "thumb": "050_monster/20036.webp"
+  },
+  {
+   "bytes": 15460,
+   "file": "050_monster/20041.glb",
+   "id": "20041",
+   "label": "중보 푸딩몬",
+   "name": "20041",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 10,
+    "bones": 11,
+    "textures": 2,
+    "triangles": 332,
+    "vertices": 319
+   },
+   "thumb": "050_monster/20041.webp"
+  },
+  {
+   "bytes": 9500,
+   "file": "050_monster/20042.glb",
+   "id": "20042",
+   "label": "중보 말벌",
+   "name": "20042",
+   "stats": {
+    "animations": 0,
+    "animationsOriginal": 1,
+    "bones": 12,
+    "textures": 2,
+    "triangles": 234,
+    "vertices": 236
+   },
+   "thumb": "050_monster/20042.webp"
+  },
+  {
+   "bytes": 15836,
+   "file": "050_monster/20043.glb",
+   "id": "20043",
+   "label": "중보 부기",
+   "name": "20043",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 13,
+    "bones": 12,
+    "textures": 2,
+    "triangles": 314,
+    "vertices": 324
+   },
+   "thumb": "050_monster/20043.webp"
+  },
+  {
+   "bytes": 20032,
+   "file": "050_monster/20044.glb",
+   "id": "20044",
+   "label": "중보 쿠키몬",
+   "name": "20044",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 7,
+    "bones": 12,
+    "textures": 2,
+    "triangles": 523,
+    "vertices": 412
+   },
+   "thumb": "050_monster/20044.webp"
+  },
+  {
+   "bytes": 40676,
+   "file": "050_monster/20045.glb",
+   "id": "20045",
+   "label": "보스 거북",
+   "name": "20045",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 6,
+    "bones": 21,
+    "textures": 2,
+    "triangles": 1426,
+    "vertices": 1385
+   },
+   "thumb": "050_monster/20045.webp"
+  },
+  {
+   "bytes": 13232,
+   "file": "050_monster/20046.glb",
+   "id": "20046",
+   "label": "퉁퉁이",
+   "name": "20046",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 7,
+    "bones": 10,
+    "textures": 1,
+    "triangles": 188,
+    "vertices": 176
+   },
+   "thumb": "050_monster/20046.webp"
+  },
+  {
+   "bytes": 10508,
+   "file": "050_monster/20047.glb",
+   "id": "20047",
+   "label": "통통이",
+   "name": "20047",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 10,
+    "bones": 9,
+    "textures": 1,
+    "triangles": 120,
+    "vertices": 90
+   },
+   "thumb": "050_monster/20047.webp"
+  },
+  {
+   "bytes": 15716,
+   "file": "050_monster/20048.glb",
+   "id": "20048",
+   "label": "황금꼬물이",
+   "name": "20048",
+   "stats": {
+    "animations": 1,
+    "animationsOriginal": 2,
+    "bones": 9,
+    "textures": 2,
+    "triangles": 896,
+    "vertices": 632
+   },
+   "thumb": "050_monster/20048.webp"
+  }
+ ],
+ "schema": "boomhill-open-assets/model-list/v1",
+ "title": "몬스터"
+}

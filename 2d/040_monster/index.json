@@ -1,0 +1,3779 @@
+{
+ "assets": [
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2000B",
+   "name": "MonsterMode/Images/2000B",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2000G",
+   "name": "MonsterMode/Images/2000G",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2000P",
+   "name": "MonsterMode/Images/2000P",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2001B",
+   "name": "MonsterMode/Images/2001B",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2001G",
+   "name": "MonsterMode/Images/2001G",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2001P",
+   "name": "MonsterMode/Images/2001P",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2100B",
+   "name": "MonsterMode/Images/2100B",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2100G",
+   "name": "MonsterMode/Images/2100G",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2100P",
+   "name": "MonsterMode/Images/2100P",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2101B",
+   "name": "MonsterMode/Images/2101B",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2101G",
+   "name": "MonsterMode/Images/2101G",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2101P",
+   "name": "MonsterMode/Images/2101P",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2102B",
+   "name": "MonsterMode/Images/2102B",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2102G",
+   "name": "MonsterMode/Images/2102G",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2102P",
+   "name": "MonsterMode/Images/2102P",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2103B",
+   "name": "MonsterMode/Images/2103B",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2103G",
+   "name": "MonsterMode/Images/2103G",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2103P",
+   "name": "MonsterMode/Images/2103P",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2104B",
+   "name": "MonsterMode/Images/2104B",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2104G",
+   "name": "MonsterMode/Images/2104G",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2104P",
+   "name": "MonsterMode/Images/2104P",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2105B",
+   "name": "MonsterMode/Images/2105B",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2105G",
+   "name": "MonsterMode/Images/2105G",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2105P",
+   "name": "MonsterMode/Images/2105P",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2106B",
+   "name": "MonsterMode/Images/2106B",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2106G",
+   "name": "MonsterMode/Images/2106G",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2106P",
+   "name": "MonsterMode/Images/2106P",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2107B",
+   "name": "MonsterMode/Images/2107B",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2107G",
+   "name": "MonsterMode/Images/2107G",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2107P",
+   "name": "MonsterMode/Images/2107P",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2108B",
+   "name": "MonsterMode/Images/2108B",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2108G",
+   "name": "MonsterMode/Images/2108G",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2108P",
+   "name": "MonsterMode/Images/2108P",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2109B",
+   "name": "MonsterMode/Images/2109B",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2109G",
+   "name": "MonsterMode/Images/2109G",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2109P",
+   "name": "MonsterMode/Images/2109P",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2110B",
+   "name": "MonsterMode/Images/2110B",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2110G",
+   "name": "MonsterMode/Images/2110G",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2110P",
+   "name": "MonsterMode/Images/2110P",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2111B",
+   "name": "MonsterMode/Images/2111B",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2111G",
+   "name": "MonsterMode/Images/2111G",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2111P",
+   "name": "MonsterMode/Images/2111P",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2112B",
+   "name": "MonsterMode/Images/2112B",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2112G",
+   "name": "MonsterMode/Images/2112G",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2112P",
+   "name": "MonsterMode/Images/2112P",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2113B",
+   "name": "MonsterMode/Images/2113B",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2113G",
+   "name": "MonsterMode/Images/2113G",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2113P",
+   "name": "MonsterMode/Images/2113P",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2114B",
+   "name": "MonsterMode/Images/2114B",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2114G",
+   "name": "MonsterMode/Images/2114G",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2114P",
+   "name": "MonsterMode/Images/2114P",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2115B",
+   "name": "MonsterMode/Images/2115B",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2115G",
+   "name": "MonsterMode/Images/2115G",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2115P",
+   "name": "MonsterMode/Images/2115P",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2116B",
+   "name": "MonsterMode/Images/2116B",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2116G",
+   "name": "MonsterMode/Images/2116G",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2116P",
+   "name": "MonsterMode/Images/2116P",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2117B",
+   "name": "MonsterMode/Images/2117B",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2117G",
+   "name": "MonsterMode/Images/2117G",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2117P",
+   "name": "MonsterMode/Images/2117P",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2118B",
+   "name": "MonsterMode/Images/2118B",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2118G",
+   "name": "MonsterMode/Images/2118G",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2118P",
+   "name": "MonsterMode/Images/2118P",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2119B",
+   "name": "MonsterMode/Images/2119B",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2119G",
+   "name": "MonsterMode/Images/2119G",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2119P",
+   "name": "MonsterMode/Images/2119P",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2121B",
+   "name": "MonsterMode/Images/2121B",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2121G",
+   "name": "MonsterMode/Images/2121G",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2121P",
+   "name": "MonsterMode/Images/2121P",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2122P",
+   "name": "MonsterMode/Images/2122P",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2123B",
+   "name": "MonsterMode/Images/2123B",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2123G",
+   "name": "MonsterMode/Images/2123G",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2123P",
+   "name": "MonsterMode/Images/2123P",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2124B",
+   "name": "MonsterMode/Images/2124B",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2124G",
+   "name": "MonsterMode/Images/2124G",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2124P",
+   "name": "MonsterMode/Images/2124P",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2201B",
+   "name": "MonsterMode/Images/2201B",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2201G",
+   "name": "MonsterMode/Images/2201G",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2201P",
+   "name": "MonsterMode/Images/2201P",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2501B",
+   "name": "MonsterMode/Images/2501B",
+   "sheet": {
+    "h": 76,
+    "w": 69
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2501G",
+   "name": "MonsterMode/Images/2501G",
+   "sheet": {
+    "h": 76,
+    "w": 69
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2501P",
+   "name": "MonsterMode/Images/2501P",
+   "sheet": {
+    "h": 76,
+    "w": 69
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2502B",
+   "name": "MonsterMode/Images/2502B",
+   "sheet": {
+    "h": 76,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2502G",
+   "name": "MonsterMode/Images/2502G",
+   "sheet": {
+    "h": 76,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2502P",
+   "name": "MonsterMode/Images/2502P",
+   "sheet": {
+    "h": 76,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__2999",
+   "name": "MonsterMode/Images/2999",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3000G",
+   "name": "MonsterMode/Images/3000G",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3000P",
+   "name": "MonsterMode/Images/3000P",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3000R",
+   "name": "MonsterMode/Images/3000R",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3001G",
+   "name": "MonsterMode/Images/3001G",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3001P",
+   "name": "MonsterMode/Images/3001P",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3001R",
+   "name": "MonsterMode/Images/3001R",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3100G",
+   "name": "MonsterMode/Images/3100G",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3100P",
+   "name": "MonsterMode/Images/3100P",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3100R",
+   "name": "MonsterMode/Images/3100R",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3101G",
+   "name": "MonsterMode/Images/3101G",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3101P",
+   "name": "MonsterMode/Images/3101P",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3101R",
+   "name": "MonsterMode/Images/3101R",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3102G",
+   "name": "MonsterMode/Images/3102G",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3102P",
+   "name": "MonsterMode/Images/3102P",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3102R",
+   "name": "MonsterMode/Images/3102R",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3103G",
+   "name": "MonsterMode/Images/3103G",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3103P",
+   "name": "MonsterMode/Images/3103P",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3103R",
+   "name": "MonsterMode/Images/3103R",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3104G",
+   "name": "MonsterMode/Images/3104G",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3104P",
+   "name": "MonsterMode/Images/3104P",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3104R",
+   "name": "MonsterMode/Images/3104R",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3105G",
+   "name": "MonsterMode/Images/3105G",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3105P",
+   "name": "MonsterMode/Images/3105P",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3105R",
+   "name": "MonsterMode/Images/3105R",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3106G",
+   "name": "MonsterMode/Images/3106G",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3106P",
+   "name": "MonsterMode/Images/3106P",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3106R",
+   "name": "MonsterMode/Images/3106R",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3107G",
+   "name": "MonsterMode/Images/3107G",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3107P",
+   "name": "MonsterMode/Images/3107P",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3107R",
+   "name": "MonsterMode/Images/3107R",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3108G",
+   "name": "MonsterMode/Images/3108G",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3108P",
+   "name": "MonsterMode/Images/3108P",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3108R",
+   "name": "MonsterMode/Images/3108R",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3109G",
+   "name": "MonsterMode/Images/3109G",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3109P",
+   "name": "MonsterMode/Images/3109P",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3109R",
+   "name": "MonsterMode/Images/3109R",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3110G",
+   "name": "MonsterMode/Images/3110G",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3110P",
+   "name": "MonsterMode/Images/3110P",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3110R",
+   "name": "MonsterMode/Images/3110R",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3111G",
+   "name": "MonsterMode/Images/3111G",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3111P",
+   "name": "MonsterMode/Images/3111P",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3111R",
+   "name": "MonsterMode/Images/3111R",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3112G",
+   "name": "MonsterMode/Images/3112G",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3112P",
+   "name": "MonsterMode/Images/3112P",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3112R",
+   "name": "MonsterMode/Images/3112R",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3113G",
+   "name": "MonsterMode/Images/3113G",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3113P",
+   "name": "MonsterMode/Images/3113P",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3113R",
+   "name": "MonsterMode/Images/3113R",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3114G",
+   "name": "MonsterMode/Images/3114G",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3114P",
+   "name": "MonsterMode/Images/3114P",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3114R",
+   "name": "MonsterMode/Images/3114R",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3115G",
+   "name": "MonsterMode/Images/3115G",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3115P",
+   "name": "MonsterMode/Images/3115P",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3115R",
+   "name": "MonsterMode/Images/3115R",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3116G",
+   "name": "MonsterMode/Images/3116G",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3116P",
+   "name": "MonsterMode/Images/3116P",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3116R",
+   "name": "MonsterMode/Images/3116R",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3117G",
+   "name": "MonsterMode/Images/3117G",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3117P",
+   "name": "MonsterMode/Images/3117P",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3117R",
+   "name": "MonsterMode/Images/3117R",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3118G",
+   "name": "MonsterMode/Images/3118G",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3118P",
+   "name": "MonsterMode/Images/3118P",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3118R",
+   "name": "MonsterMode/Images/3118R",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3201G",
+   "name": "MonsterMode/Images/3201G",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3201P",
+   "name": "MonsterMode/Images/3201P",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3201R",
+   "name": "MonsterMode/Images/3201R",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3211G",
+   "name": "MonsterMode/Images/3211G",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3211P",
+   "name": "MonsterMode/Images/3211P",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3211R",
+   "name": "MonsterMode/Images/3211R",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3212G",
+   "name": "MonsterMode/Images/3212G",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3212P",
+   "name": "MonsterMode/Images/3212P",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3212R",
+   "name": "MonsterMode/Images/3212R",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3213G",
+   "name": "MonsterMode/Images/3213G",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3213P",
+   "name": "MonsterMode/Images/3213P",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3213R",
+   "name": "MonsterMode/Images/3213R",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3214G",
+   "name": "MonsterMode/Images/3214G",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3214P",
+   "name": "MonsterMode/Images/3214P",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3214R",
+   "name": "MonsterMode/Images/3214R",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3215G",
+   "name": "MonsterMode/Images/3215G",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3215P",
+   "name": "MonsterMode/Images/3215P",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3215R",
+   "name": "MonsterMode/Images/3215R",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3217G",
+   "name": "MonsterMode/Images/3217G",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3217P",
+   "name": "MonsterMode/Images/3217P",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__3217R",
+   "name": "MonsterMode/Images/3217R",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4000g",
+   "name": "MonsterMode/Images/4000g",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4000p",
+   "name": "MonsterMode/Images/4000p",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4000r",
+   "name": "MonsterMode/Images/4000r",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4010g",
+   "name": "MonsterMode/Images/4010g",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4010p",
+   "name": "MonsterMode/Images/4010p",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4010r",
+   "name": "MonsterMode/Images/4010r",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4100g",
+   "name": "MonsterMode/Images/4100g",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4100p",
+   "name": "MonsterMode/Images/4100p",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4100r",
+   "name": "MonsterMode/Images/4100r",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4101g",
+   "name": "MonsterMode/Images/4101g",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4101p",
+   "name": "MonsterMode/Images/4101p",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4101r",
+   "name": "MonsterMode/Images/4101r",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4102g",
+   "name": "MonsterMode/Images/4102g",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4102p",
+   "name": "MonsterMode/Images/4102p",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4102r",
+   "name": "MonsterMode/Images/4102r",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4103g",
+   "name": "MonsterMode/Images/4103g",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4103p",
+   "name": "MonsterMode/Images/4103p",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4103r",
+   "name": "MonsterMode/Images/4103r",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4104g",
+   "name": "MonsterMode/Images/4104g",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4104p",
+   "name": "MonsterMode/Images/4104p",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4104r",
+   "name": "MonsterMode/Images/4104r",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4105g",
+   "name": "MonsterMode/Images/4105g",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4105p",
+   "name": "MonsterMode/Images/4105p",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4105r",
+   "name": "MonsterMode/Images/4105r",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4106g",
+   "name": "MonsterMode/Images/4106g",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4106p",
+   "name": "MonsterMode/Images/4106p",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4106r",
+   "name": "MonsterMode/Images/4106r",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4107g",
+   "name": "MonsterMode/Images/4107g",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4107p",
+   "name": "MonsterMode/Images/4107p",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4107r",
+   "name": "MonsterMode/Images/4107r",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4108g",
+   "name": "MonsterMode/Images/4108g",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4108p",
+   "name": "MonsterMode/Images/4108p",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4108r",
+   "name": "MonsterMode/Images/4108r",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4109g",
+   "name": "MonsterMode/Images/4109g",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4109p",
+   "name": "MonsterMode/Images/4109p",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4109r",
+   "name": "MonsterMode/Images/4109r",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4110g",
+   "name": "MonsterMode/Images/4110g",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4110p",
+   "name": "MonsterMode/Images/4110p",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4110r",
+   "name": "MonsterMode/Images/4110r",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4111g",
+   "name": "MonsterMode/Images/4111g",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4111p",
+   "name": "MonsterMode/Images/4111p",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4111r",
+   "name": "MonsterMode/Images/4111r",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4112g",
+   "name": "MonsterMode/Images/4112g",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4112p",
+   "name": "MonsterMode/Images/4112p",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4112r",
+   "name": "MonsterMode/Images/4112r",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4113g",
+   "name": "MonsterMode/Images/4113g",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4113p",
+   "name": "MonsterMode/Images/4113p",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4113r",
+   "name": "MonsterMode/Images/4113r",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4114g",
+   "name": "MonsterMode/Images/4114g",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4114p",
+   "name": "MonsterMode/Images/4114p",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4114r",
+   "name": "MonsterMode/Images/4114r",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4201g",
+   "name": "MonsterMode/Images/4201g",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4201p",
+   "name": "MonsterMode/Images/4201p",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4201r",
+   "name": "MonsterMode/Images/4201r",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4211g",
+   "name": "MonsterMode/Images/4211g",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4211p",
+   "name": "MonsterMode/Images/4211p",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4211r",
+   "name": "MonsterMode/Images/4211r",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4212g",
+   "name": "MonsterMode/Images/4212g",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4212p",
+   "name": "MonsterMode/Images/4212p",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4212r",
+   "name": "MonsterMode/Images/4212r",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4213g",
+   "name": "MonsterMode/Images/4213g",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4213p",
+   "name": "MonsterMode/Images/4213p",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4213r",
+   "name": "MonsterMode/Images/4213r",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4214g",
+   "name": "MonsterMode/Images/4214g",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4214p",
+   "name": "MonsterMode/Images/4214p",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4214r",
+   "name": "MonsterMode/Images/4214r",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4215g",
+   "name": "MonsterMode/Images/4215g",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4215p",
+   "name": "MonsterMode/Images/4215p",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4215r",
+   "name": "MonsterMode/Images/4215r",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4216g",
+   "name": "MonsterMode/Images/4216g",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4216p",
+   "name": "MonsterMode/Images/4216p",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4216r",
+   "name": "MonsterMode/Images/4216r",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4217g",
+   "name": "MonsterMode/Images/4217g",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4217p",
+   "name": "MonsterMode/Images/4217p",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4217r",
+   "name": "MonsterMode/Images/4217r",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4218g",
+   "name": "MonsterMode/Images/4218g",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4218p",
+   "name": "MonsterMode/Images/4218p",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4218r",
+   "name": "MonsterMode/Images/4218r",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4500g",
+   "name": "MonsterMode/Images/4500g",
+   "sheet": {
+    "h": 84,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4500p",
+   "name": "MonsterMode/Images/4500p",
+   "sheet": {
+    "h": 84,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4500r",
+   "name": "MonsterMode/Images/4500r",
+   "sheet": {
+    "h": 84,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4501g",
+   "name": "MonsterMode/Images/4501g",
+   "sheet": {
+    "h": 82,
+    "w": 69
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4501p",
+   "name": "MonsterMode/Images/4501p",
+   "sheet": {
+    "h": 82,
+    "w": 69
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4501r",
+   "name": "MonsterMode/Images/4501r",
+   "sheet": {
+    "h": 82,
+    "w": 69
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4502g",
+   "name": "MonsterMode/Images/4502g",
+   "sheet": {
+    "h": 88,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4502p",
+   "name": "MonsterMode/Images/4502p",
+   "sheet": {
+    "h": 88,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4502r",
+   "name": "MonsterMode/Images/4502r",
+   "sheet": {
+    "h": 88,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4503g",
+   "name": "MonsterMode/Images/4503g",
+   "sheet": {
+    "h": 83,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4503p",
+   "name": "MonsterMode/Images/4503p",
+   "sheet": {
+    "h": 83,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4503r",
+   "name": "MonsterMode/Images/4503r",
+   "sheet": {
+    "h": 83,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4504g",
+   "name": "MonsterMode/Images/4504g",
+   "sheet": {
+    "h": 80,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4504p",
+   "name": "MonsterMode/Images/4504p",
+   "sheet": {
+    "h": 80,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4504r",
+   "name": "MonsterMode/Images/4504r",
+   "sheet": {
+    "h": 80,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4505g",
+   "name": "MonsterMode/Images/4505g",
+   "sheet": {
+    "h": 80,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4505p",
+   "name": "MonsterMode/Images/4505p",
+   "sheet": {
+    "h": 80,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4505r",
+   "name": "MonsterMode/Images/4505r",
+   "sheet": {
+    "h": 80,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4506g",
+   "name": "MonsterMode/Images/4506g",
+   "sheet": {
+    "h": 110,
+    "w": 74
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4506p",
+   "name": "MonsterMode/Images/4506p",
+   "sheet": {
+    "h": 110,
+    "w": 74
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4506r",
+   "name": "MonsterMode/Images/4506r",
+   "sheet": {
+    "h": 110,
+    "w": 74
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4507g",
+   "name": "MonsterMode/Images/4507g",
+   "sheet": {
+    "h": 107,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4507p",
+   "name": "MonsterMode/Images/4507p",
+   "sheet": {
+    "h": 107,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4507r",
+   "name": "MonsterMode/Images/4507r",
+   "sheet": {
+    "h": 107,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4508g",
+   "name": "MonsterMode/Images/4508g",
+   "sheet": {
+    "h": 107,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4508p",
+   "name": "MonsterMode/Images/4508p",
+   "sheet": {
+    "h": 107,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__4508r",
+   "name": "MonsterMode/Images/4508r",
+   "sheet": {
+    "h": 107,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__cookie__items__1003001",
+   "name": "MonsterMode/Images/cookie/items/1003001",
+   "sheet": {
+    "h": 90,
+    "w": 90
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__cookie__items__1003002",
+   "name": "MonsterMode/Images/cookie/items/1003002",
+   "sheet": {
+    "h": 90,
+    "w": 90
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__cookie__items__1003003",
+   "name": "MonsterMode/Images/cookie/items/1003003",
+   "sheet": {
+    "h": 90,
+    "w": 90
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__cookie__items__1003004",
+   "name": "MonsterMode/Images/cookie/items/1003004",
+   "sheet": {
+    "h": 90,
+    "w": 90
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__cookie__items__1003005",
+   "name": "MonsterMode/Images/cookie/items/1003005",
+   "sheet": {
+    "h": 90,
+    "w": 90
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__cookie__items__1003006",
+   "name": "MonsterMode/Images/cookie/items/1003006",
+   "sheet": {
+    "h": 90,
+    "w": 90
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__cookie__items__1003007",
+   "name": "MonsterMode/Images/cookie/items/1003007",
+   "sheet": {
+    "h": 90,
+    "w": 90
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__cookie__items__1003008",
+   "name": "MonsterMode/Images/cookie/items/1003008",
+   "sheet": {
+    "h": 90,
+    "w": 90
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__cookie__items__1014",
+   "name": "MonsterMode/Images/cookie/items/1014",
+   "sheet": {
+    "h": 60,
+    "w": 60
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__cookie__items__111101",
+   "name": "MonsterMode/Images/cookie/items/111101",
+   "sheet": {
+    "h": 90,
+    "w": 90
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__cookie__items__112101",
+   "name": "MonsterMode/Images/cookie/items/112101",
+   "sheet": {
+    "h": 90,
+    "w": 90
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__cookie__items__113101",
+   "name": "MonsterMode/Images/cookie/items/113101",
+   "sheet": {
+    "h": 90,
+    "w": 90
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__cookie__items__114101",
+   "name": "MonsterMode/Images/cookie/items/114101",
+   "sheet": {
+    "h": 90,
+    "w": 90
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__cookie__items__121101",
+   "name": "MonsterMode/Images/cookie/items/121101",
+   "sheet": {
+    "h": 90,
+    "w": 90
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__cookie__items__122101",
+   "name": "MonsterMode/Images/cookie/items/122101",
+   "sheet": {
+    "h": 90,
+    "w": 90
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__cookie__items__123101",
+   "name": "MonsterMode/Images/cookie/items/123101",
+   "sheet": {
+    "h": 90,
+    "w": 90
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__cookie__items__124101",
+   "name": "MonsterMode/Images/cookie/items/124101",
+   "sheet": {
+    "h": 90,
+    "w": 90
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__cookie__items__131101",
+   "name": "MonsterMode/Images/cookie/items/131101",
+   "sheet": {
+    "h": 90,
+    "w": 90
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__cookie__items__132101",
+   "name": "MonsterMode/Images/cookie/items/132101",
+   "sheet": {
+    "h": 90,
+    "w": 90
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__cookie__items__133101",
+   "name": "MonsterMode/Images/cookie/items/133101",
+   "sheet": {
+    "h": 90,
+    "w": 90
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__cookie__items__134101",
+   "name": "MonsterMode/Images/cookie/items/134101",
+   "sheet": {
+    "h": 116,
+    "w": 114
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__cookie__items__141101",
+   "name": "MonsterMode/Images/cookie/items/141101",
+   "sheet": {
+    "h": 90,
+    "w": 90
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__cookie__items__142101",
+   "name": "MonsterMode/Images/cookie/items/142101",
+   "sheet": {
+    "h": 90,
+    "w": 90
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__cookie__items__143101",
+   "name": "MonsterMode/Images/cookie/items/143101",
+   "sheet": {
+    "h": 90,
+    "w": 90
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__cookie__items__144101",
+   "name": "MonsterMode/Images/cookie/items/144101",
+   "sheet": {
+    "h": 90,
+    "w": 90
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__cookie__items__145101",
+   "name": "MonsterMode/Images/cookie/items/145101",
+   "sheet": {
+    "h": 90,
+    "w": 90
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_cookie__deco_bl",
+   "name": "MonsterMode/Images/deco_cookie/deco_bl",
+   "sheet": {
+    "h": 272,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_cookie__deco_blb",
+   "name": "MonsterMode/Images/deco_cookie/deco_blb",
+   "sheet": {
+    "h": 272,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_cookie__deco_blp",
+   "name": "MonsterMode/Images/deco_cookie/deco_blp",
+   "sheet": {
+    "h": 272,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_cookie__deco_bm",
+   "name": "MonsterMode/Images/deco_cookie/deco_bm",
+   "sheet": {
+    "h": 272,
+    "w": 204
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_cookie__deco_bmb",
+   "name": "MonsterMode/Images/deco_cookie/deco_bmb",
+   "sheet": {
+    "h": 272,
+    "w": 204
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_cookie__deco_bmp",
+   "name": "MonsterMode/Images/deco_cookie/deco_bmp",
+   "sheet": {
+    "h": 272,
+    "w": 204
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_cookie__deco_br",
+   "name": "MonsterMode/Images/deco_cookie/deco_br",
+   "sheet": {
+    "h": 272,
+    "w": 340
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_cookie__deco_brb",
+   "name": "MonsterMode/Images/deco_cookie/deco_brb",
+   "sheet": {
+    "h": 272,
+    "w": 340
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_cookie__deco_brp",
+   "name": "MonsterMode/Images/deco_cookie/deco_brp",
+   "sheet": {
+    "h": 272,
+    "w": 340
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_cookie__deco_l",
+   "name": "MonsterMode/Images/deco_cookie/deco_l",
+   "sheet": {
+    "h": 1224,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_cookie__deco_lb",
+   "name": "MonsterMode/Images/deco_cookie/deco_lb",
+   "sheet": {
+    "h": 1224,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_cookie__deco_lp",
+   "name": "MonsterMode/Images/deco_cookie/deco_lp",
+   "sheet": {
+    "h": 1224,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_cookie__deco_open1",
+   "name": "MonsterMode/Images/deco_cookie/deco_open1",
+   "sheet": {
+    "h": 272,
+    "w": 204
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_cookie__deco_open1b",
+   "name": "MonsterMode/Images/deco_cookie/deco_open1b",
+   "sheet": {
+    "h": 272,
+    "w": 204
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_cookie__deco_open2",
+   "name": "MonsterMode/Images/deco_cookie/deco_open2",
+   "sheet": {
+    "h": 272,
+    "w": 204
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_cookie__deco_open2b",
+   "name": "MonsterMode/Images/deco_cookie/deco_open2b",
+   "sheet": {
+    "h": 272,
+    "w": 204
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_cookie__deco_open2p",
+   "name": "MonsterMode/Images/deco_cookie/deco_open2p",
+   "sheet": {
+    "h": 272,
+    "w": 204
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_cookie__deco_r",
+   "name": "MonsterMode/Images/deco_cookie/deco_r",
+   "sheet": {
+    "h": 1224,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_cookie__deco_rb",
+   "name": "MonsterMode/Images/deco_cookie/deco_rb",
+   "sheet": {
+    "h": 1224,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_cookie__deco_rp",
+   "name": "MonsterMode/Images/deco_cookie/deco_rp",
+   "sheet": {
+    "h": 1224,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_cookie__deco_tl",
+   "name": "MonsterMode/Images/deco_cookie/deco_tl",
+   "sheet": {
+    "h": 341,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_cookie__deco_tlb",
+   "name": "MonsterMode/Images/deco_cookie/deco_tlb",
+   "sheet": {
+    "h": 341,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_cookie__deco_tlp",
+   "name": "MonsterMode/Images/deco_cookie/deco_tlp",
+   "sheet": {
+    "h": 341,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_cookie__deco_tm",
+   "name": "MonsterMode/Images/deco_cookie/deco_tm",
+   "sheet": {
+    "h": 341,
+    "w": 204
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_cookie__deco_tmb",
+   "name": "MonsterMode/Images/deco_cookie/deco_tmb",
+   "sheet": {
+    "h": 341,
+    "w": 204
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_cookie__deco_tr",
+   "name": "MonsterMode/Images/deco_cookie/deco_tr",
+   "sheet": {
+    "h": 341,
+    "w": 340
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_cookie__deco_trb",
+   "name": "MonsterMode/Images/deco_cookie/deco_trb",
+   "sheet": {
+    "h": 341,
+    "w": 340
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_cookie__deco_trp",
+   "name": "MonsterMode/Images/deco_cookie/deco_trp",
+   "sheet": {
+    "h": 341,
+    "w": 340
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_cookie__env",
+   "name": "MonsterMode/Images/deco_cookie/env",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_cookie__envb",
+   "name": "MonsterMode/Images/deco_cookie/envb",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_cookie__envp",
+   "name": "MonsterMode/Images/deco_cookie/envp",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_forest__deco_bl",
+   "name": "MonsterMode/Images/deco_forest/deco_bl",
+   "sheet": {
+    "h": 272,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_forest__deco_blb",
+   "name": "MonsterMode/Images/deco_forest/deco_blb",
+   "sheet": {
+    "h": 272,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_forest__deco_blp",
+   "name": "MonsterMode/Images/deco_forest/deco_blp",
+   "sheet": {
+    "h": 272,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_forest__deco_bm",
+   "name": "MonsterMode/Images/deco_forest/deco_bm",
+   "sheet": {
+    "h": 272,
+    "w": 204
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_forest__deco_bmb",
+   "name": "MonsterMode/Images/deco_forest/deco_bmb",
+   "sheet": {
+    "h": 272,
+    "w": 204
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_forest__deco_bmp",
+   "name": "MonsterMode/Images/deco_forest/deco_bmp",
+   "sheet": {
+    "h": 272,
+    "w": 204
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_forest__deco_br",
+   "name": "MonsterMode/Images/deco_forest/deco_br",
+   "sheet": {
+    "h": 272,
+    "w": 340
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_forest__deco_brb",
+   "name": "MonsterMode/Images/deco_forest/deco_brb",
+   "sheet": {
+    "h": 272,
+    "w": 340
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_forest__deco_brp",
+   "name": "MonsterMode/Images/deco_forest/deco_brp",
+   "sheet": {
+    "h": 272,
+    "w": 340
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_forest__deco_l",
+   "name": "MonsterMode/Images/deco_forest/deco_l",
+   "sheet": {
+    "h": 1224,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_forest__deco_lb",
+   "name": "MonsterMode/Images/deco_forest/deco_lb",
+   "sheet": {
+    "h": 1224,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_forest__deco_lp",
+   "name": "MonsterMode/Images/deco_forest/deco_lp",
+   "sheet": {
+    "h": 1224,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_forest__deco_open1",
+   "name": "MonsterMode/Images/deco_forest/deco_open1",
+   "sheet": {
+    "h": 272,
+    "w": 204
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_forest__deco_open1b",
+   "name": "MonsterMode/Images/deco_forest/deco_open1b",
+   "sheet": {
+    "h": 272,
+    "w": 204
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_forest__deco_open1p",
+   "name": "MonsterMode/Images/deco_forest/deco_open1p",
+   "sheet": {
+    "h": 272,
+    "w": 204
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_forest__deco_open2",
+   "name": "MonsterMode/Images/deco_forest/deco_open2",
+   "sheet": {
+    "h": 272,
+    "w": 204
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_forest__deco_open2b",
+   "name": "MonsterMode/Images/deco_forest/deco_open2b",
+   "sheet": {
+    "h": 272,
+    "w": 204
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_forest__deco_open2p",
+   "name": "MonsterMode/Images/deco_forest/deco_open2p",
+   "sheet": {
+    "h": 272,
+    "w": 204
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_forest__deco_r",
+   "name": "MonsterMode/Images/deco_forest/deco_r",
+   "sheet": {
+    "h": 1224,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_forest__deco_rb",
+   "name": "MonsterMode/Images/deco_forest/deco_rb",
+   "sheet": {
+    "h": 1224,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_forest__deco_rp",
+   "name": "MonsterMode/Images/deco_forest/deco_rp",
+   "sheet": {
+    "h": 1224,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_forest__deco_tl",
+   "name": "MonsterMode/Images/deco_forest/deco_tl",
+   "sheet": {
+    "h": 340,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_forest__deco_tlb",
+   "name": "MonsterMode/Images/deco_forest/deco_tlb",
+   "sheet": {
+    "h": 340,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_forest__deco_tlp",
+   "name": "MonsterMode/Images/deco_forest/deco_tlp",
+   "sheet": {
+    "h": 340,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_forest__deco_tm",
+   "name": "MonsterMode/Images/deco_forest/deco_tm",
+   "sheet": {
+    "h": 340,
+    "w": 204
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_forest__deco_tmb",
+   "name": "MonsterMode/Images/deco_forest/deco_tmb",
+   "sheet": {
+    "h": 340,
+    "w": 204
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_forest__deco_tr",
+   "name": "MonsterMode/Images/deco_forest/deco_tr",
+   "sheet": {
+    "h": 340,
+    "w": 340
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_forest__deco_trb",
+   "name": "MonsterMode/Images/deco_forest/deco_trb",
+   "sheet": {
+    "h": 340,
+    "w": 340
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_forest__deco_trp",
+   "name": "MonsterMode/Images/deco_forest/deco_trp",
+   "sheet": {
+    "h": 340,
+    "w": 340
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_forest__env",
+   "name": "MonsterMode/Images/deco_forest/env",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_forest__envp",
+   "name": "MonsterMode/Images/deco_forest/envp",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_forest__mm_door_num_0",
+   "name": "MonsterMode/Images/deco_forest/mm_door_num_0",
+   "sheet": {
+    "h": 52,
+    "w": 36
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_forest__mm_door_num_1",
+   "name": "MonsterMode/Images/deco_forest/mm_door_num_1",
+   "sheet": {
+    "h": 52,
+    "w": 36
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_forest__mm_door_num_2",
+   "name": "MonsterMode/Images/deco_forest/mm_door_num_2",
+   "sheet": {
+    "h": 52,
+    "w": 36
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_forest__mm_door_num_3",
+   "name": "MonsterMode/Images/deco_forest/mm_door_num_3",
+   "sheet": {
+    "h": 52,
+    "w": 36
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_forest__mm_door_num_4",
+   "name": "MonsterMode/Images/deco_forest/mm_door_num_4",
+   "sheet": {
+    "h": 52,
+    "w": 36
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_forest__mm_door_num_5",
+   "name": "MonsterMode/Images/deco_forest/mm_door_num_5",
+   "sheet": {
+    "h": 52,
+    "w": 36
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_forest__mm_door_num_6",
+   "name": "MonsterMode/Images/deco_forest/mm_door_num_6",
+   "sheet": {
+    "h": 52,
+    "w": 36
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_forest__mm_door_num_7",
+   "name": "MonsterMode/Images/deco_forest/mm_door_num_7",
+   "sheet": {
+    "h": 52,
+    "w": 36
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_forest__mm_door_num_8",
+   "name": "MonsterMode/Images/deco_forest/mm_door_num_8",
+   "sheet": {
+    "h": 52,
+    "w": 36
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_forest__mm_door_num_9",
+   "name": "MonsterMode/Images/deco_forest/mm_door_num_9",
+   "sheet": {
+    "h": 52,
+    "w": 36
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_shadow_n",
+   "name": "MonsterMode/Images/deco_shadow_n",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_shadow_nw",
+   "name": "MonsterMode/Images/deco_shadow_nw",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_shadow_w",
+   "name": "MonsterMode/Images/deco_shadow_w",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_village__deco_bl",
+   "name": "MonsterMode/Images/deco_village/deco_bl",
+   "sheet": {
+    "h": 272,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_village__deco_blb",
+   "name": "MonsterMode/Images/deco_village/deco_blb",
+   "sheet": {
+    "h": 272,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_village__deco_blp",
+   "name": "MonsterMode/Images/deco_village/deco_blp",
+   "sheet": {
+    "h": 272,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_village__deco_bm",
+   "name": "MonsterMode/Images/deco_village/deco_bm",
+   "sheet": {
+    "h": 272,
+    "w": 204
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_village__deco_bmb",
+   "name": "MonsterMode/Images/deco_village/deco_bmb",
+   "sheet": {
+    "h": 272,
+    "w": 204
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_village__deco_bmp",
+   "name": "MonsterMode/Images/deco_village/deco_bmp",
+   "sheet": {
+    "h": 272,
+    "w": 204
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_village__deco_br",
+   "name": "MonsterMode/Images/deco_village/deco_br",
+   "sheet": {
+    "h": 272,
+    "w": 340
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_village__deco_brb",
+   "name": "MonsterMode/Images/deco_village/deco_brb",
+   "sheet": {
+    "h": 272,
+    "w": 340
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_village__deco_brp",
+   "name": "MonsterMode/Images/deco_village/deco_brp",
+   "sheet": {
+    "h": 272,
+    "w": 340
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_village__deco_l",
+   "name": "MonsterMode/Images/deco_village/deco_l",
+   "sheet": {
+    "h": 1224,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_village__deco_lb",
+   "name": "MonsterMode/Images/deco_village/deco_lb",
+   "sheet": {
+    "h": 1224,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_village__deco_lp",
+   "name": "MonsterMode/Images/deco_village/deco_lp",
+   "sheet": {
+    "h": 1224,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_village__deco_open1",
+   "name": "MonsterMode/Images/deco_village/deco_open1",
+   "sheet": {
+    "h": 272,
+    "w": 204
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_village__deco_open1b",
+   "name": "MonsterMode/Images/deco_village/deco_open1b",
+   "sheet": {
+    "h": 272,
+    "w": 204
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_village__deco_open1p",
+   "name": "MonsterMode/Images/deco_village/deco_open1p",
+   "sheet": {
+    "h": 272,
+    "w": 204
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_village__deco_open2",
+   "name": "MonsterMode/Images/deco_village/deco_open2",
+   "sheet": {
+    "h": 272,
+    "w": 204
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_village__deco_open2b",
+   "name": "MonsterMode/Images/deco_village/deco_open2b",
+   "sheet": {
+    "h": 272,
+    "w": 204
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_village__deco_open2p",
+   "name": "MonsterMode/Images/deco_village/deco_open2p",
+   "sheet": {
+    "h": 272,
+    "w": 204
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_village__deco_r",
+   "name": "MonsterMode/Images/deco_village/deco_r",
+   "sheet": {
+    "h": 1224,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_village__deco_rb",
+   "name": "MonsterMode/Images/deco_village/deco_rb",
+   "sheet": {
+    "h": 1224,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_village__deco_rp",
+   "name": "MonsterMode/Images/deco_village/deco_rp",
+   "sheet": {
+    "h": 1224,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_village__deco_tl",
+   "name": "MonsterMode/Images/deco_village/deco_tl",
+   "sheet": {
+    "h": 340,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_village__deco_tlb",
+   "name": "MonsterMode/Images/deco_village/deco_tlb",
+   "sheet": {
+    "h": 340,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_village__deco_tlp",
+   "name": "MonsterMode/Images/deco_village/deco_tlp",
+   "sheet": {
+    "h": 340,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_village__deco_tm",
+   "name": "MonsterMode/Images/deco_village/deco_tm",
+   "sheet": {
+    "h": 340,
+    "w": 204
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_village__deco_tmb",
+   "name": "MonsterMode/Images/deco_village/deco_tmb",
+   "sheet": {
+    "h": 340,
+    "w": 204
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_village__deco_tr",
+   "name": "MonsterMode/Images/deco_village/deco_tr",
+   "sheet": {
+    "h": 340,
+    "w": 340
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_village__deco_trb",
+   "name": "MonsterMode/Images/deco_village/deco_trb",
+   "sheet": {
+    "h": 340,
+    "w": 340
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_village__deco_trp",
+   "name": "MonsterMode/Images/deco_village/deco_trp",
+   "sheet": {
+    "h": 340,
+    "w": 340
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_village__env",
+   "name": "MonsterMode/Images/deco_village/env",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_village__envb",
+   "name": "MonsterMode/Images/deco_village/envb",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_village__envp",
+   "name": "MonsterMode/Images/deco_village/envp",
+   "sheet": {
+    "h": 68,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_village__mm_door_num_0",
+   "name": "MonsterMode/Images/deco_village/mm_door_num_0",
+   "sheet": {
+    "h": 52,
+    "w": 36
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_village__mm_door_num_1",
+   "name": "MonsterMode/Images/deco_village/mm_door_num_1",
+   "sheet": {
+    "h": 52,
+    "w": 36
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_village__mm_door_num_2",
+   "name": "MonsterMode/Images/deco_village/mm_door_num_2",
+   "sheet": {
+    "h": 52,
+    "w": 36
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_village__mm_door_num_3",
+   "name": "MonsterMode/Images/deco_village/mm_door_num_3",
+   "sheet": {
+    "h": 52,
+    "w": 36
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_village__mm_door_num_4",
+   "name": "MonsterMode/Images/deco_village/mm_door_num_4",
+   "sheet": {
+    "h": 52,
+    "w": 36
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_village__mm_door_num_5",
+   "name": "MonsterMode/Images/deco_village/mm_door_num_5",
+   "sheet": {
+    "h": 52,
+    "w": 36
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_village__mm_door_num_6",
+   "name": "MonsterMode/Images/deco_village/mm_door_num_6",
+   "sheet": {
+    "h": 52,
+    "w": 36
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_village__mm_door_num_7",
+   "name": "MonsterMode/Images/deco_village/mm_door_num_7",
+   "sheet": {
+    "h": 52,
+    "w": 36
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_village__mm_door_num_8",
+   "name": "MonsterMode/Images/deco_village/mm_door_num_8",
+   "sheet": {
+    "h": 52,
+    "w": 36
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__deco_village__mm_door_num_9",
+   "name": "MonsterMode/Images/deco_village/mm_door_num_9",
+   "sheet": {
+    "h": 52,
+    "w": 36
+   }
+  },
+  {
+   "frames": 1,
+   "id": "MonsterMode__Images__forest__items__1014",
+   "name": "MonsterMode/Images/forest/items/1014",
+   "sheet": {
+    "h": 60,
+    "w": 60
+   }
+  }
+ ],
+ "game": "bnb-mobile",
+ "group": "040_monster",
+ "schema": "boomhill-open-assets/index/v1",
+ "title": "몬스터 모드"
+}

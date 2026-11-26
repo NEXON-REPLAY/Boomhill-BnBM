@@ -1,0 +1,165 @@
+{
+ "category": "3d_vehicle",
+ "game": "bnb-mobile",
+ "items": [
+  {
+   "bytes": 23764,
+   "file": "030_vehicle/bomb.glb",
+   "id": "bomb",
+   "name": "bomb",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 5,
+    "bones": 13,
+    "textures": 1,
+    "triangles": 710,
+    "vertices": 1018
+   },
+   "thumb": "030_vehicle/bomb.webp"
+  },
+  {
+   "bytes": 23148,
+   "file": "030_vehicle/hippo.glb",
+   "id": "hippo",
+   "label": "하마",
+   "name": "hippo",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 9,
+    "bones": 19,
+    "textures": 1,
+    "triangles": 840,
+    "vertices": 670
+   },
+   "thumb": "030_vehicle/hippo.webp"
+  },
+  {
+   "bytes": 29736,
+   "file": "030_vehicle/octopus.glb",
+   "id": "octopus",
+   "label": "문어",
+   "name": "octopus",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 8,
+    "bones": 12,
+    "textures": 1,
+    "triangles": 1320,
+    "vertices": 1184
+   },
+   "thumb": "030_vehicle/octopus.webp"
+  },
+  {
+   "bytes": 26712,
+   "file": "030_vehicle/ostrich.glb",
+   "id": "ostrich",
+   "label": "타조",
+   "name": "ostrich",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 9,
+    "bones": 13,
+    "textures": 1,
+    "triangles": 1280,
+    "vertices": 1234
+   },
+   "thumb": "030_vehicle/ostrich.webp"
+  },
+  {
+   "bytes": 26840,
+   "file": "030_vehicle/owl.glb",
+   "id": "owl",
+   "label": "부엉이",
+   "name": "owl",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 9,
+    "bones": 15,
+    "textures": 2,
+    "triangles": 1217,
+    "vertices": 885
+   },
+   "thumb": "030_vehicle/owl.webp"
+  },
+  {
+   "bytes": 24244,
+   "file": "030_vehicle/superturtle.glb",
+   "id": "superturtle",
+   "label": "슈퍼 거북이",
+   "name": "superturtle",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 8,
+    "bones": 18,
+    "textures": 2,
+    "triangles": 979,
+    "vertices": 753
+   },
+   "thumb": "030_vehicle/superturtle.webp"
+  },
+  {
+   "bytes": 33984,
+   "file": "030_vehicle/toad.glb",
+   "id": "toad",
+   "label": "두꺼비",
+   "name": "toad",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 10,
+    "bones": 23,
+    "textures": 1,
+    "triangles": 740,
+    "vertices": 751
+   },
+   "thumb": "030_vehicle/toad.webp"
+  },
+  {
+   "bytes": 22408,
+   "file": "030_vehicle/turtle.glb",
+   "id": "turtle",
+   "name": "turtle",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 9,
+    "bones": 14,
+    "textures": 2,
+    "triangles": 880,
+    "vertices": 666
+   },
+   "thumb": "030_vehicle/turtle.webp"
+  },
+  {
+   "bytes": 18448,
+   "file": "030_vehicle/ufo.glb",
+   "id": "ufo",
+   "label": "UFO",
+   "name": "ufo",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 9,
+    "bones": 7,
+    "textures": 1,
+    "triangles": 872,
+    "vertices": 856
+   },
+   "thumb": "030_vehicle/ufo.webp"
+  },
+  {
+   "bytes": 18056,
+   "file": "030_vehicle/ufobroken.glb",
+   "id": "ufobroken",
+   "name": "ufobroken",
+   "stats": {
+    "animations": 2,
+    "animationsOriginal": 8,
+    "bones": 7,
+    "textures": 1,
+    "triangles": 824,
+    "vertices": 831
+   },
+   "thumb": "030_vehicle/ufobroken.webp"
+  }
+ ],
+ "schema": "boomhill-open-assets/model-list/v1",
+ "title": "탈것"
+}
